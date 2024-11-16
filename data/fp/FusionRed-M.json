@@ -1,0 +1,28 @@
+{
+    "uuid": "E3FDV",
+    "name": "FusionRed-M",
+    "slug": "fusionred-m",
+    "seq": "MVSELIKENMPMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSRTFIKHPPGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKVRGVNFPANGPVMQKKTLGWEASTETMYPADGGLEGACDMALKLVGGGHMICNLETTYRSKKPATNLKMPGVYNVDHRLERIKEADDETYVEQHEVAVARYSTGGAGDGGK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "fusionred-m_default",
+            "name": "default",
+            "ex_max": 571,
+            "em_max": 594,
+            "ext_coeff": 71100,
+            "qy": 0.34,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 2.1,
+            "brightness": 24.17
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1039/c8ib00103k"
+}

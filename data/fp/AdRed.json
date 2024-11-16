@@ -1,0 +1,30 @@
+{
+    "uuid": "DAH3B",
+    "name": "AdRed",
+    "slug": "adred",
+    "seq": "MALSKHGLTKDMTMKYRMEGCVDGHKFVITGHGNGSPFEGKQTINLCVVEGGPLPFSEDILSAVFDYGNRVFTDYPQGMVDFFKNSCPAGYTWQRSLLFEDGAVCTASADITVSVEENCFYHESKFHGVNFPADGPVMKKMTINWEPCCEKIIPVPRQGILKGDVAMYLLLKDGGRYRCQFDTVYKAKTDSKKMPEWHFIQHKLTREDRSDAKNQKWQLAEHSVASRSALP",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": "A0A1S7IWI8",
+    "pdb": [
+        "6AA7"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "adred_default",
+            "name": "default",
+            "ex_max": 567,
+            "em_max": 612,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": 4.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/pro.3540"
+}

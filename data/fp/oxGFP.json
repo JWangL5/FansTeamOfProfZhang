@@ -1,0 +1,28 @@
+{
+    "uuid": "JJV3D",
+    "name": "oxGFP",
+    "slug": "oxgfp",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFISTTGKLPVPWPTLVTTLTYGVQSFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "oxgfp_default",
+            "name": "default",
+            "ex_max": 486,
+            "em_max": 510,
+            "ext_coeff": 87000,
+            "qy": 0.58,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 50.46
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/ncomms8670"
+}

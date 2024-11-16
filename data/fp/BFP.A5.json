@@ -1,0 +1,28 @@
+{
+    "uuid": "A6N87",
+    "name": "BFP.A5",
+    "slug": "bfpa5",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSHGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNANSHNIYIMADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFRTAAGITHGMDELYK",
+    "ipg_id": "6379405",
+    "genbank": "ABK79092",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "bfpa5_default",
+            "name": "default",
+            "ex_max": 383,
+            "em_max": 447,
+            "ext_coeff": 27400,
+            "qy": 0.48,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 3.27,
+            "brightness": 13.15
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1264"
+}

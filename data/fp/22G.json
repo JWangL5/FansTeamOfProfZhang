@@ -1,0 +1,17 @@
+{
+    "uuid": "1UZQ4",
+    "name": "22G",
+    "slug": "22g",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHPFAIEGVGLGKPFEGKQSMDLKVKEGGPLPFAYDILTTVFCYGNRVFAKYPENIVDYFKQSFPEGYSWERSMNYEDGGICIATNDITLDGDCFIYEIRFDGVNFPANGPVMQKRTVKWEPSTEKLYVRDGVLKGDVNMALLLEGGGHYRCDFKTTYKAKKVVQLPDYHFVDHRIEIKSHDKDYNNVNLHEHAEAHSGLPRQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2Z6X"
+    ],
+    "agg": "t",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1126/science.1102506"
+}

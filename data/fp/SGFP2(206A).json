@@ -1,0 +1,28 @@
+{
+    "uuid": "LS1K6",
+    "name": "SGFP2(206A)",
+    "slug": "sgfp2206a",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sgfp2206a_default",
+            "name": "default",
+            "ex_max": 496,
+            "em_max": 512,
+            "ext_coeff": 44000,
+            "qy": 0.69,
+            "pka": 6.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 30.36
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi0622874"
+}

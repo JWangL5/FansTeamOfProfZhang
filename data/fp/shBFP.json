@@ -1,0 +1,30 @@
+{
+    "uuid": "QGZZT",
+    "name": "shBFP",
+    "slug": "shbfp",
+    "seq": "MAGLLKESMRIKMDMEGTVNGHYFKCEGEGDGNPFTGTQSMRIHVTEGAPLPFAFDILAPCCLLGSRTFIHHTAGIPDFFKQSFPEGFTWERTTTYEDGGILTAHQDTSLEGNCLIYKVKVLGTNFPADGPVMKNKSEGWEPCTEVVYPDNGVLCGRNVMALKVGDRRLICHLYSSYKSKKAIRALTMPGFHFTDIRLQMPRKKKDEYFELYEASVARYSDLPEKAN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "6JC5"
+    ],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "shbfp_default",
+            "name": "default",
+            "ex_max": 401,
+            "em_max": 458,
+            "ext_coeff": 15407,
+            "qy": 0.79,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 12.17
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/protein/gzw041"
+}

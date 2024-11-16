@@ -1,0 +1,28 @@
+{
+    "uuid": "DLETY",
+    "name": "htFuncLib_sf:fast.3",
+    "slug": "htfunclib_sffast3",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLATTLSYGVPCFARYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNMNSHNVYITADKQKNGIKANFKVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVVLEFIVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_sffast3_default",
+            "name": "default",
+            "ex_max": 488,
+            "em_max": 509,
+            "ext_coeff": null,
+            "qy": 0.42,
+            "pka": 5.31,
+            "maturation": null,
+            "lifetime": 0.71,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

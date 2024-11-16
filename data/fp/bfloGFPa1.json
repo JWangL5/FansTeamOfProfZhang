@@ -1,0 +1,28 @@
+{
+    "uuid": "6BXQP",
+    "name": "bfloGFPa1",
+    "slug": "bflogfpa1",
+    "seq": "MPLPATHDIHLHGSINGHEFDMVGGGKGDPNAGSLVTTAKSTKGALKFSPYLMIPHLGYGYYQYLPYPDGPSPFQVSMLEGSGYAVYRVFDFEDGGKLSTEFKYSYEGSHIKADMKLMGSGFPDDGPVMTSQIVDQDGCVSKKTYLNNNTIVDSFDWSYNLQNGKRYRARVSSHYIFDKPFSADLMKKQPVFVYRKCHVKATKTEVTLDEREKAFYELA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "bflogfpa1_default",
+            "name": "default",
+            "ex_max": 500,
+            "em_max": 512,
+            "ext_coeff": 120900,
+            "qy": 1.0,
+            "pka": 3.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 120.9
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/srep05469"
+}

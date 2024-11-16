@@ -1,0 +1,15 @@
+{
+    "uuid": "OMXYJ",
+    "name": "dClover2",
+    "slug": "dclover2",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTFGYGVACFSRYPDHMKQHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHYVYITADKQKNSIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSHQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1038/srep20889"
+}

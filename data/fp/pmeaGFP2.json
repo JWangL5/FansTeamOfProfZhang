@@ -1,0 +1,28 @@
+{
+    "uuid": "MEFJC",
+    "name": "pmeaGFP2",
+    "slug": "pmeagfp2",
+    "seq": "MPDMKLECHISGTMNGEEFELIGSGDGNTDQGRMTNNMKSIKGPLSFSPYLLSHILGYGYYHFATFPAGYENIYLHAMKNGGYSNVRTERYEDGGIISITFNYRYEGSKIIGDFKVIGTGFPTDSLIFTDKIIKSNPTCENMFPKADNILVNAYTRTYLLKDGGYYSAQVNNHMHFKSAIHPTMLQNGGSMFTHRVVEENHTKTNVAIVEYQNVFKTPTAFA",
+    "ipg_id": "1715617",
+    "genbank": "AAQ01187",
+    "uniprot": "Q6WV09",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "pmeagfp2_default",
+            "name": "default",
+            "ex_max": 487,
+            "em_max": 502,
+            "ext_coeff": 98000,
+            "qy": 0.72,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 70.56
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/molbev/msh079"
+}

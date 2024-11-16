@@ -1,0 +1,28 @@
+{
+    "uuid": "MX4SD",
+    "name": "eechGFP1",
+    "slug": "eechgfp1",
+    "seq": "MSVINPDMKIKLYMEGAVNGHKFEIKGEGNGKPFEGKQTMDLAVVDGGPLPFAFDILTTSFNYGNRVFTKYPDTIVDYFKPSFPEGYSWERSMTYEDGGICIATNDITLLKDTDDSNYFYYKIRFDGVNFAANGPVMQKKTAKWEPSTEKMYVRDGVLKGEVNMALLLEGGGHYRCDFKTTYKAKKVVRLPSYHFVDHRIEILSHSKDYNQVRLHEHAEAHSGLPRQAK",
+    "ipg_id": "4901576",
+    "genbank": "ABB17956",
+    "uniprot": "A8CLQ1",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "eechgfp1_default",
+            "name": "default",
+            "ex_max": 497,
+            "em_max": 510,
+            "ext_coeff": 124200,
+            "qy": 0.75,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 93.15
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0002680"
+}

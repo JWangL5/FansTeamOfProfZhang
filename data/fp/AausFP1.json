@@ -1,0 +1,28 @@
+{
+    "uuid": "C2FJQ",
+    "name": "AausFP1",
+    "slug": "aausfp1",
+    "seq": "MSYGALLFREKIPYVVEMEGDVEGMKFSVRGKGHGDANTGKIEASFICTTGELPVPWSSILTTVTYGAQCFAKYPNDIKDYPKSAMPEGYVQERTITFENDGVYKTRAEVTYEKGSVYNRVTLNGSGFKKGGNILGKKLEFNYNPHCIYVLPDVQNNGIKCYINIVHDVIGGGQIIAAHQQLNTPLGGGPVDIPHYHHIQAHTILSKDPKETRDHMNVVEVFRAIDCKTAYA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "aausfp1_default",
+            "name": "default",
+            "ex_max": 504,
+            "em_max": 510,
+            "ext_coeff": 170000,
+            "qy": 0.97,
+            "pka": 4.4,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 164.9
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/677344"
+}

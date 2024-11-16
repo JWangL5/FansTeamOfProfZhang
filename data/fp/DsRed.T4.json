@@ -1,0 +1,30 @@
+{
+    "uuid": "XHBTX",
+    "name": "DsRed.T4",
+    "slug": "dsredt4",
+    "seq": "MASSEDVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFQYGSKVYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGCFIYKVKFIGVNFPSDGPVMQKKTMGWEPSTERLYPRDGVLKGEIHKALKLKDGGHYLVEFKSIYMAKKPVQLPGYYYVDSKLDITSHNEDYTIVEQYERAEGRHHLFL",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2VAE"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dsredt4_default",
+            "name": "default",
+            "ex_max": 555,
+            "em_max": 586,
+            "ext_coeff": 30300,
+            "qy": 0.44,
+            "pka": null,
+            "maturation": 42.6,
+            "lifetime": null,
+            "brightness": 13.33
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt0102-83"
+}

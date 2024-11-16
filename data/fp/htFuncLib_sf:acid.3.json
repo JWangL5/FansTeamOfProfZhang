@@ -1,0 +1,28 @@
+{
+    "uuid": "VAOO7",
+    "name": "htFuncLib_sf:acid.3",
+    "slug": "htfunclib_sfacid3",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLSYGVLCFARYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKVRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNMNSHNVYITADKQKNGIKANFKTRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVLLEFIVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_sfacid3_default",
+            "name": "default",
+            "ex_max": 474,
+            "em_max": 504,
+            "ext_coeff": null,
+            "qy": 0.64,
+            "pka": 4.69,
+            "maturation": null,
+            "lifetime": 0.83,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

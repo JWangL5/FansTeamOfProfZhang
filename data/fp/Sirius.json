@@ -1,0 +1,28 @@
+{
+    "uuid": "BU5R3",
+    "name": "Sirius",
+    "slug": "sirius",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHRFSVSGEGEGDATYGKLTLKLICTTGKLPVPWPTLVTTLQFGVLCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNGISSNVYITADKQKNGIKAHFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSVQSKLSKDPNEKRDHMVLLESVTAAGITLGMDELYK",
+    "ipg_id": "16773179",
+    "genbank": "BAH29934",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sirius_default",
+            "name": "default",
+            "ex_max": 355,
+            "em_max": 424,
+            "ext_coeff": 15000,
+            "qy": 0.24,
+            "pka": 3.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 3.6
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.1317"
+}

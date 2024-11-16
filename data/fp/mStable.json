@@ -1,0 +1,28 @@
+{
+    "uuid": "DKZQ7",
+    "name": "mStable",
+    "slug": "mstable",
+    "seq": "MVSELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKAVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEACTETLYPADGGLEGRADMALKLVGGGHLICNLKTTYRSKKPAKNLKMPGVYYVDRRLERIKEADKETYVEQHEVAVARYCDLPSKLGHR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mstable_default",
+            "name": "default",
+            "ex_max": 597,
+            "em_max": 633,
+            "ext_coeff": 45000,
+            "qy": 0.17,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 7.65
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/acschembio.6b00579"
+}

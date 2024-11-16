@@ -1,0 +1,28 @@
+{
+    "uuid": "975C7",
+    "name": "shCP-Q39S",
+    "slug": "shcp-q39s",
+    "seq": "MAGLLKESMRIKMDMEGTVNGHYFKCEGEGDGNPFTGTSSMRIHVTEGAPLPFAFDILAPCCEYGSRTFIHHTAGIPDFFKQSFPEGFTWERTTTYEDGGILTAHQDTSLEGNCLIYKVKVLGTNFPADGPVMKNKSEGWEPCTEVVYPDNGVLCGRNVMALKVGDRRLICHLYSSYKSKKAIRALTMPGFHFTDIRLQMPRKKKDEYFELYEASVARYSDLPEKAN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "shcp-q39s_default",
+            "name": "default",
+            "ex_max": 518,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-014-9563-2"
+}

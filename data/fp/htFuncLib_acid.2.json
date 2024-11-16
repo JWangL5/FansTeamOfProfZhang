@@ -1,0 +1,28 @@
+{
+    "uuid": "ELPNT",
+    "name": "htFuncLib_acid.2",
+    "slug": "htfunclib_acid2",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILIELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSYGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNFNSHNVYIMPDKQNNGIKVNFKIRHNIEDGSVQLADIYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVLLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_acid2_default",
+            "name": "default",
+            "ex_max": 489,
+            "em_max": 509,
+            "ext_coeff": null,
+            "qy": 0.76,
+            "pka": 3.98,
+            "maturation": null,
+            "lifetime": 1.07,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

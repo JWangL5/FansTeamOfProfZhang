@@ -1,0 +1,15 @@
+{
+    "uuid": "CQ6UF",
+    "name": "MmGFP6",
+    "slug": "mmgfp6",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGYKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKANFKTRHNIEDGGVQLADHYQQNTPIGDDPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1242/dev.124.6.1133"
+}

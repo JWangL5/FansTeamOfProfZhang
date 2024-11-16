@@ -1,0 +1,31 @@
+{
+    "uuid": "MSYZC",
+    "name": "KillerRed",
+    "slug": "killerred",
+    "seq": "MEGGPALFQSDMTFKIFIDGEVNGQKFTIVADGSSKFPHGDFNVHAVCETGKLPMSWKPICHLIQYGEPFFARYPDGISHFAQECFPEGLSIDRTVRFENDGTMTSHHTYELDDTCVVSRITVNCDGFQPDGPIMRDQLVDILPNETHMFPHGPNAVRQLAFIGFTTADGGLMMGHFDSKMTFNGSRAIEIPGPHFVTIITKQMRDTSDKRDHVCQREVAYAHSVPRITSAIGSDED",
+    "ipg_id": "4241616",
+    "genbank": "AAY40168",
+    "uniprot": "Q2TCH5",
+    "pdb": [
+        "2WIQ",
+        "3GB3"
+    ],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "killerred_default",
+            "name": "default",
+            "ex_max": 585,
+            "em_max": 610,
+            "ext_coeff": 45000,
+            "qy": 0.25,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 11.25
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1175"
+}

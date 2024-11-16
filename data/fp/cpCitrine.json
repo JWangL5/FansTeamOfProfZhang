@@ -1,0 +1,28 @@
+{
+    "uuid": "9PBZV",
+    "name": "cpCitrine",
+    "slug": "cpcitrine",
+    "seq": "DPMVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFILTTGKLPVPWPTLVTTFGYGLMVFARYPDHMKRHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "cpcitrine_default",
+            "name": "default",
+            "ex_max": 506,
+            "em_max": 524,
+            "ext_coeff": 20000,
+            "qy": 0.1,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 2.0
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1074/jbc.m102815200"
+}

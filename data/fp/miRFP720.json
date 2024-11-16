@@ -1,0 +1,28 @@
+{
+    "uuid": "AJLWS",
+    "name": "miRFP720",
+    "slug": "mirfp720",
+    "seq": "MAEGSVARQPDLLTCDDEPIHIPGAIQPHGLLLALAADMTIVAGSDNLPELTGLAIGALIGRSAADVFDSETHNRLTIALAEPGAAVGAPITVGFTMRKDAGFIGSWHRHDQLIFLELEPPQRDVAEPQAFFRRTNSAIRRLQAAETLESACAAAAQEVRKITGFDRVMIYRFASDFSGEVIAEDRCAEVESKLGLHYPASFIPAQARRLYTINPVRIIPDINYRPVPVTPDLNPVTGRPIDLSFAILRSVSPVHLEFMRNIGMHGTMSISILRGERLWGLIVCHHRTPYYVDLDGRQACKRVAERLATQIGVMEE",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mirfp720_default",
+            "name": "default",
+            "ex_max": 702,
+            "em_max": 720,
+            "ext_coeff": 98000,
+            "qy": 0.061,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.98
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41589-018-0044-1"
+}

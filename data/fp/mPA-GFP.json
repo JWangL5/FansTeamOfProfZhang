@@ -1,0 +1,15 @@
+{
+    "uuid": "NPU85",
+    "name": "mPA-GFP",
+    "slug": "mpa-gfp",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSHQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1126/science.1074952"
+}

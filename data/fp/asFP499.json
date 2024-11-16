@@ -1,0 +1,30 @@
+{
+    "uuid": "5W398",
+    "name": "asFP499",
+    "slug": "asfp499",
+    "seq": "MYPSIKETMRVQLSMEGSVNYHAFKCTGKGEGKPYEGTQSLNITITEGGPLPFAFDILSHAFQYGIKVFAKYPKEIPDFFKQSLPGGFSWERVSTYEDGGVLSATQETSLQGDCIICKVKVLGTNFPANGPVMQKKTCGWEPSTETVIPRDGGLLLRDTPALMLADGGHLSCFMETTYKSKKEVKLPELHFHHLRMEKLNISDDWKTVEQHESVVASYSQVPSKLGHN",
+    "ipg_id": "188043",
+    "genbank": "AAG41205",
+    "uniprot": "Q9GPI6",
+    "pdb": [
+        "2C9I"
+    ],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "asfp499_default",
+            "name": "default",
+            "ex_max": 480,
+            "em_max": 499,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.97.26.14091"
+}

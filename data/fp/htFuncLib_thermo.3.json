@@ -1,0 +1,28 @@
+{
+    "uuid": "GYBKZ",
+    "name": "htFuncLib_thermo.3",
+    "slug": "htfunclib_thermo3",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNFNSHNVYIMPDKQNNGIKVNFKTRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHHWSELSKDPNEKRDHMVLLEFVEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_thermo3_default",
+            "name": "default",
+            "ex_max": 508,
+            "em_max": 524,
+            "ext_coeff": null,
+            "qy": 0.62,
+            "pka": 5.4,
+            "maturation": null,
+            "lifetime": 1.53,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

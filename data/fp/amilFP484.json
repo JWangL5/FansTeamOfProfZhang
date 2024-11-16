@@ -1,0 +1,28 @@
+{
+    "uuid": "9MM4N",
+    "name": "amilFP484",
+    "slug": "amilfp484",
+    "seq": "MSYSKQGIVQEMKTKYHMEGSVNGHEFTIEGVGTGNPYEGTQMSELVITKPAGKPLPFSFDILSTVFQYGNRCFTKYPEGMTDYFKQAFPDGMSYERSFLYEDGGVATASWNIRLERDCFIHKSIYHGVNFPADGPVMKKKTIGWDKAFEKMTVSKDVLRGDVTEFLMLEGGGYHSCQFHSTYKPEKPVTLPPNHVVEHHIVRTDLGQRAKGFTVKLEEHAAAHVNPLKVK",
+    "ipg_id": "15616240",
+    "genbank": "ACH89426",
+    "uniprot": "B5T1L2",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "amilfp484_default",
+            "name": "default",
+            "ex_max": 420,
+            "em_max": 484,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3354/meps07588"
+}

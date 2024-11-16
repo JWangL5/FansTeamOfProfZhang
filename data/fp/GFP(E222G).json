@@ -1,0 +1,28 @@
+{
+    "uuid": "1EOAR",
+    "name": "GFP(E222G)",
+    "slug": "gfpe222g",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLGFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "gfpe222g_default",
+            "name": "default",
+            "ex_max": 481,
+            "em_max": 506,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/0014-5793(95)00557-p"
+}

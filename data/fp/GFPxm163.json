@@ -1,0 +1,28 @@
+{
+    "uuid": "5M9ZL",
+    "name": "GFPxm163",
+    "slug": "gfpxm163",
+    "seq": "MSKGEELFTGIVPVLIELDGDVHGHKFSVRGEGEGDADYGKLEIKFICTTGKLPVPWPTLVTTLGYGIQCFARYPEHMKMNDFFKSAMPEGYIQERTIFFQDDGKYKTRGEVKFEGDTLVNRIELKGMDFKEDGNILGHKLEYNFNSHNVYIMPDKANNGLKVNFKIRHNIEGGGVQLADHYQTNVPLGDGPVLIPINHYLSYQTAISKDRNETRDHMVFLEFFSACGHTHGMDELYK",
+    "ipg_id": "1124407",
+    "genbank": "AAL33914",
+    "uniprot": "Q8WTC8",
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "gfpxm163_default",
+            "name": "default",
+            "ex_max": 512,
+            "em_max": 523,
+            "ext_coeff": null,
+            "qy": 1.0,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-006-6006-8"
+}

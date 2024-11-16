@@ -1,0 +1,28 @@
+{
+    "uuid": "4GMRC",
+    "name": "oxVenus",
+    "slug": "oxvenus",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKLISTTGKLPVPWPTLVTTLGYGLQSFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNVEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSYQSVLSKDPNEKRDHMVLKEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "oxvenus_default",
+            "name": "default",
+            "ex_max": 514,
+            "em_max": 526,
+            "ext_coeff": 89000,
+            "qy": 0.49,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 43.61
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/ncomms8670"
+}

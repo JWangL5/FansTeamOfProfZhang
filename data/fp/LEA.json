@@ -1,0 +1,18 @@
+{
+    "uuid": "R4WAG",
+    "name": "LEA",
+    "slug": "lea",
+    "seq": "MSVIKSDMKIKLRMEGTVNGHKFVIEGEGEGKPYEGTQTMNLKVKEGAPLPFAYDILTTVFHYGNRVFAKYPKHIPDYFKQSFPEGYSWERSMTFEDGGICTARNDITLEGDCFFNEIRFDGVNFPPNGPVMQKKTLKWEPSTEKMYVRDGVLTGDINMALLLEGGGHYRCDFKTTYKAKKGVQLPDYHFVDHCIEILSHDKDYNNVKLYEHAVAHSGLPRQAKHHHHHH",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4DXN",
+        "4GOB"
+    ],
+    "agg": "",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1021/bi401000e"
+}

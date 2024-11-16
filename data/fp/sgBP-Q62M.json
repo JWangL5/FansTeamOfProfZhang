@@ -1,0 +1,28 @@
+{
+    "uuid": "F2H19",
+    "name": "sgBP-Q62M",
+    "slug": "sgbp-q62m",
+    "seq": "MVAIPENVRIKAFMEGAINNHHFKCEAEGEGKPYEGTQLERIRVTEGGPLPFSFDILSPHFMYGSVAITKYLSGIPDYFKQSFPEGFSWERTTMYEDGGYVTAHQDTSLDGNCLVYKIKVIGSNLPANGPVMQNKTRGWEPCTEMRYVRGGVLCGQSLMALKCADGNHLTCQLRTTYRSKKPAKKLQMPAFHFSDHRPEILKVSENGNLMEQYEMSVGRYCESVPSKLGHN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sgbp-q62m_default",
+            "name": "default",
+            "ex_max": 608,
+            "em_max": null,
+            "ext_coeff": 122923,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0134108"
+}

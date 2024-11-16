@@ -1,0 +1,28 @@
+{
+    "uuid": "TUONH",
+    "name": "mKalama1",
+    "slug": "mkalama1",
+    "seq": "MVSKGEELFTGVVPILVEMDGDVNGRKFSVRGVGEGDATHGKLTLKFICTSGKLPVPWPTLVTTLSYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGSYKTRAEVKFEGDTLVNRIVLKGTDFKEDGNILGHKLEYNMNVGNVYITADKQKNGIKANFEIRHNVEDGGVQLADHYQQNTPIGDGSVLLPDNHYLSVQVKLSKDPNEKRDHMVLLEFRTAAGITPGMDELYK",
+    "ipg_id": "12966091",
+    "genbank": "ABP88742",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mkalama1_default",
+            "name": "default",
+            "ex_max": 385,
+            "em_max": 456,
+            "ext_coeff": 36000,
+            "qy": 0.45,
+            "pka": 5.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 16.2
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi700199g"
+}

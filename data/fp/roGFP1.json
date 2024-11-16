@@ -1,0 +1,30 @@
+{
+    "uuid": "ZE3SV",
+    "name": "roGFP1",
+    "slug": "rogfp1",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFISTTGKLPVPWPTLVTTLGYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNCHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTCSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "1JC0"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "rogfp1_default",
+            "name": "default",
+            "ex_max": 475,
+            "em_max": 508,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1074/jbc.m312846200"
+}

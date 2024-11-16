@@ -1,0 +1,28 @@
+{
+    "uuid": "SEJPD",
+    "name": "anm2CP",
+    "slug": "anm2cp",
+    "seq": "MEGGPALFQSDMTFKIFIDGVVNDQKFTIIADGSSKFPHGDFNVHAVCETGKLPMSWKPICHLIQYGEPFFAKYPNGISHFAQECFPEGLTIDRTVRFENDGTMTSHHTYELDGTCVISRITVNCDGFQPDGPIMKDQLVDILPTETHMFPHGSNAVRQLCYIGFTTADGGLMMSHFDSKLTFNGSRAIKIPGPHFVTVIIKQMKDTSDKRDHVCQREVTYAHSVPRITSAI",
+    "ipg_id": "1978504",
+    "genbank": "AAR85352",
+    "uniprot": "Q6RYS4",
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "anm2cp_default",
+            "name": "default",
+            "ex_max": 572,
+            "em_max": 597,
+            "ext_coeff": 120000,
+            "qy": 0.001,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.12
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/molbev/msh079"
+}

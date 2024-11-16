@@ -1,0 +1,28 @@
+{
+    "uuid": "1KUE6",
+    "name": "miRFP670-2",
+    "slug": "mirfp670-2",
+    "seq": "MARKVDLTSCDREPIHIPGSIQPCGCLLACDAQAVRITRITENAGAFFGRETPRVGELLADYFGETEAHALRNALAQSSDPKRPALIFGWRDGLTGRTFDISLHRHDGTSIIEFEPAAAEQADNPLRLTRQIIARTKELKSLEEMAARVPRYLQAMLGYHRVMLYRFADDGSGMVIGEAKRSDLESFLGQHFPASLVPQQARLLYLKNAIRVVSDSRGISSRIVPEHDASGAALDLSFAHLRSISPCHLEFLRNMGVSASMSLSIIIDGTLWGLIICHHYEPRAVPMAQRVAAKRFAERLSTHFTAAHHQR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mirfp670-2_default",
+            "name": "default",
+            "ex_max": 643,
+            "em_max": 670,
+            "ext_coeff": 103000,
+            "qy": 0.136,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": 1.42,
+            "brightness": 14.01
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41467-019-13897-6"
+}

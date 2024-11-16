@@ -1,0 +1,28 @@
+{
+    "uuid": "GUFES",
+    "name": "mVFP",
+    "slug": "mvfp",
+    "seq": "MNVIKPDMRIKLRMEGAVNGHKFVILGDGNGKPYEGTQTIDVTVKEGGPLPFAYDILTSAFQYGNRVFTKYPDDIADYFKQSFPVGYSWERSMTYEDGGICTVSSDIKMEGNSFIYEIRFHGLNFPSDGPVMQKKTVKWEPSTEKMYVRDGVLKGDVNMRLLLEGGGHYRCDFKSTYKAKRAVQLPDYHYIDHRIEILSHDKDYNKVKLCENAAARCSMLPSQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mvfp_default",
+            "name": "default",
+            "ex_max": 491,
+            "em_max": 503,
+            "ext_coeff": 85000,
+            "qy": 0.86,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 73.1
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1111/j.1742-4658.2010.07618.x"
+}

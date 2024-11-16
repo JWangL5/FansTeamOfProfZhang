@@ -1,0 +1,28 @@
+{
+    "uuid": "XZJ98",
+    "name": "EYFP-Q69K",
+    "slug": "eyfp-q69k",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFGYGLKCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "eyfp-q69k_default",
+            "name": "default",
+            "ex_max": 514,
+            "em_max": 526,
+            "ext_coeff": 72000,
+            "qy": 0.76,
+            "pka": 5.8,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 54.72
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.96.5.2135"
+}

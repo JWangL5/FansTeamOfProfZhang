@@ -1,0 +1,28 @@
+{
+    "uuid": "7V4LQ",
+    "name": "htFuncLib_mid.12",
+    "slug": "htfunclib_mid12",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSYGVQCFVRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNMNSHNVYIMPDKQNNGIKVNFKVRHNIEDGSVQLADIYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVLLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_mid12_default",
+            "name": "default",
+            "ex_max": 470,
+            "em_max": 504,
+            "ext_coeff": null,
+            "qy": 0.72,
+            "pka": 0.0,
+            "maturation": null,
+            "lifetime": 1.03,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

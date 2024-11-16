@@ -1,0 +1,28 @@
+{
+    "uuid": "HQZZC",
+    "name": "GdT",
+    "slug": "gdt",
+    "seq": "MVSKGEEVIKEFMRFKVRMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPLLMYGSKMYVKHPADIPDYKKLSFPEGFKWVRVMNFEDGGLVTATQDSSLQDGTLIYEVKMRGTNFPPDGPVMQKKTMGWEASTERLYPRDGVLKGEIHQALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDTKLDITSHNEDYTRVEQYERSEGRHHLFLYDMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dtg_default",
+            "name": "default",
+            "ex_max": 476,
+            "em_max": 500,
+            "ext_coeff": 59000,
+            "qy": 0.14,
+            "pka": 3.8,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 8.26
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/cbic.201600492"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "3Q37R",
+    "name": "mCitrine",
+    "slug": "mcitrine",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFGYGLMCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcitrine_default",
+            "name": "default",
+            "ex_max": 516,
+            "em_max": 529,
+            "ext_coeff": 94000,
+            "qy": 0.74,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 69.56
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1126/science.1068539"
+}

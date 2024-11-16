@@ -1,0 +1,28 @@
+{
+    "uuid": "MZOF5",
+    "name": "htFuncLib_mid.4",
+    "slug": "htfunclib_mid4",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGAQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNMNSHNVYIMPDKQNNGIKVNFKTRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVVLEFVEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_mid4_default",
+            "name": "default",
+            "ex_max": 498,
+            "em_max": 512,
+            "ext_coeff": null,
+            "qy": 0.51,
+            "pka": 0.0,
+            "maturation": null,
+            "lifetime": 1.1,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

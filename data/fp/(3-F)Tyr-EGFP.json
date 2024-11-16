@@ -1,0 +1,30 @@
+{
+    "uuid": "2VPWT",
+    "name": "(3-F)Tyr-EGFP",
+    "slug": "3-ftyr-egfp",
+    "seq": "SKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLGYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGI",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "1RRX"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "3-ftyr-egfp_default",
+            "name": "default",
+            "ex_max": 484,
+            "em_max": 514,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/cbic.200300818"
+}

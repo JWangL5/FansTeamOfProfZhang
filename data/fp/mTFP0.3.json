@@ -1,0 +1,28 @@
+{
+    "uuid": "8PKAY",
+    "name": "mTFP0.3",
+    "slug": "mtfp03",
+    "seq": "MVSKGEETTMGVIKPDMKIKLKMEGNVNGHAFVIEGEGEGKPYDGTNTVNLEVKEGAPLPFSYDILSNAFQYGNRAFTKYPDDIANYFKQSFPEGYSWERTMTFEDKGIVKVKSDISMEEDSFIYEIRLKGKNFPPNGPVMQKKTLKWEPSTEILYVRDGVLVGDIKHKLLLEGGGHYRCDFKTIYKAKKVVKLPDYHFVDHRIEILNHDKDYNKVTLYENAVARYSLLPPQAGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mtfp03_default",
+            "name": "default",
+            "ex_max": 458,
+            "em_max": 488,
+            "ext_coeff": 19000,
+            "qy": 0.31,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.89
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20060874"
+}

@@ -1,0 +1,30 @@
+{
+    "uuid": "ZZHSE",
+    "name": "miniSOG",
+    "slug": "minisog",
+    "seq": "MEKSFVITDPRLPDNPIIFASDGFLELTEYSREEILGRNGRFLQGPETDQATVQKIRDAIRDQREITVQLINYTKSGKKFWNLLHLQPMRDQKGELQYFIGVQLDG",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "6GPU"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "minisog_default",
+            "name": "default",
+            "ex_max": 447,
+            "em_max": 501,
+            "ext_coeff": 14100,
+            "qy": 0.43,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 6.06
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pbio.1001041"
+}

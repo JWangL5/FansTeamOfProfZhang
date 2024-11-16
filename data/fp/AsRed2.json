@@ -1,0 +1,28 @@
+{
+    "uuid": "8TL1P",
+    "name": "AsRed2",
+    "slug": "asred2",
+    "seq": "MASLLKKTMPFRTTIEGTVNGHYFKCTGKGEGNPLEGTQEMKIEVIEGGPLPFAFHILSTSCMYGSKAFIKYVSGIPDYFKQSLPEGFTWERTTTYEDGGFLTAHQDTSLDGDCLVYKVKILGNNFPADGPVMQNKAGRWEPSTEIVYEVDGVLRGQSLMALECPGGRHLTCHLHTTYRSKKPASALKMPGFHFEDHRIEILEEVEKGKCYKQYEAAVGRYCDAAPSKLGH",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "asred2_default",
+            "name": "default",
+            "ex_max": 576,
+            "em_max": 592,
+            "ext_coeff": 56200,
+            "qy": 0.05,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 2.81
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20051314"
+}

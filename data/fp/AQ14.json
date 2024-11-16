@@ -1,0 +1,28 @@
+{
+    "uuid": "WBK4U",
+    "name": "AQ14",
+    "slug": "aq14",
+    "seq": "MASLVTEDMCIKMTMEGTVNGHHFKCVGEGEGKPFEGTQVEKIRITEGGPLPFAYDILAPCCMYGSKTFIKHVSGIPDYFKESFPEGFTWERTQIFEDGGSLTIHQDTSLQGNNFIFKVNVIGANFPANGPVMQKKTAGWEPSVEILYPRDGVLCGQALMALKCTDGNHLTSHLRTTYRSRKPSNAVNMPEFHFGDHRIEILKAEQGKFYEQYESAVARYCEAAPSKLGHH",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "aq14_default",
+            "name": "default",
+            "ex_max": 595,
+            "em_max": 663,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20051314"
+}

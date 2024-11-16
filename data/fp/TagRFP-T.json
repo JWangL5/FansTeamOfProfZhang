@@ -1,0 +1,30 @@
+{
+    "uuid": "LF3LJ",
+    "name": "TagRFP-T",
+    "slug": "tagrfp-t",
+    "seq": "MVSKGEELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSRTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEANTEMLYPADGGLEGRTDMALKLVGGGHLICNFKTTYRSKKPAKNLKMPGVYYVDHRLERIKEADKETYVEQHEVAVARYCDLPSKLGHKLNGMDELYK",
+    "ipg_id": null,
+    "genbank": "ACD03281",
+    "uniprot": null,
+    "pdb": [
+        "5JVA"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tagrfp-t_default",
+            "name": "default",
+            "ex_max": 555,
+            "em_max": 584,
+            "ext_coeff": 81000,
+            "qy": 0.41,
+            "pka": 4.6,
+            "maturation": 100.0,
+            "lifetime": 2.3,
+            "brightness": 33.21
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.1209"
+}

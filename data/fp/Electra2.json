@@ -1,0 +1,28 @@
+{
+    "uuid": "5GJX3",
+    "name": "Electra2",
+    "slug": "electra2",
+    "seq": "MVSKGEELIEENMRMKVVMEGSVNGHQFKCTGEGEGRPYEGVQTMRIKVIEGGPLPFAFDILATSFLFGSKTFIKYPADIPDFFEQSFPEGFTWERVTRYEDGGVVTVTQDTSLEDGGLVYNVKVRGVNFHSKGPVMQKKTEGWEPFTEMMYPADGGLRGYTDIALKVDGGGHLHANIVTTYRSKKTVGNIKMPGVHAVDYRLERIEESDNETYVVLREVAVAKYSNLGGGMDELFK",
+    "ipg_id": null,
+    "genbank": "OL631607",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "electra2_default",
+            "name": "default",
+            "ex_max": 403,
+            "em_max": 454,
+            "ext_coeff": 80900,
+            "qy": 0.76,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 3.4,
+            "brightness": 61.48
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41598-022-13214-0"
+}

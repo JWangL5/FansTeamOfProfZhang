@@ -1,0 +1,28 @@
+{
+    "uuid": "SBLM5",
+    "name": "mEYFP",
+    "slug": "meyfp",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFGYGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "meyfp_default",
+            "name": "default",
+            "ex_max": 515,
+            "em_max": 528,
+            "ext_coeff": 79000,
+            "qy": 0.62,
+            "pka": null,
+            "maturation": 9.0,
+            "lifetime": null,
+            "brightness": 48.98
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1126/science.1068539"
+}

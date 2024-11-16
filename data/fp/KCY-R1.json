@@ -1,0 +1,30 @@
+{
+    "uuid": "437NM",
+    "name": "KCY-R1",
+    "slug": "kcy-r1",
+    "seq": "DPTMVSVIKPEMKMRYYMDGSVNGHEFTVEGEGTGRPYEGKQKITLDVTKGGPLPFAFDLLSTVFSYGNRALTKYPDDIPDYFKQCFPGGYSWERKFEFEDGGLAIAKAEISLKGNCFEHKSTIEGTFPDSSPIMQNKTLGWEPSTEKMTVRDGSMKGDDASYLKLVGGGNHKCYFTTTYTAKKKIPNLPGSHFIGHRISSVVEGTKIKVMEDAIAHLYPFNGS",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2ZO7"
+    ],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "kcy-r1_default",
+            "name": "default",
+            "ex_max": 461,
+            "em_max": 492,
+            "ext_coeff": 21200,
+            "qy": 0.75,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 15.9
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi801658p"
+}

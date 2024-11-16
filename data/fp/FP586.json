@@ -1,0 +1,28 @@
+{
+    "uuid": "WUW5F",
+    "name": "FP586",
+    "slug": "fp586",
+    "seq": "MSCSKNVIKEFMRFKVRMEGTVNGHEFEIEGEGEGRPYGGHNTVKLKVTKGGPLPFAWDILSPQFQYGSKVYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGCFIYKVKFIGVNFPSDGPVMQKKTMGWEASTERLYPRDGVLKGDIHKALKLKDGGHYLVEFKSIYMAKKPVQLPGYYYVDSKLDITSHNEDYTIVEQYERTEGRHHLFL",
+    "ipg_id": "1722071",
+    "genbank": "AAQ11987",
+    "uniprot": "Q6KF85",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "fp586_default",
+            "name": "default",
+            "ex_max": 559,
+            "em_max": 586,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.molimm.2012.10.003"
+}

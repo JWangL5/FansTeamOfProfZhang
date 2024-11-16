@@ -1,0 +1,28 @@
+{
+    "uuid": "WPO9A",
+    "name": "iq-mApple",
+    "slug": "iq-mapple",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "iq-mapple_default",
+            "name": "default",
+            "ex_max": 568,
+            "em_max": 593,
+            "ext_coeff": 34400,
+            "qy": 0.36,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 12.38
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0095808"
+}

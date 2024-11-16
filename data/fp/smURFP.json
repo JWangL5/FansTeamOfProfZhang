@@ -1,0 +1,30 @@
+{
+    "uuid": "HGBNQ",
+    "name": "smURFP",
+    "slug": "smurfp",
+    "seq": "MAKTSEQRVNIATLLTENKKKIVDKASQDLWRRHPDLIAPGGIAFSQRDRALCLRDYGWFLHLITFCLLAGDKGPIESIGLISIREMYNSLGVPVPAMMESIRCLKEASLSLLDEEDANETAPYFDYIIKAMS",
+    "ipg_id": "ANW47198.1",
+    "genbank": "KX449134",
+    "uniprot": null,
+    "pdb": [
+        "6FZN"
+    ],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "smurfp_default",
+            "name": "default",
+            "ex_max": 642,
+            "em_max": 670,
+            "ext_coeff": 180000,
+            "qy": 0.18,
+            "pka": 3.2,
+            "maturation": 39.0,
+            "lifetime": 1.4,
+            "brightness": 32.4
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.3935"
+}

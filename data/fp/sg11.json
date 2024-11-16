@@ -1,0 +1,30 @@
+{
+    "uuid": "T23T9",
+    "name": "sg11",
+    "slug": "sg11",
+    "seq": "MASKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKTRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "1EMC"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sg11_default",
+            "name": "default",
+            "ex_max": 385,
+            "em_max": 506,
+            "ext_coeff": 12700,
+            "qy": 0.84,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 10.67
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nsb0597-361"
+}

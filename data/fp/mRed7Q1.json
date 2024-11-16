@@ -1,0 +1,28 @@
+{
+    "uuid": "TJBUO",
+    "name": "mRed7Q1",
+    "slug": "mred7q1",
+    "seq": "MVSKGEEVIKEFMQFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSRAYVKHPADIPDYFKLSFPEGFKWERVMNFEDGGAVTVTQDSSLEDGTLIYKVKFRGTNFPPDGPVMQKKTMGWEPSTERLYPQDGVLKGEISQALKLKDGGHYLVDFKTTYMAKKPVQLPGAYNVDRKLDITSHNEDYTVVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mred7q1_default",
+            "name": "default",
+            "ex_max": 560,
+            "em_max": 591,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 2.29,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.4074"
+}

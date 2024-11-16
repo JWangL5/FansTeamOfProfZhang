@@ -1,0 +1,28 @@
+{
+    "uuid": "UPDD1",
+    "name": "sfOrange",
+    "slug": "sforange",
+    "seq": "MVSKGEENNMAIIKEFMRFKVRMEGSVNGHEFEIEGEGEGHPYEGFQTARLKVTKGDPLPFAWDILSPQFTYGSKAYVKHPADIPDYFKLSFPEGFTWERVMNFEDGGVVAVTQDSSLQDGQFIYKVKLLGINFPSDGPVMQKKTMGWEASTERMYPEDGALKGEIKMRLKLKDGGHYTSEVKTTYRAKKPVQLPGAYDVDIKLDITSHNEDYTIVEQYERAEARHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sforange_default",
+            "name": "default",
+            "ex_max": 546,
+            "em_max": 560,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/bit.28393"
+}

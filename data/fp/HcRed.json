@@ -1,0 +1,30 @@
+{
+    "uuid": "LP3PQ",
+    "name": "HcRed",
+    "slug": "hcred",
+    "seq": "MAGLLKESMRIKMYMEGTVNGHYFKCEGEGDGNPFAGTQSMRIHVTEGAPLPFAFDILAPCCEYGSRTFVHHTAEIPDFFKQSFPEGFTWERTTTYEDGGILTAHQDTSLEGNCLIYKVKVHGTNFPADGPVMKNKSGGWEPSTEVVYPENGVLCGRNVMALKVGDRHLICHHYTSYRSKKAVRALTMPGFHFTDIRLQMLRKKKDEYFELYEASVARYSDLPEKAN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "1YZW"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "hcred_default",
+            "name": "default",
+            "ex_max": 592,
+            "em_max": 645,
+            "ext_coeff": 20000,
+            "qy": 0.015,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.3
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/s0014-5793(01)02930-1"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "AQACH",
+    "name": "YPet",
+    "slug": "ypet",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKLLCTTGKLPVPWPTLVTTLGYGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSYQSALFKDPNEKRDHMVLLEFLTAAGITEGMNELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ypet_default",
+            "name": "default",
+            "ex_max": 517,
+            "em_max": 530,
+            "ext_coeff": 104000,
+            "qy": 0.77,
+            "pka": 5.63,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 80.08
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1066"
+}

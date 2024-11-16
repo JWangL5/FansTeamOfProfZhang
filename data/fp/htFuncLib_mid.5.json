@@ -1,0 +1,28 @@
+{
+    "uuid": "LQ7D5",
+    "name": "htFuncLib_mid.5",
+    "slug": "htfunclib_mid5",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNMNSHNVYIMPDKQNNGIKVNFKVRHNIEDGSVQLADYYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVVLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_mid5_default",
+            "name": "default",
+            "ex_max": 501,
+            "em_max": 513,
+            "ext_coeff": null,
+            "qy": 0.4,
+            "pka": 5.52,
+            "maturation": null,
+            "lifetime": 1.01,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "ZS5CR",
+    "name": "mMiCy",
+    "slug": "mmicy",
+    "seq": "MVSYSKQGIAQEMRTKYRMEGSVNGHEFTIEGVGTGNPYEGKQTSELVIIKPKGKPLPFSFDILSTVFQYGNRCFTKYPADMPDYFKQAFPDGMSYERSFLFEDGGVATASWSIRLEGNCFIHNSIYHGTNFPADGPVMKKQTIGWDKSSEKMSVAKEVLRGDVTQFLLLEGGGYQRCQLHSTYKTEKPVAMPPSHVVEHQIVRTDLGQTAKGFKVKLEEHAEAHVNPLKVK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mmicy_default",
+            "name": "default",
+            "ex_max": 470,
+            "em_max": 496,
+            "ext_coeff": 22150,
+            "qy": 0.7,
+            "pka": 7.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 15.5
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20040321"
+}

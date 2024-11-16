@@ -1,0 +1,28 @@
+{
+    "uuid": "FRJFG",
+    "name": "htFuncLib_bleach.6",
+    "slug": "htfunclib_bleach6",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLLTTLTYGVQCFCRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNMNSHNVYIMPDKQNNGIKVNFKTRHNIEDGSVQLADLYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVLLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_bleach6_default",
+            "name": "default",
+            "ex_max": 500,
+            "em_max": 513,
+            "ext_coeff": null,
+            "qy": 0.39,
+            "pka": 5.51,
+            "maturation": null,
+            "lifetime": 1.05,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

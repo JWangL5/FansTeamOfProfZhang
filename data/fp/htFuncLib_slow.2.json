@@ -1,0 +1,28 @@
+{
+    "uuid": "DE52E",
+    "name": "htFuncLib_slow.2",
+    "slug": "htfunclib_slow2",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGMLCFTRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEIKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNMNSHNVYIMPDKQNNGIKVNFKVRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVVLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_slow2_default",
+            "name": "default",
+            "ex_max": 483,
+            "em_max": 507,
+            "ext_coeff": null,
+            "qy": 0.37,
+            "pka": 5.23,
+            "maturation": null,
+            "lifetime": 1.59,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

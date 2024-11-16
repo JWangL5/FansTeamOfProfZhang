@@ -1,0 +1,28 @@
+{
+    "uuid": "QTBVW",
+    "name": "mWasabi",
+    "slug": "mwasabi",
+    "seq": "MVSKGEETTMGVIKPDMKIKLKMEGNVNGHAFVIEGEGEGKPYDGTNTINLEVKEGAPLPFSYDILTTAFSYGNRAFTKYPDDIPNYFKQSFPEGYSWERTMTFEDKGIVKVKSDISMEEDSFIYEIHLKGENFPPNGPVMQKETTGWDASTERMYVRDGVLKGDVKMKLLLEGGGHHRVDFKTIYRAKKAVKLPDYHFVDHRIEILNHDKDYNKVTVYEIAVARNSTDGMDELYK",
+    "ipg_id": null,
+    "genbank": "ABW74902.1",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mwasabi_default",
+            "name": "default",
+            "ex_max": 493,
+            "em_max": 509,
+            "ext_coeff": 70000,
+            "qy": 0.8,
+            "pka": 6.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 56.0
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1186/1741-7007-6-13"
+}

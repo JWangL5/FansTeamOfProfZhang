@@ -1,0 +1,28 @@
+{
+    "uuid": "Q5F5J",
+    "name": "SNIFP",
+    "slug": "snifp",
+    "seq": "MSRDPLPFFPPLYLGGPEITTENCEREPIHIPGSIQPHGALLTADGHSGEVLQMSLNAATFLGQEPTVLRGQTLAALLPEQWPALQAALPPGCPDALQYRATLDWPAAGHLSLTVHRVGELLILEFEPTEAWDSTGPHALRNAMSALESAPNLRALAEVATQTVRELTGFDRVMLYKFAPDATGEVIAEARREGLHAFLGHRFPASLIPAQARALYTRHLLRLTADTRAAAVPLDPVLNPQTNAPTPLGGAVLRATSPMHMQFLRNMGVRSSLSVSVVVGGQLWGLIACHHQTPYVLPPDLRTTLEYLGRELSEQVQVKE",
+    "ipg_id": "212327017",
+    "genbank": "AYH52606",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "snifp_default",
+            "name": "default",
+            "ex_max": 697,
+            "em_max": 720,
+            "ext_coeff": 149200,
+            "qy": 0.022,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 0.63,
+            "brightness": 3.28
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41467-018-07246-2"
+}

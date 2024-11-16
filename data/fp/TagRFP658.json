@@ -1,0 +1,28 @@
+{
+    "uuid": "AJJAK",
+    "name": "TagRFP658",
+    "slug": "tagrfp658",
+    "seq": "MSELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTQRIKVVEGGPLPFAFDILATSFMYGSHTFIDHTQGIPDFWKQSFPEGFTWERVTTYEDGGVLTATQDTSLHDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEAHTEMLYPTDGGLEGRTALALKLVGGGHLICNFKTIYRSKKPAKNLKMPGVYYVDYRLERIEEADNETYVEQHEVAVARYCDLPTKLGHKLN",
+    "ipg_id": null,
+    "genbank": "MZ682638",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tagrfp658_default",
+            "name": "default",
+            "ex_max": 611,
+            "em_max": 658,
+            "ext_coeff": 41200,
+            "qy": 0.1,
+            "pka": 4.6,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 4.12
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2021.08.02.454744"
+}

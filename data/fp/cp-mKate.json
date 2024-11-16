@@ -1,0 +1,30 @@
+{
+    "uuid": "2EM4B",
+    "name": "cp-mKate",
+    "slug": "cp-mkate",
+    "seq": "GHLICNLKTTYRSKKPAKNLKMPGVYYVDRRLERIKEADKETYVEQHEVAVARYCDLPSKLGHAGGTGGSMSELITENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEASTEMLYPADGGLEGRSDMALKLV",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3RWA"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "cp-mkate_default",
+            "name": "default",
+            "ex_max": 588,
+            "em_max": 620,
+            "ext_coeff": null,
+            "qy": 0.33,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0020505"
+}

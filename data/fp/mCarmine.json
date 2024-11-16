@@ -1,0 +1,28 @@
+{
+    "uuid": "LG377",
+    "name": "mCarmine",
+    "slug": "mcarmine",
+    "seq": "MVSKGEELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTQRIKVVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLKVKQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEANTETLYPADGGLRGYNTMALKLVGGGHLQTFLKTTYRSKKPAKNLKMPGVYFVDRRLERIKEADKETYVEQHEVAVARYCDLPSKLGHKLNGMDELYK",
+    "ipg_id": null,
+    "genbank": "MH062789",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcarmine_default",
+            "name": "default",
+            "ex_max": 603,
+            "em_max": 675,
+            "ext_coeff": 83000,
+            "qy": 0.07,
+            "pka": 5.58,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.81
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2018.08.008"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "WVV8W",
+    "name": "ccalYFP1",
+    "slug": "ccalyfp1",
+    "seq": "MSHSKQVITQEMKMVYHMDGCVNGHSFTIEGEGTGKPYEGNQTLKLRVTKGGPLPFAFDILTATFCYGNRCFCEYPEDMPDYYKQSFPEGYSFERTMMFEDGACCTTSVHLSLTKNCFVHNSTFHGVNFPANGPVMQKKTLNWEPSSEKITPFEGNLKGDVTMFLKLEGGQQHRCQFQTTYKAHKAVKMPPNHIIEHRLVRSQDGDAVQLKEHAVAKCFTA",
+    "ipg_id": "4620335",
+    "genbank": "AAZ67343",
+    "uniprot": "Q2VTM8",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ccalyfp1_default",
+            "name": "default",
+            "ex_max": 514,
+            "em_max": 523,
+            "ext_coeff": 142000,
+            "qy": 0.75,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 106.5
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-007-9072-7"
+}

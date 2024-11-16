@@ -1,0 +1,15 @@
+{
+    "uuid": "QNUPG",
+    "name": "CFP4",
+    "slug": "cfp4",
+    "seq": "MSKGEELFTGVVPILVELQGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFAWGVQCFARYPDHMKQHDFFKSVMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYISHNVYITADKQKNGIKANFKIRHNIVDGSVQLADHYQQNTPIGDGPVNLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1038/nbt1066"
+}

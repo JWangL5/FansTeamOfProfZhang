@@ -1,0 +1,28 @@
+{
+    "uuid": "4O71N",
+    "name": "mNectarine",
+    "slug": "mnectarine",
+    "seq": "MVSKGEEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFCYGSKAYVKHPADIPDYLKLSFPEGFNWERVMNLEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQCRTVGWEASTERMHPEDGALKGEIMQRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVDIKLDITSHNEDYTIVELYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mnectarine_default",
+            "name": "default",
+            "ex_max": 558,
+            "em_max": 578,
+            "ext_coeff": 58000,
+            "qy": 0.45,
+            "pka": 6.9,
+            "maturation": 30.0,
+            "lifetime": null,
+            "brightness": 26.1
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1074/jbc.m109.019042"
+}

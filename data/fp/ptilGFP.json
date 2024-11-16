@@ -1,0 +1,28 @@
+{
+    "uuid": "DMJJX",
+    "name": "ptilGFP",
+    "slug": "ptilgfp",
+    "seq": "MNRNVLKNTGLKEIMSAKASVEGIVNNHVFSMEGFGKGNVLFGNQLMQIRVTKGGPLPFAFDIVSIAFQYGNRTFTKYPDDIADYFVQSFPAGFFYERNLRFEDGAIVDIRSDISLEDDKFHYKVEYRGNGFPSNGPVMQKAILGMEPSFEVVYMNSGVLVGEVDLVYKLESGNYYSCHMKTFYRSKGGVKEFPEYHFIHHRLEKTYVEEGSFVEQHETAIAQLTTIGKPLGSLHEWV",
+    "ipg_id": "967512",
+    "genbank": "AAG54097",
+    "uniprot": "Q9BLZ0",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ptilgfp_default",
+            "name": "default",
+            "ex_max": 500,
+            "em_max": 508,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.062552299"
+}

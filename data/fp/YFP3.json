@@ -1,0 +1,28 @@
+{
+    "uuid": "UPG56",
+    "name": "YFP3",
+    "slug": "yfp3",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKLLCTTGKLPVPWPTLVTTFGYGLQCFARYPDHMKRHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSALFKDPNEKRDHMVLLEFLTAAGITEGMNELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "yfp3_default",
+            "name": "default",
+            "ex_max": 514,
+            "em_max": 527,
+            "ext_coeff": 99000,
+            "qy": 0.76,
+            "pka": 5.79,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 75.24
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1066"
+}

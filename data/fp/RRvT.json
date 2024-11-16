@@ -1,0 +1,28 @@
+{
+    "uuid": "7GO5D",
+    "name": "RRvT",
+    "slug": "rrvt",
+    "seq": "MVSKGEEVIKEFMRFKVRMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGLVTVTQDSSLQDGTLIYNVKMRGTNFPPDGPVMQKKTMGWEASTERLYPRDGVLKGEIHQALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDTKLDITSHNEDYTIVEQYERSEGRHHLFLYGMDELYKGSTGSGSSGPMVSKGEEAIKEFMRFKVSMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYKKLSFPEGFRWERVMNFEDGGLVTVTQDSSIQDGTLIYKVKVRGTNFPPDGPVMQKKTMGWEASTERLYPRDGVLKGEIHQALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDTKLDITSHNEDYTVVEQYERSEGRHHLFLYGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "td",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "rrvt_default",
+            "name": "default",
+            "ex_max": 556,
+            "em_max": 583,
+            "ext_coeff": 134000,
+            "qy": 0.88,
+            "pka": 3.9,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 117.92
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/cbic.201600492"
+}

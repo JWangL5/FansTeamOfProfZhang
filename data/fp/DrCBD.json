@@ -1,0 +1,30 @@
+{
+    "uuid": "Y2WTN",
+    "name": "DrCBD",
+    "slug": "drcbd",
+    "seq": "MSRDPLPFFPPLYLGGPEITTENCEREPIHIPGSIQPHGALLTADGHSGEVLQMSLNAATFLGQEPTVLRGQTLAALLPEQWPALQAALPPGCPDALQYRATLDWPAAGHLSLTVHRVGELLILEFEPTEAWDSTGPHALRNAMFALESAPNLRALAEVATQTVRELTGFDRVMLYKFAPDATGEVIAEARREGLHAFLGHRFPASDIPAQARALYTRHLLRLTADTRAAAVPLDPVLNPQTNAPTPLGGAVLRATSPMHMQYLRNMGVGSSLSVSVVVGGQLWGLIACHHQTPYVLPPDLRTTLEYLGRLLSLQVQVKEA",
+    "ipg_id": "AAF12261.1",
+    "genbank": "AE001825",
+    "uniprot": "Q9RZA4",
+    "pdb": [
+        "1ztu"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "drcbd_default",
+            "name": "default",
+            "ex_max": 416,
+            "em_max": 622,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1126/science.1168683"
+}

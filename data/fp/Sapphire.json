@@ -1,0 +1,28 @@
+{
+    "uuid": "G4VP2",
+    "name": "Sapphire",
+    "slug": "sapphire",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSYGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSIQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sapphire_default",
+            "name": "default",
+            "ex_max": 399,
+            "em_max": 511,
+            "ext_coeff": 29000,
+            "qy": 0.64,
+            "pka": 4.9,
+            "maturation": 38.4,
+            "lifetime": null,
+            "brightness": 18.56
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/s0091-679x(08)61946-9"
+}

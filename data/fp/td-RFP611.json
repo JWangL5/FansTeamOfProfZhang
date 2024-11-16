@@ -1,0 +1,28 @@
+{
+    "uuid": "GHNRL",
+    "name": "td-RFP611",
+    "slug": "td-rfp611",
+    "seq": "MNSLIKENMRMMVVMEGSVNGYQFKCTGEGDGNPYMGTQTMRIKVVEGGPLPFAFDVLATSFMYGSKTFIKHTKGIPDFFKQSFPEGFTWERVTRYEDGGVITVMQDTSLEDGCLVYHAKVRGVNFPSNGAVMQKKTKGWEPNTEMLYPADGGLRGYSQMALNVDGGGYLFCSFETTYRSKKTDENFKMPGFHFVDHRLERLEESDKEMFVVQHEHAVAKFCDLPSKLGRL",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "td-rfp611_default",
+            "name": "default",
+            "ex_max": 558,
+            "em_max": 609,
+            "ext_coeff": 70000,
+            "qy": 0.47,
+            "pka": null,
+            "maturation": 225.0,
+            "lifetime": null,
+            "brightness": 32.9
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2008.02.008"
+}

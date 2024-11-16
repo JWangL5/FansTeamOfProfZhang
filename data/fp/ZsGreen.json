@@ -1,0 +1,30 @@
+{
+    "uuid": "W8LAG",
+    "name": "ZsGreen",
+    "slug": "zsgreen",
+    "seq": "MAQSKHGLTKEMTMKYRMEGCVDGHKFVITGEGIGYPFKGKQAINLCVVEGGPLPFAEDILSAAFNYGNRVFTEYPQDIVDYFKNSCPAGYTWDRSFLFEDGAVCICNADITVSVEENCMYHESKFYGVNFPADGPVMKKMTDNWEPSCEKIIPVPKQGILKGDVSMYLLLKDGGRLRCQFDTVYKAKSVPRKMPDWHFIQHKLTREDRSDAKNQKWHLTEHAIASGSALP",
+    "ipg_id": "380058",
+    "genbank": "AAF03372",
+    "uniprot": "Q9U6Y5",
+    "pdb": [
+        "2OJK"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "zsgreen_default",
+            "name": "default",
+            "ex_max": 496,
+            "em_max": 506,
+            "ext_coeff": 35600,
+            "qy": 0.63,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 22.43
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/13657"
+}

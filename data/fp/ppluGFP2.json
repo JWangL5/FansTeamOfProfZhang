@@ -1,0 +1,30 @@
+{
+    "uuid": "2BK6M",
+    "name": "ppluGFP2",
+    "slug": "pplugfp2",
+    "seq": "MPAMKIECRITGTLNGVEFELVGGGEGTPEQGRMTNKMKSTKGALTFSPYLLSHVMGYGFYHFGTYPSGYENPFLHAINNGGYTNTRIEKYEDGGVLHVSFSYRYEAGRVIGDFKVVGTGFPEDSVIFTDKIIRSNATVEHLHPMGDNVLVGSFARTFSLRDGGYYSFVVDSHMHFKSAIHPSILQNGGPMFAFRRVEELHSNTELGIVEYQHAFKTPIAFA",
+    "ipg_id": "1715614",
+    "genbank": "AAQ01184",
+    "uniprot": "Q6WV12",
+    "pdb": [
+        "2G3O"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "pplugfp2_default",
+            "name": "default",
+            "ex_max": 482,
+            "em_max": 502,
+            "ext_coeff": 70000,
+            "qy": 0.6,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 42.0
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/molbev/msh079"
+}

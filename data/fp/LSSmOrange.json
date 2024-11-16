@@ -1,0 +1,30 @@
+{
+    "uuid": "OVJRJ",
+    "name": "LSSmOrange",
+    "slug": "lssmorange",
+    "seq": "MVSKGEENNMAIIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGFQTVKLKVTKGGPLPFAWDILSPQFTYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGMEASSERMYPEDGALKGEDKLRLKLKDGGHYTSEVKTTYKAKKPVQLPGAYIVDIKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4Q7R"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "lssmorange_default",
+            "name": "default",
+            "ex_max": 437,
+            "em_max": 572,
+            "ext_coeff": 52000,
+            "qy": 0.45,
+            "pka": 5.7,
+            "maturation": 138.0,
+            "lifetime": null,
+            "brightness": 23.4
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/ja3018972"
+}

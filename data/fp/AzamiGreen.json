@@ -1,0 +1,28 @@
+{
+    "uuid": "HC91W",
+    "name": "AzamiGreen",
+    "slug": "azamigreen",
+    "seq": "MSVIKPEMKIKLCMRGTVNGHNFVIEGEGKGNPYEGTQILDLNVTEGAPLPFAYDILTTVFQYGNRAFTKYPADIQDYFKQTFPEGYHWERSMTYEDQGICTATSNISMRGDCFFYDIRFDGVNFPPNGPVMQKKTLKWEPSTEKMYVRDGVLKGDVNMALLLEGGGHYRCDFKTTYKAKKDVRLPDYHFVDHRIEILKHDKDYNKVKLYENAVARYSMLPSQAK",
+    "ipg_id": "3705446",
+    "genbank": "BAD52001",
+    "uniprot": "Q60I25",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "azamigreen_default",
+            "name": "default",
+            "ex_max": 492,
+            "em_max": 505,
+            "ext_coeff": 72300,
+            "qy": 0.67,
+            "pka": 5.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 48.44
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1074/jbc.m304063200"
+}

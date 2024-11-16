@@ -1,0 +1,28 @@
+{
+    "uuid": "S1LK3",
+    "name": "scubGFP1",
+    "slug": "scubgfp1",
+    "seq": "MQRAGMKVKEHMKIKLRMGGTVNGKHFAVNGTGDGYPYQGKQILKLIVEGSEPLPFAFDILSAAFQYGNRAFTEYPTEIADYFKQSFEFGEGFSWERSFTFEDGAICVATNDITMVGGEFQYDIRFDGLNFPXDGPVMQKKTVKWEPSTEIMYMQNGVLKGEVNMALLLXDKSHYRCDLKTTYKAKNNVPHPPGYHYVDHCIEILEERKDHVKLREHAKARSSLSPTSAKERKA",
+    "ipg_id": "1193179",
+    "genbank": "AAK71333",
+    "uniprot": "Q8T5F3",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "scubgfp1_default",
+            "name": "default",
+            "ex_max": 497,
+            "em_max": 506,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.062552299"
+}

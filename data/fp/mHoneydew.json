@@ -1,0 +1,28 @@
+{
+    "uuid": "FLO5T",
+    "name": "mHoneydew",
+    "slug": "mhoneydew",
+    "seq": "MASSEDVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMWGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWAATTERMYPEDGALKGEIKMRLKLKDGGHYDAEVKTTYMAKKPVQLPGAYKIDGKLDITSHNEDYTIVEQYERAEGRHSTGA",
+    "ipg_id": "3838140",
+    "genbank": "AAV52171",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mhoneydew_default",
+            "name": "default",
+            "ex_max": 487,
+            "em_max": 562,
+            "ext_coeff": 17000,
+            "qy": 0.12,
+            "pka": 4.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 2.04
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1037"
+}

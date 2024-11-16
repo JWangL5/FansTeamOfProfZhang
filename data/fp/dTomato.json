@@ -1,0 +1,28 @@
+{
+    "uuid": "G1DQY",
+    "name": "dTomato",
+    "slug": "dtomato",
+    "seq": "MVSKGEEVIKEFMRFKVRMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGLVTVTQDSSLQDGTLIYKVKMRGTNFPPDGPVMQKKTMGWEASTERLYPRDGVLKGEIHQALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDTKLDITSHNEDYTIVEQYERSEGRHHLFLYGMDELYK",
+    "ipg_id": "3838230",
+    "genbank": "AAV52168",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dtomato_default",
+            "name": "default",
+            "ex_max": 554,
+            "em_max": 581,
+            "ext_coeff": 69000,
+            "qy": 0.69,
+            "pka": 4.7,
+            "maturation": 60.0,
+            "lifetime": null,
+            "brightness": 47.61
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1037"
+}

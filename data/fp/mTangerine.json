@@ -1,0 +1,28 @@
+{
+    "uuid": "N63O3",
+    "name": "mTangerine",
+    "slug": "mtangerine",
+    "seq": "MASSEDVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFCYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEIKMRLKLKDGGHYDAEVKTTYMAKKPVQLPGAYKTDIKLDITSHNEDYTIVELYERAEGRHSTGA",
+    "ipg_id": "3838142",
+    "genbank": "AAV52170",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mtangerine_default",
+            "name": "default",
+            "ex_max": 568,
+            "em_max": 585,
+            "ext_coeff": 38000,
+            "qy": 0.3,
+            "pka": 5.7,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 11.4
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1037"
+}

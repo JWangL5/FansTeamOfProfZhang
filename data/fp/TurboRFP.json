@@ -1,0 +1,28 @@
+{
+    "uuid": "AHNXC",
+    "name": "TurboRFP",
+    "slug": "turborfp",
+    "seq": "MSELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMKIKVVEGGPLPFAFDILATSFMYGSKAFINHTQGIPDFFKQSFPEGFTWERITTYEDGGVLTATQDTSFQNGCIIYNVKINGVNFPSNGPVMQKKTRGWEANTEMLYPADGGLRGHSQMALKLVGGGYLHCSFKTTYRSKKPAKNLKMPGFHFVDHRLERIKEADKETYVEQHEMAVAKYCDLPSKLGHR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "turborfp_default",
+            "name": "default",
+            "ex_max": 553,
+            "em_max": 574,
+            "ext_coeff": 92000,
+            "qy": 0.67,
+            "pka": 4.4,
+            "maturation": 90.0,
+            "lifetime": null,
+            "brightness": 61.64
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth1062"
+}

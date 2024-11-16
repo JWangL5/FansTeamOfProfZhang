@@ -1,0 +1,28 @@
+{
+    "uuid": "5GR1V",
+    "name": "mOrange2",
+    "slug": "morange2",
+    "seq": "MVSKGEENNMAIIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGFQTAKLKVTKGGPLPFAWDILSPHFTYGSKAYVKHPADIPDYFKLSFPEGFKWERVMNYEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGKIKMRLKLKDGGHYTSEVKTTYKAKKPVQLPGAYIVDIKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": "5194148",
+    "genbank": "ABC66096",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "morange2_default",
+            "name": "default",
+            "ex_max": 549,
+            "em_max": 565,
+            "ext_coeff": 58000,
+            "qy": 0.6,
+            "pka": 6.5,
+            "maturation": 270.0,
+            "lifetime": 2.7,
+            "brightness": 34.8
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.1209"
+}

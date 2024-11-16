@@ -1,0 +1,30 @@
+{
+    "uuid": "V3NZ1",
+    "name": "usGFP",
+    "slug": "usgfp",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVLCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKAYFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "5JZK"
+    ],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "usgfp_default",
+            "name": "default",
+            "ex_max": 490,
+            "em_max": 508,
+            "ext_coeff": 103000,
+            "qy": 0.45,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 46.35
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/bit.25451"
+}

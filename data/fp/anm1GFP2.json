@@ -1,0 +1,28 @@
+{
+    "uuid": "YV34T",
+    "name": "anm1GFP2",
+    "slug": "anm1gfp2",
+    "seq": "MAEYFEKPLPYKVELEGDVDGQKFTVIGEGQGDASTGRVEGKYVCTKGEVPISWVSLITSLSYGGKCFVRYPNVIKDFFKSTFPTGYHQERKITYEDDGVLETAAKVTLESGAIYNRISVKGVGFKKDGNVCKKRLHSSPPQVSYVVPYGEGIRVLYSNIYPTKDGGYVVADTRQVNRPIKAEGKSAIPKYHYIKSKIDLSTDPNERKDHIIIKEVNVASGIDFS",
+    "ipg_id": "1978498",
+    "genbank": "AAR85351",
+    "uniprot": "Q6RYS5",
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "anm1gfp2_default",
+            "name": "default",
+            "ex_max": 490,
+            "em_max": 504,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/molbev/msh079"
+}

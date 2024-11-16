@@ -1,0 +1,28 @@
+{
+    "uuid": "51H85",
+    "name": "ZsGreen1",
+    "slug": "zsgreen1",
+    "seq": "MAQSKHGLTKEMTMKYRMEGCVDGHKFVITGEGIGYPFKGKQAINLCVVEGGPLPFAEDILSAAFMYGNRVFTEYPQDIVDYFKNSCPAGYTWDRSFLFEDGAVCICNADITVSVEENCMYHESKFYGVNFPADGPVMKKMTDNWEPSCEKIIPVPKQGILKGDVSMYLLLKDGGRLRCQFDTVYKAKSVPRKMPDWHFIQHKLTREDRSDAKNQKWHLTEHAIASGSALP",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "zsgreen1_default",
+            "name": "default",
+            "ex_max": 493,
+            "em_max": 505,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": null
+}

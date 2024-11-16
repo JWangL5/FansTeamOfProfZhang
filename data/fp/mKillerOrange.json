@@ -1,0 +1,30 @@
+{
+    "uuid": "QB9WJ",
+    "name": "mKillerOrange",
+    "slug": "mkillerorange",
+    "seq": "MEVGPALFQSDMTFKIFIDGEVNGQKFTIVADGSSKFPHGDFNVHAVCETGKLPMSWKPICHLIQWGEPFFARYPDGISHFAQECFPEGLSIDRTVRFENDGTMTSHHTYELDDTCVVSRITVNCDGFQPDGPIMRDQLVDILPSETHMFPHGPNAVRQTATIGFTTADGGKMMGHFDSKMTFNGSRAIEIPGPHFVTIITKQTRDTSDKRDHVCQREVAYAHSVPRITSAIGSDED",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4ZBL"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mkillerorange_default",
+            "name": "default",
+            "ex_max": 458,
+            "em_max": 560,
+            "ext_coeff": 35000,
+            "qy": 0.5,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 17.5
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0145740"
+}

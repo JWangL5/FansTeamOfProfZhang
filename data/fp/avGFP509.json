@@ -1,0 +1,30 @@
+{
+    "uuid": "WL2YR",
+    "name": "avGFP509",
+    "slug": "avgfp509",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "1RMP"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "avgfp509_default",
+            "name": "default",
+            "ex_max": 487,
+            "em_max": 509,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1515/bc.2004.038"
+}

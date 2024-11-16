@@ -1,0 +1,30 @@
+{
+    "uuid": "8KFSR",
+    "name": "amFP515",
+    "slug": "amfp515",
+    "seq": "MALSNKFIGDDMKMTYHMDGCVNGHYFTVKGEGNGKPYEGTQTSTFKVTMANGGPLAFSFDILSTVFKYGNRCFTAYPTSMPDYFKQAFPDGMSYERTFTYEDGGVATASWEISLKGNCFEHKSTFHGVNFPADGPVMAKKTTGWDPSFEKMTVCDGILKGDVTAFLMLQGGGNYRCQFHTSYKTKKPVTMPPNHVVETRIARTDLDKGGNSVQLTEHAVAHITSVVPF",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2A47"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "amfp515_default",
+            "name": "default",
+            "ex_max": 500,
+            "em_max": 515,
+            "ext_coeff": null,
+            "qy": 0.006,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.0502250102"
+}

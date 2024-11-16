@@ -1,0 +1,28 @@
+{
+    "uuid": "Z6R8B",
+    "name": "mc6",
+    "slug": "mc6",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHNFVIEGEGKGKPFEGTQTINLTVKEGGPLPFAYDILTAAFQYGNRAFTKYPRDIADYFKQSFPEGYSWERSMTYEDQGICIIKSDIRMEGDCFIYEIRYDGVNFPPSGPVMQKKTLKWEPSTEKMYVRDGVLKGDVNMALLLEGGGHYRCDFRSTYKAKKRVQLPDYHFVDHRIEILSHDNDYNTVKLSENAEARYSMLPSQAK",
+    "ipg_id": "1678351",
+    "genbank": "AAO61603",
+    "uniprot": "Q7Z0W4",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mc6_default",
+            "name": "default",
+            "ex_max": 495,
+            "em_max": 507,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/molbev/msg130"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "LBAXM",
+    "name": "alajGFP1",
+    "slug": "alajgfp1",
+    "seq": "MSLSKQVIGKEMNMTYLMDGSVNGHNFTVEGEGDGKPYEGHQCLKLRITKGEPLPFAFDILTAAFCYGNRCFVNYPAEIADYFKQAFPEGLTWERSMTFEDGGFAAVSADISLNGNCFVHQSKFVGVNFPADGPVMQKKTVGWEPSTEKMIVRDGILEGDVTMYLKLEGGGNYRCEYRTIYKAKKDVKMPKSHFVEHTLVRNNIKKDAKGNTIELIEDASARY",
+    "ipg_id": "2033734",
+    "genbank": "AAS18270",
+    "uniprot": "Q6R8F5",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "alajgfp1_default",
+            "name": "default",
+            "ex_max": 509,
+            "em_max": 517,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bp034308g"
+}

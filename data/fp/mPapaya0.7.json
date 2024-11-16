@@ -1,0 +1,28 @@
+{
+    "uuid": "LGDN9",
+    "name": "mPapaya0.7",
+    "slug": "mpapaya07",
+    "seq": "MVSKGEGQSKHGLKEEMTVKYHMEGCVNGHKFVITGEGIGNPFKGKQTANLCVIEGGPLPFSEDILSPGFKYGDRIFTEYPQDIVDYFKNSCPAGYTWERSYLFEDGAVCRCNVDITVSEKENCIYHKSIFRGVNFPADGPVMKKMTTNWEASTEKIVPVPKQGILKGKVKMYLLLKDGGRYHCQFDTVYKAKSVPSKMPEWHFIQHKLLREDRSDAKNQKWQLTEHAIAGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mpapaya07_default",
+            "name": "default",
+            "ex_max": 529,
+            "em_max": 541,
+            "ext_coeff": 23000,
+            "qy": 0.69,
+            "pka": 6.8,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 15.87
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2013.08.008"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "DANPD",
+    "name": "GFPxm19",
+    "slug": "gfpxm19",
+    "seq": "MSKGEELFTGIVPVLIELDGDVHGHKFSVRGEGEGDADYGKLEIKFICTTGKLPVPWPTLVTTLSYGILCFARYPEHMKMNDFFKSAMPEGYIQERTIFFQDDGKYKTRGEVKFEGDTLVNRIELKGMDFKEDGNILGHKLEYNFNSHNVYIMPDKANNGLKVNFKIRHNIEGGGVQLADHYQTNVPLGDGPVLIPINHYLSTQTAISKDRNETRDHMVFLEFFSACGHTHGMDELYK",
+    "ipg_id": "446783",
+    "genbank": "AAK02065",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "gfpxm19_default",
+            "name": "default",
+            "ex_max": 475,
+            "em_max": 502,
+            "ext_coeff": null,
+            "qy": 0.7,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-006-6006-8"
+}

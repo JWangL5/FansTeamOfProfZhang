@@ -1,0 +1,28 @@
+{
+    "uuid": "4E21X",
+    "name": "Katushka2S",
+    "slug": "katushka2s",
+    "seq": "MVGEDSVLITENMHMKLYMEGTVNDHHFKCTSEGEGKPYEGTQTMKIKVVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDFFKQSFPEGFTWERITTYEDGGVLTATQDTSLQNGCLIYNVKINGVNFPSNGPVMQKKTLGWEASTEMLYPADSGLRGHAQMALKLVGGGYLHCSLKTTYRSKKPAKNLKMPGFYFVDRRLERIKEADKETYVEQHEMAVARYCDLPSKLGHS",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "katushka2s_default",
+            "name": "default",
+            "ex_max": 588,
+            "em_max": 633,
+            "ext_coeff": 67000,
+            "qy": 0.44,
+            "pka": 5.4,
+            "maturation": 14.0,
+            "lifetime": null,
+            "brightness": 29.48
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/srep10332"
+}

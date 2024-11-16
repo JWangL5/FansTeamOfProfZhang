@@ -1,0 +1,28 @@
+{
+    "uuid": "LXWLT",
+    "name": "mVFP1",
+    "slug": "mvfp1",
+    "seq": "MNVIKPDMRIKLRMEGAVNGHKFVILGDGNGKPYEGTQTIDVTVKEGGPLPFAYDILTSAFQYGNRVFTKYPDDIADYFKQSFPVGYSWERSMTYEDGGICTVSSDIKMEGNSFIYEIRFHGLNFPSDGPVMQKKTVKWEPSTEKMYVRDGVLKGDVKMTLLLEGGGHYRCDFKSTYKAKRAVQLPDYHYIDHRIEILSHDKDYNKVKLCENAAARCSMLPSQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mvfp1_default",
+            "name": "default",
+            "ex_max": 491,
+            "em_max": 503,
+            "ext_coeff": 80400,
+            "qy": 0.84,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 67.54
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1111/j.1742-4658.2010.07618.x"
+}

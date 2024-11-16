@@ -1,0 +1,28 @@
+{
+    "uuid": "FO3YK",
+    "name": "shCP-E63S",
+    "slug": "shcp-e63s",
+    "seq": "MAGLLKESMRIKMDMEGTVNGHYFKCEGEGDGNPFTGTQSMRIHVTEGAPLPFAFDILAPCCSYGSRTFIHHTAGIPDFFKQSFPEGFTWERTTTYEDGGILTAHQDTSLEGNCLIYKVKVLGTNFPADGPVMKNKSEGWEPCTEVVYPDNGVLCGRNVMALKVGDRRLICHLYSSYKSKKAIRALTMPGFHFTDIRLQMPRKKKDEYFELYEASVARYSDLPEKAN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "shcp-e63s_default",
+            "name": "default",
+            "ex_max": 560,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-014-9563-2"
+}

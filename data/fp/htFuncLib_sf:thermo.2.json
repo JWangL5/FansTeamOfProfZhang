@@ -1,0 +1,28 @@
+{
+    "uuid": "YCXS5",
+    "name": "htFuncLib_sf:thermo.2",
+    "slug": "htfunclib_sfthermo2",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSHQTVLSKDPNEKRDHMVVLEFIVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_sfthermo2_default",
+            "name": "default",
+            "ex_max": 509,
+            "em_max": 516,
+            "ext_coeff": null,
+            "qy": 0.54,
+            "pka": 5.65,
+            "maturation": null,
+            "lifetime": 1.06,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

@@ -1,0 +1,15 @@
+{
+    "uuid": "5OR4S",
+    "name": "mRFP1.3",
+    "slug": "mrfp13",
+    "seq": "MVSKGEENNMAVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEIKMRLKLKDGGHYDAEVKTTYMAKKPVQLPGAYKTDIKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1038/nbt1037"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "ENFU4",
+    "name": "cgreGFP",
+    "slug": "cgregfp",
+    "seq": "MTTLTEGAKLFEKEIPYITELEGDVEGMKFIIKGVGTGDATTGTIKAKYICTTGDLPVPWATILSSLSYGVFCFAKYPRHIADFFKSTQPDGYSQDRIISFDNDGQYDVKAKVTYENGTLYNRVTVKGTGFKSNGNILGMRVLYHSPPHAVYILPDRKNGGMKIEYNKAFDVMGGGHQMARHAQFNKPLGAWEEDYPLYHHLTVWTSFGKDPDDDETDHLNIVEVIKAVDLETYR",
+    "ipg_id": "20272185",
+    "genbank": "ADI71929",
+    "uniprot": "D7PM06",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "cgregfp_default",
+            "name": "default",
+            "ex_max": 485,
+            "em_max": 500,
+            "ext_coeff": 63030,
+            "qy": 0.86,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 54.21
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1039/c0pp00023j"
+}

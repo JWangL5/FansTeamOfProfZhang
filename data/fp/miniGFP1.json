@@ -1,0 +1,28 @@
+{
+    "uuid": "OOLCX",
+    "name": "miniGFP1",
+    "slug": "minigfp1",
+    "seq": "MEKSFVITDPWLPDYPIISASDGFLELTEYSREEIMGRNARFLQGPETDQATVQKIRDAIRDRRPTTVQLINYTKSGKKFWNLLHLQPVFDGKGGLQYFIGVQLVGSDHV",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "minigfp1_default",
+            "name": "default",
+            "ex_max": 450,
+            "em_max": 499,
+            "ext_coeff": 16800,
+            "qy": 0.31,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": 4.46,
+            "brightness": 5.21
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3389/fbioe.2022.1039317"
+}

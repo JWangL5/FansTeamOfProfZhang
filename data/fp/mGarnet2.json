@@ -1,0 +1,28 @@
+{
+    "uuid": "7DP3C",
+    "name": "mGarnet2",
+    "slug": "mgarnet2",
+    "seq": "MNSLIKENMRMKVVLEGSVNGHQFKCTGEGEGNPYMGTQTMRIKVIEGGPLPFAFDILATSFMYGSKTFIKYPKGIPDFFKQSFPEGFTWERVTRYEDGGVITVMQDTSLEDGCLVYHAQLRGVNFPSNGAVMQKKTKGWEPNTEMMYPADGGLRGYNHMALKVDGGGHLHCSLVTTYRSKKTVGNIKMPGIHAVDRRLERLEESDNEMFVVQREHAVAKFAGLGGG",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mgarnet2_default",
+            "name": "default",
+            "ex_max": 598,
+            "em_max": 671,
+            "ext_coeff": 105000,
+            "qy": 0.087,
+            "pka": 6.8,
+            "maturation": null,
+            "lifetime": 0.76,
+            "brightness": 9.13
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1039/c6cc09081h"
+}

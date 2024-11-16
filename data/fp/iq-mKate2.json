@@ -1,0 +1,28 @@
+{
+    "uuid": "QNUKK",
+    "name": "iq-mKate2",
+    "slug": "iq-mkate2",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "iq-mkate2_default",
+            "name": "default",
+            "ex_max": 580,
+            "em_max": 632,
+            "ext_coeff": 11600,
+            "qy": 0.34,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 3.94
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0095808"
+}

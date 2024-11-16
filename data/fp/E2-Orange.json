@@ -1,0 +1,28 @@
+{
+    "uuid": "A3B6M",
+    "name": "E2-Orange",
+    "slug": "e2-orange",
+    "seq": "MDSTENVIKPFMRFKVHMEGSVNGHEFEIEGEGEGKPYEGTQTAKLQVTKGGPLPFAWDILSPQFTYGSKAYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGTFIYHVKFIGVNFPSDGPVMQKKTLGWEPSTERLYPRDGVLKGEIHKALKLKGGGHYLVEFKTIYMAKKPVKLPGYYYVDSKLDITSHNEDYTVVEQYERAEARHHLFQ",
+    "ipg_id": null,
+    "genbank": "FJ498891",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "e2-orange_default",
+            "name": "default",
+            "ex_max": 540,
+            "em_max": 561,
+            "ext_coeff": 36500,
+            "qy": 0.54,
+            "pka": 4.5,
+            "maturation": 78.0,
+            "lifetime": null,
+            "brightness": 19.71
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1186/1472-6750-9-32"
+}

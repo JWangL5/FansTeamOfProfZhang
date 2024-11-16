@@ -1,0 +1,28 @@
+{
+    "uuid": "OMA2X",
+    "name": "W2",
+    "slug": "w2",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSWGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRVELKGIDFKEDGNILGHKLEYNHNSRNVYITADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPKEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "w2_default",
+            "name": "default",
+            "ex_max": 432,
+            "em_max": 480,
+            "ext_coeff": 10000,
+            "qy": 0.71,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 7.1
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/s0960-9822(02)00450-5"
+}

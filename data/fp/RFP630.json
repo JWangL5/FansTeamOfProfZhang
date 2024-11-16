@@ -1,0 +1,30 @@
+{
+    "uuid": "296AF",
+    "name": "RFP630",
+    "slug": "rfp630",
+    "seq": "MNSLIKENMRMMVVMEGSVNGYQFKCTGEGDGNPYMGTQTMRIKVVEGGPLPFAFDILATSFMYGSKTFIKHTKGIPDFFKQSFPEGFTWERVTRYEDGGVFTVMQDTSLEDGCLVYHAKVTGVNFPSNGAVMQKKTKGWEPSTEMLYPADGGLRGYSQMALNVDGGGYLSCSFETTYRSKKTVENFKMPGFHFVDHRLERLEESDKEMFVVQHEHAVAKFCDLPSKLGRL",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3E5V"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "rfp630_default",
+            "name": "default",
+            "ex_max": 583,
+            "em_max": 630,
+            "ext_coeff": 50000,
+            "qy": 0.35,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 17.5
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2008.02.008"
+}

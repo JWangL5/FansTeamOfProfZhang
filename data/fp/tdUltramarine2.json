@@ -1,0 +1,28 @@
+{
+    "uuid": "PGSB7",
+    "name": "tdUltramarine2",
+    "slug": "tdultramarine2",
+    "seq": "MSVIATQMTYKVYMSGTVNGHYFEVEGDGKGRPYEGEQTAKLTVTKGGPLPFAWDILSPQCQYGSIPFTKYPEDIPDYVKQSFPEGFTWERIMNFEDGAVCTVSNDSSIQGSCFIYHVKFRGTNFPPNGPVMQKKTQGWEPNSERLVARGGMLIGNNHMALKLEGGGHYLCEFKTTYKAKKPVKMPGYHYVDRKLDVTNHNRDYTSVEQCEISIARKPVVASCSGTGSTGSGSSMSVIATQMTYKVYMSGTVNGHYFEVEGDGKGRPYEGEQTAKLTVTKGGPLPFAWDILSPQCQYGSIPFTKYPEDIPDYVKQSFPEGFTWERIMNFEDGAVCTVSNDSSIQGSCFIYHVKFRGTNFPPNGPVMQKKTQGWEPNSERLVARGGMLIGNNHMALKLEGGGHYLCEFKTTYKAKKPVKMPGYHYVDRKLDVTNHNRDYTSVEQCEISIARKPVVA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "td",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tdultramarine2_default",
+            "name": "default",
+            "ex_max": 587,
+            "em_max": null,
+            "ext_coeff": 203400,
+            "qy": 0.0001,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.02
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/srep22129"
+}

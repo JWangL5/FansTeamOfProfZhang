@@ -1,0 +1,28 @@
+{
+    "uuid": "9GUD2",
+    "name": "mBanana",
+    "slug": "mbanana",
+    "seq": "MVSKGEENNMAVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFCYGSKAYVKHPTGIPDYFKLSFPEGFKWERVMNFEDGGVVTVAQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEIKMRLKLKDGGHYSAETKTTYKAKKPVQLPGAYIAGEKIDITSHNEDYTIVELYERAEGRHSTGGMDELYK",
+    "ipg_id": "3838242",
+    "genbank": "AAV52167",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mbanana_default",
+            "name": "default",
+            "ex_max": 540,
+            "em_max": 553,
+            "ext_coeff": 6000,
+            "qy": 0.7,
+            "pka": 6.7,
+            "maturation": 60.0,
+            "lifetime": null,
+            "brightness": 4.2
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1037"
+}

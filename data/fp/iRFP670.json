@@ -1,0 +1,28 @@
+{
+    "uuid": "Q5DYR",
+    "name": "iRFP670",
+    "slug": "irfp670",
+    "seq": "MARKVDLTSCDREPIHIPGSIQPCGCLLACDAQAVRITRITENAGAFFGRETPRVGELLADYFGETEAHALRNALAQSSDPKRPALIFGWRDGLTGRTFDISLHRHDGTSIIEFEPAAAEQADNPLRLTRQIIARTKELKSLEEMAARVPRYLQAMLGYHRVMLYRFADDGSGMVIGEAKRSDLESFLGQHFPASLVPQQARLLYLKNAIRVVSDSRGISSRIVPEHDASGAALDLSFAHLRSISPCHLEFLRNMGVSASMSLSIIIDGTLWGLIICHHYEPRAVPMAQRVAAEMFADFLSLHFTAAHHQR",
+    "ipg_id": null,
+    "genbank": "AGN32863",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "irfp670_default",
+            "name": "default",
+            "ex_max": 643,
+            "em_max": 670,
+            "ext_coeff": 114000,
+            "qy": 0.11,
+            "pka": 4.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 12.54
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.2521"
+}

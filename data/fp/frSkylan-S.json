@@ -1,0 +1,28 @@
+{
+    "uuid": "8DFHZ",
+    "name": "frSkylan-S",
+    "slug": "frskylan-s",
+    "seq": "MVSAIKPDMRIKLRMEGNVNGHHFVIDGDGTGKPYEGKQTMDLEVKEGGPLPFAFDILTTAFSYGNRVFVKYPDNIQDYFKQSFPKGYSWERSLTFEDGGICNARNDITMEGDTFYNKVRFYGTNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDIEMALLLEGNAHYRCDFRTTYKAKEKGVKLPGAHFVDHAIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "frskylan-s_default",
+            "name": "default",
+            "ex_max": 499,
+            "em_max": 513,
+            "ext_coeff": 95400,
+            "qy": 0.8,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 2.93,
+            "brightness": 76.32
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1091/mbc.e21-01-0044"
+}

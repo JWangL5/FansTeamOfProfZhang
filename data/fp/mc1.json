@@ -1,0 +1,28 @@
+{
+    "uuid": "VBVAC",
+    "name": "mc1",
+    "slug": "mc1",
+    "seq": "MSVIKSVMKIKLRMEGSVNGHNFVIVGEGEGKPYEGTQSMDLTVKEGAPLPFAYDIMTTVFHYGNRVFAKYPKHIPDYFKQMFPEGYSWERSMNFEDGGICTARNEITMEGDCFFNKVRFDGVNFPPNGPVMQKKTLKWEPSTEKMYVRDGVLTGDINMALLLEGGGHYRCDFRTTYRAKKKGVKLPDYHFVDHSIEILRHDKEYTEVKLYEHAEAHSGLPRVAK",
+    "ipg_id": "1678988",
+    "genbank": "AAO61598",
+    "uniprot": "Q7Z0W9",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mc1_default",
+            "name": "default",
+            "ex_max": 508,
+            "em_max": 582,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/molbev/msg130"
+}

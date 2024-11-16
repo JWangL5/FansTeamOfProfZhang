@@ -1,0 +1,28 @@
+{
+    "uuid": "5H7QY",
+    "name": "mStayGold",
+    "slug": "mstaygold",
+    "seq": "MVSTGEELFTGVVPFKFQLKGTINGKSFTVEGEGEGNSHEGSHKGKYVCTSGKLPMSWAALGTSFGYGMKYYTKYPSGLKNWFHEVMPEGFTYDRHIQYKGDGSIHAKHQHFMKNGTYHNIVEFTGQDFKENSPVLTGDMDVSLPNEVQHIPIDDGVECTVTLQYPLLSDESKCVEAYQNTIIKPLHNQPAPDVPFHWIRKQYTQSKDDTEERDHIIQSETLEAHL",
+    "ipg_id": null,
+    "genbank": "LC756333",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mstaygold_default",
+            "name": "default",
+            "ex_max": 499,
+            "em_max": 510,
+            "ext_coeff": 164000,
+            "qy": 0.83,
+            "pka": 4.8,
+            "maturation": null,
+            "lifetime": 2.79,
+            "brightness": 136.12
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41592-023-02085-6"
+}

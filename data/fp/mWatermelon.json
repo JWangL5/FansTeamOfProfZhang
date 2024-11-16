@@ -1,0 +1,28 @@
+{
+    "uuid": "V41RE",
+    "name": "mWatermelon",
+    "slug": "mwatermelon",
+    "seq": "MVSKGEALIKEYMRFKVHMEGSMDGHEFEIEGEGEGRPYEGTHTAKLKVTKGGPLPFSWDILSPQFGYGSRAFIKHPADIPDYYKQSFPEGFKWERVMNFEDGGAVTVTQDTSLEDGTLIHKVKLRGTNFPPDGPVMQRKTMGWEASTERLYPEDGVLKGDIKMALRLKDGGRYLADCKTTYKAKKPVQMPGAYNVDRKLDITSHNEDYTVVEQYERSEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mwatermelon_default",
+            "name": "default",
+            "ex_max": 504,
+            "em_max": 515,
+            "ext_coeff": 88000,
+            "qy": 0.47,
+            "pka": 5.2,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 41.36
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/acssensors.2c01730"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "3NV4W",
+    "name": "asCP562",
+    "slug": "ascp562",
+    "seq": "MASFLKKTMPFKTTIEGTVNGHYFKCTGKGEGNPFEGTQEMKIEVIEGGPLPFAFHILSTSCMYGSKTFIKYVSGIPDYFKQSFPEGFTWERTTTYEDGGFLTAHQDTSLDGDCLVYKVKILGNNFPADGPVMQNKAERWEPATEILYEVDGVLRGQSLMALKCPGGRHLTCHLHSTYRSKKPASALKMPGFHFGDHRIEIMEEVEKGKCYKQYEAAVARYCDAAPSKLGHH",
+    "ipg_id": "1236053",
+    "genbank": "AAG41206",
+    "uniprot": "Q9GPI5",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ascp562_default",
+            "name": "default",
+            "ex_max": 562,
+            "em_max": 595,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.97.26.14091"
+}

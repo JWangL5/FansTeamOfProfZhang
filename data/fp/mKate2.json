@@ -1,0 +1,28 @@
+{
+    "uuid": "DBBO8",
+    "name": "mKate2",
+    "slug": "mkate2",
+    "seq": "MVSELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKAVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEASTETLYPADGGLEGRADMALKLVGGGHLICNLKTTYRSKKPAKNLKMPGVYYVDRRLERIKEADKETYVEQHEVAVARYCDLPSKLGHR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mkate2_default",
+            "name": "default",
+            "ex_max": 588,
+            "em_max": 633,
+            "ext_coeff": 62500,
+            "qy": 0.4,
+            "pka": 5.4,
+            "maturation": 20.0,
+            "lifetime": 2.5,
+            "brightness": 25.0
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20081949"
+}

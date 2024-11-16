@@ -1,0 +1,28 @@
+{
+    "uuid": "1L4BP",
+    "name": "tdKatushka2",
+    "slug": "tdkatushka2",
+    "seq": "MSELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMKIKVVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDFFKQSFPEGFTWERITTYEDGGVLTATQDTSLQNGCIIYNVKINGVNFPSNGSVMQKKTLGWEANTEMLYPADGGLRGHSQMALKLVGGGYLHCSFKTTYRSKKPAKNLKMPGFHFVDHRLERIKEADKETYVEQHEMAVAKYCDLPSKLGHR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "td",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tdkatushka2_default",
+            "name": "default",
+            "ex_max": 588,
+            "em_max": 633,
+            "ext_coeff": 132500,
+            "qy": 0.37,
+            "pka": 5.4,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 49.02
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20081949"
+}

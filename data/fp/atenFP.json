@@ -1,0 +1,28 @@
+{
+    "uuid": "J9SCM",
+    "name": "atenFP",
+    "slug": "atenfp",
+    "seq": "MRTKYHMEGSVNGHEFTIEGVGTGNPYEGTQTAELVIIKPVGKPLPFSFDILSSVFQYGNLCFTKYPADMTDYFKQAFPAGMSYERSFLFEDGAVATASWNIRLEGNCFIHNSIFHGVNFPADGPVMKKKTIGWDKSFQKMTVSKEVLRGDLAMFLLLEGGGYHRCQFHSTYKTERPVTLPPNHVVEHQIVRTDLGQSAKGFTVKLEEHAAAHVNPLKVK",
+    "ipg_id": "27425393",
+    "genbank": "BAM08940",
+    "uniprot": "I0IUJ1",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "atenfp_default",
+            "name": "default",
+            "ex_max": 504,
+            "em_max": 515,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/s1096-4959(02)00025-8"
+}

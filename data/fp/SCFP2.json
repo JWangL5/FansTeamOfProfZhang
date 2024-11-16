@@ -1,0 +1,28 @@
+{
+    "uuid": "BSK5M",
+    "name": "SCFP2",
+    "slug": "scfp2",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYISHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": "4596894",
+    "genbank": "AAZ65847",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "scfp2_default",
+            "name": "default",
+            "ex_max": 434,
+            "em_max": 474,
+            "ext_coeff": 29000,
+            "qy": 0.41,
+            "pka": 3.5,
+            "maturation": null,
+            "lifetime": 2.3,
+            "brightness": 11.89
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi0516273"
+}

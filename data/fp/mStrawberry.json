@@ -1,0 +1,30 @@
+{
+    "uuid": "TN3DM",
+    "name": "mStrawberry",
+    "slug": "mstrawberry",
+    "seq": "MVSKGEENNMAIIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILTPNFTYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEIKMRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYIVGIKLDITSHNEDYTIVELYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2H5R"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mstrawberry_default",
+            "name": "default",
+            "ex_max": 574,
+            "em_max": 596,
+            "ext_coeff": 90000,
+            "qy": 0.29,
+            "pka": 4.5,
+            "maturation": 50.0,
+            "lifetime": null,
+            "brightness": 26.1
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1037"
+}

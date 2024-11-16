@@ -1,0 +1,28 @@
+{
+    "uuid": "GW5EB",
+    "name": "AQ143",
+    "slug": "aq143",
+    "seq": "MAPLVTEDMCIKMTMEGTINGHHFKCVGEGEGKPFEGTQVEKIRITEGGPLPFAYDILAPCCMYGSKTFIKHVSGIPDYFKESFPEGFTWERTQIFEDGGSLTIHQDTSLQGNNFIFKVNVIGANFPANGPVMQKKTAGWEPSVEILYPRDGVLCGQALMALKCTDGDHLTSHLRTTYRSRKPSNAVNMPEFHFGDHRIEILKAEQGKFYEQYESAVARYCEAAPSKLGHH",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "aq143_default",
+            "name": "default",
+            "ex_max": 595,
+            "em_max": 655,
+            "ext_coeff": 90000,
+            "qy": 0.04,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 3.6
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20051314"
+}

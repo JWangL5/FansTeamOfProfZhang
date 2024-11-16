@@ -1,0 +1,30 @@
+{
+    "uuid": "M3FBS",
+    "name": "asulCP",
+    "slug": "asulcp",
+    "seq": "MASFLKKTMPFKTTIEGTVNGHYFKCTGKGEGNPFEGTQEMKIEVIEGGPLPFAFHILSTSCMYGSKTFIKYVSGIPDYFKQSFPEGFTWERTTTYEDGGFLTAHQDTSLDGDCLVYKVKILGNNFPADGPVMQNKAGRWEPATEIVYEVDGVLRGQSLMALKCPGGRHLTCHLHTTYRSKKPASALKMPGFHFEDHRIEIMEEVEKGKCYKQYEAAVGRYCDAAPSKLGHN",
+    "ipg_id": "514601",
+    "genbank": "AAG02385",
+    "uniprot": "Q9GZ28",
+    "pdb": [
+        "1XQM"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "asulcp_default",
+            "name": "default",
+            "ex_max": 572,
+            "em_max": 595,
+            "ext_coeff": 120000,
+            "qy": 0.001,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.12
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1074/jbc.c000338200"
+}

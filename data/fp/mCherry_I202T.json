@@ -1,0 +1,28 @@
+{
+    "uuid": "P1FHR",
+    "name": "mCherry_I202T",
+    "slug": "mcherry_i202t",
+    "seq": "MVSKGEEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEIKQRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVNTKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcherry_i202t_default",
+            "name": "default",
+            "ex_max": 587,
+            "em_max": 617,
+            "ext_coeff": null,
+            "qy": 0.04,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/srep39564"
+}

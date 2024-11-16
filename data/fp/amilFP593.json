@@ -1,0 +1,28 @@
+{
+    "uuid": "VDDDT",
+    "name": "amilFP593",
+    "slug": "amilfp593",
+    "seq": "MALSKHGLTKDMTMKYHMEGSVDGHKFVITGHGNGNPFEGKQTMNLCVVEGGPLPFSEDILSAAFDYGNRVFTEYPQGMVDFFKNSCPAGYTWHRSLLFEDGAVCTTSADITVSVEENCFYHNSKFHGVNFPADGPVMKKMTTNWEPSCEKIIPVPRQGILKGDIAMYLLLKDGGRYRCQFDTIYKAKSDPKEMPEWHFIQHKLTREDRSDAKNQKWQLVEHAVASRSALPG",
+    "ipg_id": "3620742",
+    "genbank": "AAU06852",
+    "uniprot": "Q66PV2",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "amilfp593_default",
+            "name": "default",
+            "ex_max": 562,
+            "em_max": 593,
+            "ext_coeff": 90900,
+            "qy": 0.49,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 44.54
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/jemt.20410"
+}

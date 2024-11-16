@@ -1,0 +1,28 @@
+{
+    "uuid": "37ZRR",
+    "name": "mGFPmut3",
+    "slug": "mgfpmut3",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFGYGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mgfpmut3_default",
+            "name": "default",
+            "ex_max": 500,
+            "em_max": 513,
+            "ext_coeff": 89400,
+            "qy": 0.39,
+            "pka": null,
+            "maturation": 4.1,
+            "lifetime": null,
+            "brightness": 34.87
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.4509"
+}

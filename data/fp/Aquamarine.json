@@ -1,0 +1,28 @@
+{
+    "uuid": "963OH",
+    "name": "Aquamarine",
+    "slug": "aquamarine",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSWGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYISGNVYITADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "aquamarine_default",
+            "name": "default",
+            "ex_max": 430,
+            "em_max": 474,
+            "ext_coeff": 26000,
+            "qy": 0.89,
+            "pka": 3.3,
+            "maturation": null,
+            "lifetime": 4.1,
+            "brightness": 23.14
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1039/c2mb25303h"
+}

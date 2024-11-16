@@ -1,0 +1,28 @@
+{
+    "uuid": "HXBWE",
+    "name": "LanFP2",
+    "slug": "lanfp2",
+    "seq": "MSLPTTHDLHIFGSVNGAEFDLVGGGKGNPNDGTLETSVKSTRGALPCSPLLIGPNLGYGFYQYLPFPGGASPFQTAITDGGYQVHRVFKFEDGGVLSCNFRYTYEGGKIKGEFQLIGSGFPAGGPVMSGGLTTLDRSVAKLQCSDDCTITGTNNWSFCTTDGKRHQADVQTNYTFAKPLPAGLKEKMPIFLGHQIEVKASKTEITLSEKVKAFIDTVGSGTG",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "lanfp2_default",
+            "name": "default",
+            "ex_max": 500,
+            "em_max": 516,
+            "ext_coeff": 162000,
+            "qy": 0.0013,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.21
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1186/1745-6150-3-28"
+}

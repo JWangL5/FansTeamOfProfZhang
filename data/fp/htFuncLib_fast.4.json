@@ -1,0 +1,28 @@
+{
+    "uuid": "BCD93",
+    "name": "htFuncLib_fast.4",
+    "slug": "htfunclib_fast4",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSYGVACFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNVNSHNVYIMPDKQNNGIKVNFKTRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVLLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_fast4_default",
+            "name": "default",
+            "ex_max": 477,
+            "em_max": 506,
+            "ext_coeff": null,
+            "qy": 0.3,
+            "pka": 5.66,
+            "maturation": null,
+            "lifetime": 0.72,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

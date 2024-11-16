@@ -1,0 +1,28 @@
+{
+    "uuid": "B72B1",
+    "name": "deGFP3",
+    "slug": "degfp3",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSCQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "degfp3_default",
+            "name": "default",
+            "ex_max": 508,
+            "em_max": 518,
+            "ext_coeff": 26700,
+            "qy": 0.19,
+            "pka": 6.86,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.07
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi026609p"
+}

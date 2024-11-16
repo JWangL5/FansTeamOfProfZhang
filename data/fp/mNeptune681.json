@@ -1,0 +1,28 @@
+{
+    "uuid": "REVUQ",
+    "name": "mNeptune681",
+    "slug": "mneptune681",
+    "seq": "MVSKGEELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTQRIKVVEGGPLPFAFDILATCFMYGSKTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEANTETLYPADGGLRGHNQMALKLVGGGHLICNLKTTYRSKKPAKNLKMPGVYFVDRRLERIKEADKETYVEQHEVAVARYCDLPSKLGHKLNGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mneptune681_default",
+            "name": "default",
+            "ex_max": 604,
+            "em_max": 681,
+            "ext_coeff": 38000,
+            "qy": 0.04,
+            "pka": 7.3,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 1.52
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0148749"
+}

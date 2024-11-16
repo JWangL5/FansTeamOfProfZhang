@@ -1,0 +1,28 @@
+{
+    "uuid": "SDS4K",
+    "name": "BFP",
+    "slug": "bfp",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSHGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "p4-3_default",
+            "name": "default",
+            "ex_max": 381,
+            "em_max": 445,
+            "ext_coeff": 14000,
+            "qy": 0.38,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.32
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/s0960-9822(02)00450-5"
+}

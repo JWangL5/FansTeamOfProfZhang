@@ -1,0 +1,15 @@
+{
+    "uuid": "DQDUN",
+    "name": "mClover1.5",
+    "slug": "mclover15",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTFGYGVACFSRYPDHMKQHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHYVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSHQSKLSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "m",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1038/srep20889"
+}

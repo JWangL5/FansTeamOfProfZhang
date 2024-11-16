@@ -1,0 +1,28 @@
+{
+    "uuid": "SF8MO",
+    "name": "mcavFP",
+    "slug": "mcavfp",
+    "seq": "MSVIKPIMEIKLRMQGVVNGHKFVIKGEGEGKPFEGTQTINLTVKEGAPLPFAYDILTSAFQYGNRVFTKYPDDIPDYFKQTFPEGYSWERIMAYEDQSICTATSDIKMEGDCFIYEIQFHGVNFPPNGPVMQKKTLKWEPSTEKMYVRDGVLKGDVNMALLLEGGGHYRCDFRSTYKAKKRVQLPDYHFVDHRIEILSHDNDYNTVKLSEDAEARYSMLPSQAK",
+    "ipg_id": "190667",
+    "genbank": "AAK62982",
+    "uniprot": "Q963F5",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcavfp_default",
+            "name": "default",
+            "ex_max": 440,
+            "em_max": 510,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.4319/lo.2003.48.1_part_2.0402"
+}

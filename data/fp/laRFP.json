@@ -1,0 +1,30 @@
+{
+    "uuid": "G5H29",
+    "name": "laRFP",
+    "slug": "larfp",
+    "seq": "MHHHHHHGSPLPATHDLHISGSINGHEFDLEGSGKGNAKEGYQELHLKSNKGDLSFSPWILVPNIGYGFYQYLPFPDGAMSPYQAAMHDGSGYVMHRSMQFEDGAMLHSDHRYIYKGNHIKGEFRLTGSGFPADGPVMTNSLTAADWCVDKLLYPNDNTIIGKFDWTYTTTSGKRYQSDVQTNVTFGKPIAADILKKQPMFVFRKVELKHTKTELNFKQWQKAFQDIA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4JF9"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "larfp_default",
+            "name": "default",
+            "ex_max": 521,
+            "em_max": 592,
+            "ext_coeff": 71000,
+            "qy": 0.1,
+            "pka": 4.7,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 7.1
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1107/s0907444913015424"
+}

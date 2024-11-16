@@ -1,0 +1,28 @@
+{
+    "uuid": "XUAR3",
+    "name": "htFuncLib_sf:acid.5",
+    "slug": "htfunclib_sfacid5",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFTRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNMNSHNVYITADKQKNGIKANFKVRHNVEDGSVQLADVYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVLLEFVVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_sfacid5_default",
+            "name": "default",
+            "ex_max": 487,
+            "em_max": 510,
+            "ext_coeff": null,
+            "qy": 0.47,
+            "pka": 5.28,
+            "maturation": null,
+            "lifetime": 0.95,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

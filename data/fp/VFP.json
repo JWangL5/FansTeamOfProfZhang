@@ -1,0 +1,28 @@
+{
+    "uuid": "P3DVP",
+    "name": "VFP",
+    "slug": "vfp",
+    "seq": "MNVIKPDMRIKLRMEGAVNGHKFVILGDGNGKPYEGTQTIDVTVKEGGPLPFAYDILTSAFQYGNRVFTKYPDDIADYFKQSFPVGYSWERSMTYEDGGICTVSSDIKMEGNSFIYEIRFHGLNFPSDGPVMQKKTVKWEPSTEKMYVRDGVLKGDVNMTLLLEGGGHYRCDFKSTYKAKRAVQLPDYHYIDHRIEILSHDKDYNKVKLCENAAARCSMLPSQAK",
+    "ipg_id": "19026071",
+    "genbank": "CBI12485",
+    "uniprot": "D1J6P8",
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "vfp_default",
+            "name": "default",
+            "ex_max": 491,
+            "em_max": 503,
+            "ext_coeff": 83700,
+            "qy": 1.0,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 83.7
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1111/j.1742-4658.2010.07618.x"
+}

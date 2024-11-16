@@ -1,0 +1,17 @@
+{
+    "uuid": "FZZ8D",
+    "name": "esGFP",
+    "slug": "esgfp",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKITLKLICTTGKLPVPWPTLVTTCGYGVQCFARYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTFKTRAEVKFEGDTIVNRIKLKGIDFKEDGNILGHKLEYNFNSHKVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVRLPDNHYLSTQSVILEDPNEKRDHMVLHEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "5B61"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1002/1873-3468.12534"
+}

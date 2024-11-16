@@ -1,0 +1,28 @@
+{
+    "uuid": "39D4R",
+    "name": "FR-1",
+    "slug": "fr-1",
+    "seq": "MVSELIKENMPMKLYMEGTINNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPPPFAFDILATSFMYGSRTFIKHPPGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKVRGVNFPANGPVMQKKTLGWEASTETMYPADGGLEGACDMALKLVGGGHMICNLETTYRSKKPATNLKMPGVYNVDHRLERIKEADDETYVEQHEVAVARYSTGGAGDGGK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "fr-1_default",
+            "name": "default",
+            "ex_max": 569,
+            "em_max": 594,
+            "ext_coeff": 84900,
+            "qy": 0.34,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 2.3,
+            "brightness": 28.87
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1039/c8ib00103k"
+}

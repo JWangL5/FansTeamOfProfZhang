@@ -1,0 +1,30 @@
+{
+    "uuid": "N33JN",
+    "name": "DsRed.M1",
+    "slug": "dsredm1",
+    "seq": "MDNTEDVIKEFMQFKVRMEGSVNGHYFEIEGEGEGKPYEGTQTAKLQVTKGGPLPFAWDILSPQFQYGSKAYVKHPADIPDYMKLSFPEGFTWERSMNFEDGGVVEVQQDSSLQDGTFIYKVKFKGVNFPADGPVMQKKTAGWEPSTEKLYPQDGVLKGEISHALKLKDGGHYTCDFKTVYKAKKPVQLPGNHYVDSKLDITNHNEDYTVVEQYEHAEARHSGSQ",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2VAD"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dsredm1_default",
+            "name": "default",
+            "ex_max": 558,
+            "em_max": 587,
+            "ext_coeff": 27300,
+            "qy": 0.14,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 1.4,
+            "brightness": 3.82
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/protein/gzm046"
+}

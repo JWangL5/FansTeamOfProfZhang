@@ -1,0 +1,30 @@
+{
+    "uuid": "15MYG",
+    "name": "zFP538",
+    "slug": "zfp538",
+    "seq": "MAHSKHGLKEEMTMKYHMEGCVNGHKFVITGEGIGYPFKGKQTINLCVIEGGPLPFSEDILSAGFKYGDRIFTEYPQDIVDYFKNSCPAGYTWGRSFLFEDGAVCICNVDITVSVKENCIYHKSIFNGMNFPADGPVMKKMTTNWEASCEKIMPVPKQGILKGDVSMYLLLKDGGRYRCQFDTVYKAKSVPSKMPEWHFIQHKLLREDRSDAKNQKWQLTEHAIAFPSALA",
+    "ipg_id": "822426",
+    "genbank": "AAF03373",
+    "uniprot": "Q9U6Y4",
+    "pdb": [
+        "1XAE"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "zfp538_default",
+            "name": "default",
+            "ex_max": 528,
+            "em_max": 538,
+            "ext_coeff": 20200,
+            "qy": 0.42,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 8.48
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/13657"
+}

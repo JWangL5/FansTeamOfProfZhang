@@ -1,0 +1,28 @@
+{
+    "uuid": "782GK",
+    "name": "obeGFP",
+    "slug": "obegfp",
+    "seq": "MSSAGALLFTNKIPYVTELEGDVNGMKFTIHGKGTGDASTGHIEAKYVCTSGEIPVPWATLVSTMCYGVQCFAKYPSHIKDFYKSAMPEGYIQERTISFEGDGVYKTRAMVTYERGSIYNRVTLTGENFKKDGHILRKNVAFQCLPSILYILPDTVNNGIRVEFNQVYDIEGEIEKLVTKCSQMNRPLAESAAVHIPRYHHISKHTKLSKDLDERRDHMCLVEVVKAVDLDTYQ",
+    "ipg_id": "24262673",
+    "genbank": "AEL17650",
+    "uniprot": "G1JSF3",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "obegfp_default",
+            "name": "default",
+            "ex_max": 502,
+            "em_max": 515,
+            "ext_coeff": 78000,
+            "qy": 0.62,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 48.36
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1039/c1pp05068k"
+}

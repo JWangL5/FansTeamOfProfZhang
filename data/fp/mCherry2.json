@@ -1,0 +1,28 @@
+{
+    "uuid": "CN92E",
+    "name": "mCherry2",
+    "slug": "mcherry2",
+    "seq": "MVSKGEEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFNWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQCRTMGWEASTERMYPEDGALKGEIKQRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVDIKLDILSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcherry2_default",
+            "name": "default",
+            "ex_max": 589,
+            "em_max": 610,
+            "ext_coeff": 79400,
+            "qy": 0.22,
+            "pka": 3.3,
+            "maturation": 22.8,
+            "lifetime": null,
+            "brightness": 17.47
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0171257"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "886AH",
+    "name": "AzaleaB5",
+    "slug": "azaleab5",
+    "seq": "MENVRRKTGIQTEMKTKLHMDGMVNGHSFEIKGEGKGSPYEGVQTMKLKVTKGAPLPFSIDILLPQCMYGSKPFIKYPENIPDYLKLSFPEGITWERTMTFEDGAVCDVSNDSRLVGNCFIYTVKFQGVNFPLDGPVMQKKTRGWEPSTEVLYECDGWMRGLVDIALKLENGGHYMCNFKTTYKSKKGLEVPPYHFVDHKLDLLSHNTDGATFEEFEQGEIAHAHLSKLA",
+    "ipg_id": null,
+    "genbank": "LC085679",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "azaleab5_default",
+            "name": "default",
+            "ex_max": 574,
+            "em_max": 596,
+            "ext_coeff": 104000,
+            "qy": 0.58,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 60.32
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2020.03.30.015156"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "KKQNA",
+    "name": "meleCFP",
+    "slug": "melecfp",
+    "seq": "MSVIKTDMKIRLQMQGAVNGHPFVITGEGEGKPYEGKHTINLTVQDGGPLPFAFDILTTAFQYGNRVFTKYPKDIPDYFKQSFPAGYSWERCMTFEDGGLCTVSSHIKIEGDYFTYDIRFHGVNFPAGGPVMQKKTLRWEPSTENMYVRDGVLVGEVERTLLLEGNKHHRCNFRTTYKAKKEVVLPEYHFVDHRIEILGHDKDYNNVVVYENAVARQQASTLPSKAK",
+    "ipg_id": "4901448",
+    "genbank": "ABB17955",
+    "uniprot": "A8CLP7",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "melecfp_default",
+            "name": "default",
+            "ex_max": 454,
+            "em_max": 485,
+            "ext_coeff": 47400,
+            "qy": 0.74,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 35.08
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0002680"
+}

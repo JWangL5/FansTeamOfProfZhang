@@ -1,0 +1,32 @@
+{
+    "uuid": "EGE3L",
+    "name": "DsRed",
+    "slug": "dsred",
+    "seq": "MRSSKNVIKEFMRFKVRMEGTVNGHEFEIEGEGEGRPYEGHNTVKLKVTKGGPLPFAWDILSPQFQYGSKVYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGCFIYKVKFIGVNFPSDGPVMQKKTMGWEASTERLYPRDGVLKGEIHKALKLKDGGHYLVEFKSIYMAKKPVQLPGYYYVDSKLDITSHNEDYTIVEQYERTEGRHHLFL",
+    "ipg_id": "836144",
+    "genbank": "AAF03369",
+    "uniprot": "Q9U6Y8",
+    "pdb": [
+        "1GGX",
+        "1ZGO",
+        "1G7K"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dsred_default",
+            "name": "default",
+            "ex_max": 558,
+            "em_max": 583,
+            "ext_coeff": 72500,
+            "qy": 0.68,
+            "pka": null,
+            "maturation": 1600.0,
+            "lifetime": null,
+            "brightness": 49.3
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/13657"
+}

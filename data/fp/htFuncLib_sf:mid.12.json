@@ -1,0 +1,28 @@
+{
+    "uuid": "ENAMS",
+    "name": "htFuncLib_sf:mid.12",
+    "slug": "htfunclib_sfmid12",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLSYGVQCFVRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNMNSHNVYITADKQKNGIKANFKVRHNVEDGSVQLADIYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVLLEFIVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_sfmid12_default",
+            "name": "default",
+            "ex_max": 488,
+            "em_max": 508,
+            "ext_coeff": null,
+            "qy": 0.6,
+            "pka": 5.46,
+            "maturation": null,
+            "lifetime": 0.94,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

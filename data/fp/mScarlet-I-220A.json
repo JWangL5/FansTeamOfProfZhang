@@ -1,0 +1,28 @@
+{
+    "uuid": "3DUUH",
+    "name": "mScarlet-I-220A",
+    "slug": "mscarlet-i-220a",
+    "seq": "MVSKGEAVIKEFMRFKVHMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFSWDILSPQFMYGSRAFIKHPADIPDYYKQSFPEGFKWERVMNFEDGGAVTVTQDTSLEDGTLIYKVKLRGTNFPPDGPVMQKKTMGWEASTERLYPEDGVLKGDIKMALRLKDGGRYLADFKTTYKAKKPVQMPGAYNVDRKLDITSHNEDYTVVEQYERSEARHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mscarlet-i-220a_default",
+            "name": "default",
+            "ex_max": 568,
+            "em_max": 594,
+            "ext_coeff": 100000,
+            "qy": 0.543,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 54.3
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41592-023-01809-y"
+}

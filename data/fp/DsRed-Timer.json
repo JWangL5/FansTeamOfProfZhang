@@ -1,0 +1,15 @@
+{
+    "uuid": "55DQE",
+    "name": "DsRed-Timer",
+    "slug": "dsred-timer",
+    "seq": "MRSSKNVIKEFMRFKVRMEGTVNGHEFEIEGEGEGRPYEGHNTVKLKVTKGGPLPFAWDILSPQFQYGSKVYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVATVTQDSSLQDGCFIYKVKFIGVNFPSDGPVMQKKTMGWEASTERLYPRDGVLKGEIHKALKLKDGGHYLVEFKSIYMAKKPVQLPGYYYVDTKLDITSHNEDYTIVEQYERTEGRHHLFL",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1126/science.290.5496.1585"
+}

@@ -1,0 +1,30 @@
+{
+    "uuid": "QRBKZ",
+    "name": "mAzamiGreen",
+    "slug": "mazamigreen",
+    "seq": "MSVIKPEMKIKLCMRGTVNGHNFVIEGEGKGNPYEGTQILDLNVTEGAPLPFAYDILTTVFQYGNRAFTKYPADIQDYFKQTFPEGYHWERSMTYEDQGICTATSNISMRGDCFFYDIRFDGTNFPPNGPVMQKKTLKWEPSTEKMYVRDGVLKGDVNMALLLEGGGHYRCDFKTTYKAKKDVRLPDAHKVDHRIEILKHDKDYNKVKLYENAVARYSMLPSQAK",
+    "ipg_id": "3705442",
+    "genbank": "BAD52002",
+    "uniprot": "Q60I24",
+    "pdb": [
+        "3ADF"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mazamigreen_default",
+            "name": "default",
+            "ex_max": 492,
+            "em_max": 505,
+            "ext_coeff": 41800,
+            "qy": 0.81,
+            "pka": 6.2,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 33.86
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1074/jbc.m304063200"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "G413J",
+    "name": "avGFP514",
+    "slug": "avgfp514",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "avgfp514_default",
+            "name": "default",
+            "ex_max": 484,
+            "em_max": 514,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/cbic.200300818"
+}

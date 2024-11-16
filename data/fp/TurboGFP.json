@@ -1,0 +1,30 @@
+{
+    "uuid": "A315M",
+    "name": "TurboGFP",
+    "slug": "turbogfp",
+    "seq": "MESDESGLPAMEIECRITGTLNGVEFELVGGGEGTPEQGRMTNKMKSTKGALTFSPYLLSHVMGYGFYHFGTYPSGYENPFLHAINNGGYTNTRIEKYEDGGVLHVSFSYRYEAGRVIGDFKVMGTGFPEDSVIFTDKIIRSNATVEHLHPMGDNDLDGSFTRTFSLRDGGYYSSVVDSHMHFKSAIHPSILQNGGPMFAFRRVEEDHSNTELGIVEYQHAFKTPDADAGEE",
+    "ipg_id": "158972076",
+    "genbank": "ASW25889",
+    "uniprot": null,
+    "pdb": [
+        "2G6X"
+    ],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "turbogfp_default",
+            "name": "default",
+            "ex_max": 482,
+            "em_max": 502,
+            "ext_coeff": 70000,
+            "qy": 0.53,
+            "pka": 5.2,
+            "maturation": 25.0,
+            "lifetime": null,
+            "brightness": 37.1
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/sj.embor.7400787"
+}

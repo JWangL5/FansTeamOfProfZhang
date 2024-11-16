@@ -1,0 +1,28 @@
+{
+    "uuid": "BUJNN",
+    "name": "dKeima570",
+    "slug": "dkeima570",
+    "seq": "MVSVIAKQMTYKVYMSGTVNGHYFEVEGDGKGKPYEGEQTVKLTVTKGGPLPFAWDILSPLMCYGSIPFTKYPEDIPDYVKQSFPEGYTWERTMNFEDGAVCTVSNDSSIQGNCFIYNVKISGTNFPPNGPVMQKKTQGWEPSTERLFARDGMLIGNDYMALKLEGGGHYLCEFKSTYKAKKPVRMPGYHYIDRKLDVTSHNRDYTSVEQCEIAIARHSLLG",
+    "ipg_id": "5680967",
+    "genbank": "BAE94262",
+    "uniprot": "Q1JU63",
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dkeima570_default",
+            "name": "default",
+            "ex_max": 440,
+            "em_max": 570,
+            "ext_coeff": 14000,
+            "qy": 0.15,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 2.1
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1207"
+}

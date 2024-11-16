@@ -1,0 +1,31 @@
+{
+    "uuid": "CVUYM",
+    "name": "Cerulean",
+    "slug": "cerulean",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNAISDNVYITADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2Q57",
+        "2WSO"
+    ],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "cerulean_default",
+            "name": "default",
+            "ex_max": 433,
+            "em_max": 475,
+            "ext_coeff": 43000,
+            "qy": 0.62,
+            "pka": 4.7,
+            "maturation": null,
+            "lifetime": 3.3,
+            "brightness": 26.66
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt945"
+}

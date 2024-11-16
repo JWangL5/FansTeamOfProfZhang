@@ -1,0 +1,28 @@
+{
+    "uuid": "MASAE",
+    "name": "miRFP670nano3",
+    "slug": "mirfp670nano3",
+    "seq": "MANLDKMLNTTVTEVRKFLQADRVCVFKFEEDYSGTVSHEAVDDRWISILKTQVQDRYFMETRGEEYVHGRYQAIADIYTANLVECYRDLLIEFQVRAILAVPILQGKKLWGLLVAHQLAGPREWQTWEIDFLKQQAVVMGIAIQQS",
+    "ipg_id": null,
+    "genbank": "MW627294",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mirfp670nano3_default",
+            "name": "default",
+            "ex_max": 645,
+            "em_max": 670,
+            "ext_coeff": 129000,
+            "qy": 0.185,
+            "pka": 4.2,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 23.86
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41592-022-01467-6"
+}

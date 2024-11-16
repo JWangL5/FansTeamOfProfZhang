@@ -1,0 +1,28 @@
+{
+    "uuid": "TXLFX",
+    "name": "DsRed2",
+    "slug": "dsred2",
+    "seq": "MASSENVITEFMRFKVRMEGTVNGHEFEIEGEGEGRPYEGHNTVKLKVTKGGPLPFAWDILSPQFQYGSKVYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVATVTQDSSLQDGCFIYKVKFIGVNFPSDGPVMQKKTMGWEASTERLYPRDGVLKGETHKALKLKDGGHYLVEFKSIYMAKKPVQLPGYYYVDAKLDITSHNEDYTIVEQYERTEGRHHLFL",
+    "ipg_id": "13508869",
+    "genbank": "ABS86946",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dsred2_default",
+            "name": "default",
+            "ex_max": 561,
+            "em_max": 587,
+            "ext_coeff": 52000,
+            "qy": 0.55,
+            "pka": null,
+            "maturation": 390.0,
+            "lifetime": null,
+            "brightness": 28.6
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s00299-006-0210-x"
+}

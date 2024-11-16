@@ -1,0 +1,28 @@
+{
+    "uuid": "5DXHD",
+    "name": "CU17S",
+    "slug": "cu17s",
+    "seq": "MASTPFKFQLKGTINGKSFTVEGEGEGNSHEGSHKGKYVCTSGKLPMSWAALGTSFGYGMKYYTKYPSGLKNWFHEVMPEGFTYDRHIQYKGDGSIHAKHQHFMKNGTYHNIVEFTGQDFKENSPVLTGDMNVSLPNEVQHIPRDDGVECPVTLLYPLLSDKSKCVEVHQNTICKPLHNQPAPDVPYHWIRKQYTQSKDDTEERDHICQSETLEAHL",
+    "ipg_id": null,
+    "genbank": "LC593677",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "cu17s_default",
+            "name": "default",
+            "ex_max": 496,
+            "em_max": 505,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41587-022-01278-2"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "VAPCK",
+    "name": "apulFP483",
+    "slug": "apulfp483",
+    "seq": "MSYSKQGIVQVMKTKYHMEGSVNGHEFTIEGVGTGNPYEGTQMSELVITKPAGKPLPFSFDILSTVFQYGNRCFTKYPEGMTDYFKQAFPDGMSYERSFLYEDGGVATASWNIRLERDCFIHKSIYHGVNFPADGPVMKKKTIGWDKAFEKMTVSKDVLRGDVTEFLMLEGGGYHSCQFHSTYKPEKPAALPPNHVVEHHIVRTDLGQSAKGFTVKLEEHAAAHVNPLKVK",
+    "ipg_id": "15616238",
+    "genbank": "ACH89424",
+    "uniprot": "B5T1L0",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "apulfp483_default",
+            "name": "default",
+            "ex_max": 420,
+            "em_max": 483,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3354/meps07588"
+}

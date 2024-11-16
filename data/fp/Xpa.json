@@ -1,0 +1,15 @@
+{
+    "uuid": "CX52N",
+    "name": "Xpa",
+    "slug": "xpa",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "pa",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1016/j.molcel.2015.02.007"
+}

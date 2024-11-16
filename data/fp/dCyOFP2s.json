@@ -1,0 +1,28 @@
+{
+    "uuid": "2DGCJ",
+    "name": "dCyOFP2s",
+    "slug": "dcyofp2s",
+    "seq": "MVSKGEELIKENMRSKLYLEGSVNGHQFKCTHEGEGKPYEGKQTNRIKVVEGGPLPFAFDILATHFMYGSKVFIKYPADLPDYFKQSFPEGFTWERVMVFEDGGVLTATQDTSLQDGELIYNVKVRGVNFPANGPVMQKKTLGWEPSTETMYPADGGLEGRCDKALKLVGGGHLHVSFKTTYKSKKPVKMPGVHYVDRRLERIKEADNETYVEQYEHAVARYSNLGGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dcyofp2s_default",
+            "name": "default",
+            "ex_max": 510,
+            "em_max": 592,
+            "ext_coeff": 36000,
+            "qy": 0.69,
+            "pka": 5.29,
+            "maturation": 24.0,
+            "lifetime": null,
+            "brightness": 24.84
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3390/ijms222312887"
+}

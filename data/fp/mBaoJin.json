@@ -1,0 +1,32 @@
+{
+    "uuid": "4XHVQ",
+    "name": "mBaoJin",
+    "slug": "mbaojin",
+    "seq": "MVSKGEEENMASTPFKFQLKGTINGKSFTVEGEGEGNSHEGSHKGKYVCTSGKLPMSWAALGTTFGYGMKYYTKYPSGLKNWFREVMPGGFTYDRHIQYKGDGSIHAKHQHFMKNGTYHNIVEFTGQDFKENSPVLTGDMNVSLPNEVPQIPRDDGVECPVTLLYPLLSDKSKYVEAHQYTICKPLHNQPAPDVPYHWIRKQYTQSKDDAEERDHICQSETLEAHLKGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "8QBJ",
+        "8Q79",
+        "8QDD"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mbaojin_default",
+            "name": "default",
+            "ex_max": 500,
+            "em_max": 508,
+            "ext_coeff": 128000,
+            "qy": 0.93,
+            "pka": 4.37,
+            "maturation": 7.6,
+            "lifetime": 3.1,
+            "brightness": 119.04
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41592-024-02203-y"
+}

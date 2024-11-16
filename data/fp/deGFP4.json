@@ -1,0 +1,28 @@
+{
+    "uuid": "LDZC9",
+    "name": "deGFP4",
+    "slug": "degfp4",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFISTTGKLPVPWPTLVTTFTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSCNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSCQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "degfp4_default",
+            "name": "default",
+            "ex_max": 509,
+            "em_max": 518,
+            "ext_coeff": 26900,
+            "qy": 0.15,
+            "pka": 7.37,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 4.04
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi026609p"
+}

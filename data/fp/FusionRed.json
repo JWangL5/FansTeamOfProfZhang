@@ -1,0 +1,28 @@
+{
+    "uuid": "S6A7A",
+    "name": "FusionRed",
+    "slug": "fusionred",
+    "seq": "MVSELIKENMPMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSRTFIKHPPGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKVRGVNFPANGPVMQKKTLGWEASTETMYPADGGLEGACDMALKLVGGGHLICNLETTYRSKKPATNLKMPGVYNVDHRLERIKEADDETYVEQHEVAVARYSTGGAGDGGK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "fusionred_default",
+            "name": "default",
+            "ex_max": 580,
+            "em_max": 608,
+            "ext_coeff": 94500,
+            "qy": 0.19,
+            "pka": 4.6,
+            "maturation": 130.0,
+            "lifetime": 1.8,
+            "brightness": 17.95
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/ncomms2208"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "V7M33",
+    "name": "TagYFP",
+    "slug": "tagyfp",
+    "seq": "MVSKGEELFAGIVPVLIELDGDVHGHKFSVRGEGEGDADYGKLEIKFICTTGKLPVPWPTLVTTLTYGVQCFARYPKHMKMNDFFKSAMPEGYIQERTILFQDDGKYKTRGEVKFEGDTLVNRIELKGKDFKEDGNILGHKLEYSFNSHNVYITPDKANNGLEVNFKTRHNIEGGGVQLADHYQTNVPLGDGPVLIPINHYLSYQTDISKDRNEARDHMVLLESVSACSHTHGMDELYR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tagyfp_default",
+            "name": "default",
+            "ex_max": 508,
+            "em_max": 524,
+            "ext_coeff": 50000,
+            "qy": 0.62,
+            "pka": 5.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 31.0
+        }
+    ],
+    "transitions": [],
+    "doi": null
+}

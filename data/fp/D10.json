@@ -1,0 +1,28 @@
+{
+    "uuid": "GHBKT",
+    "name": "D10",
+    "slug": "d10",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNGISDNVYITADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "d10_default",
+            "name": "default",
+            "ex_max": 433,
+            "em_max": 475,
+            "ext_coeff": 44000,
+            "qy": 0.46,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 20.24
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt945"
+}

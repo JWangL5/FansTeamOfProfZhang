@@ -1,0 +1,30 @@
+{
+    "uuid": "TCPO9",
+    "name": "mPlum-E16P",
+    "slug": "mplum-e16p",
+    "seq": "MVSKGEEVIKEFMRFKPHMEGSVNGHEFEIEGEGEGRPYEGTQTARLKVTKGGPLPFAWDILSPQIMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKVRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEMKMRLRLKDGGHYDAEVKTTYMAKKPVQLPGAYKTDIKLDITSHNEDYTIVEQYERAEGRHSTGA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4H3L"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mplum-e16p_default",
+            "name": "default",
+            "ex_max": 590,
+            "em_max": 630,
+            "ext_coeff": null,
+            "qy": 0.14,
+            "pka": 4.7,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0052463"
+}

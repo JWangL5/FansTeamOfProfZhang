@@ -1,0 +1,28 @@
+{
+    "uuid": "F3LOW",
+    "name": "CheGFP2",
+    "slug": "chegfp2",
+    "seq": "MSSTALTEGGKLFEKEIPYITELEGDVEGMKFTIKGEGTGDGTTGLIKSKYICTTGDLPVPWATILSSISYGVFCFAKYPRHIADFFKSTQPDGYSQDRIISFDDDGQYDVKAKITYEDGTLYNRVVLDGTGFKSNGNILGMRVLYHSPPHIIYILPDRKNGGMKIEYNKAFDVMGGGHQMTRHAQFNKPLGAWEEDYPMYHHLSVWTSFGKDPEDDETDHLTIVEVIKAIDLDTYK",
+    "ipg_id": "24814319",
+    "genbank": "AEP19815",
+    "uniprot": "J9PGG2",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "chegfp2_default",
+            "name": "default",
+            "ex_max": 488,
+            "em_max": 508,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1098/rsob.130206"
+}

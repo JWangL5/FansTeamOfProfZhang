@@ -1,0 +1,28 @@
+{
+    "uuid": "4VSRL",
+    "name": "msGFP2",
+    "slug": "msgfp2",
+    "seq": "MDSTESLFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTITFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITGGSGGS",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "msgfp2_default",
+            "name": "default",
+            "ex_max": 489,
+            "em_max": 509,
+            "ext_coeff": 52200,
+            "qy": 0.59,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 30.8
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/811588"
+}

@@ -1,0 +1,30 @@
+{
+    "uuid": "UQX41",
+    "name": "muGFP",
+    "slug": "mugfp",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVLCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKAYFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVLLEDVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "5JZL"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mugfp_default",
+            "name": "default",
+            "ex_max": 490,
+            "em_max": 508,
+            "ext_coeff": 117000,
+            "qy": 0.45,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 52.65
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41598-017-18045-y"
+}

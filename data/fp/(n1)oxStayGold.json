@@ -1,0 +1,28 @@
+{
+    "uuid": "2NNZY",
+    "name": "(n1)oxStayGold",
+    "slug": "n1oxstaygold",
+    "seq": "MVSTGEELFTGVVPFKFQLKGTINGKSFTVEGEGEGNSHEGSHKGKYVCTSGKLPMSWAALGTSFGYGMKYYTKYPSGLKNWFHEVMPEGFTYDRHIQYKGDGSIHAKHQHFMKNGTYHNIVEFTGQDFKENSPVLTGDMNVSLPNEVQHIPRDDGVECPVTLLYPLLSDKSKCVEAYQNTIIKPLHNQPAPDVPYHWIRKQYTQSKDDTEERDHIIQSETLEAHL",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "n1oxstaygold_default",
+            "name": "default",
+            "ex_max": 497,
+            "em_max": 506,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41587-022-01278-2"
+}

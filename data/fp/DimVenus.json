@@ -1,0 +1,28 @@
+{
+    "uuid": "NOX8W",
+    "name": "DimVenus",
+    "slug": "dimvenus",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKLICTTGKLPVPWPTLVTTLGYGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNWNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSYQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dimvenus_default",
+            "name": "default",
+            "ex_max": 508,
+            "em_max": 525,
+            "ext_coeff": 55400,
+            "qy": 0.03,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 1.66
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/srep01398"
+}

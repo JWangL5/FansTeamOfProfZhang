@@ -1,0 +1,28 @@
+{
+    "uuid": "24DFB",
+    "name": "cgigCP",
+    "slug": "cgigcp",
+    "seq": "MAGLLKESMRIKIYMEGTVNGYHFKCEGEGDGNPFEGTQNMRIRVTEGAPLPFAFDILSPCCAYGSKTFIKHTSGIPDYFKQSFPEGFTWERTTIYEDGGVLTAHQDTSLEGNCLIYKVKVLGTNFPADGPVMKKISGGWEPCTEIVYQDNGVLRGRNVMALKVSGRPPLICHLHSTYRSKKACALTMPGFHFADLRIQMPKKKKDEYFELYEASVARYSDVPEKAT",
+    "ipg_id": "594528",
+    "genbank": "AAL27537",
+    "uniprot": "Q95W86",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "",
+    "states": [
+        {
+            "slug": "cgigcp_default",
+            "name": "default",
+            "ex_max": 571,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/s0014-5793(01)02930-1"
+}

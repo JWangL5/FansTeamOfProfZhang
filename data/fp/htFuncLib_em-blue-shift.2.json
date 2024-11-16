@@ -1,0 +1,28 @@
+{
+    "uuid": "UR8TM",
+    "name": "htFuncLib_em-blue-shift.2",
+    "slug": "htfunclib_em-blue-shift2",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSYGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKIRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNFNSHNIYIMPDKQNNGIKVNFKTRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVLLEFVEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_em-blue-shift2_default",
+            "name": "default",
+            "ex_max": 469,
+            "em_max": 503,
+            "ext_coeff": null,
+            "qy": 0.64,
+            "pka": 5.35,
+            "maturation": null,
+            "lifetime": 0.99,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

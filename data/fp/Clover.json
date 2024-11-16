@@ -1,0 +1,30 @@
+{
+    "uuid": "4Z641",
+    "name": "Clover",
+    "slug": "clover",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTFGYGVACFSRYPDHMKQHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSHQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": "30275454",
+    "genbank": "AFR60231",
+    "uniprot": null,
+    "pdb": [
+        "5WJ2"
+    ],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "clover_default",
+            "name": "default",
+            "ex_max": 505,
+            "em_max": 515,
+            "ext_coeff": 111000,
+            "qy": 0.76,
+            "pka": 6.2,
+            "maturation": 30.0,
+            "lifetime": 3.2,
+            "brightness": 84.36
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.2171"
+}

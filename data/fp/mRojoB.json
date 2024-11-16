@@ -1,0 +1,28 @@
+{
+    "uuid": "6LJKY",
+    "name": "mRojoB",
+    "slug": "mrojob",
+    "seq": "MVSKGEEDNMAIIKEFMRFKTHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEIKMRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNANYKLDITSHNEDYTIVEQYERCEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mrojob_default",
+            "name": "default",
+            "ex_max": 598,
+            "em_max": 631,
+            "ext_coeff": 61000,
+            "qy": 0.06,
+            "pka": 5.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 3.66
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.1013910107"
+}

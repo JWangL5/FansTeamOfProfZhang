@@ -1,0 +1,30 @@
+{
+    "uuid": "POBTH",
+    "name": "LSSmScarlet",
+    "slug": "lssmscarlet",
+    "seq": "MVSKGEAVIKEFMRFKVHMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFSWDILSPQFMYGSRAFIKHPADIPDYHKQSFPEGFKWERVMNFEDGGAVTVTQDTSLEDGTLIYEVKLRGTNFPPDGPVMQKKTMGLEADTERLYPEDGVLKGDIKMALRLKDGGRYLADVRTTYKAKKPVQMPGAYNVDRKLDITSHNEDYTVVEQYERSEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "7OIN"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "lssmscarlet_default",
+            "name": "default",
+            "ex_max": 470,
+            "em_max": 598,
+            "ext_coeff": 30200,
+            "qy": 0.42,
+            "pka": 5.8,
+            "maturation": 61.0,
+            "lifetime": null,
+            "brightness": 12.68
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3390/ijms222312887"
+}

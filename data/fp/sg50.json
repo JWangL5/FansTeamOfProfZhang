@@ -1,0 +1,30 @@
+{
+    "uuid": "2VONA",
+    "name": "sg50",
+    "slug": "sg50",
+    "seq": "MASKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSHGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "1EMF"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sg50_default",
+            "name": "default",
+            "ex_max": 384,
+            "em_max": 450,
+            "ext_coeff": 16500,
+            "qy": 0.25,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 4.12
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nsb0597-361"
+}

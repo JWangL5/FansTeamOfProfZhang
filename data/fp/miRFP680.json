@@ -1,0 +1,28 @@
+{
+    "uuid": "RAKQZ",
+    "name": "miRFP680",
+    "slug": "mirfp680",
+    "seq": "MAEGSVARQPDLLTCDDEPIHIPGAIQPHGLLLALAADMTIVAGSDNLPELTGLAIGALIGRSAADVFDSETHNRLTIALAEPGAAVGAPITVGFTMRKDAGFIGSWHRHDQLIFLELEPPQRDVAEPQAFFRRTNSAIRRLQAAETLESACAAAAQEVRKITGFDRVMIYRFASDFSGEVIAEDRCAEVESKLGLHYPASTVPAQARRLYTINPVRIIPDINYRPVPVTPDLNPVTGRPIDLSFAILRSVSPCHLEFMRNIGMHGTMSISILRGERLWGLIVCHHRTPYYVDLDGRQACKRVAERLATQIGVMEE",
+    "ipg_id": null,
+    "genbank": "MN701052",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mirfp680_default",
+            "name": "default",
+            "ex_max": 661,
+            "em_max": 680,
+            "ext_coeff": 94000,
+            "qy": 0.145,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": 1.67,
+            "brightness": 13.63
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41467-019-13897-6"
+}

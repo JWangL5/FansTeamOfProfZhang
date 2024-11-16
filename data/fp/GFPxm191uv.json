@@ -1,0 +1,28 @@
+{
+    "uuid": "7NN4S",
+    "name": "GFPxm191uv",
+    "slug": "gfpxm191uv",
+    "seq": "MSKGEELFTGIVPVLIELDGDVHGHKFSVRGEGEGDADYGKLEIKFICTTGKLPVPWPTLVTTLSYGILCFARYPEHMKMNDFFKSAMPEGYIQERTIFFQDDGKYKTRGEVKFEGDTLVNRIELKGMDFKEDGNILGHKLEYNFNSHNVYIMPDKANNGLKVNFKIRHNIEGGGVQLADHYQTNVPLGDGPVLIPINHYLSCQTAISKDRNETRDHMVFLEFFSACGHTHGMDELYK",
+    "ipg_id": "1388169",
+    "genbank": "AAL33915",
+    "uniprot": "Q8WTC7",
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "gfpxm191uv_default",
+            "name": "default",
+            "ex_max": 498,
+            "em_max": 510,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-006-6006-8"
+}

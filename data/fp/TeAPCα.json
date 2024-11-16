@@ -1,0 +1,15 @@
+{
+    "uuid": "VW66D",
+    "name": "TeAPC\u03b1",
+    "slug": "teapc",
+    "seq": "MKTGEQRVKIATLLSENEKKIVDKASQDLWRRRPDFIAPGGNAFGQRERALCLRDYGWYLRLITYGLLAGDKDPIESIGLIGVREMYNSLGVPVPGMVESIRCLKEASLSLLDEEDAKETAPYFDYIIQAMS",
+    "ipg_id": "ABG53750.1",
+    "genbank": "CP000393.1",
+    "uniprot": "Q10VH4",
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1038/nmeth.3935"
+}

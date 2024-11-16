@@ -1,0 +1,28 @@
+{
+    "uuid": "F1MW1",
+    "name": "tKeima",
+    "slug": "tkeima",
+    "seq": "MVSVIAKQMTYKVYMSGTVNGHYFEVEGDGKGKPYEGEQTVKLTVTKGGPLPFAWDILSPLFQYGSIPFTKYPEDIPDYVKQSFPEGYTWERTMNFEDGAVCTVSNDSSIQGNCFIYNVKISGVNFPPNGPVMQKKTQGWEPSTERLFARDGMLIGNDYMALKLEGGGHYLCEFKSTYKAKKPVRMPGYHYVDRKLDVTSHNRDYTSVEQCEIAIARHSLLG",
+    "ipg_id": "5593666",
+    "genbank": "BAE93224",
+    "uniprot": "Q1JV72",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tkeima_default",
+            "name": "default",
+            "ex_max": 440,
+            "em_max": 616,
+            "ext_coeff": 14500,
+            "qy": 0.22,
+            "pka": 6.5,
+            "maturation": null,
+            "lifetime": 2.4,
+            "brightness": 3.19
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1207"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "VE1RL",
+    "name": "AvicFP1",
+    "slug": "avicfp1",
+    "seq": "MSKGAELFNGIVPILIELNGDVHGHKFSVRGEGEGDAGSGKIEIKFVCTTGTLPVPWPTLVTTFCYGVQCFTRYPEHMKQHDFYKSAMPDGYIQKRTISFQDDGHYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGNKMEYNYNSHSVYVLSDKANNGIKVNFKIRHNLKGEGIQLADHDQQNIPIGDGPVLLPDYHYLSTQTAITKDPNEKRDHMNLVEFVTACGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "avicfp1_default",
+            "name": "default",
+            "ex_max": 481,
+            "em_max": 503,
+            "ext_coeff": 64000,
+            "qy": 0.63,
+            "pka": 4.9,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 40.32
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/677344"
+}

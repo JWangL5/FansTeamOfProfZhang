@@ -1,0 +1,28 @@
+{
+    "uuid": "37XMD",
+    "name": "eechGFP2",
+    "slug": "eechgfp2",
+    "seq": "MNVIKPDMKIKLRMEGAVNGHKFAIEGEGNGQPFEGKQTMNLKVKEGGPLPFAYDILTTIFNYGNRVFVKYPDDIVDYFKQSFPEGYSWERSMIYEDGGICIATNDITLEGDCFVYKIRFDGVNFPAKSPVLQKMTKKWEPSTEKLYVRDGVLKGDVNMALLLEGGGHFRCDFKTTYKAKKVVQLPDYHFVDHRIEIMSHDKDYNNVKLCEHAEAHSGLPGQAK",
+    "ipg_id": "4901521",
+    "genbank": "ABB17968",
+    "uniprot": "A8CLW1",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "eechgfp2_default",
+            "name": "default",
+            "ex_max": 506,
+            "em_max": 520,
+            "ext_coeff": 109800,
+            "qy": 0.69,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 75.76
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0002680"
+}

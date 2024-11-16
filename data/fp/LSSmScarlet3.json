@@ -1,0 +1,28 @@
+{
+    "uuid": "86FNG",
+    "name": "LSSmScarlet3",
+    "slug": "lssmscarlet3",
+    "seq": "MVSKGEAVIKEFMRFKVHMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFSWDILSPQFMYGSRAFTKHPADIPDYHKQSFPEGFKWERVMNFEDGGAVTVTQDTSLEDGTLIYEVKLRGTNFPPDGPVMQKKTMGLEADTERLYPEDGVLKGDIKMALRLKDGGRYLAHVRTTYKAKKPVLMPGAYNVDRKLDITSHNEDYTVVEQFERSEGRHSTGDMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "lssmscarlet3_default",
+            "name": "default",
+            "ex_max": 466,
+            "em_max": 598,
+            "ext_coeff": 27300,
+            "qy": 0.36,
+            "pka": 2.18,
+            "maturation": 34.0,
+            "lifetime": null,
+            "brightness": 9.83
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3390/ijms231911051"
+}

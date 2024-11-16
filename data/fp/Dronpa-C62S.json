@@ -1,0 +1,17 @@
+{
+    "uuid": "NW2SG",
+    "name": "Dronpa-C62S",
+    "slug": "dronpa-c62s",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHPFAIEGVGLGKPFEGKQSMDLKVKEGGPLPFAYDILTTVFSYGNRVFAKYPENIVDYFKQSFPEGYSWERSMNYEDGGICNATNDITLDGDCYIYEIRFDGVNFPANGPVMQKRTVKWEPSTEKLYVRDGVLKGDVNMALSLEGGGHYRCDFKTTYKAKKVVQLPDYHFVDHHIEIKSHDKDYSNVNLHEHAEAHSELPRQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2GX2"
+    ],
+    "agg": "m",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1016/j.bbrc.2007.01.086"
+}

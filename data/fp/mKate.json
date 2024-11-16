@@ -1,0 +1,33 @@
+{
+    "uuid": "WRF55",
+    "name": "mKate",
+    "slug": "mkate",
+    "seq": "MSELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEASTEMLYPADGGLEGRSDMALKLVGGGHLICNLKTTYRSKKPAKNLKMPGVYYVDRRLERIKEADKETYVEQHEVAVARYCDLPSKLGHK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3BXA",
+        "3BXB",
+        "3BXC",
+        "3BX9"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mkate_default",
+            "name": "default",
+            "ex_max": 588,
+            "em_max": 635,
+            "ext_coeff": 45000,
+            "qy": 0.33,
+            "pka": 6.2,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 14.85
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth1083"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "671NA",
+    "name": "P4",
+    "slug": "p4",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSHGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "bfp_default",
+            "name": "default",
+            "ex_max": 382,
+            "em_max": 448,
+            "ext_coeff": 2100,
+            "qy": 0.24,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.5
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.91.26.12501"
+}

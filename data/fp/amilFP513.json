@@ -1,0 +1,28 @@
+{
+    "uuid": "LO7EL",
+    "name": "amilFP513",
+    "slug": "amilfp513",
+    "seq": "MSYSKQGIVQEMKTKYHMEGSVNGHEFTIEGVGTGYPYEGKQMSELVIIKPAGKPLPFSFDILSSVFQYGNRCFTKYPADMPDYFKQAFPDGMSYERSFLFEDGAVATASWNIRLEGNCFIHKSIFHGVNFPADGPVMKKKTIDWDKSFEKMTVSKEVLRGDVTMFLMLEGGGSHRCQFHSTYKTEKPVTLPPNHVVEHQIVRTDLGQSAKGFTVKLEAHAAAHVNPLKVK",
+    "ipg_id": "3620747",
+    "genbank": "AAU06846",
+    "uniprot": "Q66PV8",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "amilfp513_default",
+            "name": "default",
+            "ex_max": 504,
+            "em_max": 513,
+            "ext_coeff": 75200,
+            "qy": 0.67,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 50.38
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/jemt.20410"
+}

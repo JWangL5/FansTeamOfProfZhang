@@ -1,0 +1,28 @@
+{
+    "uuid": "O8SH6",
+    "name": "cFP484",
+    "slug": "cfp484",
+    "seq": "MKCKFVFCLSFLVLAITNANIFLRNEADLEEKTLRIPKALTTMGVIKPDMKIKLKMEGNVNGHAFVIEGEGEGKPYDGTHTLNLEVKEGAPLPFSYDILSNAFQYGNRALTKYPDDIADYFKQSFPEGYSWERTMTFEDKGIVKVKSDISMEEDSFIYEIRFDGMNFPPNGPVMQKKTLKWEPSTEIMYVRDGVLVGDISHSLLLEGGGHYRCDFKSIYKAKKVVKLPDYHFVDHRIEILNHDKDYNKVTLYENAVARYSLLPSQA",
+    "ipg_id": "910533",
+    "genbank": "AAF03374",
+    "uniprot": "Q9U6Y3",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "cfp484_default",
+            "name": "default",
+            "ex_max": 456,
+            "em_max": 484,
+            "ext_coeff": 35300,
+            "qy": 0.48,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 16.94
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/13657"
+}

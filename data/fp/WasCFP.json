@@ -1,0 +1,32 @@
+{
+    "uuid": "V7NZK",
+    "name": "WasCFP",
+    "slug": "wascfp",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLKTTLTWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNAISGNVNITADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKQSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "5DQB",
+        "5DRF",
+        "5DRG"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "wascfp_default",
+            "name": "default",
+            "ex_max": 494,
+            "em_max": 505,
+            "ext_coeff": 51000,
+            "qy": 0.85,
+            "pka": 6.9,
+            "maturation": null,
+            "lifetime": 5.1,
+            "brightness": 43.35
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/srep00608"
+}

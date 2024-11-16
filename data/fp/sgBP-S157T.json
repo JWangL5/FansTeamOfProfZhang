@@ -1,0 +1,28 @@
+{
+    "uuid": "62TRX",
+    "name": "sgBP-S157T",
+    "slug": "sgbp-s157t",
+    "seq": "MVAIPENVRIKAFMEGAINNHHFKCEAEGEGKPYEGTQLERIRVTEGGPLPFSFDILSPHFQYGSVAITKYLSGIPDYFKQSFPEGFSWERTTMYEDGGYVTAHQDTSLDGNCLVYKIKVIGSNLPANGPVMQNKTRGWEPCTEMRYVRGGVLCGQTLMALKCADGNHLTCQLRTTYRSKKPAKKLQMPAFHFSDHRPEILKVSENGNLMEQYEMSVGRYCESVPSKLGHN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sgbp-s157t_default",
+            "name": "default",
+            "ex_max": 611,
+            "em_max": null,
+            "ext_coeff": 85654,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0134108"
+}

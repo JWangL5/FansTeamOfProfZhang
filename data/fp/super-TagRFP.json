@@ -1,0 +1,28 @@
+{
+    "uuid": "QJV5C",
+    "name": "super-TagRFP",
+    "slug": "super-tagrfp",
+    "seq": "MVSKGEELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSRTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEANTEMLYPADGGLEGRTVMALKLVGGGHLICNFKTTYRSKKPAKNLKMPGVYYVDHRLERIKEADKETYVEQHEVAVARYCDLPSKLGHKLNGMDELYK",
+    "ipg_id": "EU582019.1",
+    "genbank": "EU582019.1",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "super-tagrfp_default",
+            "name": "default",
+            "ex_max": 555,
+            "em_max": 579,
+            "ext_coeff": 113000,
+            "qy": 0.53,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 2.5,
+            "brightness": 59.89
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41467-020-15687-x"
+}

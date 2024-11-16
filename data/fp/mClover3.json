@@ -1,0 +1,28 @@
+{
+    "uuid": "RYFE4",
+    "name": "mClover3",
+    "slug": "mclover3",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTFGYGVACFSRYPDHMKQHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHYVYITADKQKNCIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSHQSKLSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mclover3_default",
+            "name": "default",
+            "ex_max": 506,
+            "em_max": 518,
+            "ext_coeff": 109000,
+            "qy": 0.78,
+            "pka": 6.5,
+            "maturation": 43.5,
+            "lifetime": 3.11,
+            "brightness": 85.02
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/srep20889"
+}

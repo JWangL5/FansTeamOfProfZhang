@@ -1,0 +1,28 @@
+{
+    "uuid": "DGXFA",
+    "name": "iRFP713",
+    "slug": "irfp713",
+    "seq": "MAEGSVARQPDLLTCDDEPIHIPGAIQPHGLLLALAADMTIVAGSDNLPELTGLAIGALIGRSAADVFDSETHNRLTIALAEPGAAVGAPITVGFTMRKDAGFIGSWHRHDQLIFLELEPPQRDVAEPQAFFRRTNSAIRRLQAAETLESACAAAAQEVRKITGFDRVMIYRFASDFSGEVIAEDRCAEVESKLGLHYPASTVPAQARRLYTINPVRIIPDINYRPVPVTPDLNPVTGRPIDLSFAILRSVSPVHLEFMRNIGMHGTMSISILRGERLWGLIVCHHRTPYYVDLDGRQACELVAQVLAWQIGVMEE",
+    "ipg_id": null,
+    "genbank": "AEL88490",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "irfp713_default",
+            "name": "default",
+            "ex_max": 690,
+            "em_max": 713,
+            "ext_coeff": 105000,
+            "qy": 0.06,
+            "pka": 4.0,
+            "maturation": 168.0,
+            "lifetime": null,
+            "brightness": 6.3
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt.1918"
+}

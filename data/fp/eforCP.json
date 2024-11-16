@@ -1,0 +1,30 @@
+{
+    "uuid": "TDA9A",
+    "name": "eforCP",
+    "slug": "eforcp",
+    "seq": "MSVIKQVMKTKLHLEGTVNGHDFTIEGKGEGKPYEGLQHMKMTVTKGAPLPFSVHILTPSHMYGSKPFNKYPADIPDYHKQSFPEGMSWERSMIFEDGGVCTASNHSSINLQENCFIYDVKFHGVNLPPDGPVMQKTIAGWEPSVETLYVRDGMLKSDTAMVFKLKGGGHHRVDFKTTYKAKKPVKLPEFHFVEHRLELTKHDKDFTTWDQQEAAEGHFSPLPKALP",
+    "ipg_id": "14926077",
+    "genbank": "ACD13196",
+    "uniprot": "B6CTZ7",
+    "pdb": [
+        "7SWT"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "eforcp_default",
+            "name": "default",
+            "ex_max": 589,
+            "em_max": 609,
+            "ext_coeff": 111300,
+            "qy": 0.16,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 17.81
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0002680"
+}

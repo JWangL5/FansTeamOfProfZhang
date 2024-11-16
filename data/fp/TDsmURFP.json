@@ -1,0 +1,28 @@
+{
+    "uuid": "MZOGH",
+    "name": "TDsmURFP",
+    "slug": "tdsmurfp",
+    "seq": "MAKTSEQRVNIATLLTENKKKIVDKASQDLWRRHPDLIAPGGIAFSQRDRALCLRDYGWFLHLITFCLLAGDKGPIESIGLISIREMYNSLGVPVPAMMESIRCLKEASLSLLDEEDANETAPYFDYIIKAMSGHGTGSTGSGSSGTASSEDNNMAMAKTSEQRVNIATLLTENKKKIVDKASQDLWRRHPDLIAPGGIAFSQRDRALCLRDYGWFLHLITFCLLAGDKGPIESIGLISIREMYNSLGVPVPAMMESIRCLKEASLSLLDEEDANETAPYFDYIIKAMS",
+    "ipg_id": null,
+    "genbank": "KX449135",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "td",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tdsmurfp_default",
+            "name": "default",
+            "ex_max": 642,
+            "em_max": 670,
+            "ext_coeff": 170000,
+            "qy": 0.18,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 30.6
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.3935"
+}

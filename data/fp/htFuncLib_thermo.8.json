@@ -1,0 +1,28 @@
+{
+    "uuid": "C4C4B",
+    "name": "htFuncLib_thermo.8",
+    "slug": "htfunclib_thermo8",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSYGVQCFCRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNINSHNVYIMPDKQNNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVLLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_thermo8_default",
+            "name": "default",
+            "ex_max": 400,
+            "em_max": 510,
+            "ext_coeff": null,
+            "qy": 0.73,
+            "pka": 4.57,
+            "maturation": null,
+            "lifetime": 0.96,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

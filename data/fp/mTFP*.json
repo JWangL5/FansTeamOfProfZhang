@@ -1,0 +1,30 @@
+{
+    "uuid": "3OSEV",
+    "name": "mTFP*",
+    "slug": "mtfp",
+    "seq": "MSGVIKPDMKIKLKMEGNVNGYAFVIEGEGEGKPYDGTNTINLEVKEGAPLPFSYDILTTAFAYGNRAFTKYPDDIPNYFKQSFPEGYSWERTMTFEDKGIVKVKSDISLEEDSFIYEIYLKGENFPPNGPVMQKKTTGWDASTERMYVRDGVLKGDVKHKLLLEGGGYYRVDFKTIYRAKKAVKLPDYHFVDHRIEILNYDKDYNKVTVYESAVARNSTD",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4Q9W"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mtfp_default",
+            "name": "default",
+            "ex_max": 468,
+            "em_max": 495,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/acscatal.9b02896"
+}

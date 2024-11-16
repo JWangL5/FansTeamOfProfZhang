@@ -1,0 +1,15 @@
+{
+    "uuid": "1GFQ1",
+    "name": "amilCP-Orange",
+    "slug": "amilcp-orange",
+    "seq": "MSVIAKQMTYKVYMSGTVNGHYFEVEGDGKGKPYEGEQTVKLTVTKGGPLPFAWDILSPQVGYGSIPFTKYPEDIPDYVKQSFPEGYTWERIMNFEDGAVCTVSNDSSIQGNCFIYHVKFSGLNFPPNGPVMQKKTQGWEPNTERLFARDGMLLGNNFMALKLEGGGHYLCEFKTTYKAKKPVKMPGYHYVDRKLDVTNHNKDYTSVEQCEISIARKPVVA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1186/s13036-018-0100-0"
+}

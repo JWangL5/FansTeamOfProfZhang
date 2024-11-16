@@ -1,0 +1,28 @@
+{
+    "uuid": "O3J17",
+    "name": "htFuncLib_slow.1",
+    "slug": "htfunclib_slow1",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPLLVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNFNSHNVYIMPDKQNNGIKVNFKTRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHHWTEPSKDPDEKRDHMVLLEFVEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_slow1_default",
+            "name": "default",
+            "ex_max": 506,
+            "em_max": 522,
+            "ext_coeff": null,
+            "qy": 0.62,
+            "pka": 5.62,
+            "maturation": null,
+            "lifetime": 1.68,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

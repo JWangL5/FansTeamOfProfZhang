@@ -1,0 +1,28 @@
+{
+    "uuid": "WQ5JF",
+    "name": "amilFP504",
+    "slug": "amilfp504",
+    "seq": "MSYSKQGIVQEMKTKYHMEGSVNGHEFTIEGVGTGYPYEGKQISELVIIKPAGKPLPFSFDILSSVFQYGNRCFTKYPADMPDYFKQAFPDGMSYERSFLFEDGAVATASWNIRLEGNCFIHKSIFHGVNFPADGPVMKKKTIDWDKSFEKMTVSKEVLRGDVTMFLMLEGGGSHRCQFHSTYKTEKPVTLPPNHVVEHQIVRTDLGQTAKGFTVKLEEHAAAHVSL",
+    "ipg_id": "4901501",
+    "genbank": "ABB17973",
+    "uniprot": "A8CLY3",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "amilfp504_default",
+            "name": "default",
+            "ex_max": 488,
+            "em_max": 504,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/jemt.20410"
+}

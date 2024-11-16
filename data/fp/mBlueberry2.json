@@ -1,0 +1,28 @@
+{
+    "uuid": "NYYN4",
+    "name": "mBlueberry2",
+    "slug": "mblueberry2",
+    "seq": "MVSKGEENNVAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFLFGSKVYIKHPADIPDYFKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGVFIYKVKLRGTNFPSDGPVMQKKTMGWEAFSERMYPEDGALKSEIKTRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVNIKLDIVSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mblueberry2_default",
+            "name": "default",
+            "ex_max": 402,
+            "em_max": 467,
+            "ext_coeff": 51000,
+            "qy": 0.48,
+            "pka": 2.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 24.48
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi700199g"
+}

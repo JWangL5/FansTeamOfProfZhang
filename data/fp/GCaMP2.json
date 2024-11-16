@@ -1,0 +1,31 @@
+{
+    "uuid": "JKD8V",
+    "name": "GCaMP2",
+    "slug": "gcamp2",
+    "seq": "MRGSHHHHHHGMASMTGGQQMGRDLYDDDDKDLATMVDSSRRKWNKTGHAVRAIGRLSSLENVYIMADKQKNGIKANFKIRHNIEDGGVQLAYHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYKGGTGGSMVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLGYGVQCFSRYPDHMKQHDFFKSAMPEGYIQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNTRDQLTEEQIAEFKEAFSLFDKDGDGGITTKQLGTVMRSLGQNPTEAELQDMINEVGADGNGTIDFPQFLTMMARKMKDTDSEEEIREAFRVFGKDGNGYISAAQLRHVMTNLGEKLTDEEVDEMIREAGIDGDGQVNYEQFVQMMTAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3EVR",
+        "3EKJ"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "gcamp2_default",
+            "name": "default",
+            "ex_max": 487,
+            "em_max": 508,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.0509378103"
+}

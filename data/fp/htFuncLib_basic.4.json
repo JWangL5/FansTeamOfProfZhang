@@ -1,0 +1,28 @@
+{
+    "uuid": "OHNCP",
+    "name": "htFuncLib_basic.4",
+    "slug": "htfunclib_basic4",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSYGVPCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKVRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNMNSHNVYIMPDKQNNGIKVNFKTRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVVLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_basic4_default",
+            "name": "default",
+            "ex_max": 464,
+            "em_max": 501,
+            "ext_coeff": null,
+            "qy": 0.26,
+            "pka": 6.2,
+            "maturation": null,
+            "lifetime": 0.95,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

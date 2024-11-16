@@ -1,0 +1,30 @@
+{
+    "uuid": "1NUNN",
+    "name": "AzamiRed1.0",
+    "slug": "azamired10",
+    "seq": "MVSVIKEEMKIKLRMEGTVNGHNFVIEGEGKGNPYEGTQTMDLKVTEGGPLPFAYDILSPQFMYGSKAFIKYPADIPDYFKQSFPEGFHWERVMTYEDGGVCTATQNTSLRGDCFFYDVRFDGVNFPPNGPVMQKKTLGWEPSTEKMYVRDGVLKGDVIKALLLEGGGHYRCDFKTTYKAKKDVRLPGYHFVDHRIEILKHDKDYNKVKQYENAVARYSMLPSQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "8I4K"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "azamired10_default",
+            "name": "default",
+            "ex_max": 571,
+            "em_max": 606,
+            "ext_coeff": 34100,
+            "qy": 0.65,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 22.16
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.2307687120"
+}

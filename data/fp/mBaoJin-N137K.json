@@ -1,0 +1,28 @@
+{
+    "uuid": "VBNF5",
+    "name": "mBaoJin-N137K",
+    "slug": "mbaojin-n137k",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mbaojin-n137k_default",
+            "name": "default",
+            "ex_max": 504,
+            "em_max": 510,
+            "ext_coeff": 72949,
+            "qy": 0.68,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 49.61
+        }
+    ],
+    "transitions": [],
+    "doi": "10.21203/rs.3.rs-3188559/v1"
+}

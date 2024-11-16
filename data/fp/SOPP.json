@@ -1,0 +1,28 @@
+{
+    "uuid": "VVQ8D",
+    "name": "SOPP",
+    "slug": "sopp",
+    "seq": "MEKSFVITDPRLPDNPIIFASDGFLELTEYSREEILGRNGRFLQGPETDQATVQKIRDAIRDQREITVQLINYTKSGKKFWNLLHLQPMRDQKGELQYFIGVLLDG",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sopp_default",
+            "name": "default",
+            "ex_max": 440,
+            "em_max": 487,
+            "ext_coeff": 14500,
+            "qy": 0.39,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.66
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/ja511940j"
+}

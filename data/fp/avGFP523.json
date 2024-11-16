@@ -1,0 +1,30 @@
+{
+    "uuid": "WPR7G",
+    "name": "avGFP523",
+    "slug": "avgfp523",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "1H6R"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "avgfp523_default",
+            "name": "default",
+            "ex_max": 512,
+            "em_max": 523,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": 6.05,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/emboj/20.21.5853"
+}

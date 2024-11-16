@@ -1,0 +1,28 @@
+{
+    "uuid": "NENVO",
+    "name": "CreiLOV",
+    "slug": "creilov",
+    "seq": "MAGLRHTFVVADATLPDCPLVYASEGFYAMTGYGPDEVLGHNARFLQGEGTDPKEVQKIRDAIKKGEACSVRLLNYRKDGTPFWNLLTVTPIKTPDGRVSKFVGVQVDVTSKTEGKALA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "creilov_default",
+            "name": "default",
+            "ex_max": 450,
+            "em_max": 495,
+            "ext_coeff": 12500,
+            "qy": 0.51,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 6.38
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/sb500237x"
+}

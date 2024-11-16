@@ -1,0 +1,28 @@
+{
+    "uuid": "PX32J",
+    "name": "iq-mCerulean3",
+    "slug": "iq-mcerulean3",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "iq-mcerulean3_default",
+            "name": "default",
+            "ex_max": 433,
+            "em_max": 474,
+            "ext_coeff": 27300,
+            "qy": 0.92,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 25.12
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0095808"
+}

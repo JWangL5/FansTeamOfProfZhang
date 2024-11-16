@@ -1,0 +1,28 @@
+{
+    "uuid": "S7VLN",
+    "name": "apulCP584",
+    "slug": "apulcp584",
+    "seq": "MSVIAKQMTYKVYMSGTVNGHYFEVEGDGKGKPYEGEQTVRLAVTKGGPLPFAWDILSPQCQYGSIPFTKYPEDIPDYVKQSFPEGYTWERIMNFEDGAVCTVSNDSSIQGNCFIYHVKFSGLNFPPNGPVMQKKTQGWEPNTERLFARDGMLIGNNFMALKLEGGGHYLCEFKSTYKAKKPVKMPGYHYVDRKLDVTNHNKDYTSVEQCEISIARKPVVA",
+    "ipg_id": "15616239",
+    "genbank": "ACH89425",
+    "uniprot": "B5T1L1",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "",
+    "states": [
+        {
+            "slug": "apulcp584_default",
+            "name": "default",
+            "ex_max": 584,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3354/meps07588"
+}

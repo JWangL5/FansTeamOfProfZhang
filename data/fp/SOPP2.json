@@ -1,0 +1,28 @@
+{
+    "uuid": "DVDZZ",
+    "name": "SOPP2",
+    "slug": "sopp2",
+    "seq": "MEKSFVITDPRLPDNPIIFASDGFLELTEYSREEILGRNGRFLQGPETDQATVQKIRDAIRDQREITVQLINYTKSGKKFLNLLHLQPMRDQKGELQYFIGVVLDG",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sopp2_default",
+            "name": "default",
+            "ex_max": 439,
+            "em_max": 491,
+            "ext_coeff": 14800,
+            "qy": 0.41,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 6.07
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/acs.jpcb.7b07831"
+}

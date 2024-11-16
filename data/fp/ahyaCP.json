@@ -1,0 +1,28 @@
+{
+    "uuid": "QSSEE",
+    "name": "ahyaCP",
+    "slug": "ahyacp",
+    "seq": "MSVIATQMTYKVYMSGTVNGHYFEVEGDGKGKPYEGEQTVRLTVTKGGPLPFAWDILSPQSQYGSIPFTKYPEDIPDYVKQSFPEGYTWERIMNFEDGAVCTVSNDSSIQGNCFIYHVKFSGLNFPPNGPVMQKKTQGWEPNTERLFARDGVLIGNNFMALKLEGGGHYLCEFKSTYKAKKPVKMPGYHFVDRKLDVTNHNKDYTSVEQREISIARKPVVA",
+    "ipg_id": "3620745",
+    "genbank": "AAU06855",
+    "uniprot": "Q66PU9",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "",
+    "states": [
+        {
+            "slug": "ahyacp_default",
+            "name": "default",
+            "ex_max": 580,
+            "em_max": null,
+            "ext_coeff": 132000,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0002680"
+}

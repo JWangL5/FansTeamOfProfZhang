@@ -1,0 +1,28 @@
+{
+    "uuid": "TPB93",
+    "name": "moxCerulean3",
+    "slug": "moxcerulean3",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFISTTGKLPVPWPTLVTTLSWGVQSFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNAIHGNVYITADKQKNGIKANFGLNCNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "moxcerulean3_default",
+            "name": "default",
+            "ex_max": 434,
+            "em_max": 474,
+            "ext_coeff": 41000,
+            "qy": 0.87,
+            "pka": null,
+            "maturation": 100.4,
+            "lifetime": null,
+            "brightness": 35.67
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/ncomms8670"
+}

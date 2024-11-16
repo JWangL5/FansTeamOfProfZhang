@@ -1,0 +1,28 @@
+{
+    "uuid": "2EG15",
+    "name": "miRFP713",
+    "slug": "mirfp713",
+    "seq": "MAEGSVARQPDLLTCDDEPIHIPGAIQPHGLLLALAADMTIVAGSDNLPELTGLAIGALIGRSAADVFDSETHNRLTIALAEPGAAVGAPITVGFTMRKDAGFIGSWHRHDQLIFLELEPPQRDVAEPQAFFRRTNSAIRRLQAAETLESACAAAAQEVRKITGFDRVMIYRFASDFSGEVIAEDRCAEVESKLGLHYPASTVPAQARRLYTINPVRIIPDINYRPVPVTPDLNPVTGRPIDLSFAILRSVSPVHLEFMRNIGMHGTMSISILRGERLWGLIVCHHRTPYYVDLDGRQACKRVAERLATQIGVMEE",
+    "ipg_id": null,
+    "genbank": "MN701054",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mirfp713_default",
+            "name": "default",
+            "ex_max": 690,
+            "em_max": 713,
+            "ext_coeff": 99000,
+            "qy": 0.07,
+            "pka": 3.5,
+            "maturation": null,
+            "lifetime": 0.89,
+            "brightness": 6.93
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41467-019-13897-6"
+}

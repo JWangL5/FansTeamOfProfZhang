@@ -1,0 +1,28 @@
+{
+    "uuid": "GJETS",
+    "name": "TagGFP2",
+    "slug": "taggfp2",
+    "seq": "MSGGEELFAGIVPVLIELDGDVHGHKFSVRGEGEGDADYGKLEIKFICTTGKLPVPWPTLVTTLCYGIQCFARYPEHMKMNDFFKSAMPEGYIQERTIQFQDDGKYKTRGEVKFEGDTLVNRIELKGKDFKEDGNILGHKLEYSFNSHNVYIRPDKANNGLEANFKTRHNIEGGGVQLADHYQTNVPLGDGPVLIPINHYLSTQTKISKDRNEARDHMVLLESFSACCHTHGMDELYR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "taggfp2_default",
+            "name": "default",
+            "ex_max": 483,
+            "em_max": 506,
+            "ext_coeff": 56500,
+            "qy": 0.6,
+            "pka": 4.7,
+            "maturation": 11.0,
+            "lifetime": 3.2,
+            "brightness": 33.9
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2008.08.006"
+}

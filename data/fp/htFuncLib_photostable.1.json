@@ -1,0 +1,28 @@
+{
+    "uuid": "K5XCR",
+    "name": "htFuncLib_photostable.1",
+    "slug": "htfunclib_photostable1",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLATTLSYGAQCFCRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNMNSHNIYIMPDKQNNGIKVNFKVRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVLLEFVEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_photostable1_default",
+            "name": "default",
+            "ex_max": 394,
+            "em_max": 505,
+            "ext_coeff": null,
+            "qy": 0.0,
+            "pka": 5.23,
+            "maturation": null,
+            "lifetime": 1.0,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

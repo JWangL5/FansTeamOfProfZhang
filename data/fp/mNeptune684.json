@@ -1,0 +1,28 @@
+{
+    "uuid": "Q8TQ6",
+    "name": "mNeptune684",
+    "slug": "mneptune684",
+    "seq": "MVSKGEELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTQRIKVVEGGPLPFAFDILATCFMYGSKTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEANTETLYPADGGLRGHNPMALKLVGGGHLICNLKTTYRSKKPAKNLKMPGVYFVDRRLERIKEADKETYVEQHEVAVARYCDLPSKLGHKLNGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mneptune684_default",
+            "name": "default",
+            "ex_max": 604,
+            "em_max": 684,
+            "ext_coeff": 39000,
+            "qy": 0.03,
+            "pka": 6.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 1.17
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0148749"
+}

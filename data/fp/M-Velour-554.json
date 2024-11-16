@@ -1,0 +1,28 @@
+{
+    "uuid": "WHKL9",
+    "name": "M-Velour-554",
+    "slug": "m-velour-554",
+    "seq": "MALFAKPMNHKTEITGEFNGKCFKVVGHGSAPGGGDFRMHAYCESGTLPVSWCVLSPSIQYGFSMFTKYPNGITNFFQEAFPEGYTLDRVMTRENGGSVVSHHSYDLGKDGITAKVSVKGEGFDPNGPTMTKGYLKVLPFVCHLYPHGAGVRMTTSVGMVKTDGSLDIFNVDSNYQPVGSRKVSVPKFHFVQHRIILMKDKSDTRDHIVMREIAVAQDPNEAQSAFRIA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "m-velour-554_default",
+            "name": "default",
+            "ex_max": 554,
+            "em_max": null,
+            "ext_coeff": 86000,
+            "qy": 0.001,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.09
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/pro.4285"
+}

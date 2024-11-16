@@ -1,0 +1,28 @@
+{
+    "uuid": "C7XMS",
+    "name": "meffCP",
+    "slug": "meffcp",
+    "seq": "MSVIAKQMTYKVYMSGTVNGHYFEVEGDGKGKPYEGEQTVKLTVTKGGPLPFAWDILSPLSQYGSIPFTKYPEDIPDYVKQSFPEGYTWERIMNFEDGAVCTVSNDSSIQGNCFIYNVKISGVNFPPNGPVMQKKTQGWEPNTERLFARDGMLIGNNFMALKLEGGGYYLCEFKSTYKAKKPVRMPGYHYVDRKLDVTSHNKDYTFVEQCEISIARHSLLG",
+    "ipg_id": "4901553",
+    "genbank": "ABB17950",
+    "uniprot": "A8CLM1",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "",
+    "states": [
+        {
+            "slug": "meffcp_default",
+            "name": "default",
+            "ex_max": 574,
+            "em_max": null,
+            "ext_coeff": 118300,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0002680"
+}

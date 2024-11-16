@@ -1,0 +1,28 @@
+{
+    "uuid": "6N98Z",
+    "name": "mcCFP",
+    "slug": "mccfp",
+    "seq": "MSVIKSVMKIKLRMDGIVNGHKFMITGEGEGKPFEGTHTIILKVKEGGPLPFAYDILTTAFQYGNRVFTKYPKDIPDYFKQSFPEGYSWERSMTFEDQGVCTVTSDIKLEGDCFFYEIRFYGVNFPSSGPVMQKKTLKWEPSTENMYVRDGVLLGDVSRTLLLEGDKHHRCNFRSTYGAKKGVVLPEYHFVDHRIEILSHDKDYNTVEVYENAVARPSMLPVKAK",
+    "ipg_id": "516570",
+    "genbank": "AAL17905",
+    "uniprot": "Q95UA7",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mccfp_default",
+            "name": "default",
+            "ex_max": 432,
+            "em_max": 477,
+            "ext_coeff": null,
+            "qy": 0.385,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 2.66,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.febslet.2004.06.043"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "ANK6E",
+    "name": "amFP495",
+    "slug": "amfp495",
+    "seq": "MALSNKFIGDDMKMTYHMDGCVNGHYFTVKGEGNGKPYEGTQTSTFKVTMANGGPLAFSFDILSTVFKYGNRCFTAYPTSMPDYFKQAFPDGMSYERTFTYEDGGVATASWEISLKGNCFEHKSTFHGVNFPADGPVMAKKTTGWDPSFEKMTVCDGILKGDVTAFLMLQGGGNYRCQFHTSYKTKKPVTMPPNHVVEHRIARTDLDKGGNSVQLTQHAVAHITSVVPF",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "amfp495_default",
+            "name": "default",
+            "ex_max": 467,
+            "em_max": 495,
+            "ext_coeff": null,
+            "qy": 0.08,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.0502250102"
+}

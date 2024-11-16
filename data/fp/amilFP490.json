@@ -1,0 +1,28 @@
+{
+    "uuid": "VAXZZ",
+    "name": "amilFP490",
+    "slug": "amilfp490",
+    "seq": "MSYSKQGIAQVMKTKYHMEGSVNGHEFTIEGVGTGNPYEGTQMSELVITKPAGKPLPFSFDILSTVFQYGNRCFTKYPEGMTDYFKQAFPDGMSFERSFLYEDGGVATASWNIRLERDCFIHKSIYHGVNFPADGPVMKKKTIGWDKAFEKMTVSKDVLRGDVTEFLMLEGGGYHSCQFHSTYKPEKPVTLPPNHVVEHHIVRTDLGQTAKGFTVKLEEHAAAHVNPLKVQ",
+    "ipg_id": "3620749",
+    "genbank": "AAU06849",
+    "uniprot": "Q66PV5",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "amilfp490_default",
+            "name": "default",
+            "ex_max": 424,
+            "em_max": 490,
+            "ext_coeff": 29500,
+            "qy": 0.9,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 26.55
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/jemt.20410"
+}

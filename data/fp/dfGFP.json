@@ -1,0 +1,28 @@
+{
+    "uuid": "P2PV8",
+    "name": "dfGFP",
+    "slug": "dfgfp",
+    "seq": "MASGRALFQYPMTSKIELNGEINGKKFKVAGEGFTPNSGRFNMHAYCTTGDLPMSWVVIASPLQYGFHMFAHYPEDITHFFQECFPGSYTLDRTLRMEGDGTLTTHHEYSLKDGCVTSKTTLNASGFDPKGATMTKSFVEQLPNQVEIFAEGNGIRLLSHVPYLKKDGTIQIGYQDCIVKPVGGKKVTQPKYHFLHTQIIQKKDPNDTRDHIVQTELAVAGNPWHEPSASAV",
+    "ipg_id": null,
+    "genbank": "BBC28143",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dfgfp_default",
+            "name": "default",
+            "ex_max": 505,
+            "em_max": 524,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": 3.8,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2017.12.005"
+}

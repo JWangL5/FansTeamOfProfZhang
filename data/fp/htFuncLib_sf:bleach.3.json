@@ -1,0 +1,28 @@
+{
+    "uuid": "EPJ8V",
+    "name": "htFuncLib_sf:bleach.3",
+    "slug": "htfunclib_sfbleach3",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFARYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEIKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNMNSHNVYITADKQKNGIKANFKVRHNVEDGSVQLADIYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVLLEFIVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_sfbleach3_default",
+            "name": "default",
+            "ex_max": 493,
+            "em_max": 511,
+            "ext_coeff": null,
+            "qy": 0.44,
+            "pka": 5.47,
+            "maturation": null,
+            "lifetime": 0.94,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

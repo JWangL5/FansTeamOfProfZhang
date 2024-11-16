@@ -1,0 +1,28 @@
+{
+    "uuid": "Q92FU",
+    "name": "hmKeima8.5",
+    "slug": "hmkeima85",
+    "seq": "MVSVIAEHMTYKVYMSGTVNGHYFEVEGDGEGKPYEGEQTVKLTVTKGGPLPFAWHILSPQLQYGSIPFTKYPADIPDYFKQSFPEGYTWVRSMNFEDGAVCTVSNDSSIRGNCFIYNVKISGENFPPNGPVMQKKTQGWEPSTERMFARDGMLIGNDHMALKLEGGGHYLCEFKSAYKARKPVRMPGLYEIDRKLDVTSHNRDYTSVEQREIAIARHPLLG",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "hmkeima85_default",
+            "name": "default",
+            "ex_max": 438,
+            "em_max": 612,
+            "ext_coeff": 32000,
+            "qy": 0.34,
+            "pka": 5.3,
+            "maturation": 228.0,
+            "lifetime": null,
+            "brightness": 10.88
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1091/mbc.e14-10-1473"
+}

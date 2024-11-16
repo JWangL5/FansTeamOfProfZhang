@@ -1,0 +1,28 @@
+{
+    "uuid": "K655P",
+    "name": "mBaoJin-V152E",
+    "slug": "mbaojin-v152e",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mbaojin-v152e_default",
+            "name": "default",
+            "ex_max": 498,
+            "em_max": 508,
+            "ext_coeff": 114146,
+            "qy": 0.61,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 69.63
+        }
+    ],
+    "transitions": [],
+    "doi": "10.21203/rs.3.rs-3188559/v1"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "K487K",
+    "name": "TurboGFP-V197L",
+    "slug": "turbogfp-v197l",
+    "seq": "LPAMEIECRITGTLNGVEFELVGGGEGTPEQGRMTNKMKSTKGALTFSPYLLSHVMGYGFYHFGTYPSGYENPFLHAINNGGYTNTRIEKYEDGGVLHVSFSYRYEAGRVIGDFKVMGTGFPEDSVIFTDKIIRSNATVEHLHPMGDNDLDGSFTRTFSLRDGGYYSSVVDSHMHFKSAIHPSILQNGGPMFAFRRLEEDHSNTELGIVEYQHAFKTPD",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "turbogfp-v197l_default",
+            "name": "default",
+            "ex_max": 482,
+            "em_max": 502,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/sj.embor.7400787"
+}

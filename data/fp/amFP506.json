@@ -1,0 +1,30 @@
+{
+    "uuid": "VQMW2",
+    "name": "amFP506",
+    "slug": "amfp506",
+    "seq": "MALSNKFIGDDMKMTYHMDGCVNGHYFTVKGEGNGKPYEGTQTSTFKVTMANGGPLAFSFDILSTVFKYGNRCFTAYPTSMPDYFKQAFPDGMSYERTFTYEDGGVATASWEISLKGNCFEHKSTFHGVNFPADGPVMAKKTTGWDPSFQKMTVCDGILKGDVTAFLMLQGGGNYRCQFHTSYKTKKPVTMPPNHVVEHRIARTDLDKGGNSVQLTEHAVAHITSVVPF",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2A48"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "amfp506_default",
+            "name": "default",
+            "ex_max": 483,
+            "em_max": 506,
+            "ext_coeff": null,
+            "qy": 0.67,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.0502250102"
+}

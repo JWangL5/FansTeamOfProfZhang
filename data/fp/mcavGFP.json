@@ -1,0 +1,28 @@
+{
+    "uuid": "1SBTT",
+    "name": "mcavGFP",
+    "slug": "mcavgfp",
+    "seq": "MTSVAQEKGVIKPDMKMKLRMEGAVNGHKFVVEGDGKGKPFDGTQTMDLTVIEGAPLPFAYDILTTVFDYGNRVFAKYPEDIADYFKQTFPEGYFWERSMTYEDQGICIATNDITMMEGVDDCFAYKIRFDGVNFPANGPVMQRKTLKWEPSTEIMYARDGVLKGDVNMALLLEGGGHYRCDFKTTYKAKKVVRLPDYHFVDHRIEIVSHDKDYNKVKLHEHAEARHGLSRKAK",
+    "ipg_id": "858488",
+    "genbank": "AAK71335",
+    "uniprot": "Q8T5F2",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcavgfp_default",
+            "name": "default",
+            "ex_max": 506,
+            "em_max": 516,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.062552299"
+}

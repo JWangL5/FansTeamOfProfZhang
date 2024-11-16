@@ -1,0 +1,28 @@
+{
+    "uuid": "5LPGL",
+    "name": "ShG24",
+    "slug": "shg24",
+    "seq": "MSKGEELFTGVVPILVELDGDVHGHKFSVRGEGEGDADYGKLEIKFICTTGKLPVPWPTLVTTLGYGILCFARYPEHMKMNDFFKSAMPEGYIQERTIFFQDDGKYKTRGEVKFEGDTLVNRIELKGMDFKEDGNILGHKLEYNFNSHNVYIMPDKANNGLKVNFKIRHNIEGGGVQLADHYQTNVPLGDGPVLIPINHYLSTQTAISKDRNETRDHMVFLEFFSACGHTHGMDELYK",
+    "ipg_id": "244048",
+    "genbank": "AAL33918",
+    "uniprot": "Q8WTC4",
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "shg24_default",
+            "name": "default",
+            "ex_max": 486,
+            "em_max": 506,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-006-6006-8"
+}

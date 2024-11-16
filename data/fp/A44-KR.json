@@ -1,0 +1,30 @@
+{
+    "uuid": "D77WT",
+    "name": "A44-KR",
+    "slug": "a44-kr",
+    "seq": "MEGGPALFQSDMTFKIFIDGEVNGQKFTIVADGSSKFPHGDFNAHAVCETGKLPMSWKPICHLIQYGEPFFARYPDGISHFAQECFPEGLSIDRTVRFENDGTMTSHHTYELDDTCVVSRITVNCDGFQPDGPIMRDQLVDILPNETHMFPHGPNAVRQLAFIGFTTADGGLMMGHFDSKMTFNGSRAIEIPGPHFVTIITKQMRDTSDKRDHVCQREVAYAHSVPRITSAIGSDED",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4B30"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "a44-kr_default",
+            "name": "default",
+            "ex_max": 397,
+            "em_max": 520,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/ja3073337"
+}

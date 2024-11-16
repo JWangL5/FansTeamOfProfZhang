@@ -1,0 +1,28 @@
+{
+    "uuid": "JF6E7",
+    "name": "McaG1ea",
+    "slug": "mcag1ea",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHKFVIEGDGKGKPFEGKQTMDLTVIEGAPLPFAYDILTTVFDYGNRVFAKYPKDIPDYFKQTFPEGYSWERSMTYEDQGICIATNDITMMKGVDDCFVYKIRFDGVNFPANGPVMQRKTLKWEPSTEKMYVRDGVLKGDVNMALLLEGGGHYRCDSKTTYKAKKVVQLPDYHFVDHRIEIGSPDKDYNKVKLYEHAEAHFGLPRQAK",
+    "ipg_id": "3612568",
+    "genbank": "AAU04447",
+    "uniprot": "Q66ND4",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcag1ea_default",
+            "name": "default",
+            "ex_max": 492,
+            "em_max": 514,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.cca.2004.07.002"
+}

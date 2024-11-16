@@ -1,0 +1,28 @@
+{
+    "uuid": "5YBHO",
+    "name": "ccalOFP1",
+    "slug": "ccalofp1",
+    "seq": "MSLSKQVLPRDVKMRFHMDGCVNGHSFTIEGEGTGKPYEGKKTLKLRVTKGGPLPFAFDILSATFTYGNRCFCDYPEEMPDYFKQSLPEGYSWERTMMYEDGACSTASAHISLDKDCFIHNSTFHGVNFPANGPVMQKKAMNWEPSSELITPCDGILKGDVTMFLLQEGGHRHKCQFTTSYKAHKAVKIPPNHIIEHRLVRKEVGDAVQIQEHAVAKHFTVQIKEA",
+    "ipg_id": "4535492",
+    "genbank": "AAZ14789",
+    "uniprot": "Q1ALD3",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ccalofp1_default",
+            "name": "default",
+            "ex_max": 508,
+            "em_max": 561,
+            "ext_coeff": 85000,
+            "qy": 0.52,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 44.2
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-007-9072-7"
+}

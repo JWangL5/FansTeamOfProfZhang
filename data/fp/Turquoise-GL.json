@@ -1,0 +1,30 @@
+{
+    "uuid": "KBERH",
+    "name": "Turquoise-GL",
+    "slug": "turquoise-gl",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYISGNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFLTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2YE1"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "turquoise-gl_default",
+            "name": "default",
+            "ex_max": 434,
+            "em_max": 474,
+            "ext_coeff": 30000,
+            "qy": 0.82,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 3.9,
+            "brightness": 24.6
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.1415"
+}

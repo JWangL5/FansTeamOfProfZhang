@@ -1,0 +1,28 @@
+{
+    "uuid": "8EDYL",
+    "name": "miniSOG2",
+    "slug": "minisog2",
+    "seq": "MEKSFVITDPRLPDNPIIFASDSFLELTEYSREEILGRNPRFLRGPETDQATVQKIHDAIRDQREITVQLINYTKSGKKFWNLFRLQPIRDQKGELQYFIGVQLDG",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "minisog2_default",
+            "name": "default",
+            "ex_max": 429,
+            "em_max": 507,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2016.12.010"
+}

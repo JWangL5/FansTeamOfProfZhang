@@ -1,0 +1,28 @@
+{
+    "uuid": "ASMG7",
+    "name": "gfasGFP",
+    "slug": "gfasgfp",
+    "seq": "MNVIKPDMKIKLCMRGTINGHNFVIEGEGKGNPYEGTQILDLNVTEGAPLPFAYDILTTVFQYGNRAFTKYPADIQDYFKQTFPEGYHWERSMTYEDQGICTATSNISMRGDCFFYDIRFDGVNFPPNGPVMQKKTLKWEPSTEKMYVRDGVLKGDVNMALLLEGGGHYRCDFKTTYKAKKDVRLPDYHFVDHRIEILKHDKDYNKVELYENAVARYSMLPSQAK",
+    "ipg_id": "4901546",
+    "genbank": "ABB17962",
+    "uniprot": "A8CLT2",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "gfasgfp_default",
+            "name": "default",
+            "ex_max": 492,
+            "em_max": 506,
+            "ext_coeff": 102500,
+            "qy": 0.73,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 74.83
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0002680"
+}

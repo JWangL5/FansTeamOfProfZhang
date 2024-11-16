@@ -1,0 +1,28 @@
+{
+    "uuid": "V81JD",
+    "name": "LSSA12",
+    "slug": "lssa12",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKLISTTGKLPVPWPTLVTTLSYGLMVFARYPDHMKQHDFFKSAMPEGYVQERTISFEDDGYYKTRAEVKFEGDTLVNRIVLKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNVEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSIESVLSKDPNEKRDHMVLKDFVTAAGITHDMNELYK",
+    "ipg_id": null,
+    "genbank": "OP373688",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "lssa12_default",
+            "name": "default",
+            "ex_max": 398,
+            "em_max": 511,
+            "ext_coeff": 38700,
+            "qy": 0.38,
+            "pka": 4.6,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 14.71
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41592-022-01660-7"
+}

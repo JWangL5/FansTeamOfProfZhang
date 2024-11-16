@@ -1,0 +1,28 @@
+{
+    "uuid": "1LB8K",
+    "name": "htFuncLib_sf:photostable.2",
+    "slug": "htfunclib_sfphotostable2",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLLTTLTYGVACFARYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNMNSHNVYITADKQKNGIKANFKTRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVVLEFIVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_sfphotostable2_default",
+            "name": "default",
+            "ex_max": 496,
+            "em_max": 511,
+            "ext_coeff": null,
+            "qy": 0.46,
+            "pka": 5.63,
+            "maturation": null,
+            "lifetime": 0.85,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

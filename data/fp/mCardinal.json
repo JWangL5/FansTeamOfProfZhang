@@ -1,0 +1,30 @@
+{
+    "uuid": "7EWEM",
+    "name": "mCardinal",
+    "slug": "mcardinal",
+    "seq": "MVSKGEELIKENMHMKLYMEGTVNNHHFKCTTEGEGKPYEGTQTQRIKVVEGGPLPFAFDILATCFMYGSKTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTVTQDTSLQDGCLIYNVKLRGVNFPSNGPVMQKKTLGWEATTETLYPADGGLEGRCDMALKLVGGGHLHCNLKTTYRSKKPAKNLKMPGVYFVDRRLERIKEADNETYVEQHEVAVARYCDLPSKLGHKLNGMDELYK",
+    "ipg_id": "49083567",
+    "genbank": "AHL19967",
+    "uniprot": null,
+    "pdb": [
+        "4OQW"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcardinal_default",
+            "name": "default",
+            "ex_max": 604,
+            "em_max": 659,
+            "ext_coeff": 87000,
+            "qy": 0.19,
+            "pka": 5.3,
+            "maturation": 27.0,
+            "lifetime": null,
+            "brightness": 16.53
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.2888"
+}

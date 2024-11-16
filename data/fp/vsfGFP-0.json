@@ -1,0 +1,30 @@
+{
+    "uuid": "BH9MB",
+    "name": "vsfGFP-0",
+    "slug": "vsfgfp-0",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVLLEFVTAAGIAQVQLVESGGALVQPGGSLRLSCAASGFPVNRYSMRWYRQAPGKEREWVAGMSSAGDRSSYEDSVKGRFTISRDDARNTVYLQMNSLKPEDTAVYYCNVNVGFEYWGQGTQVTVS",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4PFE"
+    ],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "vsfgfp-0_default",
+            "name": "default",
+            "ex_max": 485,
+            "em_max": 510,
+            "ext_coeff": 209916,
+            "qy": 0.76,
+            "pka": 4.84,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 159.54
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/anie.201506686"
+}

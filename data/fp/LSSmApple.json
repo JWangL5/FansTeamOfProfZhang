@@ -1,0 +1,28 @@
+{
+    "uuid": "JMXXU",
+    "name": "LSSmApple",
+    "slug": "lssmapple",
+    "seq": "MVSKGEENNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEAFQTAKLKVTKGGPLPFTWDILSPQFMYGSKVYIKHPADIPDYFKLSFPEGFRWERVMIFEDGGIIHVNQDSSLQDGVFIYKVKLRGTNFPSDGPVMQKKTMGLEACEERMYPEDGALKSEYKEWLKLKDGGHYAAEVKTTYKAKKPVQLPGAYIVDIKLDIVSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "lssmapple_default",
+            "name": "default",
+            "ex_max": 490,
+            "em_max": 600,
+            "ext_coeff": 45000,
+            "qy": 0.31,
+            "pka": 4.3,
+            "maturation": 110.0,
+            "lifetime": null,
+            "brightness": 13.95
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2023.07.16.549156"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "GSCT9",
+    "name": "moxNeonGreen",
+    "slug": "moxneongreen",
+    "seq": "MVSKGEEDNMASLPATHELHIFGSINGVDFDMVGQGTGNPNDGYEELNLKSTKGDLQFSPWILVPHIGYGFHQYLPYPDGMSPFQAAMVDGSGYQVHRTMQFEDGASLTVNYRYTYEGSHIKGEAQVKGTGFPADGPVMTNSLTAADWSRSKKTYPNDKTIISTFKWSYTTGNGKRYRSTARTTYTFAKPMAANYLKNQPMYVFRKTELKHSKTELNFKEWQKAFTDVMGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "moxneongreen_default",
+            "name": "default",
+            "ex_max": 505,
+            "em_max": 520,
+            "ext_coeff": 111000,
+            "qy": 0.74,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 82.14
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/ncomms8670"
+}

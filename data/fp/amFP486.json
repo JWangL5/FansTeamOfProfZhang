@@ -1,0 +1,30 @@
+{
+    "uuid": "1M48O",
+    "name": "amFP486",
+    "slug": "amfp486",
+    "seq": "MALSNKFIGDDMKMTYHMDGCVNGHYFTVKGEGNGKPYEGTQTSTFKVTMANGGPLAFSFDILSTVFKYGNRCFTAYPTSMPDYFKQAFPDGMSYERTFTYEDGGVATASWEISLKGNCFEHKSTFHGVNFPADGPVMAKKTTGWDPSFEKMTVCDGILKGDVTAFLMLQGGGNYRCQFHTSYKTKKPVTMPPNHVVEHRIARTDLDKGGNSVQLTEHAVAHITSVVPF",
+    "ipg_id": "1173879",
+    "genbank": "AAF03371",
+    "uniprot": "Q9U6Y6",
+    "pdb": [
+        "2A46"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "amfp486_default",
+            "name": "default",
+            "ex_max": 458,
+            "em_max": 486,
+            "ext_coeff": 40000,
+            "qy": 0.24,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 9.6
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/13657"
+}

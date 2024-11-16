@@ -1,0 +1,30 @@
+{
+    "uuid": "7ZG25",
+    "name": "sg25",
+    "slug": "sg25",
+    "seq": "MASKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLCYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKTRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "1EMK"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sg25_default",
+            "name": "default",
+            "ex_max": 474,
+            "em_max": 506,
+            "ext_coeff": 26200,
+            "qy": 0.76,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 19.91
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nsb0597-361"
+}

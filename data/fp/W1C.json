@@ -1,0 +1,28 @@
+{
+    "uuid": "8RSXF",
+    "name": "W1C",
+    "slug": "w1c",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFAWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYISHNVYITADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "w1c_default",
+            "name": "default",
+            "ex_max": 435,
+            "em_max": 495,
+            "ext_coeff": 21200,
+            "qy": 0.39,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 8.27
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1146/annurev.biochem.67.1.509"
+}

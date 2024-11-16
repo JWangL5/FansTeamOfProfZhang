@@ -1,0 +1,30 @@
+{
+    "uuid": "QEO8D",
+    "name": "mRojoA",
+    "slug": "mrojoa",
+    "seq": "MVSKGEEDNMAIIKEFMRFKTHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLHGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEIKLRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNANYKLDITSHNEDYTIVEQYERCEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3NEZ"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mrojoa_default",
+            "name": "default",
+            "ex_max": 597,
+            "em_max": 633,
+            "ext_coeff": 48000,
+            "qy": 0.02,
+            "pka": 5.4,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.96
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.1013910107"
+}

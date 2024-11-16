@@ -1,0 +1,28 @@
+{
+    "uuid": "87PXJ",
+    "name": "amilCP580",
+    "slug": "amilcp580",
+    "seq": "MSVIAKQMTYKVYMSGTVNGHYFEVEGDGKGKPYEGEQTVKLTVTKGGPLPFAWDILSPQSQYGSIPFTKYPEDIPDYVKQSFPEGYTWERIMNFEDGAVCTVSNDSSIQGNCFIYHVKFSGLNFPPNGPVMQKKTQGWEPNTERLFARDGMLIGNNFMALKLEGGGHYLCEFKSTYKAKKPVKMPGYHYVDRKLDVTNHNKDYTSVEQREISIARKPVVA",
+    "ipg_id": "34398772",
+    "genbank": "AGH32877",
+    "uniprot": "M4R4D0",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "",
+    "states": [
+        {
+            "slug": "amilcp580_default",
+            "name": "default",
+            "ex_max": 580,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s00338-012-0994-9"
+}

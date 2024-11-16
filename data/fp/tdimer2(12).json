@@ -1,0 +1,28 @@
+{
+    "uuid": "9FQLJ",
+    "name": "tdimer2(12)",
+    "slug": "tdimer212",
+    "seq": "MVASSEDVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFQYGSKAYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGTLIYKVKFRGTNFPPDGPVMQKKTMGWEASTERLYPRDGVLKGEIHQALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDTKLDITSHNEDYTIVEQYERSEGRHHLFLGHGTGSTGSGSSGTASSEDVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFQYGSKAYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGTLIYKVKFRGTNFPPDGPVMQKKTMGWEASTERLYPRDGVLKGEIHQALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDTKLDITSHNEDYTIVEQYERSEGRHHLFL",
+    "ipg_id": "1198631",
+    "genbank": "AAM54543",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "td",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tdimer212_default",
+            "name": "default",
+            "ex_max": 552,
+            "em_max": 579,
+            "ext_coeff": 120000,
+            "qy": 0.68,
+            "pka": 4.8,
+            "maturation": 120.0,
+            "lifetime": null,
+            "brightness": 81.6
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.082243699"
+}

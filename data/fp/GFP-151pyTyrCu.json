@@ -1,0 +1,30 @@
+{
+    "uuid": "L1JAY",
+    "name": "GFP-151pyTyrCu",
+    "slug": "gfp-151pytyrcu",
+    "seq": "MSKGAELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSYGVQCFSRYPDHMKAHDFFKSAMPEGYVQERTISFKDDGNYKTRAEVKFEGDTLVNRIALKGIDFKEAGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNIADGSVQLADHYQQNTPIGAGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDEAYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4GF6"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "gfp-151pytyrcu_default",
+            "name": "default",
+            "ex_max": 375,
+            "em_max": 510,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/anie.201204962"
+}

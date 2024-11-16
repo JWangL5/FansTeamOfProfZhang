@@ -1,0 +1,28 @@
+{
+    "uuid": "N3G27",
+    "name": "iRFP682",
+    "slug": "irfp682",
+    "seq": "MAEGSVARQPDLLTCDDEPIHIPGAIQPHGLLLALAADMTIVAGSDNLPELTGLAIGALIGRSAADVFDSETHNRLTIALAEPGAAVGAPITVGFTMRKDAGFIGSWHRHDQLIFLELEPPQRDVAEPQAFFRRTNSAIRRLQAAETLESACAAAAQEVRKITGFDRVMIYRFASDFSGVVIAEDRCAEVESKLGLHYPASAVPAQARRLYTINPVRIIPDINYRPVPVTPDLNPVTGRPIDLSFAILRSVSPCHLEFMRNIGMHGTMSISILRGERLWGLIVCHHRTPYYVDLDGRQACELVAQVLAWQIGVMEE",
+    "ipg_id": null,
+    "genbank": "AGN32864",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "irfp682_default",
+            "name": "default",
+            "ex_max": 663,
+            "em_max": 682,
+            "ext_coeff": 90000,
+            "qy": 0.11,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": 0.95,
+            "brightness": 9.9
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.2521"
+}

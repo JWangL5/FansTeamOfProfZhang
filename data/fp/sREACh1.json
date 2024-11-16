@@ -1,0 +1,28 @@
+{
+    "uuid": "2A3U4",
+    "name": "sREACh1",
+    "slug": "sreach1",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKLICTTGKLPVPWPTLVTTFGYGLMCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYAWPVVNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sreach1_default",
+            "name": "default",
+            "ex_max": 518,
+            "em_max": 530,
+            "ext_coeff": 114000,
+            "qy": 0.03,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 3.42
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41598-017-07002-4"
+}

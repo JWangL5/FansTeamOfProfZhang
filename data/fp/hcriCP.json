@@ -1,0 +1,28 @@
+{
+    "uuid": "8OX5S",
+    "name": "hcriCP",
+    "slug": "hcricp",
+    "seq": "MAGLLKESMRIKMYMEGTVNGHYFKCEGEGDGNPFTGTQSMRIHVTEGAPLPFAFDILAPCCEYGSRTFVHHTAEIPDFFKQSFPEGFTWERTTTYEDGGILTAHQDTSLEGNCLIYKVKVLGTNFPADGPVMKNKSGGWEPCTEVVYPENGVLCGRNVMALKVGDRRLICHLYTSYRSKKAVRALTMPGFHFTDIRLQMPRKKKDEYFELYEASVARYSDLPEKAN",
+    "ipg_id": "1141167",
+    "genbank": "AAL27538",
+    "uniprot": "Q95W85",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "",
+    "states": [
+        {
+            "slug": "hcricp_default",
+            "name": "default",
+            "ex_max": 578,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/s0014-5793(01)02930-1"
+}

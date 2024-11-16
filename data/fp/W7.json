@@ -1,0 +1,28 @@
+{
+    "uuid": "ZVV1B",
+    "name": "W7",
+    "slug": "w7",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSWGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYISHNVYITADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPKEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "w7_default",
+            "name": "default",
+            "ex_max": 433,
+            "em_max": 475,
+            "ext_coeff": 18000,
+            "qy": 0.67,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 12.06
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/s0960-9822(02)00450-5"
+}

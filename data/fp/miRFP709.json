@@ -1,0 +1,28 @@
+{
+    "uuid": "Q6V69",
+    "name": "miRFP709",
+    "slug": "mirfp709",
+    "seq": "MVAGHASGSPAFGTASHSNCEHEEIHLAGSIQPHGALLVVSEHDHRVIQASANAAEFLNLGSVLGVPLAEIDGDLLIKILPHLDPTAEGMPVAVRCRIGNPSTEYCGLMHRPPEGGLIIELERAGPSIDLSGTLAPALERIRTAGSLRALCDDTVLLFQQCTGYDRVMVYRFDEQGHGLVFSECHVPGLESYFGNRYPSSFIPQMARQLYVRQRVRVLVDVTYQPVPLEPRLSPLTGRDLDMSGCFLRSMSPIHLQFLKDMGVRATLAVSLVVGGKLWGLVVCHHYLPRFIRFELRAICKRLAERIATRITALES",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mirfp709_default",
+            "name": "default",
+            "ex_max": 683,
+            "em_max": 709,
+            "ext_coeff": 78400,
+            "qy": 0.054,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 4.23
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/ncomms12405"
+}

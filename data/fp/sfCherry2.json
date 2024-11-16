@@ -1,0 +1,15 @@
+{
+    "uuid": "UHMHB",
+    "name": "sfCherry2",
+    "slug": "sfcherry2",
+    "seq": "EEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGHPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFTWERVMNFEDGGVVTVTQDSSLQDGQFIYKVKLLGINFPSDGPVMQKKTMGWEASTERMYPEDGALKGEINQRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVDIKLDITSHNEDYTIVEQYERAEARHST",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1038/s41467-017-00494-8"
+}

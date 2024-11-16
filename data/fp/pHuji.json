@@ -1,0 +1,28 @@
+{
+    "uuid": "SS15T",
+    "name": "pHuji",
+    "slug": "phuji",
+    "seq": "MVSKGEENNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEAFQTAKLKVTKGGPLPFAWDILSPQFMYGSKVYIKHPADIPDYFKLSFPEGFRWERVMNFEDGGIIHVNQDSSLQDGVFIYKVKLRGTNFPSDGPVMQKKTMGWEASEERMYPEDGALYSEIKKRLKLKDGGHYAAEVKTTYKAKKPVQLPGAYIVDIKLDIVSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "phuji_default",
+            "name": "default",
+            "ex_max": 566,
+            "em_max": 598,
+            "ext_coeff": 31000,
+            "qy": 0.22,
+            "pka": 7.7,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 6.82
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1083/jcb.201404107"
+}

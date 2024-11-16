@@ -1,0 +1,28 @@
+{
+    "uuid": "C2N5S",
+    "name": "TagRFP657",
+    "slug": "tagrfp657",
+    "seq": "MSELITENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTQRIKVVEGGPLPFAFDILATSFMYGSHTFINHTQGIPDFWKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEAHTEMLYPADGGLEGRTALALKLVGGGHLICNFKTTYRSKKPAKNLKMPGVYYVDYRLERIKEADKETYVEQHEVAVARYCDLPSKLGHKLN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tagrfp657_default",
+            "name": "default",
+            "ex_max": 611,
+            "em_max": 657,
+            "ext_coeff": 34000,
+            "qy": 0.1,
+            "pka": 5.0,
+            "maturation": 125.0,
+            "lifetime": null,
+            "brightness": 3.4
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.bpj.2010.04.025"
+}

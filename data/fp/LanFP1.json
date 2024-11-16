@@ -1,0 +1,28 @@
+{
+    "uuid": "T9CO9",
+    "name": "LanFP1",
+    "slug": "lanfp1",
+    "seq": "MPLPATHDIHLHGSINGHEFDMVGGGKGDPNAGSLVTTAKSTKGALKFSPYLMIPHLGYGYYQYLPYPDGPSPFQASMLEGSGYAVYRVFDFEDGGKLTTEFKYSYEGSHIKADMKLMGSGFPDDGPVMTSQIVDQDGCVSKKTYLNNNTIVDSFDWSYNLQNGKRYRARVSSHYIFDKPFSADLMKKQPVFVYRKCHVKASKTEVTLDEREKAFYELAG",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "lanfp1_default",
+            "name": "default",
+            "ex_max": 500,
+            "em_max": 510,
+            "ext_coeff": 53000,
+            "qy": 0.57,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 30.21
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1186/1745-6150-3-28"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "THSBS",
+    "name": "mScarlet-I3",
+    "slug": "mscarlet-i3",
+    "seq": "MDSTEAVIKEFMRFKVHMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFSWDILSPQFMYGSRAFIKHPADIPDYWKQSFPEGFKWERVMIFEDGGTVSVTQDTSLEDGTLIYKVKLRGGNFPPDGPVMQKRTMGWEASTERLYPEDVVLKGDIKMALRLKDGGRYLADFKTTYKAKKPVQMPGAFNIDRKLDITSHNEDYTVVEQYERSVARHSTGGSGGS",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mscarlet-i3_default",
+            "name": "default",
+            "ex_max": 568,
+            "em_max": 592,
+            "ext_coeff": 105000,
+            "qy": 0.65,
+            "pka": 4.2,
+            "maturation": 2.0,
+            "lifetime": 3.6,
+            "brightness": 68.25
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41592-023-01809-y"
+}

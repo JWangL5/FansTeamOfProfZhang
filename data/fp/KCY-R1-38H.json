@@ -1,0 +1,28 @@
+{
+    "uuid": "JWC7O",
+    "name": "KCY-R1-38H",
+    "slug": "kcy-r1-38h",
+    "seq": "DPTMVSVIKPEMKMRYYMDGSVNGHEFTVEGEGTGRPYEGKHKITLDVTKGGPLPFAFDLLSTVFSYGNRALTKYPDDIPDYFKQCFPGGYSWERKFEFEDGGLAIAKAEISLKGNCFEHKSTIEGTFPDSSPIMQNKTLGWEPSTEKMTVRDGSMKGDDASYLKLVGGGNHKCYFTTTYTAKKKIPNLPGSHFIGHRISSVVEGTKIKVMEDAIAHLYPFNGS",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "kcy-r1-38h_default",
+            "name": "default",
+            "ex_max": 459,
+            "em_max": 489,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi801658p"
+}

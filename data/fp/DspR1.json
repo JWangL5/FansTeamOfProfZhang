@@ -1,0 +1,28 @@
+{
+    "uuid": "9T6B1",
+    "name": "DspR1",
+    "slug": "dspr1",
+    "seq": "MSCSKNVIKEFMRFKVRMEGTVNGHEFEIEGEGEGRPYEGHNTVKLKVTKGGPLPFAWDILSPQFQYGSKVYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVTQDPSLQDGCFIYKVKFIGVNFPSDGPVMQKKTMGWEASTERLYPRDGVLKGEIHKALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDSKLDITSHNKDYTIVEQYERTEGRHHLFLKAELGSNVGER",
+    "ipg_id": "3612583",
+    "genbank": "AAU04443",
+    "uniprot": "Q66ND8",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dspr1_default",
+            "name": "default",
+            "ex_max": 556,
+            "em_max": 582,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.cca.2004.07.002"
+}

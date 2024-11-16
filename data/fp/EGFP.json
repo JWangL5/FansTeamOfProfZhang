@@ -1,0 +1,31 @@
+{
+    "uuid": "R9NL8",
+    "name": "EGFP",
+    "slug": "egfp",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": "928978",
+    "genbank": "AAB02572",
+    "uniprot": "C5MKY7",
+    "pdb": [
+        "2Y0G",
+        "4EUL"
+    ],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "egfp_default",
+            "name": "default",
+            "ex_max": 488,
+            "em_max": 507,
+            "ext_coeff": 55900,
+            "qy": 0.6,
+            "pka": 6.0,
+            "maturation": 25.0,
+            "lifetime": 2.6,
+            "brightness": 33.54
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/0378-1119(95)00685-0"
+}

@@ -1,0 +1,30 @@
+{
+    "uuid": "6VP2A",
+    "name": "SHardonnay",
+    "slug": "shardonnay",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFGYGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSFQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3V3D"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "shardonnay_default",
+            "name": "default",
+            "ex_max": 511,
+            "em_max": 530,
+            "ext_coeff": 89000,
+            "qy": 0.75,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 3.4,
+            "brightness": 66.75
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/ja400098b"
+}

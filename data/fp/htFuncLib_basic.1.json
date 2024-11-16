@@ -1,0 +1,28 @@
+{
+    "uuid": "M2CL2",
+    "name": "htFuncLib_basic.1",
+    "slug": "htfunclib_basic1",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLATTLSYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNINSHNVYIMPDKQNNGIKVNFKTRHNIEDGSVQLADIYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVLLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_basic1_default",
+            "name": "default",
+            "ex_max": 467,
+            "em_max": 507,
+            "ext_coeff": null,
+            "qy": 0.0,
+            "pka": 7.28,
+            "maturation": null,
+            "lifetime": 0.73,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "5YCFA",
+    "name": "mRFP1",
+    "slug": "mrfp1",
+    "seq": "MASSEDVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFQYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASTERMYPEDGALKGEIKMRLKLKDGGHYDAEVKTTYMAKKPVQLPGAYKTDIKLDITSHNEDYTIVEQYERAEGRHSTGA",
+    "ipg_id": "570910",
+    "genbank": "CAH64892",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mrfp1_default",
+            "name": "default",
+            "ex_max": 584,
+            "em_max": 607,
+            "ext_coeff": 50000,
+            "qy": 0.25,
+            "pka": 4.5,
+            "maturation": 60.0,
+            "lifetime": null,
+            "brightness": 12.5
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.082243699"
+}

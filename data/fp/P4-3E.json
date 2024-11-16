@@ -1,0 +1,28 @@
+{
+    "uuid": "LKB4E",
+    "name": "P4-3E",
+    "slug": "p4-3e",
+    "seq": "ASKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSHGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYIMADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "p4-3e_default",
+            "name": "default",
+            "ex_max": 384,
+            "em_max": 448,
+            "ext_coeff": 22000,
+            "qy": 0.27,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.94
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/s0091-679x(08)61946-9"
+}

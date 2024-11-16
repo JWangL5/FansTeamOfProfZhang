@@ -1,0 +1,15 @@
+{
+    "uuid": "V88Y3",
+    "name": "Chronos",
+    "slug": "chronos",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": "KF992040",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1038/nmeth.2836"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "HKDXH",
+    "name": "Jred",
+    "slug": "jred",
+    "seq": "MDEDGSEGGPALFQSDMTFKIFIDGEVNGQKFTIVADGSSKFPHGDFNVHAVCETGKLPMSWKPICHLIQYGEPFFARYPNGISHFAQECFPEGLSIDRTVRFENDGTMTSHHTYELDGTCVVSRITVNCDGFQPDGPIMRDQLVDILPNETHMFPHGPNAVRQLAFIGFTTADGGLMMGHFDSKMTFNGSRAIKIPGPHFVTIITKQMRDTSDKRDHVCQREVTYAHSVPRITSAIGSDEDSGLRSRAQASNSAVDGTAGPGSTGSR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "jred_default",
+            "name": "default",
+            "ex_max": 584,
+            "em_max": 610,
+            "ext_coeff": 44000,
+            "qy": 0.2,
+            "pka": 5.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 8.8
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/molbev/msh079"
+}

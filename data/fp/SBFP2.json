@@ -1,0 +1,28 @@
+{
+    "uuid": "J325F",
+    "name": "SBFP2",
+    "slug": "sbfp2",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSHGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": "6755367",
+    "genbank": "ABM97857",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sbfp2_default",
+            "name": "default",
+            "ex_max": 380,
+            "em_max": 446,
+            "ext_coeff": 34000,
+            "qy": 0.47,
+            "pka": 5.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 15.98
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi0622874"
+}

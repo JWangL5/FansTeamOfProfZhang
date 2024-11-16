@@ -1,0 +1,28 @@
+{
+    "uuid": "P4KRD",
+    "name": "mRFP1-Q66T",
+    "slug": "mrfp1-q66t",
+    "seq": "MASSEDVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFTYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASTERMYPEDGALKGEIKMRLKLKDGGHYDAEVKTTYMAKKPVQLPGAYKTDIKLDITSHNEDYTIVEQYERAEGRHSTGA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mrfp1-q66t_default",
+            "name": "default",
+            "ex_max": 549,
+            "em_max": 570,
+            "ext_coeff": 38100,
+            "qy": 0.43,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 16.38
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth901"
+}

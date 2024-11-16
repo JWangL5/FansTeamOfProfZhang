@@ -1,0 +1,28 @@
+{
+    "uuid": "9PWLU",
+    "name": "mc3",
+    "slug": "mc3",
+    "seq": "MTSVAQEKGVIKPDMKMKLRMEGAVNGHKFVIEGDGKGKPFDGTQTMDLTVIEGAPLPFAYDILTTVFDYGNRVFAKYPEDIADYFKQTFPEGYFWERSMTYEDQGICIATNDITMMKGVDDCFVYKIRFDGVNFPANGPVMQRKTLKWEPSTEIMYVRDGVLKGDVNMALLLEGGGHYRCDFKTTYKAKKVVRLPDYHFVDHRIEIVSHDKDYNKVKLHEHAEARHGLSRKAK",
+    "ipg_id": "1678569",
+    "genbank": "AAO61600",
+    "uniprot": "Q7Z0W7",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mc3_default",
+            "name": "default",
+            "ex_max": 505,
+            "em_max": 515,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/molbev/msg130"
+}

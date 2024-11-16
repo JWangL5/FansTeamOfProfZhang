@@ -1,0 +1,28 @@
+{
+    "uuid": "DJL91",
+    "name": "shCP-T194I",
+    "slug": "shcp-t194i",
+    "seq": "MAGLLKESMRIKMDMEGTVNGHYFKCEGEGDGNPFTGTQSMRIHVTEGAPLPFAFDILAPCCEYGSRTFIHHTAGIPDFFKQSFPEGFTWERTTTYEDGGILTAHQDTSLEGNCLIYKVKVLGTNFPADGPVMKNKSEGWEPCTEVVYPDNGVLCGRNVMALKVGDRRLICHLYSSYKSKKAIRALTMPGFHFIDIRLQMPRKKKDEYFELYEASVARYSDLPEKAN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "shcp-t194i_default",
+            "name": "default",
+            "ex_max": 577,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-014-9563-2"
+}

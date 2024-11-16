@@ -1,0 +1,28 @@
+{
+    "uuid": "CZPVJ",
+    "name": "HriCFP",
+    "slug": "hricfp",
+    "seq": "MPRISDKLMKTRWRGFHSIPSIPPDLGGIYGIGEKTSRRKTTEHLYTGRAKDIKSRLMKHKYGHQAIDRKIRSNIKQKKLSDLRFKFVEERNHKAKEGLAIEGLKKKLGYAPRFNLRKGDGLRPRKSQDHKKKG",
+    "ipg_id": "14277910",
+    "genbank": "ABZ11027",
+    "uniprot": "B0ZZ78",
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "hricfp_default",
+            "name": "default",
+            "ex_max": 450,
+            "em_max": 495,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.bbrc.2010.04.136"
+}

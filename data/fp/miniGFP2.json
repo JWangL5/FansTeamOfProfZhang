@@ -1,0 +1,28 @@
+{
+    "uuid": "UVP48",
+    "name": "miniGFP2",
+    "slug": "minigfp2",
+    "seq": "MEKSFVITDPWLPDYPIISASDGFLELTEYSRDEIMGRNARFLQGPETDQATVQKIRDAIRDRRPTTVQLINYTKSGKKFWNLLHLQPVFDGKGGLQYFIGVQLVGSDHV",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "minigfp2_default",
+            "name": "default",
+            "ex_max": 450,
+            "em_max": 499,
+            "ext_coeff": 16200,
+            "qy": 0.32,
+            "pka": 4.4,
+            "maturation": null,
+            "lifetime": 4.54,
+            "brightness": 5.18
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3389/fbioe.2022.1039317"
+}

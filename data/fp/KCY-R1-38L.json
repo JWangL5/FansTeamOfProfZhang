@@ -1,0 +1,28 @@
+{
+    "uuid": "GR6FV",
+    "name": "KCY-R1-38L",
+    "slug": "kcy-r1-38l",
+    "seq": "DPTMVSVIKPEMKMRYYMDGSVNGHEFTVEGEGTGRPYEGKLKITLDVTKGGPLPFAFDLLSTVFSYGNRALTKYPDDIPDYFKQCFPGGYSWERKFEFEDGGLAIAKAEISLKGNCFEHKSTIEGTFPDSSPIMQNKTLGWEPSTEKMTVRDGSMKGDDASYLKLVGGGNHKCYFTTTYTAKKKIPNLPGSHFIGHRISSVVEGTKIKVMEDAIAHLYPFNGS",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "kcy-r1-38l_default",
+            "name": "default",
+            "ex_max": 467,
+            "em_max": 496,
+            "ext_coeff": 13000,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi801658p"
+}

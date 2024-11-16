@@ -1,0 +1,28 @@
+{
+    "uuid": "DH5VX",
+    "name": "aceGFP-G222E-Y220L",
+    "slug": "acegfp-g222e-y220l",
+    "seq": "MSKGAELFTGIVPILIELNGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSYGVQCFSRYPDHMKQHDFFKSAMPEGYIQERTIFFEDDGNYKSRAEVKFEGDTLVNRIELTGTDFKEDGNILGNKMEYNYNAHNVYIMTDKAKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMILFEFVTAAAITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "acegfp-g222e-y220l_default",
+            "name": "default",
+            "ex_max": 396,
+            "em_max": 508,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1074/jbc.m109.092320"
+}

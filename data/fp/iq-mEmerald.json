@@ -1,0 +1,28 @@
+{
+    "uuid": "7G47U",
+    "name": "iq-mEmerald",
+    "slug": "iq-memerald",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNHHKVYITADKQKNGIKVNFKTRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLHTHSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "iq-memerald_default",
+            "name": "default",
+            "ex_max": 482,
+            "em_max": 509,
+            "ext_coeff": 50400,
+            "qy": 0.67,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 33.77
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0095808"
+}

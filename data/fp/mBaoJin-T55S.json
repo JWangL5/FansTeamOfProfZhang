@@ -1,0 +1,28 @@
+{
+    "uuid": "KEBCT",
+    "name": "mBaoJin-T55S",
+    "slug": "mbaojin-t55s",
+    "seq": "MVSKGEEENMASTPFKFQLKGTINGKSFTVEGEGEGNSHEGSHKGKYVCTSGKLPMSWAALGTSFGYGMKYYTKYPSGLKNWFREVMPGGFTYDRHIQYKGDGSIHAKHQHFMKNGTYHNIVEFTGQDFKENSPVLTGDMNVSLPNEVPQIPRDDGVECPVTLLYPLLSDKSKYVEAHQYTICKPLHNQPAPDVPYHWIRKQYTQSKDDAEERDHICQSETLEAHLKGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mbaojin-t55s_default",
+            "name": "default",
+            "ex_max": 497,
+            "em_max": 508,
+            "ext_coeff": 127000,
+            "qy": 0.86,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 109.22
+        }
+    ],
+    "transitions": [],
+    "doi": "10.21203/rs.3.rs-3188559/v1"
+}

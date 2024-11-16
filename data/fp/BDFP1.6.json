@@ -1,0 +1,28 @@
+{
+    "uuid": "QNYK6",
+    "name": "BDFP1.6",
+    "slug": "bdfp16",
+    "seq": "MANREVVETLKELLADGEKRVQVAGVIGTNAAEVVKTAVSLLFQEYPELVSPGGCAYTTRRYNMCVRDMNYFLRMCSYAIVAGGASVLDGRMLAGFRDTFNSLGIPLCPAARGIQLMKKIVKEKLATAGMTNIAFVDEPFDYIARVISETEI",
+    "ipg_id": null,
+    "genbank": "MG727536",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "bdfp16_default",
+            "name": "default",
+            "ex_max": 642,
+            "em_max": 666,
+            "ext_coeff": 100000,
+            "qy": 0.197,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 19.7
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.bbamcr.2018.08.015"
+}

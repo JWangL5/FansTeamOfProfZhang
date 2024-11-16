@@ -1,0 +1,28 @@
+{
+    "uuid": "VAFG4",
+    "name": "amilCP586",
+    "slug": "amilcp586",
+    "seq": "MSVIAKQMTYKVYVSGTVNGHYFEVEGDGKGKPYEGEQTVRLAVTKGGPLPFAWDILSPQCQYGSIPFTKYPEDIPDYVKQSFPEGYTWERIMNFEDGAVCTVSNDSSIQGNCFIYHVKFSGLNFPPNGPVMQKKTQGWEPNTERLFARDGMLIGNNFMALKLEGGGHYLCEFKSTYKAKKPVKMPGYHYVDRKLDVTNHNKDYTSVEQREISIARKPVVA",
+    "ipg_id": "34398773",
+    "genbank": "AGH32878",
+    "uniprot": "M4QUP7",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "",
+    "states": [
+        {
+            "slug": "amilcp586_default",
+            "name": "default",
+            "ex_max": 586,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s00338-012-0994-9"
+}

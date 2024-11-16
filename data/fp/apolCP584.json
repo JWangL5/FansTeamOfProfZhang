@@ -1,0 +1,28 @@
+{
+    "uuid": "ZQBZM",
+    "name": "apolCP584",
+    "slug": "apolcp584",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "apolcp584_default",
+            "name": "default",
+            "ex_max": 584,
+            "em_max": null,
+            "ext_coeff": 103000,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s00338-012-0994-9"
+}

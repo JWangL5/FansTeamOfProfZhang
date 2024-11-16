@@ -1,0 +1,28 @@
+{
+    "uuid": "NLY5P",
+    "name": "T-Sapphire",
+    "slug": "t-sapphire",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSYGVMVFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYIMADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSIQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "t-sapphire_default",
+            "name": "default",
+            "ex_max": 399,
+            "em_max": 511,
+            "ext_coeff": 44000,
+            "qy": 0.6,
+            "pka": 4.9,
+            "maturation": 156.5,
+            "lifetime": 2.93,
+            "brightness": 26.4
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1186/1472-6750-3-5"
+}

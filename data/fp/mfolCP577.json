@@ -1,0 +1,28 @@
+{
+    "uuid": "6X6V1",
+    "name": "mfolCP577",
+    "slug": "mfolcp577",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mfolcp577_default",
+            "name": "default",
+            "ex_max": 577,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s00338-012-0994-9"
+}

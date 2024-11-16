@@ -1,0 +1,30 @@
+{
+    "uuid": "1AR75",
+    "name": "spisCP",
+    "slug": "spiscp",
+    "seq": "MSHSKQALADTMKMTWLMEGSVNGHAFTIEGEGTGKPYEGKQSGTFRVTKGGPLPFAFDIVAPTLKYGFKCFMKYPADIPDYFKLAFPEGLTYDRKIAFEDGGCATATVEMSLKGNTLVHKTNFQGGNFPIDGPVMQKRTLGWEPTSEKMTPCDGIIKGDTIMYLMVEGGKTLKCRYENNYRANKPVLMPPSHFVDLRLTRTNLDKEGLAFKLEEYAVARVLEV",
+    "ipg_id": "4901569",
+    "genbank": "ABB17971",
+    "uniprot": "A8CLX6",
+    "pdb": [
+        "7SWU"
+    ],
+    "agg": "t",
+    "switch_type": "",
+    "states": [
+        {
+            "slug": "spiscp_default",
+            "name": "default",
+            "ex_max": 560,
+            "em_max": null,
+            "ext_coeff": 61000,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0002680"
+}

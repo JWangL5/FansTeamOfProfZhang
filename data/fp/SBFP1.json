@@ -1,0 +1,28 @@
+{
+    "uuid": "DO6Z1",
+    "name": "SBFP1",
+    "slug": "sbfp1",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSHGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": "6755344",
+    "genbank": "ABM97856",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sbfp1_default",
+            "name": "default",
+            "ex_max": 380,
+            "em_max": 446,
+            "ext_coeff": 2300,
+            "qy": 0.4,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.92
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi0622874"
+}

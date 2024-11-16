@@ -1,0 +1,28 @@
+{
+    "uuid": "8TF9W",
+    "name": "amilGFP",
+    "slug": "amilgfp",
+    "seq": "MSYSKHGIVQEMKTKYHMEGSVNGHEFTIEGVGTGYPYEGKQMSELVIIKPAGKPLPFSFDILSSVFQYGNRCFTKYPADMPDYFKQAFPDGMSYERSFLFEDGAVATASWNIRLEGNCFIHKSIFHGVNFPADGPVMKKKTIDWDKSFEKMTVSKEVLRGDVTMFLMLEGGGSHRCQFHSTYKTEKPVTLPPNHVVEHQIVRTDLGQSAKGFTVKLEAHAAAHVNPLKVK",
+    "ipg_id": null,
+    "genbank": "AY646067",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "amilgfp_default",
+            "name": "default",
+            "ex_max": 503,
+            "em_max": 512,
+            "ext_coeff": 75200,
+            "qy": 0.67,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 50.38
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0002680"
+}

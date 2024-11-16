@@ -1,0 +1,28 @@
+{
+    "uuid": "3W3H2",
+    "name": "shysCP562",
+    "slug": "shyscp562",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "shyscp562_default",
+            "name": "default",
+            "ex_max": 562,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3354/meps07588"
+}

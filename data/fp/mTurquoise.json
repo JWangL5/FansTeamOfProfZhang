@@ -1,0 +1,30 @@
+{
+    "uuid": "5E826",
+    "name": "mTurquoise",
+    "slug": "mturquoise",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYISDNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4AR7"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mturquoise_default",
+            "name": "default",
+            "ex_max": 434,
+            "em_max": 474,
+            "ext_coeff": 30000,
+            "qy": 0.84,
+            "pka": 4.5,
+            "maturation": 112.2,
+            "lifetime": 3.7,
+            "brightness": 25.2
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.1415"
+}

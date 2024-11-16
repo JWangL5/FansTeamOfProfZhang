@@ -1,0 +1,28 @@
+{
+    "uuid": "L5QET",
+    "name": "amCyan1",
+    "slug": "amcyan1",
+    "seq": "MALSNKFIGDDMKMTYHMDGCVNGHYFTVKGEGSGKPYEGTQTSTFKVTMANGGPLAFSFDILSTVFMYGNRCFTAYPTSMPDYFKQAFPDGMSYERTFTYEDGGVATASWEISLKGNCFEHKSTFHGVNFPADGPVMAKMTTGWDPSFEKMTVCDGILKGDVTAFLMLQGGGNYRCQFHTSYKTKKPVTMPPNHAVEHRIARTDLDKGGNSVQLTEHAVAHITSVVPF",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "amcyan1_default",
+            "name": "default",
+            "ex_max": 453,
+            "em_max": 486,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": null
+}

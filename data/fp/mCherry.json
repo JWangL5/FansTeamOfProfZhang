@@ -1,0 +1,30 @@
+{
+    "uuid": "ZERB6",
+    "name": "mCherry",
+    "slug": "mcherry",
+    "seq": "MVSKGEEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEIKQRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVNIKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": "3838123",
+    "genbank": "AAV52164",
+    "uniprot": "X5DSL3",
+    "pdb": [
+        "2H5Q"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcherry_default",
+            "name": "default",
+            "ex_max": 587,
+            "em_max": 610,
+            "ext_coeff": 72000,
+            "qy": 0.22,
+            "pka": 4.5,
+            "maturation": 15.0,
+            "lifetime": 1.4,
+            "brightness": 15.84
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1037"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "GNJK5",
+    "name": "emiRFP703",
+    "slug": "emirfp703",
+    "seq": "MAEGSVARQPDLLTCEHEEIHLAGSIQPHGALLVVSEHDHRVIQASANAAEFLNLGSVLGVPLAEIDGDLLIKILPHLDPTAEGMPVAVRCRIGNPSTEYCGLMHRPPEGGLIIELERAGPSIDLSGTLAPALERIRTAGSLRALCDDTVLLFQQCTGYDRVMVYRFDEQGHGLVFSECHVPGLESYFGNRYPSSLVPQMARQLYVRQRVRVLVDVTYQPVPLEPRLSPLTGRDLDMSGCFLRSMSPIHLQFLKDMGVRATLAVSLVVGGKLWGLVVCHHYLPRFIRFELRAICKRLAERIATRITALES",
+    "ipg_id": null,
+    "genbank": "MN701053",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "emirfp703_default",
+            "name": "default",
+            "ex_max": 674,
+            "em_max": 703,
+            "ext_coeff": 90900,
+            "qy": 0.086,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 7.82
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41467-019-13897-6"
+}

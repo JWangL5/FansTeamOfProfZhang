@@ -1,0 +1,28 @@
+{
+    "uuid": "5TSUE",
+    "name": "M-Velour-537",
+    "slug": "m-velour-537",
+    "seq": "MALFAKPMNHKTEITGEFNGKCFKVVGHGSAPGGGDFRMHAYCESGTLPVSWCVLSPSIQYGFSMFTKYPNGITNFFQEAFPEGYTLDRVMTRENGGSVVSHHSYDLGKDGITAKVSVKGEGFDPNGPTMTKGYLKVLPFVCHLYPHGAGVRMTASVGMVKTDGSLDIFNVDSNYQPVGSRKVSVPKFHFVQHRIILMKDKSDTRDHIVMREIAVAQDPNEAQSAFRIA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "m-velour-537_default",
+            "name": "default",
+            "ex_max": 537,
+            "em_max": null,
+            "ext_coeff": 72000,
+            "qy": 0.001,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.07
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/pro.4285"
+}

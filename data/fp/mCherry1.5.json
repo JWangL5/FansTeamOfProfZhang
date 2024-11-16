@@ -1,0 +1,15 @@
+{
+    "uuid": "Z7ZOF",
+    "name": "mCherry1.5",
+    "slug": "mcherry15",
+    "seq": "MVSKGEEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFNWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQCRTMGWEASSERMYPEDGALKGEIKQRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVDIKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0171257"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "GZU2E",
+    "name": "eCGP123",
+    "slug": "ecgp123",
+    "seq": "MSVIKPEMKIKLRMEGAVNGHKFVIEGEGIGKPYEGTQTLDLTVKEGAPLPFSYDILTPAFQYGNRAFTKYPKDIPDYFKQAFPEGYSWERSMTYEDQGICIATSDITMEGDCFFYKIRFDGTNFPPNGPVMQKKTLKWEPSTEKMYVRDGVLKGDVNMALLLEGGGHYRCDFKTTYKAKKDVRLPDAHEVDHRIEILSHDKDYNKVRLYEHAEARYSMLPSQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ecgp123_default",
+            "name": "default",
+            "ex_max": 495,
+            "em_max": 505,
+            "ext_coeff": 59900,
+            "qy": 0.8,
+            "pka": 6.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 47.92
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/protein/gzp006"
+}

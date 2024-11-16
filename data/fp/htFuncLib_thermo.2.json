@@ -1,0 +1,28 @@
+{
+    "uuid": "S695B",
+    "name": "htFuncLib_thermo.2",
+    "slug": "htfunclib_thermo2",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNFNSHNVYIMPDKQNNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHHWTELSKDPNEKRDHMVVLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_thermo2_default",
+            "name": "default",
+            "ex_max": 511,
+            "em_max": 525,
+            "ext_coeff": null,
+            "qy": 0.58,
+            "pka": 5.87,
+            "maturation": null,
+            "lifetime": 1.48,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

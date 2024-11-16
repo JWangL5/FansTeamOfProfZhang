@@ -1,0 +1,28 @@
+{
+    "uuid": "WBLSA",
+    "name": "aceGFP-h",
+    "slug": "acegfp-h",
+    "seq": "SKGAELFTGIVPILIELNGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSYGVQCFSRYPDHMKQHDFFKSAMPEGYIQERTIFFEDDGNYKSRAEVKFEGDTLVNRIELTGTDFKEDGNILGNKMEYNYNAHNVYIMTDKAKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMIYFGFVTAAAITHGMDELYK",
+    "ipg_id": "1780523",
+    "genbank": "AAP69597",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "acegfp-h_default",
+            "name": "default",
+            "ex_max": 390,
+            "em_max": 505,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20021966"
+}

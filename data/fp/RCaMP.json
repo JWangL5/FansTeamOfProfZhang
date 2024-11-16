@@ -1,0 +1,30 @@
+{
+    "uuid": "J5Y7Z",
+    "name": "RCaMP",
+    "slug": "rcamp",
+    "seq": "MGSHHHHHHGMASMTGGQQMGRDLYDDDDKDLATMVDSSRRKWNKTGHAVRAIGRLSSAINTEMMYPADGGLRGYTHMALKVDGGGHLSCSFVTTYRSKKTVGNIKMPGIHYVSHRLERLEESDNEMFVVQREHAVAKFVGLGGGGGTGGSMNSLIKENMRMKVVLEGSVNGHQFKCTGEGEGNPYMGTQTMRIKVIEGGPLPFAFDILATSFMYGSRTFIKYPKGIPDFFKQSFPEGFTWERVTRYEDGGVITVMQDTSLEDGCLVYHAQVRGVNFPSNGAVMQKKTKGWEPTRDQLTEEQIAEFKEAFSLFDKDGDGTITTKELGTVMRSLGQNPTEAELQDMINEVDADGDGTIDFPEFLIMMARKMKDTDSEEEIREAFRVFDKDGNGYISAAELRHVMTNLGEKLTDEEVDEMIREADIDGDGQVNYEEFVQMMTAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3U0K"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "rcamp_default",
+            "name": "default",
+            "ex_max": 575,
+            "em_max": 602,
+            "ext_coeff": null,
+            "qy": 0.14,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3389/fnmol.2013.00002"
+}

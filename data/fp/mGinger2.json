@@ -1,0 +1,28 @@
+{
+    "uuid": "GSP4M",
+    "name": "mGinger2",
+    "slug": "mginger2",
+    "seq": "MLLKENMHIRMYMEGTVNGHYFKCKGVGDGNPFAGTQSMRVHVTEGAPLPFAFDILAPCCEYGSKTFVRYPADIPDFFKQSFPEGFTWERTTTYEDGGILTAHQDTSLEGNCLIYKVEVHGTNFPADGPVMKKETCGWEPSTESVYPENGVLRGRNHMALKVGDSHLHCHHSTTYRSKKAERALIMPPRHSTDYCLQITSRKDDEYFELHETSVARYSD",
+    "ipg_id": null,
+    "genbank": "MK040730",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mginger2_default",
+            "name": "default",
+            "ex_max": 578,
+            "em_max": 631,
+            "ext_coeff": 36000,
+            "qy": 0.04,
+            "pka": 6.5,
+            "maturation": 78.0,
+            "lifetime": null,
+            "brightness": 1.44
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.1807449115"
+}

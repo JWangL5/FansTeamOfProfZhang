@@ -1,0 +1,28 @@
+{
+    "uuid": "G9U12",
+    "name": "cgfTagRFP",
+    "slug": "cgftagrfp",
+    "seq": "MSELIKENMHMKLYMEGTVNNHHFKATSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSRTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGMLIYNVKIRGVNFPSNGPVMQKKTLGWEANTEMLYPADGGLEGRSDMALKLVGGGHLIVNFKTTYRSKKPAKNLKMPGVYYVDHRLERIKEADKETYVEQHEVAVARYSDLPSKLGHK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "cgftagrfp_default",
+            "name": "default",
+            "ex_max": 556,
+            "em_max": 585,
+            "ext_coeff": 90000,
+            "qy": 0.51,
+            "pka": 2.9,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 45.9
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0037551"
+}

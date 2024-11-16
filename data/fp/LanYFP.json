@@ -1,0 +1,30 @@
+{
+    "uuid": "WK5F6",
+    "name": "LanYFP",
+    "slug": "lanyfp",
+    "seq": "MSLPATHELHIFGSFNGVDFDMVGRGTGNPNDGYEELNLKSTKGALQFSPWILVPQIGYGFHQYLPFPDGMSPFQAAMKDGSGYQVHRTMQFEDGASLTSNYRYTYEGSHIKGEFQVIGTGFPADGPVMTNSLTAADWCVTKMLYPNDKTIISTFDWTYTTGSGKRYQSTVRTNYTFAKPMAANILKNQPMFVFRKTELKHSKTELNFKEWQKAFTDVM",
+    "ipg_id": "14640227",
+    "genbank": "ACA48232",
+    "uniprot": "B1PNC0",
+    "pdb": [
+        "5LTQ"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "lanyfp_default",
+            "name": "default",
+            "ex_max": 513,
+            "em_max": 524,
+            "ext_coeff": 150000,
+            "qy": 0.95,
+            "pka": 3.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 142.5
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.2413"
+}

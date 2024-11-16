@@ -1,0 +1,28 @@
+{
+    "uuid": "SSTDU",
+    "name": "moxBFP",
+    "slug": "moxbfp",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFISTTGKLPVPWPTLVTTLSHGVQVFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGTYKTRAEVKFEGDTLVNRIELKGVDFKEDGNILGHKLEYNFNSHNIYIMAVKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDSHYLSTQSKLSKDPNEKRDHMVLLEFRTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "moxbfp_default",
+            "name": "default",
+            "ex_max": 385,
+            "em_max": 448,
+            "ext_coeff": 31000,
+            "qy": 0.56,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 17.36
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/ncomms8670"
+}

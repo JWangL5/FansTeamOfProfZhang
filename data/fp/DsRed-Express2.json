@@ -1,0 +1,28 @@
+{
+    "uuid": "5DP2R",
+    "name": "DsRed-Express2",
+    "slug": "dsred-express2",
+    "seq": "MDSTENVIKPFMRFKVHMEGSVNGHEFEIEGEGEGKPYEGTQTAKLQVTKGGPLPFAWDILSPQFQYGSKVYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGTFIYHVKFIGVNFPSDGPVMQKKTLGWEPSTERLYPRDGVLKGEIHKALKLKGGGHYLVEFKSIYMAKKPVKLPGYYYVDSKLDITSHNEDYTVVEQYERAEARHHLFQ",
+    "ipg_id": "15756136",
+    "genbank": "ACJ05619",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dsred-express2_default",
+            "name": "default",
+            "ex_max": 554,
+            "em_max": 591,
+            "ext_coeff": 35600,
+            "qy": 0.42,
+            "pka": null,
+            "maturation": 42.0,
+            "lifetime": null,
+            "brightness": 14.95
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.1264"
+}

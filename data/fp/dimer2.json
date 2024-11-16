@@ -1,0 +1,28 @@
+{
+    "uuid": "DFXUK",
+    "name": "dimer2",
+    "slug": "dimer2",
+    "seq": "MVASSEDVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFQYGSKAYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGTLIYKVKFRGTNFPPDGPVMQKKTMGWEASTERLYPRDGVLKGEIHQALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDTKLDITSHNEDYTIVEQYERSEGRHHLFL",
+    "ipg_id": "142581",
+    "genbank": "AAM54542",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dimer2_default",
+            "name": "default",
+            "ex_max": 552,
+            "em_max": 579,
+            "ext_coeff": 69000,
+            "qy": 0.69,
+            "pka": 4.9,
+            "maturation": 120.0,
+            "lifetime": null,
+            "brightness": 47.61
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.082243699"
+}

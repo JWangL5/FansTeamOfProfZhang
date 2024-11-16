@@ -1,0 +1,28 @@
+{
+    "uuid": "1VSM7",
+    "name": "mScarlet-I3-NCwt",
+    "slug": "mscarlet-i3-ncwt",
+    "seq": "MVSKGEAVIKEFMRFKVHMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFSWDILSPQFMYGSRAFIKHPADIPDYWKQSFPEGFKWERVMIFEDGGTVSVTQDTSLEDGTLIYKVKLRGGNFPPDGPVMQKRTMGWEASTERLYPEDVVLKGDIKMALRLKDGGRYLADFKTTYKAKKPVQMPGAFNIDRKLDITSHNEDYTVVEQYERSVARHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mscarlet-i3-ncwt_default",
+            "name": "default",
+            "ex_max": 567,
+            "em_max": 592,
+            "ext_coeff": 102000,
+            "qy": 0.653,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 66.61
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41592-023-01809-y"
+}

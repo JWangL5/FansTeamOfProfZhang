@@ -1,0 +1,28 @@
+{
+    "uuid": "7XQBJ",
+    "name": "GFPxm16",
+    "slug": "gfpxm16",
+    "seq": "MSKGEELFTGIVPVLIELDGDVHGHKFSVRGEGEGDADYGKLEIKFICTTGKLPVPWPTLVTTLGYGIQCFARYPEHMKMNDFFKSAMPEGYIQERTIFFQDDGKYKTRGEVKFEGDTLVNRIELKGMDFKEDGNILGHKLEYNFNSHNVYIMPDKANNGLKVNFKIRHNIEGGGVQLADHYQTNVPLGDGPVLIPINHYLSTQTAISKDRNETRDHMVFLEFFSACGHTHGMDELYK",
+    "ipg_id": "1087995",
+    "genbank": "AAK02063",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "gfpxm16_default",
+            "name": "default",
+            "ex_max": 485,
+            "em_max": 504,
+            "ext_coeff": null,
+            "qy": 0.74,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-006-6006-8"
+}

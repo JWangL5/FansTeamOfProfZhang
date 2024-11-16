@@ -1,0 +1,28 @@
+{
+    "uuid": "MLHQR",
+    "name": "Achilles",
+    "slug": "achilles",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKLICTTGKLPVPWPTLVTTLGYGLAVFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGSGFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSYQSFLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": "LC381432",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "achilles_default",
+            "name": "default",
+            "ex_max": 513,
+            "em_max": 525,
+            "ext_coeff": 110000,
+            "qy": 0.64,
+            "pka": 5.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 70.4
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41586-019-1882-z"
+}

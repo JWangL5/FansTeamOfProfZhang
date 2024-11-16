@@ -1,0 +1,30 @@
+{
+    "uuid": "YYN9U",
+    "name": "laGFP",
+    "slug": "lagfp",
+    "seq": "MHHHHHHGSLLPATHELHIFGSINSLEFDLVGRGTGNPKEGYEELHLKSTKSALQFSPWILVPQIGYGFYQYLPFPDGAMSPFQAAMNDGSGYQVHRTMQFEDGATLTGIYRYTYEGTHIKGEFQVIGTGFPADGPVMTNSLTAADWCVTKIVYPNENTIIDKFDWTYTTTSGKRYQSNVRSNFTFAKPIAANILQKQPMFVFRKTELKHSKTELNFKEWQTAFSDVM",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4HVF"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "lagfp_default",
+            "name": "default",
+            "ex_max": 502,
+            "em_max": 511,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1107/s0907444913015424"
+}

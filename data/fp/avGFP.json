@@ -1,0 +1,30 @@
+{
+    "uuid": "1XF1B",
+    "name": "avGFP",
+    "slug": "avgfp",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": "1266562",
+    "genbank": "AAA27721",
+    "uniprot": "P42212",
+    "pdb": [
+        "1GFL"
+    ],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "avgfp_default",
+            "name": "default",
+            "ex_max": 395,
+            "em_max": 509,
+            "ext_coeff": 25000,
+            "qy": 0.79,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 19.75
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/0378-1119(92)90691-h"
+}

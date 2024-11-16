@@ -1,0 +1,28 @@
+{
+    "uuid": "8DNLG",
+    "name": "EYFP",
+    "slug": "eyfp",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFGYGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "eyfp_default",
+            "name": "default",
+            "ex_max": 513,
+            "em_max": 527,
+            "ext_coeff": 67000,
+            "qy": 0.67,
+            "pka": 6.9,
+            "maturation": 9.0,
+            "lifetime": 3.1,
+            "brightness": 44.89
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1126/science.273.5280.1392"
+}

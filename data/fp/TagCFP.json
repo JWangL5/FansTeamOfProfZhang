@@ -1,0 +1,28 @@
+{
+    "uuid": "WRK8K",
+    "name": "TagCFP",
+    "slug": "tagcfp",
+    "seq": "MSGGEELFAGIVPVLIELDGDVHGHKFSVRGEGEGDADYGKLEIKFICTTGKLPVPWPTLVTTLAWGIQCFARYPEHMKMNDFFKSAMPEGYIQERTIHFQDDGKYKTRGEVKFEGDTLVNRVELKGEGFKEDGNILGHKLEYSAISDNVYIMPDKANNGLEANFKIRHNIEGGGVQLADHYQTNVPLGDGPVLIPINHYLSCQSAISKDRNEARDHMVLLESFSAYCHTHGMDELYR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tagcfp_default",
+            "name": "default",
+            "ex_max": 458,
+            "em_max": 480,
+            "ext_coeff": 37000,
+            "qy": 0.57,
+            "pka": 4.7,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 21.09
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-001-0081-7"
+}

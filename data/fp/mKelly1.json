@@ -1,0 +1,28 @@
+{
+    "uuid": "3PP3A",
+    "name": "mKelly1",
+    "slug": "mkelly1",
+    "seq": "MELIKENMRMKLYMEGTVGNHHFKCTAEGEGKPYEGTQTQRIKVVEGGPLPFAFDILATCFMYGSKTFINHPQGIPDFFKQSFPEGFTWERVTTYEDGGVLTVTQDTSLQDGYLIYNVKLRGVNFPSNGPVMQKKTLGWEPTTETLVPVDGGLVGRCDMALRLVGGGHLKCNLKTTYRSKKPAKNLKMPGKYQVDRKLERIKEADNETYVEQHEVAVAR",
+    "ipg_id": null,
+    "genbank": "MK040731",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mkelly1_default",
+            "name": "default",
+            "ex_max": 596,
+            "em_max": 656,
+            "ext_coeff": 44000,
+            "qy": 0.16,
+            "pka": 5.4,
+            "maturation": 28.0,
+            "lifetime": null,
+            "brightness": 7.04
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.1807449115"
+}

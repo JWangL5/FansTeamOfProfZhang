@@ -1,0 +1,28 @@
+{
+    "uuid": "T33XW",
+    "name": "phiLOV2.1",
+    "slug": "philov21",
+    "seq": "MEKSFVITDPRLPDYPIIFASDGFLELTEYSREEIMGRNARFLQGPETDQATVQKIRDAIRDQRETTVQLINYTKSGKKFWNLLHLQPVRDRKGGLQYFIGVQLVGSDHV",
+    "ipg_id": null,
+    "genbank": "AUS83262",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "philov21_default",
+            "name": "default",
+            "ex_max": 451,
+            "em_max": 501,
+            "ext_coeff": 13500,
+            "qy": 0.2,
+            "pka": 3.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 2.7
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2021.08.02.454744"
+}

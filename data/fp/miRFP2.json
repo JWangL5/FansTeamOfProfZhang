@@ -1,0 +1,28 @@
+{
+    "uuid": "AYRSR",
+    "name": "miRFP2",
+    "slug": "mirfp2",
+    "seq": "MVAGHASGSPDFGTASPSDCEHEEIHLAGSIQPHGTLLVVSEPDHRIIQASANAAEFLNLGSVLGIPLAEIDGDLLIKILPHLDLTAEGMPVAVRCRIGNPSTEYDGLMHRPPEGGLIIELERAGPSIDLSGTLAPALERIRTAGSLRALCDDTVLLFQQCTGYDRVMVYRFDERGHGEVYSEIHVTGLESYFGNRYPSSLVPQMARRLYVRQRVRVLVDVTYQPVPLEPRLSPLTGRDLDMSGCFLRSMSPTHLQFLKNMGVRATLVVSLVVGGKLWGLVICHHYLPRFIHFELRAICVLLAEAIATRITAL",
+    "ipg_id": null,
+    "genbank": "MZ682639",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mirfp2_default",
+            "name": "default",
+            "ex_max": 676,
+            "em_max": 706,
+            "ext_coeff": 55600,
+            "qy": 0.043,
+            "pka": 3.7,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 2.39
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2021.08.02.454744"
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "84CGO",
+    "name": "rrGFP",
+    "slug": "rrgfp",
+    "seq": "MDLAKLGLKEVMPTKINLEGLVGDHAFSMEGVGEGNILEGTQEVKISVTKGAPLPFAFDIVSVAFGYGNRAYTGYPEEISDYFLQSFPEGFTYERNIRYQDGGTAIVKSDISLEDGKFIVNVDFKAKDLRRMGPVMQQDIVGMQPSYESMYTNVTSVIGECIIAFKLQTGKHFTYHMRTVYKSKKPVETMPLYHFIQHRLVKTNVDTASGYVVQHETAIAAHSTIKKIEGSLPVD",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2RH7"
+    ],
+    "agg": "",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1016/j.jmb.2007.09.078"
+}

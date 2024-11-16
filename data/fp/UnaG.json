@@ -1,0 +1,30 @@
+{
+    "uuid": "5ULGG",
+    "name": "UnaG",
+    "slug": "unag",
+    "seq": "MVEKFVGTWKIADSHNFGEYLKAIGAPKELSDGGDATTPTLYISQKDGDKMTVKIENGPPTFLDTQVKFKLGEEFDEFPSDRRKGVKSVVNLVGEKLVYVQKWDGKETTYVREIKDGKLVVTLTMGDVVAVRSYRRATE",
+    "ipg_id": "BAN57322.1",
+    "genbank": "AB763906",
+    "uniprot": "P0DM59",
+    "pdb": [
+        "4I3B"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "unag_default",
+            "name": "default",
+            "ex_max": 498,
+            "em_max": 527,
+            "ext_coeff": 77300,
+            "qy": 0.51,
+            "pka": 4.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 39.42
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.cell.2013.05.038"
+}

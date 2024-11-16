@@ -1,0 +1,28 @@
+{
+    "uuid": "C5398",
+    "name": "hcriGFP",
+    "slug": "hcrigfp",
+    "seq": "MCSYIKETMQSKVYMEGKVNDHNFKCTAEGKGEPYKGSQSLTITVTEGGPLPFAFDILSHAFRYGNKVFAKYPKDHPDFFKQSLPEGFTWERVSNYEDGGVLTVKQETSLEGDCIICKIKAHGTNFPADGPVMQKRTNGWEPSTETVIPRGGGILMRDVPALKLLGNKGHLLCVMETTYKSKKKVNLPKPHFHHLRMEKDSVSDDEKTIEQHENVRASYFNDSGK",
+    "ipg_id": "3493082",
+    "genbank": "AAM10626",
+    "uniprot": "Q8T6T9",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "hcrigfp_default",
+            "name": "default",
+            "ex_max": 405,
+            "em_max": 500,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.062552299"
+}

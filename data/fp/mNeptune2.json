@@ -1,0 +1,28 @@
+{
+    "uuid": "VXEVZ",
+    "name": "mNeptune2",
+    "slug": "mneptune2",
+    "seq": "MVSKGEELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTGRIKVVEGGPLPFAFDILATCFMYGSKTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTVTQDTSLQDGCLIYNVKLRGVNFPSNGPVMQKKTLGWEASTETLYPADGGLEGRCDMALKLVGGGHLHCNLKTTYRSKKPAKNLKMPGVYFVDRRLERIKEADNETYVEQHEVAVARYCDLPSKLGHKLNGMDELYK",
+    "ipg_id": "49083568",
+    "genbank": "AHL19968",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mneptune2_default",
+            "name": "default",
+            "ex_max": 599,
+            "em_max": 651,
+            "ext_coeff": 89000,
+            "qy": 0.24,
+            "pka": 6.3,
+            "maturation": 27.0,
+            "lifetime": null,
+            "brightness": 21.36
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.2888"
+}

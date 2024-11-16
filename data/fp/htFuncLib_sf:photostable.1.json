@@ -1,0 +1,28 @@
+{
+    "uuid": "HU13M",
+    "name": "htFuncLib_sf:photostable.1",
+    "slug": "htfunclib_sfphotostable1",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLATTLSYGAQCFCRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNMNSHNIYITADKQKNGIKANFKVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVLLEFVVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_sfphotostable1_default",
+            "name": "default",
+            "ex_max": 488,
+            "em_max": 508,
+            "ext_coeff": null,
+            "qy": 0.52,
+            "pka": 5.58,
+            "maturation": null,
+            "lifetime": 0.8,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

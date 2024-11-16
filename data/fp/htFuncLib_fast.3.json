@@ -1,0 +1,28 @@
+{
+    "uuid": "HCTDS",
+    "name": "htFuncLib_fast.3",
+    "slug": "htfunclib_fast3",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLATTLSYGVPCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNMNSHNVYIMPDKQNNGIKVNFKVRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVVLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_fast3_default",
+            "name": "default",
+            "ex_max": 470,
+            "em_max": 503,
+            "ext_coeff": null,
+            "qy": 0.19,
+            "pka": 5.22,
+            "maturation": null,
+            "lifetime": 0.69,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "H6RGM",
+    "name": "mGrape2",
+    "slug": "mgrape2",
+    "seq": "MVSKGEENNMAVIKEFMRFKVRMEGSVNGHEFEIEGKGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPPDIPDYMKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLHGTNFPSDGPVMQKKTMGWEASSERLYPEDGALKGEVKMRLKLKDGGHYDAEVKTTYMAKKPVQLPGAYKLDYKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mgrape2_default",
+            "name": "default",
+            "ex_max": 605,
+            "em_max": 636,
+            "ext_coeff": 33000,
+            "qy": 0.03,
+            "pka": 6.3,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.99
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2009.10.009"
+}

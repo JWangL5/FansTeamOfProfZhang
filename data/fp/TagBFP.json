@@ -1,0 +1,30 @@
+{
+    "uuid": "BFJKS",
+    "name": "TagBFP",
+    "slug": "tagbfp",
+    "seq": "MSELIKENMHMKLYMEGTVDNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFLYGSKTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFTSNGPVMQKKTLGWEAFTETLYPADGGLEGRNDMALKLVGGSHLIANIKTTYRSKKPAKNLKMPGVYYVDYRLERIKEANNETYVEQHEVAVARYCDLPSKLGHKLN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3M24"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tagbfp_default",
+            "name": "default",
+            "ex_max": 402,
+            "em_max": 457,
+            "ext_coeff": 52000,
+            "qy": 0.63,
+            "pka": 2.7,
+            "maturation": 13.0,
+            "lifetime": 2.6,
+            "brightness": 32.76
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2008.08.006"
+}

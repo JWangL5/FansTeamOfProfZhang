@@ -1,0 +1,28 @@
+{
+    "uuid": "G5OWS",
+    "name": "eqFP578",
+    "slug": "eqfp578",
+    "seq": "MSELIKENMHMKLYMEGTVNNHHFKCTSEGERKPYEGTQTMKIKVVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDLFKQSFPEGFTWERITTYEDGGVLTATQDTSLQNGCIIYNVKINGVNFPSNGSVMQKKTLGWEANTEMLYPADGGLRGHSQMALKLVGGGYLHCSFKTTYRSKKPAKNLKMPGFHFVDHRLERIKEADKETYVEQHEMAVAKYCDLPSKLGHR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": "H3JQU7",
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "eqfp578_default",
+            "name": "default",
+            "ex_max": 552,
+            "em_max": 578,
+            "ext_coeff": 102000,
+            "qy": 0.54,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 55.08
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth1062"
+}

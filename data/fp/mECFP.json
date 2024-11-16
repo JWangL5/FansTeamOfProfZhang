@@ -1,0 +1,28 @@
+{
+    "uuid": "MVN8T",
+    "name": "mECFP",
+    "slug": "mecfp",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTWGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYISHNVYITADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mecfp_default",
+            "name": "default",
+            "ex_max": 433,
+            "em_max": 475,
+            "ext_coeff": 33000,
+            "qy": 0.41,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 13.53
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20060874"
+}

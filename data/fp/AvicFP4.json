@@ -1,0 +1,28 @@
+{
+    "uuid": "LTRTO",
+    "name": "AvicFP4",
+    "slug": "avicfp4",
+    "seq": "MDSGALLFKQKIPLVVEFEGDVEGMKFSVRGKGHGDATNGRIEASFICTTGELPVPWSSIISSLTYGFLCFTKYPDGIKDFPKSAMPEGYVQERTISFENDGTYKTRAEVTFENGSVYNRVKLNGEGFNKGGNILGKKLEYSFNPHCIYVLGDKENNGIRCCFNVVHNIVGGGQLIASHSQLNTPLGGGPIAIPEYHHICNHTTLSKDPREPRDHMTVAEVLKAVDCKTAYL",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "avicfp4_default",
+            "name": "default",
+            "ex_max": 500,
+            "em_max": 512,
+            "ext_coeff": 121000,
+            "qy": 0.1,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 12.1
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/677344"
+}

@@ -1,0 +1,31 @@
+{
+    "uuid": "WSRVG",
+    "name": "iFP1.4",
+    "slug": "ifp14",
+    "seq": "MARDPLPFFPPLYLGGPEITTENCEREPIHIPGSIQPHGALLTADGHSGEVLQVSLNAATFLGQEPTVLRGQTLAALLPEQWPALQAALPPGCPDALQYRATLDWPAAGHLSLTVHRVAELLILEFEPTEAWDSIGPHALRNAMFALESAPNLRALAEVATQTVRELTGFDRVMLYKFAPDATGEMIAEARREGMQAFLGHRFPASHTPAQARALYTRHLLRLTADTRAAAVPLDPVLNPQTNAPTPLGGAVLRATSPMHMQYLRNMGVGSSLSVSVVVGGQLWGLIVCHHQTPYVLPPDLRTTLEELGRKLSGQVQRKEA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4O8G",
+        "5AJG"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ifp14_default",
+            "name": "default",
+            "ex_max": 684,
+            "em_max": 708,
+            "ext_coeff": 92000,
+            "qy": 0.07,
+            "pka": 4.6,
+            "maturation": 114.0,
+            "lifetime": null,
+            "brightness": 6.44
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1126/science.1168683"
+}

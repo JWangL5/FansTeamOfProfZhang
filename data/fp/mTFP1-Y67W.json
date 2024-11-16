@@ -1,0 +1,28 @@
+{
+    "uuid": "4JYN3",
+    "name": "mTFP1-Y67W",
+    "slug": "mtfp1-y67w",
+    "seq": "MVSKGEETTMGVIKPDMKIKLKMEGNVNGHAFVIEGEGEGKPYDGTNTINLEVKEGAPLPFSYDILTTAFAWGNRAFTKYPDDIPNYFKQSFPEGYSWERTMTFEDKGIVKVKSDISMEEDSFIYEIHLKGENFPPNGPVMQKKTTGWDASTERMYVRDGVLKGDVKHKLLLEGGGHHRVDFKTIYRAKKAVKLPDYHFVDHRIEILNHDKDYNKVTVYESAVARNSTDGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mtfp1-y67w_default",
+            "name": "default",
+            "ex_max": 424,
+            "em_max": 461,
+            "ext_coeff": 3000,
+            "qy": 0.02,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.06
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1186/1741-7007-6-13"
+}

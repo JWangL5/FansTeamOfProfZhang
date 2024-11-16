@@ -1,0 +1,28 @@
+{
+    "uuid": "QNZSY",
+    "name": "pdae1GFP",
+    "slug": "pdae1gfp",
+    "seq": "MAAMKIECRITGTMNGVEFELVGGGEGNTDQGRMTNKMKSTKGPLSFSPYLLSHVMGYGFYHFGTFPSGYENPYVHAMTNGGYTNTRIESYEDGGVLYLTFNYRLDGNKIIGDFKCVGTGFPEDSVIFTDKIIKSNPNCEHFYPMAENIMKNAYMRTLSLRDGGYYSGQVTSHIHFKNAIHPSILHNGGSMFTYRRVEELHTQTDLGIVEYQHVFKTPTAFA",
+    "ipg_id": "1715639",
+    "genbank": "AAQ01188",
+    "uniprot": "Q6WV08",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "pdae1gfp_default",
+            "name": "default",
+            "ex_max": 491,
+            "em_max": 511,
+            "ext_coeff": 105000,
+            "qy": 0.68,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 71.4
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/molbev/msh079"
+}

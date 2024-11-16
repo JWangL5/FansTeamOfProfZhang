@@ -1,0 +1,28 @@
+{
+    "uuid": "3F18R",
+    "name": "Ultramarine",
+    "slug": "ultramarine",
+    "seq": "MSVIATQMTYKVYMSGTVNGHYFEVEGDGKGRPYEGEQTAKLTVTKGGPLPFAWDILSPQCQYGSIPFTKYPEDIPDYVKQSFPEGFTWERIMNFEDGAVCTVSNDSSIQGNCFTYHVKFRGTNFPPNGPVMQKKTQGWEPNSERLFARGGMLIGNNRMALKLEGGGHYLCEFKTTYKAKKPVKMPGYHYVDRKLDVTNHNKDYTSVEQCEISIARKPVVA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ultramarine_default",
+            "name": "default",
+            "ex_max": 586,
+            "em_max": 626,
+            "ext_coeff": 64000,
+            "qy": 0.001,
+            "pka": null,
+            "maturation": 108.0,
+            "lifetime": 1.6,
+            "brightness": 0.06
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0041028"
+}

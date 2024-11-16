@@ -1,0 +1,30 @@
+{
+    "uuid": "B4SGV",
+    "name": "Rtms5",
+    "slug": "rtms5",
+    "seq": "MSVIATQMTYKVYMSGTVNGHYFEVEGDGKGRPYEGEQTVKLTVTKGGPLPFAWDILSPQCQYGSIPFTKYPEDIPDYVKQSFPEGFTWERIMNFEDGAVCTVSNDSSIQGNCFTYHVKFSGLNFPPNGPVMQKKTQGWEPHSERLFARGGMLIGNNFMALKLEGGGHYLCEFKTTYKAKKPVKMPGYHYVDRKLDVTNHNKDYTSVEQCEISIARKPVVA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": "P83690",
+    "pdb": [
+        "1MOU"
+    ],
+    "agg": "t",
+    "switch_type": "",
+    "states": [
+        {
+            "slug": "rtms5_default",
+            "name": "default",
+            "ex_max": 592,
+            "em_max": 626,
+            "ext_coeff": 80000,
+            "qy": 0.004,
+            "pka": 3.2,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.32
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/s0969-2126(03)00028-5"
+}

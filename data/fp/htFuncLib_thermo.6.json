@@ -1,0 +1,28 @@
+{
+    "uuid": "RC341",
+    "name": "htFuncLib_thermo.6",
+    "slug": "htfunclib_thermo6",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILIELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLATTLSYGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNMNSHNVYIMPDKQNNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVVLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_thermo6_default",
+            "name": "default",
+            "ex_max": 398,
+            "em_max": 510,
+            "ext_coeff": null,
+            "qy": 0.72,
+            "pka": 3.72,
+            "maturation": null,
+            "lifetime": 1.08,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

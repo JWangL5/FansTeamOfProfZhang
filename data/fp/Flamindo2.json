@@ -1,0 +1,28 @@
+{
+    "uuid": "J5AWO",
+    "name": "Flamindo2",
+    "slug": "flamindo2",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "",
+    "states": [
+        {
+            "slug": "flamindo2_default",
+            "name": "default",
+            "ex_max": 504,
+            "em_max": 523,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0100252"
+}

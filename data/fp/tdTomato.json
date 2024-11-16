@@ -1,0 +1,28 @@
+{
+    "uuid": "PGG5S",
+    "name": "tdTomato",
+    "slug": "tdtomato",
+    "seq": "MVSKGEEVIKEFMRFKVRMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGLVTVTQDSSLQDGTLIYKVKMRGTNFPPDGPVMQKKTMGWEASTERLYPRDGVLKGEIHQALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDTKLDITSHNEDYTIVEQYERSEGRHHLFLGHGTGSTGSGSSGTASSEDNNMAVIKEFMRFKVRMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGLVTVTQDSSLQDGTLIYKVKMRGTNFPPDGPVMQKKTMGWEASTERLYPRDGVLKGEIHQALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDTKLDITSHNEDYTIVEQYERSEGRHHLFLYGMDELYK",
+    "ipg_id": "3838287",
+    "genbank": "AAV52169",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "td",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tdtomato_default",
+            "name": "default",
+            "ex_max": 554,
+            "em_max": 581,
+            "ext_coeff": 138000,
+            "qy": 0.69,
+            "pka": 4.7,
+            "maturation": 60.0,
+            "lifetime": null,
+            "brightness": 95.22
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1037"
+}

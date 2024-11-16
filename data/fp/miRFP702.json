@@ -1,0 +1,28 @@
+{
+    "uuid": "55FPY",
+    "name": "miRFP702",
+    "slug": "mirfp702",
+    "seq": "MARKVDLTSCDREPIHIPGSIQPCGCLLACDAQAVRITRITENAGAFFGRETPRVGELLADYFGETEAHALRNALAQSSDPKRPALIFGWRDGLTGRTFDISLHRHDGTSIVEFEPAAAEQADNPLRLTRQIIARTKELKSLEEMAARVPRYLQAMLGYHRVMLYRFADDGSGKVIGEAKRSDLESFLGQHFPASLVPQQARLLYLKNAIRVVSDSRGISSRIVPEHDASGAALDLSFAHLRSISPIHLEFLRNMGVSASMSLSIIIDGTLWGLIICHHYEPRAVPMAQRVAAKRFAERLSTHFTAAHHQR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mirfp702_default",
+            "name": "default",
+            "ex_max": 673,
+            "em_max": 702,
+            "ext_coeff": 88000,
+            "qy": 0.081,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 7.13
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41467-019-13897-6"
+}

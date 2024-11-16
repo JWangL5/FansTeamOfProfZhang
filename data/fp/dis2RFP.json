@@ -1,0 +1,28 @@
+{
+    "uuid": "ORVNV",
+    "name": "dis2RFP",
+    "slug": "dis2rfp",
+    "seq": "MSCSKNVIKEFMRFKVRMEGTVNGHEFEIKGEGEGRPYEGHCSVKLMVTKGGPLPFAFDILSPQFQYGSKVYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVSQDSSLKDGCFIYEVKFIGVNFPSDGPVMQRRTRGWEASSERLYPRDGVLKGDIHMALRLEGGGHYLVEFKSIYMVKKPSVQLPGYYYVDSKLDMTSHNEDYTVVEQYEKTQGRHHPFIKPLQ",
+    "ipg_id": "967803",
+    "genbank": "AAG16224",
+    "uniprot": "Q9GTJ7",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dis2rfp_default",
+            "name": "default",
+            "ex_max": 573,
+            "em_max": 593,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.062552299"
+}

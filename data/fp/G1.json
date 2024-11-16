@@ -1,0 +1,28 @@
+{
+    "uuid": "O2UFD",
+    "name": "G1",
+    "slug": "g1",
+    "seq": "MVSKGEETTMGVIKPDMKIKLKMEGNVNGHAFVIEGEGEGKPYDGTNTINLEVKEGAPLPFSYDILTTAFAYGNRAFTKYPDDIPNYFKQSFPEGYSWERTMTFEDKGIVKVKSDISMEEDSFIYEIHLKGENFPPNGPVMQKKTTGWDASTERMYVRDGVLKGDVKMKLLLEGGGHHRVDFKTIYRAKKAVKLPDYHFVDHRIEILNHDKDYNKVTVYESAVARNSTDGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "g1_default",
+            "name": "default",
+            "ex_max": 487,
+            "em_max": 503,
+            "ext_coeff": 26000,
+            "qy": 0.6,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 15.6
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1186/1741-7007-6-13"
+}

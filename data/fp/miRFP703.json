@@ -1,0 +1,28 @@
+{
+    "uuid": "1B7TK",
+    "name": "miRFP703",
+    "slug": "mirfp703",
+    "seq": "MVAGHASGSPAFGTASHSNCEHEEIHLAGSIQPHGALLVVSEHDHRVIQASANAAEFLNLGSVLGVPLAEIDGDLLIKILPHLDPTAEGMPVAVRCRIGNPSTEYCGLMHRPPEGGLIIELERAGPSIDLSGTLAPALERIRTAGSLRALCDDTVLLFQQCTGYDRVMVYRFDEQGHGLVFSECHVPGLESYFGNRYPSSLVPQMARQLYVRQRVRVLVDVTYQPVPLEPRLSPLTGRDLDMSGCFLRSMSPIHLQFLKDMGVRATLAVSLVVGGKLWGLVVCHHYLPRFIRFELRAICKRLAERIATRITALES",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mirfp703_default",
+            "name": "default",
+            "ex_max": 674,
+            "em_max": 703,
+            "ext_coeff": 90900,
+            "qy": 0.086,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 7.82
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/ncomms12405"
+}

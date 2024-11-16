@@ -1,0 +1,28 @@
+{
+    "uuid": "1BS3R",
+    "name": "htFuncLib_slow.3",
+    "slug": "htfunclib_slow3",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVLCFVRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNSNSHNVYIMPDKQNNGIKVNFKVRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVVLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_slow3_default",
+            "name": "default",
+            "ex_max": 483,
+            "em_max": 506,
+            "ext_coeff": null,
+            "qy": 0.44,
+            "pka": 5.37,
+            "maturation": null,
+            "lifetime": 1.37,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "LQXJ6",
+    "name": "Gamillus0.3",
+    "slug": "gamillus03",
+    "seq": "MASGRALFQYPMTSKIELNGEINGKKFKVAGEGFTPNSGRFNMHAYCTTGDLPMSWVVIASPLQYGFHMFAHYPEDITHFFQECFPGSYTLDRTLRMEGDGTLTTHHEYSLKDGCVTSKTTLNASGFDPKGATMTKSFVEQLPNQVEITAEGNGIRLTSTVLYLKKDGTIQIGTQDCIVKPVGGKKVTQPKAHFLHTQIIQKKDPNDTRDHIVQTELAVAGNPWHEPSASAV",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "gamillus03_default",
+            "name": "default",
+            "ex_max": 505,
+            "em_max": 524,
+            "ext_coeff": 51000,
+            "qy": 0.88,
+            "pka": 4.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 44.88
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2017.12.005"
+}

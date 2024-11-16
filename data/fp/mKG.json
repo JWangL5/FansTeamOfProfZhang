@@ -1,0 +1,28 @@
+{
+    "uuid": "PS1S2",
+    "name": "mKG",
+    "slug": "mkg",
+    "seq": "MVSVIKPEMKMRYYMDGSVNGHEFTIEGEGTGRPYEGHQEMTLRVTMAEGGPMPFAFDLVSHVFAYGHRVFTKYPEEIPDYFKQAFPEGLSWERSLEFEDGGSASVSAHISLRGNTFYHKSKFTGVNFPADGPIMQNQSVDWEPSTEKITASDGVLKGDVTMYLKLEGGGNHKCQFKTTYKAAKEILEMPGDHYIGHRLVRKTEGNITELVEDAVAHS",
+    "ipg_id": "13707795",
+    "genbank": "BAF76140",
+    "uniprot": "A7VMR3",
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mkg_default",
+            "name": "default",
+            "ex_max": 494,
+            "em_max": 507,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.4049/jimmunol.181.1.629"
+}

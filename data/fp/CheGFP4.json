@@ -1,0 +1,28 @@
+{
+    "uuid": "VWLEW",
+    "name": "CheGFP4",
+    "slug": "chegfp4",
+    "seq": "MDMSSFNVGALIFNKELPFVVEVDFDIDDHKFSIRGKGVGNAEKGLMVGKYVVSEGELPCSWSAITHNFQYGQVCFTRYPKDIPDHIKSLFPEGYVQTRHSHFVDDGEYTSVHTLTYENGVIYNRVKVNGGGFKPDGNVFGKRLREVEPDICSVYFPGKDGYNCEFVKLSETVDGDYQAIRIDQVIRPLSDGPSLPMTKLYHHYKFEYSKDANETREHIIMKEQVHASHHTSK",
+    "ipg_id": "24814321",
+    "genbank": "AEP19817",
+    "uniprot": "J9PJD5",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "chegfp4_default",
+            "name": "default",
+            "ex_max": 488,
+            "em_max": 500,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1098/rsob.130206"
+}

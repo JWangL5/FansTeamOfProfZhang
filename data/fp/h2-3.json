@@ -1,0 +1,28 @@
+{
+    "uuid": "YQ25V",
+    "name": "h2-3",
+    "slug": "h2-3",
+    "seq": "MSKLQKGVEKEMKIKLTMNCTVNERNFVITGQGAGEPYDGTQTLYLTVEGGKTLNFSFDVLTPAFQYGNRAFTKYPGNIPDFFKQTFSGGGYTWKRTMTYEDGGVSTVESDISVQGDCFHYKIQFNGKFPPHGPVMQKETVKWEPSTEVMYKDDKNDGVLKGDVNMALLLKDGGHLRVDFNTSYIPKNKVEKMPDYHFVDHRIEILEKPEGRPVKLYAGAVARYSLLPEKNLNK",
+    "ipg_id": null,
+    "genbank": "BBC08820",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "h2-3_default",
+            "name": "default",
+            "ex_max": 506,
+            "em_max": 516,
+            "ext_coeff": 130000,
+            "qy": 0.89,
+            "pka": 4.6,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 115.7
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2020.03.30.015156"
+}

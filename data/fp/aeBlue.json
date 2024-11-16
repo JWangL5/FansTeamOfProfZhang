@@ -1,0 +1,28 @@
+{
+    "uuid": "LFOL4",
+    "name": "aeBlue",
+    "slug": "aeblue",
+    "seq": "MASLVKKDMCIKMTMEGTVNGHHFKCVGEGEGKPFEGTQVEKIRITEGGPLPFAYDILAPCCMYGSKTFIKHVSGIPDYFKESFPEGFTWERTQIFEDGGYLTIHQDTSLQGNNFIFKVNVIGANFPANGPVMQKKTAGWEPCVEMLYPRDGVLCGQSLMALKCTDGNHLTSHLRTTYRSRKPSNAVNMPEFHFGDHRIEILKAEQGKFYEQYESAVARYCEAAPSKLGHH",
+    "ipg_id": null,
+    "genbank": "DQ159069",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "aeblue_default",
+            "name": "default",
+            "ex_max": 597,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": 24.0,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20051314"
+}

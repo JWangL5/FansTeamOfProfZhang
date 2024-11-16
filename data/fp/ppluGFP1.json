@@ -1,0 +1,28 @@
+{
+    "uuid": "VPR4D",
+    "name": "ppluGFP1",
+    "slug": "pplugfp1",
+    "seq": "MPAMKIECRISGTLNGVVFELVGGGEGIPEQGRMTNKMKSTKGALTFSPYLLSHVMGYGFYHFGTYPSGYENPFLHAANNGGYTNTRIEKYEDGGVLHVSFSYRYEAGRVIGDFKVVGTGFPEDSVIFTDKIIRSNATVEHLHPMGDNVLVGSFARTFSLRDGGYYSFVVDSHMHFKSAIHPSILQNGGSMFAFRRVEELHSNTELGIVEYQHAFKTPTAFA",
+    "ipg_id": "1715606",
+    "genbank": "AAQ01183",
+    "uniprot": "Q6WV13",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "pplugfp1_default",
+            "name": "default",
+            "ex_max": 480,
+            "em_max": 500,
+            "ext_coeff": 65000,
+            "qy": 0.6,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 39.0
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/molbev/msh079"
+}

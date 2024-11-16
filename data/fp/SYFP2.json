@@ -1,0 +1,28 @@
+{
+    "uuid": "GB9EO",
+    "name": "SYFP2",
+    "slug": "syfp2",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKLICTTGKLPVPWPTLVTTLGYGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSYQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": "DQ092361",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "syfp2_default",
+            "name": "default",
+            "ex_max": 515,
+            "em_max": 527,
+            "ext_coeff": 101000,
+            "qy": 0.68,
+            "pka": 6.0,
+            "maturation": 4.1,
+            "lifetime": 2.9,
+            "brightness": 68.68
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi0516273"
+}

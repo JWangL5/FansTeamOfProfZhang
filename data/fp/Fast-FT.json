@@ -1,0 +1,15 @@
+{
+    "uuid": "26GKW",
+    "name": "Fast-FT",
+    "slug": "fast-ft",
+    "seq": "MVSKGEEDNMAIIKEFMRFKVHVEGSVNGHEFEIEGEGKGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSRAYVKHPADIPDYWKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASTERMYPEDGALKGEIKQRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVNIKLDITSHNEDYTIVEQYERSEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "t",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1038/nchembio.138"
+}

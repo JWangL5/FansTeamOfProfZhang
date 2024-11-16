@@ -1,0 +1,28 @@
+{
+    "uuid": "SZYEK",
+    "name": "SEYFP",
+    "slug": "seyfp",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLGYGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSYQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "seyfp_default",
+            "name": "default",
+            "ex_max": 515,
+            "em_max": 528,
+            "ext_coeff": 101000,
+            "qy": 0.56,
+            "pka": 6.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 56.56
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt0102-87"
+}

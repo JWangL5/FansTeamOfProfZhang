@@ -1,0 +1,30 @@
+{
+    "uuid": "TWJXO",
+    "name": "mCerulean3",
+    "slug": "mcerulean3",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNAIHGNVYITADKQKNGIKANFGLNCNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4EN1"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcerulean3_default",
+            "name": "default",
+            "ex_max": 433,
+            "em_max": 475,
+            "ext_coeff": 40000,
+            "qy": 0.87,
+            "pka": 3.2,
+            "maturation": 69.8,
+            "lifetime": 4.1,
+            "brightness": 34.8
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0017896"
+}

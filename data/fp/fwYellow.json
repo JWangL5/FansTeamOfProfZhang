@@ -1,0 +1,28 @@
+{
+    "uuid": "COLSB",
+    "name": "fwYellow",
+    "slug": "fwyellow",
+    "seq": "MTALTEGAKLFEKEIPYITELEGDVEGMKFIIKGEGTGDASVGKVDAQFICTTGDVPVPWSTLVTTLTYGAQCFAKYPRHIADFFKSCMPEGYVQERTITFEGDGVFKTRAEVTFENGSVYNRVKLNGQGFKKDGHVLGKNLEFNFTPHCLYIWGDQANHGLKSAFKIMHEITGSKEDFIVADHTQMNTPIGGGPVHVPEYHHITYHVTLSKDVTDHRDHLNIVEVIKAVDLETYR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "fwyellow_default",
+            "name": "default",
+            "ex_max": 520,
+            "em_max": 540,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1186/s13036-018-0100-0"
+}

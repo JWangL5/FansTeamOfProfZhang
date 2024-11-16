@@ -1,0 +1,28 @@
+{
+    "uuid": "MSSUL",
+    "name": "mRFP1-Q66C",
+    "slug": "mrfp1-q66c",
+    "seq": "MASSEDVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFCYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASTERMYPEDGALKGEIKMRLKLKDGGHYDAEVKTTYMAKKPVQLPGAYKTDIKLDITSHNEDYTIVEQYERAEGRHSTGA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mrfp1-q66c_default",
+            "name": "default",
+            "ex_max": 559,
+            "em_max": 580,
+            "ext_coeff": 31800,
+            "qy": 0.33,
+            "pka": null,
+            "maturation": 10.8,
+            "lifetime": null,
+            "brightness": 10.49
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth901"
+}

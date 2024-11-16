@@ -1,0 +1,28 @@
+{
+    "uuid": "DOUOV",
+    "name": "sgBP",
+    "slug": "sgbp",
+    "seq": "MVAIPENVRIKAFMEGAINNHHFKCEAEGEGKPYEGTQLERIRVTEGGPLPFSFDILSPHFQYGSVAITKYLSGIPDYFKQSFPEGFSWERTTMYEDGGYVTAHQDTSLDGNCLVYKIKVIGSNLPANGPVMQNKTRGWEPCTEMRYVRGGVLCGQSLMALKCADGNHLTCQLRTTYRSKKPAKKLQMPAFHFSDHRPEILKVSENGNLMEQYEMSVGRYCESVPSKLGHN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": "A0A0M3KL34",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sgbp_default",
+            "name": "default",
+            "ex_max": 608,
+            "em_max": null,
+            "ext_coeff": 122573,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0134108"
+}

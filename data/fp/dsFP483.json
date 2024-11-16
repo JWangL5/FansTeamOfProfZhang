@@ -1,0 +1,30 @@
+{
+    "uuid": "YG5WM",
+    "name": "dsFP483",
+    "slug": "dsfp483",
+    "seq": "MSCSKSVIKEEMLIDLHLEGTFNGHYFEIKGKGKGQPNEGTNTVTLEVTKGGPLPFGWHILCPQFQYGNKAFVHHPDNIHDYLKLSFPEGYTWERSMHFEDGGLCCITNDISLTGNCFYYDIKFTGLNFPPNGPVVQKKTTGWEPSTERLYPRDGVLIGDIHHALTVEGGGHYACDIKTVYRAKKAALKMPGYHYVDTKLVIWNNDKEFMKVEEHEIAVARHHPFYEPKKDK",
+    "ipg_id": "200279",
+    "genbank": "AAF03370",
+    "uniprot": "Q9U6Y7",
+    "pdb": [
+        "3CGL"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dsfp483_default",
+            "name": "default",
+            "ex_max": 443,
+            "em_max": 483,
+            "ext_coeff": 23900,
+            "qy": 0.46,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 10.99
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/13657"
+}

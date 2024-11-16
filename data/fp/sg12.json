@@ -1,0 +1,30 @@
+{
+    "uuid": "T972V",
+    "name": "sg12",
+    "slug": "sg12",
+    "seq": "MASKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "1EMM"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sg12_default",
+            "name": "default",
+            "ex_max": 396,
+            "em_max": 508,
+            "ext_coeff": 18300,
+            "qy": 0.85,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 15.55
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nsb0597-361"
+}

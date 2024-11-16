@@ -1,0 +1,28 @@
+{
+    "uuid": "YHJV5",
+    "name": "emiRFP670",
+    "slug": "emirfp670",
+    "seq": "MAEGSVARQPDLLTCEHEEIHLAGSIQPHGALLVVSEHDHRVIQASANAAEFLNLGSVLGVPLAEIDGDLLIKILPHLDPTAEGMPVAVRCRIGNPSTEYCGLMHRPPEGGLIIELERAGPSIDLSGTLAPALERIRTAGSLRALCDDTVLLFQQCTGYDRVMVYRFDEQGHGLVFSECHVPGLESYFGNRYPSSTVPQMARQLYVRQRVRVLVDVTYQPVPLEPRLSPLTGRDLDMSGCFLRSMSPCHLQFLKDMGVRATLAVSLVVGGKLWGLVVCHHYLPRFIRFELRAICKRLAERIATRITALES",
+    "ipg_id": null,
+    "genbank": "MN701051",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "emirfp670_default",
+            "name": "default",
+            "ex_max": 642,
+            "em_max": 670,
+            "ext_coeff": 87400,
+            "qy": 0.14,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": 1.53,
+            "brightness": 12.24
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41467-019-13897-6"
+}

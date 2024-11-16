@@ -1,0 +1,30 @@
+{
+    "uuid": "PRMX6",
+    "name": "KikG",
+    "slug": "kikg",
+    "seq": "MSVITSEMKMELRMEGAVNGHKFVITGKGSGQPFEGIQNMDLTVIEGGPLPFAFDILTTVFDYGNRVFVKYPEEIVDYFKQSFPEGYSWERSMSYEDGGICLATNNITMKKDGSNCFVYEIRFDGVNFPANGPVMQRKTVKWEPSTEKMYVRDGVLKGDVNMALLLQGGGHYRCDFRTTYKAKKVVQLPDYHFVDHRIEITSHDKDYNKVKLYEHAKAHSGLPRLAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "1XSS"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "kikg_default",
+            "name": "default",
+            "ex_max": 507,
+            "em_max": 517,
+            "ext_coeff": 81000,
+            "qy": 0.68,
+            "pka": 4.2,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 55.08
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/sj.embor.7400361"
+}

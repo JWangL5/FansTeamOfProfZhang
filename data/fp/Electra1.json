@@ -1,0 +1,28 @@
+{
+    "uuid": "5X9A8",
+    "name": "Electra1",
+    "slug": "electra1",
+    "seq": "MVSKGEELIEENMRMKVVMEGSVNGHQFKCTGEGEGRPYEGVQTMRIKVIEGGPLPFAFDILATSFLFGSKTFIKYPADIPDFFKQSFPEGFTWERVTRYEDGGVVTVTQDTSLEDGGLVYNVKVRGVNFPSNGPVMQKKTEGWEPFTEMMYPANGGLRGYTDIALKVDGDGHLHANIVTTYRSKKTVGDIKMPGVHAVDYRLERVEESDNETYVVLREVAVAKYSNLGGGMDELYK",
+    "ipg_id": null,
+    "genbank": "OL631606",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "electra1_default",
+            "name": "default",
+            "ex_max": 402,
+            "em_max": 454,
+            "ext_coeff": 69750,
+            "qy": 0.74,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 3.4,
+            "brightness": 51.62
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41598-022-13214-0"
+}

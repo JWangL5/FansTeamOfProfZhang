@@ -1,0 +1,31 @@
+{
+    "uuid": "NLF4R",
+    "name": "TagRFP675",
+    "slug": "tagrfp675",
+    "seq": "MSELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTQRIKVVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDFWKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEANTEMMYPADGGLEGRNYMALKLVGGGHLICSLKTTYRSKKPAKNLKMPGVYYVDRRLERIKEADKETYVEQHEVAVARYCDLPSKLGHKLN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4KGE",
+        "4KGF"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tagrfp675_default",
+            "name": "default",
+            "ex_max": 598,
+            "em_max": 675,
+            "ext_coeff": 46000,
+            "qy": 0.08,
+            "pka": 5.7,
+            "maturation": 25.0,
+            "lifetime": 0.9,
+            "brightness": 3.68
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/srep01847"
+}

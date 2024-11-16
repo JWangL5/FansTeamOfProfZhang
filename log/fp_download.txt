@@ -1,0 +1,249 @@
+mEosEM (Green) errored
+mEosEM (Red) errored
+pcDronpa (Green) errored
+Skylan-S (On) errored
+mLemon (basic) errored
+Kaede (Green) errored
+pcDronpa2 (Green) errored
+Dronpa (On) errored
+Skylan-NS (On) errored
+ffDronpa (On) errored
+MonomerichyperfolderYFP errored
+Gamillus (On) errored
+mEos3.1 (Green) errored
+eYGFP (Default) errored
+mEos4a (Green) errored
+HyperfolderYFP errored
+pcDronpa2 (Red) errored
+GRvT (Redexcitation) errored
+pcStar (Green) errored
+mEos4b (Green) errored
+mKOκ errored
+mGeos-C (On) errored
+rsKame (On) errored
+FoldingReporterGFP errored
+dendFP (Green) errored
+PSmOrange (Orange) errored
+d2EosFP (Green) errored
+SuperfolderGFP errored
+CpYGFP (Default) errored
+mEos3.2 (Green) errored
+mChartreuse (basic) errored
+mGeos-E (On) errored
+mEosFP-M159A (Green) errored
+pcDronpa (Red) errored
+d1EosFP (Green) errored
+EosFP (Green) errored
+mCherry-XL (Fluorescent) errored
+GCaMP6f (Test) errored
+mGeos-S (On) errored
+mEos2 (Green) errored
+mGeos-F (On) errored
+Kohinoor (On) errored
+mGeos-M (On) errored
+GCaMP6f (InpresenceofCa2+) errored
+mEos4a (Red) errored
+mEosFP (Green) errored
+ThermostableGreenProtein (Excitedstate) errored
+mLychee (basic) errored
+pHmScarlet (pH7.5) errored
+mEos4b (Red) errored
+mGeos-L (On) errored
+KikGR1 (Green) errored
+GRvT (FRETexcitation) errored
+CyRFP1 (CyRFP1) errored
+CyRFP1 (CyRFP1) errored
+E2-Red-Green errored
+GFP(S65T) errored
+eYGPdp (Default) errored
+Dreiklang (On) errored
+mKikGR (Green) errored
+Dendra2-M159A (Orange) errored
+jRCaMP1a (calciumsaturated) errored
+PSmOrange2 (Orange) errored
+eqFP611V124T errored
+mEos2 (Red) errored
+K-GECO1 (calciumsaturated) errored
+rsFastLime (On) errored
+mTFP0.7 (On) errored
+supereclipticpHluorin errored
+Dendra2-M159A (Green) errored
+PATagRFP1314 (On) errored
+mSandy2 (Basic) errored
+Padron (On) errored
+NijiFP (Orange) errored
+SPOON (on) errored
+PATagRFP1297 (On) errored
+NijiFP (Green) errored
+rsGreen1 (Bright) errored
+mIrisFP (Green) errored
+moxDendra2 (Green) errored
+PATagRFP (On) errored
+d1EosFP (Red) errored
+dendFP (Red) errored
+Dendra2-T69A (Green) errored
+eYGFPuv (Default) errored
+αGFP errored
+cpT-Sapphire174-173 errored
+mEosFP (Red) errored
+mEosFP-F173S (Green) errored
+KikGR1 (Red) errored
+Dendra2-T69A (Orange) errored
+EosFP (Red) errored
+bsDronpa (On) errored
+Dendra2 (Green) errored
+mKateS158A errored
+IrisFP (Green) errored
+Padron0.9 (On) errored
+pcStar (Red) errored
+mKateS158C errored
+mEos3.1 (Red) errored
+Dronpa-2 (On) errored
+shBFP-N158S-L173I errored
+Kaede (Red) errored
+d2EosFP (Red) errored
+mIrisFP (Red) errored
+Dendra2 (Red) errored
+Dronpa-3 (On) errored
+Kohinoor2.0 (On) errored
+rsEGFP2 (On) errored
+mEos3.2 (Red) errored
+mKikGR (Red) errored
+moxDendra2 (Red) errored
+mClavGR2 (Red) errored
+rsEGFP (On) errored
+mMaple (Red) errored
+IrisFP (Orange) errored
+CAR-GECO1 (calciumsaturated) errored
+mRubyFT (Blue-form) errored
+mKateM41GS158C errored
+Padron2 (On-state) errored
+mEos2-A69T (Green) errored
+mTurquoise2-1710 (Natural) errored
+shBFP-N158K-L173I errored
+Dendra (Green) errored
+mClavGR2 (Green) errored
+Dendra (Red) errored
+jRGECO1a (calciumsaturated) errored
+R-GECO1.2 (calciumsaturated) errored
+mJuniper (basic) errored
+PA-GFP (On) errored
+iRFP713-V256C errored
+SuperNovaRed errored
+rsFolder (Green) errored
+PAmCherry2 (On) errored
+moxMaple3 (Red) errored
+mMaple3 (Red) errored
+jRCaMP1a (calciumfree) errored
+O-GECO1 (calciumsaturated) errored
+YGFPdp (Default) errored
+IrisFP-M159A (Green) errored
+R-GECO1 (calciumsaturated) errored
+mMaple (Green) errored
+GZnP3 (GZnP3(Zn²⁺-bound)) errored
+PS-CFP2 (Green) errored
+Blue102 (Blueform) errored
+mEosFP-F173S (Red) errored
+rsFolder2 (Green) errored
+R3-2+PCB errored
+frFAST (FluorogenHPAR-3OM) errored
+PSmOrange (Far-red) errored
+mRhubarb713 (Pr) errored
+PS-CFP2 (Cyan) errored
+PAmCherry1 (On) errored
+rsFusionRed1 (On) errored
+mEos2-A69T (Orange) errored
+PSmOrange2 (Far-red) errored
+YGFPuv (Default) errored
+lanRFP-ΔS83l errored
+REX-GECO1 (calciumsaturated) errored
+jREX-GECO1 (calciumsaturated) errored
+SuperNovaGreen errored
+mRhubarb720 (Pr) errored
+mMaple3 (Green) errored
+mRhubarb719 (Pr) errored
+BR1 (BR1) errored
+PSLSSmKate (LSS) errored
+moxMaple3 (Green) errored
+PS-CFP (Cyan) errored
+PS-CFP (Green) errored
+PAmCherry3 (On) errored
+PAmKate (On) errored
+rsFusionRed2 (On) errored
+KFP1 (On) errored
+rsTagRFP (ON) errored
+Pp2FbFPL30M errored
+K-GECO1 (calciumfree) errored
+mKeima (pH7.4) errored
+Pp2FbFP errored
+rsFusionRed3 (On) errored
+mRubyFT (Red-form) errored
+AvicFP2 (pre-conversion) errored
+ECFPH148D errored
+REX-GECO1 (calciumfree) errored
+jREX-GECO1 (calciumfree) errored
+rsCherry (On) errored
+GCaMP6f (InabsenceofCa2+) errored
+PSLSSmKate (Red) errored
+R-GECO1 (calciumfree) errored
+CAR-GECO1 (calciumfree) errored
+jRGECO1a (calciumfree) errored
+R-GECO1.2 (calciumfree) errored
+GZnP3 (GZnP3(apostate)) errored
+rsCherryRev (On) errored
+shCP-E63L-Y64H errored
+O-GECO1 (calciumfree) errored
+AausFP4 (On) errored
+AlexaFluorPlus800 (AlexaFluorPlus800) errored
+AvicFP3 (pre-conversion) errored
+BDFP2.0 (Fret) errored
+Bovineserumalbumin errored
+Channelrhodopsin2 (C1) errored
+cpEYFP(V68L-Q69K) errored
+dClover2A206K errored
+EnhancedCyan-EmittingGFP errored
+G3GFP (G3GFP) errored
+KOFP-7 (KOFP-7) errored
+Lumazinebindingprotein errored
+miniSOGQ103V errored
+mKeima (pH5) errored
+mKeima (pH6) errored
+mKeima (pH8) errored
+mKeima (pH4) errored
+mK-GO (Late) errored
+mK-GO (Early) errored
+mMaple2 (Green) errored
+mMaple2 (Red) errored
+Montiporasp.#20-9115 errored
+Padron(star) (On) errored
+pHluorin2 (acidic) errored
+pHluorin2 (alkaline) errored
+pHluorin,ecliptic (acidic) errored
+pHluorin,ecliptic errored
+pHluorin,ratiometric (acidic) errored
+pHluorin,ratiometric (alkaline) errored
+pHmScarlet (pH5) errored
+pHmScarlet (pH6) errored
+pHmScarlet (pH7) errored
+pHmScarlet (pH8) errored
+pHmScarlet (pH9) errored
+pHmScarlet (pH10) errored
+pHmScarlet (pH7.4) errored
+pHRed (pH9.0) errored
+pHRed (pH5.5) errored
+rsCherryRev1.4 (On) errored
+SAASoti (Green) errored
+SAASoti (Red) errored
+SH3 (SH3) errored
+ShyRFP (Yellowstate) errored
+spGFP11 errored
+SuperfolderBFP errored
+SuperfolderCFP errored
+SuperfoldermTurquoise2 errored
+SuperfoldermTurquoise2ox errored
+SuperfolderpHluorin errored
+SuperfolderYFP errored
+SuperNova2 (SuperNova2) errored
+Trp-lessGFP errored
+V127TSAASoti (Green) errored
+V127TSAASoti (Red) errored

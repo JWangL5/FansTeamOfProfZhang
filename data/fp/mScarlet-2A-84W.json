@@ -1,0 +1,28 @@
+{
+    "uuid": "5CEBO",
+    "name": "mScarlet-2A-84W",
+    "slug": "mscarlet-2a-84w",
+    "seq": "MVSKGEAVIKEFMRFKVHMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFSWDILSPQFMYGSRAFTKHPADIPDYWKQSFPEGFKWERVMNFEDGGAVSVTQDTSLEDGTLIYKVKLRGTNFPPDGPVMQKKTMGWEASTERLYPEDVVLKGDIKMALRLKDGGRYLADFKTTYKAKKPVQMPGAYNIDRKLDITSHNEDYTVVEQYERSVARHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mscarlet-2a-84w_default",
+            "name": "default",
+            "ex_max": 568,
+            "em_max": 592,
+            "ext_coeff": 97000,
+            "qy": 0.7,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 67.9
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41592-023-01809-y"
+}

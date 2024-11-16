@@ -1,0 +1,28 @@
+{
+    "uuid": "2ERUG",
+    "name": "mBeRFP",
+    "slug": "mberfp",
+    "seq": "MVSKGEELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDFFKQSFPEGFTWERSTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEASTEMLYPADGGLEGRDYMALKLVGGGHLICNAKTTYRSKKPAKNLKMPGVYYVDRRLERIKEADKETSVEQHEVAVARYCDLPSKLGHK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mberfp_default",
+            "name": "default",
+            "ex_max": 446,
+            "em_max": 611,
+            "ext_coeff": 65000,
+            "qy": 0.27,
+            "pka": 5.6,
+            "maturation": 60.0,
+            "lifetime": 2.0,
+            "brightness": 17.55
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0064849"
+}

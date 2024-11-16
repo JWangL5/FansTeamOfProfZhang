@@ -1,0 +1,28 @@
+{
+    "uuid": "OF5G5",
+    "name": "DsRed-NF",
+    "slug": "dsred-nf",
+    "seq": "MRSSKNVIKEFMRFKVRMEGTVNGHEFEIEGEGEGRPYEGHNTVKLKVTKGGPLPFAWDILSPQFQYGSKVYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGCFIYKVKFIGVNFPSDGPVMQKKTMGWEACTERLYPRDGVLKGENHMALKLKDGGHYLVEFKSIYMAKKPVQLPGYYYVDAKLDITSHNEDYTIVEQYERTEGRHHLFL",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dsred-nf_default",
+            "name": "default",
+            "ex_max": 561,
+            "em_max": 600,
+            "ext_coeff": 57000,
+            "qy": 0.001,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.06
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1186/1471-2091-3-7"
+}

@@ -1,0 +1,15 @@
+{
+    "uuid": "8NMUD",
+    "name": "mEos2-NA",
+    "slug": "meos2-na",
+    "seq": "MSAIKPDMKIKLRMEGNVNGHHFVIDGDGTGKPFEGKQSMDLEVKEGGPLPFAFDILTTAFHYGNRVFAKYPDNIQDYFKQSFPKGYSWERSLTFEDGGICNARNDITMEGDTFYNKVRFYGTNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDIHMALLLEGNAHYRCDFRTTYKAKEKGVKLPGAHFVDHCIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "m",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1038/nmeth.2021"
+}

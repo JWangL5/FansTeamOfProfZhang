@@ -1,0 +1,15 @@
+{
+    "uuid": "JLSC6",
+    "name": "fuGFP",
+    "slug": "fugfp",
+    "seq": "MVSSGEDIFSGLVPILIELEGDVNGHRFSVRGEGYGDASNGKLEIKFICTTGRLPVPWPTLVTTLSYGVQCFAKYPEHMRQNDFFKSAMPDGYVQERTISFKEDGTYKTRAEVKFEGEALVNRIDLKGLEFKEDGNILGHKLEYSFNSHYVYITADKNRNGLEAQFRIRHNVDDGSVQLADHYQQNTPIGEGPVLLPEQHYLTTNSVLSKDPQERRDHMVLVEFVTAAGLSLGMDELYKS",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1111/1751-7915.14511"
+}

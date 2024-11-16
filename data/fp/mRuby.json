@@ -1,0 +1,32 @@
+{
+    "uuid": "6KLAW",
+    "name": "mRuby",
+    "slug": "mruby",
+    "seq": "MNSLIKENMRMKVVLEGSVNGHQFKCTGEGEGNPYMGTQTMRIKVIEGGPLPFAFDILATSFMYGSRTFIKYPKGIPDFFKQSFPEGFTWERVTRYEDGGVITVMQDTSLEDGCLVYHAQVRGVNFPSNGAVMQKKTKGWEPNTEMMYPADGGLRGYTHMALKVDGGGHLSCSFVTTYRSKKTVGNIKMPGIHAVDHRLERLEESDNEMFVVQREHAVAKFAGLGGG",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3U0M",
+        "3U0L",
+        "3U0N"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mruby_default",
+            "name": "default",
+            "ex_max": 558,
+            "em_max": 605,
+            "ext_coeff": 112000,
+            "qy": 0.35,
+            "pka": 4.4,
+            "maturation": 168.0,
+            "lifetime": 2.6,
+            "brightness": 39.2
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0004391"
+}

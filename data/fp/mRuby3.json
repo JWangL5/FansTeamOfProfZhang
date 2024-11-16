@@ -1,0 +1,28 @@
+{
+    "uuid": "MZMFB",
+    "name": "mRuby3",
+    "slug": "mruby3",
+    "seq": "MVSKGEELIKENMRMKVVMEGSVNGHQFKCTGEGEGRPYEGVQTMRIKVIEGGPLPFAFDILATSFMYGSRTFIKYPADIPDFFKQSFPEGFTWERVTRYEDGGVVTVTQDTSLEDGELVYNVKVRGVNFPSNGPVMQKKTKGWEPNTEMMYPADGGLRGYTDIALKVDGGGHLHCNFVTTYRSKKTVGNIKMPGVHAVDHRLERIEESDNETYVVQREVAVAKYSNLGGGMDELYK",
+    "ipg_id": null,
+    "genbank": "ATE88097",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mruby3_default",
+            "name": "default",
+            "ex_max": 558,
+            "em_max": 592,
+            "ext_coeff": 128000,
+            "qy": 0.45,
+            "pka": 4.8,
+            "maturation": 136.5,
+            "lifetime": null,
+            "brightness": 57.6
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/srep20889"
+}

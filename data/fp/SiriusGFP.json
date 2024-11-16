@@ -1,0 +1,28 @@
+{
+    "uuid": "4OC6N",
+    "name": "SiriusGFP",
+    "slug": "siriusgfp",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNRHNVYITADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQVKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "siriusgfp_default",
+            "name": "default",
+            "ex_max": 504,
+            "em_max": 516,
+            "ext_coeff": 56600,
+            "qy": 0.214,
+            "pka": 5.29,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 12.11
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.jneumeth.2018.12.008"
+}

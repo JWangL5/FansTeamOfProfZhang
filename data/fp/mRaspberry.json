@@ -1,0 +1,28 @@
+{
+    "uuid": "V5FM2",
+    "name": "mRaspberry",
+    "slug": "mraspberry",
+    "seq": "MVSKGEEVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQCMYGSKGYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEMKMRLKLKDGGHYDAEVKTTYMAKKPVQLPGAYKTDIKLDITSHNEDYTIVEQYERAEGRHSTGA",
+    "ipg_id": "3877009",
+    "genbank": "AAV65486",
+    "uniprot": "Q5S3G8",
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mraspberry_default",
+            "name": "default",
+            "ex_max": 598,
+            "em_max": 625,
+            "ext_coeff": 86000,
+            "qy": 0.15,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 12.9
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.0407752101"
+}

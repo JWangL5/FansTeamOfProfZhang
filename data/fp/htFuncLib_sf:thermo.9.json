@@ -1,0 +1,28 @@
+{
+    "uuid": "LMFWL",
+    "name": "htFuncLib_sf:thermo.9",
+    "slug": "htfunclib_sfthermo9",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSHQSVLSKDPNEKRDHMVLLQFVVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_sfthermo9_default",
+            "name": "default",
+            "ex_max": 502,
+            "em_max": 515,
+            "ext_coeff": null,
+            "qy": 0.49,
+            "pka": 5.76,
+            "maturation": null,
+            "lifetime": 1.05,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

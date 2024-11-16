@@ -1,0 +1,28 @@
+{
+    "uuid": "85KA4",
+    "name": "phiYFPv",
+    "slug": "phiyfpv",
+    "seq": "GSSGALLFHGKIPYVVEMEGNVDGHTFSIRGKGYGDASVGKVDAQFICTTGDVPVPWSTLVTTLTYGAQCFAKYGPELKDFYKSCMPDGYVQERTITFEGDGNFKTRAEVTFENGSVYNRVKLNGQGFKKDGHVLGKNLEFNFTPHCLYIWGDQANHGLKSAFKICHEITGSKGDFIVADHTQMNTPIGGGPVHVPEYHHMSYHVKLSKDVTDHRDNMSLKETVRAVDCRKTYD",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "phiyfpv_default",
+            "name": "default",
+            "ex_max": 524,
+            "em_max": 537,
+            "ext_coeff": 101305,
+            "qy": 0.59,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 59.77
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1107/s0907444913004034"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "RATTD",
+    "name": "mMaroon1",
+    "slug": "mmaroon1",
+    "seq": "MVSKGEELIKENMHTKLYLTGTVNNHYFECTAEGEGKPYEGTQTNRIKVVRGGPLPFAFDILAPCFMYGSKTFINHPPDIPDYFKQSFPEGFTWERTTVYEDGGTLTATQDTSLQDGCLIYNVQVRGENFPSNGPVMQKKTLGWEASTETLYPADGSLEGRLDWALKLVGGGHLHCRLETTYRSKKPAKNLKMPGVYFIDRRLERIKEADNETYVEQHEVAVARYCDLPSKLGHKLNGMDELYK",
+    "ipg_id": null,
+    "genbank": "AOY07814",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mmaroon1_default",
+            "name": "default",
+            "ex_max": 609,
+            "em_max": 657,
+            "ext_coeff": 80000,
+            "qy": 0.11,
+            "pka": 6.2,
+            "maturation": 20.0,
+            "lifetime": null,
+            "brightness": 8.8
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.4045"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "5NY15",
+    "name": "SCFP1",
+    "slug": "scfp1",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTWGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYISHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": "4596891",
+    "genbank": "AAZ65846",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "scfp1_default",
+            "name": "default",
+            "ex_max": 434,
+            "em_max": 477,
+            "ext_coeff": 29000,
+            "qy": 0.24,
+            "pka": 3.5,
+            "maturation": 50.9,
+            "lifetime": 1.5,
+            "brightness": 6.96
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi0516273"
+}

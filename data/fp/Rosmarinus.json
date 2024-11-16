@@ -1,0 +1,28 @@
+{
+    "uuid": "GNU4X",
+    "name": "Rosmarinus",
+    "slug": "rosmarinus",
+    "seq": "MSVIKSVMKIKLHMDGIVNGHKFMITGEGEGKPFEGTHTIILKVKEGGPLPFAYDILTTAFQYGNRVFTKYPKDIPDYFKQSFPEGYSWERSMTFEDQGVCTVTSDIKLEGDYFTYDIRFHGVNFPAGGPVMQKKTLRWEPSTENMYVRDGVLVGEVERTLLLEGNKHHRCNFRTTYKAKKEVVLPEYHFVDHRIEILGHDKDYNNVVVYENAVARQQASTLPSKAK",
+    "ipg_id": null,
+    "genbank": "KY931461",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "rosmarinus_default",
+            "name": "default",
+            "ex_max": 437,
+            "em_max": 482,
+            "ext_coeff": 45000,
+            "qy": 0.85,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 38.25
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/acs.jpclett.7b00960"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "PQRLE",
+    "name": "secBFP2",
+    "slug": "secbfp2",
+    "seq": "MSEELIKENMHMKLYMEGTVDNHHFKATSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFLYGSKTFIDHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGSLIYNVKIRGVDFTSNGPVMQKKTLGWEAFTETLYPADGGLEGRNDMALKLVGGSHLIANAKTTYRSKKPAKNLKMPGVYYVDYRLERIKEANDETYVEQHEVAVARYSDLPSKLGHKLN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "secbfp2_default",
+            "name": "default",
+            "ex_max": 399,
+            "em_max": 456,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.bbrc.2012.12.028"
+}

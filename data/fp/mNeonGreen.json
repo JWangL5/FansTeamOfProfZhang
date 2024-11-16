@@ -1,0 +1,31 @@
+{
+    "uuid": "ZRKRV",
+    "name": "mNeonGreen",
+    "slug": "mneongreen",
+    "seq": "MVSKGEEDNMASLPATHELHIFGSINGVDFDMVGQGTGNPNDGYEELNLKSTKGDLQFSPWILVPHIGYGFHQYLPYPDGMSPFQAAMVDGSGYQVHRTMQFEDGASLTVNYRYTYEGSHIKGEAQVKGTGFPADGPVMTNSLTAADWCRSKKTYPNDKTIISTFKWSYTTGNGKRYRSTARTTYTFAKPMAANYLKNQPMYVFRKTELKHSKTELNFKEWQKAFTDVMGMDELYK",
+    "ipg_id": "34051755",
+    "genbank": "AGG56535",
+    "uniprot": null,
+    "pdb": [
+        "5LTP",
+        "5LTR"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mneongreen_default",
+            "name": "default",
+            "ex_max": 506,
+            "em_max": 517,
+            "ext_coeff": 116000,
+            "qy": 0.8,
+            "pka": 5.7,
+            "maturation": 10.0,
+            "lifetime": 3.1,
+            "brightness": 92.8
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.2413"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "7XHKJ",
+    "name": "BP02",
+    "slug": "bp02",
+    "seq": "ELSKETALKKSFKFLVLIILWNNTVDAIHI",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "blue-fluorescent-protein_default",
+            "name": "default",
+            "ex_max": 342,
+            "em_max": 382,
+            "ext_coeff": 4494,
+            "qy": 0.1139,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 0.69,
+            "brightness": 0.51
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/acsomega.0c02574"
+}

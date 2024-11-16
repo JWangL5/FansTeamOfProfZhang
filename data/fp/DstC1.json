@@ -1,0 +1,28 @@
+{
+    "uuid": "7J2M8",
+    "name": "DstC1",
+    "slug": "dstc1",
+    "seq": "MSCSKNVIKEFMRFKVRMEGTVNGHEFEIEGEGEGRPYEGHNTVKLKVTKGGPLPFAWDILSPQFQYGSKVYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGCFIYKVKFIGVNFPSDGPVMQKKTMGWEASTERLYPRDGVLKGEIHKALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDSKLDITSHNKDYTIVEQYERTEGRHHLFLKAELGSNVGER",
+    "ipg_id": "3612525",
+    "genbank": "AAU04444",
+    "uniprot": "Q66ND7",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dstc1_default",
+            "name": "default",
+            "ex_max": 436,
+            "em_max": 482,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.cca.2004.07.002"
+}

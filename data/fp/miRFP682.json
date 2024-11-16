@@ -1,0 +1,28 @@
+{
+    "uuid": "X1DTP",
+    "name": "miRFP682",
+    "slug": "mirfp682",
+    "seq": "MAEGSVARQPDLLTCDDEPIHIPGAIQPHGLLLALAADMTIVAGSDNLPELTGLAIGALIGRSAADVFDSETHNRLTIALAEPGAAVGAPITVGFTMRKDAGFIGSWHRHDQLIFLELEPPQRDVAEPQAFFRRTNSAIRRLQAAETLESACAAAAQEVRKITGFDRVMIYRFASDFSGVVIAEDRCAEVESKLGLHYPASAVPAQARRLYTINPVRIIPDINYRPVPVTPDLNPVTGRPIDLSFAILRSVSPCHLEFMRNIGMHGTMSISILRGERLWGLIVCHHRTPYYVDLDGRQACKRVAERLATQIGVMEE",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mirfp682_default",
+            "name": "default",
+            "ex_max": 663,
+            "em_max": 682,
+            "ext_coeff": 91000,
+            "qy": 0.112,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 10.19
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41467-019-13897-6"
+}

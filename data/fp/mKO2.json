@@ -1,0 +1,28 @@
+{
+    "uuid": "134NN",
+    "name": "mKO2",
+    "slug": "mko2",
+    "seq": "MVSVIKPEMKMRYYMDGSVNGHEFTIEGEGTGRPYEGHQEMTLRVTMAEGGPMPFAFDLVSHVFCYGHRVFTKYPEEIPDYFKQAFPEGLSWERSLEFEDGGSASVSAHISLRGNTFYHKSKFTGVNFPADGPIMQNQSVDWEPSTEKITASDGVLKGDVTMYLKLEGGGNHKCQMKTTYKAAKEILEMPGDHYIGHRLVRKTEGNITEQVEDAVAHS",
+    "ipg_id": "14335281",
+    "genbank": "BAG06989",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mko2_default",
+            "name": "default",
+            "ex_max": 551,
+            "em_max": 565,
+            "ext_coeff": 63800,
+            "qy": 0.62,
+            "pka": 5.5,
+            "maturation": 108.0,
+            "lifetime": null,
+            "brightness": 39.56
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.cell.2007.12.033"
+}

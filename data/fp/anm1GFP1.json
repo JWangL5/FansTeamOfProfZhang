@@ -1,0 +1,28 @@
+{
+    "uuid": "S1U3D",
+    "name": "anm1GFP1",
+    "slug": "anm1gfp1",
+    "seq": "MNVMRYNRGFCRVLQNGVKNLRSRNCSTEEKPVILGAMTETFQKKLPYKLELDGDVDGQTFKVIGEGVGDATTGVIEGKYVCTEGEVPISWVSLITSLSYGAKCFVRYPNEINDFFKSTFPSGYHQERKITYENDGVLETAAKITMESGAIVNRINVKGTGFDKDGHVCQKNLESSPPSTTYVVPEGEGIRIIYRNIYPTKDGHYVVADTQQVNRPIRAQGTSAIPTYHHIKSKVDLSTDPEENKDHIIIKETNCAFDADFS",
+    "ipg_id": "1978515",
+    "genbank": "AAR85350",
+    "uniprot": "Q6RYS6",
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "anm1gfp1_default",
+            "name": "default",
+            "ex_max": 475,
+            "em_max": 495,
+            "ext_coeff": 75000,
+            "qy": 0.65,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 48.75
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/molbev/msh079"
+}

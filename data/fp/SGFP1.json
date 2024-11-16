@@ -1,0 +1,28 @@
+{
+    "uuid": "TZ5KN",
+    "name": "SGFP1",
+    "slug": "sgfp1",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": "6755340",
+    "genbank": "ABM97851",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sgfp1_default",
+            "name": "default",
+            "ex_max": 495,
+            "em_max": 512,
+            "ext_coeff": 42000,
+            "qy": 0.62,
+            "pka": 6.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 26.04
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi0622874"
+}

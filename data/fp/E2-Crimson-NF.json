@@ -1,0 +1,28 @@
+{
+    "uuid": "NE2Q6",
+    "name": "E2-Crimson-NF",
+    "slug": "e2-crimson-nf",
+    "seq": "MDSTENVIKPFMRFKVHMEGSVNGHEFEIEGVGEGKPYEGTQTAKLQVTKGGPLPFAWDILSPQFFYGSKAYIKHPADIPDYLKQSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGTLIYHVKFIGVNFPSDGPVMQKKTLGWEPATERNYPRDGVLKGENHMALKLKGGGHYLCEFKSIYMAKKPVKLPGYHYVDYKLDITSHNEDYTVVEQYERAEARHHLFQ",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "e2-crimson-nf_default",
+            "name": "default",
+            "ex_max": 583,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1364/boe.4.002477"
+}

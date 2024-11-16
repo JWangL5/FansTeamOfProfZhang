@@ -1,0 +1,28 @@
+{
+    "uuid": "T93PK",
+    "name": "McaG2",
+    "slug": "mcag2",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHNFVIEGEGKGKPFEGTQTINLTVKEGGPLPFAYDILTAAFQYGNRAFTKYPRDIADYFKQSFPEGYSWERSMTYEDQGICIIKSDIRMEGDCFIYEIRYDGVNFPPSGPVMQKKTLKWEPSTEKMYVRDGVLKGEVNMALLLEGGGHYRCDFRSTYKAKKRVQLPDYHFVDHRIEILSHDNDYNTVKLSENAEARYSMLPRQAK",
+    "ipg_id": "3612587",
+    "genbank": "AAU04448",
+    "uniprot": "Q66ND3",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcag2_default",
+            "name": "default",
+            "ex_max": 492,
+            "em_max": 502,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.cca.2004.07.002"
+}

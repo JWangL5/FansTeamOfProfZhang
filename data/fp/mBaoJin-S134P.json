@@ -1,0 +1,28 @@
+{
+    "uuid": "YM2UC",
+    "name": "mBaoJin-S134P",
+    "slug": "mbaojin-s134p",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mbaojin-s134p_default",
+            "name": "default",
+            "ex_max": 502,
+            "em_max": 510,
+            "ext_coeff": 70245,
+            "qy": 0.83,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 58.3
+        }
+    ],
+    "transitions": [],
+    "doi": "10.21203/rs.3.rs-3188559/v1"
+}

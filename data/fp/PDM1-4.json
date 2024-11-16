@@ -1,0 +1,17 @@
+{
+    "uuid": "XTCUL",
+    "name": "PDM1-4",
+    "slug": "pdm1-4",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHPFAIEGVGLGKPFEGKQSMDLKVKEGGPLPFAYDILTTVFCYGNRVFAKYPENIVDYFKQSFPEGYSWERSMNYEDGGICNATNDITLDGDCYIYEIRFDGVNFPANGPVMQKRTVKWEPSTENLYVRDGVLKGDVNMALSLEGGGHYRCDFKTTYKAKKVVQLPDYHFVDHHIEIKSHDKDYSNVNLHEHAEAHSELPRQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4EMQ"
+    ],
+    "agg": "t",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1039/b9pp00124g"
+}

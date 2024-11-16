@@ -1,0 +1,28 @@
+{
+    "uuid": "G1VL1",
+    "name": "mGreenLantern",
+    "slug": "mgreenlantern",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLGYGVACFARYPDHMKQHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIVLKGIDFKEDGNILGHKLEYNFNSHKVYITADKQKNGIKANFKTRHNVEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSHQSKLSKDPNEKRDHMVLKERVTAAGITHDMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mgreenlantern_default",
+            "name": "default",
+            "ex_max": 503,
+            "em_max": 514,
+            "ext_coeff": 101800,
+            "qy": 0.72,
+            "pka": 5.6,
+            "maturation": 13.5,
+            "lifetime": null,
+            "brightness": 73.3
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.2000942117"
+}

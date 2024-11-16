@@ -1,0 +1,28 @@
+{
+    "uuid": "JDSFD",
+    "name": "htFuncLib_mid.7",
+    "slug": "htfunclib_mid7",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFTRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNFNSHNVYIMPDKQNNGIKVNFKTRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVLLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_mid7_default",
+            "name": "default",
+            "ex_max": 491,
+            "em_max": 511,
+            "ext_coeff": null,
+            "qy": 0.58,
+            "pka": 5.09,
+            "maturation": null,
+            "lifetime": 1.1,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

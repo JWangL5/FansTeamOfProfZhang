@@ -1,0 +1,15 @@
+{
+    "uuid": "T2E43",
+    "name": "Cy11.5",
+    "slug": "cy115",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1021/bi060093i"
+}

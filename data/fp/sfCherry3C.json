@@ -1,0 +1,15 @@
+{
+    "uuid": "JT63R",
+    "name": "sfCherry3C",
+    "slug": "sfcherry3c",
+    "seq": "MEEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGHPYEGTQTARLKVTKGDPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFTWERVMNFEDGGVVAVTQDSSLQDGQFIYKVKLLGINFPSDGPVMQKKTMGWEASTERMYPEDGALKGEINQRLKLKDGGHYDAEVKTTYRAKKPVQLPGAYDVDIKLDITSHNEDYTIVEQYERAEARHST",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1038/s42003-019-0589-x"
+}

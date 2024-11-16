@@ -1,0 +1,28 @@
+{
+    "uuid": "EWZUN",
+    "name": "sgBP-S157C",
+    "slug": "sgbp-s157c",
+    "seq": "MVAIPENVRIKAFMEGAINNHHFKCEAEGEGKPYEGTQLERIRVTEGGPLPFSFDILSPHFQYGSVAITKYLSGIPDYFKQSFPEGFSWERTTMYEDGGYVTAHQDTSLDGNCLVYKIKVIGSNLPANGPVMQNKTRGWEPCTEMRYVRGGVLCGQCLMALKCADGNHLTCQLRTTYRSKKPAKKLQMPAFHFSDHRPEILKVSENGNLMEQYEMSVGRYCESVPSKLGHN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sgbp-s157c_default",
+            "name": "default",
+            "ex_max": 604,
+            "em_max": null,
+            "ext_coeff": 58029,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0134108"
+}

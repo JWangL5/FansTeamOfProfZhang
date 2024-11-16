@@ -1,0 +1,28 @@
+{
+    "uuid": "QXJO4",
+    "name": "iq-EBFP2",
+    "slug": "iq-ebfp2",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "iq-ebfp2_default",
+            "name": "default",
+            "ex_max": 386,
+            "em_max": 446,
+            "ext_coeff": 24800,
+            "qy": 0.63,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 15.62
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0095808"
+}

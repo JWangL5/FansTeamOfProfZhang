@@ -1,0 +1,28 @@
+{
+    "uuid": "7LCRR",
+    "name": "htFuncLib_sf:mid.10",
+    "slug": "htfunclib_sfmid10",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKVTLKFICTTGKLPVPWPTLVTTLTYGVLCFARYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVVLEFIVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_sfmid10_default",
+            "name": "default",
+            "ex_max": 488,
+            "em_max": 509,
+            "ext_coeff": null,
+            "qy": 0.56,
+            "pka": 5.8,
+            "maturation": null,
+            "lifetime": 0.73,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

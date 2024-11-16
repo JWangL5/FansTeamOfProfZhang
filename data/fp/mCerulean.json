@@ -1,0 +1,28 @@
+{
+    "uuid": "J2JWA",
+    "name": "mCerulean",
+    "slug": "mcerulean",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNAISDNVYITADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcerulean_default",
+            "name": "default",
+            "ex_max": 433,
+            "em_max": 475,
+            "ext_coeff": 33000,
+            "qy": 0.49,
+            "pka": null,
+            "maturation": 6.6,
+            "lifetime": null,
+            "brightness": 16.17
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1529/biophysj.104.055442"
+}

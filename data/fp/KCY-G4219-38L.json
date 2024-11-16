@@ -1,0 +1,28 @@
+{
+    "uuid": "NKT4V",
+    "name": "KCY-G4219-38L",
+    "slug": "kcy-g4219-38l",
+    "seq": "MSVIKPEMKMRYYMDGSVNGHEFTVEGEGTGRPYEGKLKITLDVTKGGPLPFAFDLLSTVFSYGNRALTKYPDDIPDYFKQCFPGGYSWERKFEFEDGGLAIAKAEISLKGNCFEHKSTIEGTFPDSSPIMQNKTLGWEPSTEKMTVRDGSMKGDDAAYLKLVGGGNHKCYFTTTYTAKKKIPNLPKSHFIGHRISSVVEGTKIKVMEDAIAHLYPFNGSPCQ",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "kcy-g4219-38l_default",
+            "name": "default",
+            "ex_max": 464,
+            "em_max": 494,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi801658p"
+}

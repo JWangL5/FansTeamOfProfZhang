@@ -1,0 +1,30 @@
+{
+    "uuid": "97MBQ",
+    "name": "KillerOrange",
+    "slug": "killerorange",
+    "seq": "MECGPALFQSDMTFKIFIDGEVNGQKFTIVADGSSKFPHGDFNVHAVCETGKLPMSWKPICHLIQWGEPFFARYPDGISHFAQECFPEGLSIDRTVRFENDGTMTSHHTYELSDTCVVSRITVNCDGFQPDGPIMRDQLVDILPSETHMFPHGPNAVRQLAFIGFTTADGGLMMGHLDSKMTFNGSRAIEIPGPHFVTIITKQMRDTSDKRDHVCQREVAHAHSVPRITSAIGSDQD",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4ZFS"
+    ],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "killerorange_default",
+            "name": "default",
+            "ex_max": 455,
+            "em_max": 555,
+            "ext_coeff": 41200,
+            "qy": 0.42,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 17.3
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0145287"
+}

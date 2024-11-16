@@ -1,0 +1,28 @@
+{
+    "uuid": "OX75X",
+    "name": "iRFP720",
+    "slug": "irfp720",
+    "seq": "MAEGSVARQPDLLTCDDEPIHIPGAIQPHGLLLALAADMTIVAGSDNLPELTGLAIGALIGRSAADVFDSETHNRLTIALAEPGAAVGAPITVGFTMRKDAGFIGSWHRHDQLIFLELEPPQRDVAEPQAFFRRTNSAIRRLQAAETLESACAAAAQEVRKITGFDRVMIYRFASDFSGSVIAEDRCAEVESKLGLHYPASFIPAQARRLYTINPVRIIPDINYRPVPVTPDLNPVTGRPIDLSFAILRSVSPNHLEFMRNIGMHGTMSISILRGERLWGLIVCHHRTPYYVDLDGRQACELVAQVLAWQIGVMEE",
+    "ipg_id": null,
+    "genbank": "AGN32866",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "irfp720_default",
+            "name": "default",
+            "ex_max": 702,
+            "em_max": 720,
+            "ext_coeff": 96000,
+            "qy": 0.06,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.76
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.2521"
+}

@@ -1,0 +1,30 @@
+{
+    "uuid": "V6A1P",
+    "name": "Wi-Phy",
+    "slug": "wi-phy",
+    "seq": "MASMTGGQQMGRGSMSRDPLPFFPPLYLGGPEITTENCEREPIHIPGSIQPHGALLTADGHSGEVLQMSLNAATFLGQEPTVLRGQTLAALLPEQWPALQAALPPGCPDALQYRATLDWPAAGHLSLTVHRVGELLILEFEPTEAWDSTGPHALRNAMSALESAPNLRALAEVATQTVRELTGFDRVMLYKFAPDATGEVIAEARREGLHAFLGHRFPASHIPAQARALYTRHLLRLTADTRAAAVPLDPVLNPQTNAPTPLGGAVLRATSPMHMQFLRNMGVGSSLSVSVVVGGQLWGLIACHHQTPYVLPPDLRTTLEYLGRELSEQVQVKEA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3S7Q"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "wi-phy_default",
+            "name": "default",
+            "ex_max": 701,
+            "em_max": 719,
+            "ext_coeff": 92991,
+            "qy": 0.047,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 4.37
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1074/jbc.m111.295121"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "TC87V",
+    "name": "TurboYFP",
+    "slug": "turboyfp",
+    "seq": "MSSGALLFHGKIPYVVEMEGNVDGHTFSIRGKGYGDASVGKVDAQFICTTGDVPVPWSTLVTTLTYGAQCFAKYGPELKDFYKSCMPDGYVQERTITFEGDGNFKTRAEVTFENGSVYNRVKLNGQGFKKDGHVLGKNLEFNFTPHCLYIWGDQANHGLKSAFKICHEITGSKGDFIVADHTQMNTPIGGGPVHVPEYHHMSYHVKLSKDVTDHRDNMSLKETVRAVDCRKTYDFDAGSGDTS",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "turboyfp_default",
+            "name": "default",
+            "ex_max": 525,
+            "em_max": 538,
+            "ext_coeff": 105000,
+            "qy": 0.53,
+            "pka": 5.9,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 55.65
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1364/boe.412074"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "8MJ78",
+    "name": "mRuby2",
+    "slug": "mruby2",
+    "seq": "MVSKGEELIKENMRMKVVMEGSVNGHQFKCTGEGEGNPYMGTQTMRIKVIEGGPLPFAFDILATSFMYGSRTFIKYPKGIPDFFKQSFPEGFTWERVTRYEDGGVVTVMQDTSLEDGCLVYHVQVRGVNFPSNGPVMQKKTKGWEPNTEMMYPADGGLRGYTHMALKVDGGGHLSCSFVTTYRSKKTVGNIKMPGIHAVDHRLERLEESDNEMFVVQREHAVAKFAGLGGGMDELYK",
+    "ipg_id": "30275455",
+    "genbank": "AFR60232",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mruby2_default",
+            "name": "default",
+            "ex_max": 559,
+            "em_max": 600,
+            "ext_coeff": 113000,
+            "qy": 0.38,
+            "pka": 5.3,
+            "maturation": 150.0,
+            "lifetime": 2.5,
+            "brightness": 42.94
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.2171"
+}

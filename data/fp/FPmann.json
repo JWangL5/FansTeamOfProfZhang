@@ -1,0 +1,15 @@
+{
+    "uuid": "AC8R8",
+    "name": "FPmann",
+    "slug": "fpmann",
+    "seq": null,
+    "ipg_id": "301073",
+    "genbank": "AAK71332",
+    "uniprot": "Q8MU48",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1016/j.cca.2004.07.002"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "WCSN6",
+    "name": "mVenus",
+    "slug": "mvenus",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKLICTTGKLPVPWPTLVTTLGYGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSYQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": "4596892",
+    "genbank": "AAZ65844",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mvenus_default",
+            "name": "default",
+            "ex_max": 515,
+            "em_max": 527,
+            "ext_coeff": 104000,
+            "qy": 0.64,
+            "pka": 5.5,
+            "maturation": 17.6,
+            "lifetime": 2.7,
+            "brightness": 66.56
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi0516273"
+}

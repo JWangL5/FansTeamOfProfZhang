@@ -1,0 +1,28 @@
+{
+    "uuid": "PO1ML",
+    "name": "M355NA",
+    "slug": "m355na",
+    "seq": "MASFLTETMPFKTTIEGTVNGHYFKCTGKGEGNPFEGTQEMKIEVIEGGPLPFAFHILSTSCMYGSKTFIKYVSGIPDYFKQSFPEGFTWERTTTYEDGGFLTAHQDTSLDGDCLVYKVKILGNNFPADGPVMQNKAGRWEPCTEIVYEVDGVLRGQSLMALKCPGGRHLTCHLHTTYRSKKPASALKMPGFHFEDHRIEIMEEVEKGKCYKQYEAAVGRYCDAAPSKLGHN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "m355na_default",
+            "name": "default",
+            "ex_max": 572,
+            "em_max": 595,
+            "ext_coeff": 220000,
+            "qy": 0.21,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 46.2
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20021796"
+}

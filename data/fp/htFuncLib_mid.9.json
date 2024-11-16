@@ -1,0 +1,28 @@
+{
+    "uuid": "SV3AL",
+    "name": "htFuncLib_mid.9",
+    "slug": "htfunclib_mid9",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILIELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNFNSHNVYIMPDKQNNGIKVNFKVRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVVLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_mid9_default",
+            "name": "default",
+            "ex_max": 493,
+            "em_max": 511,
+            "ext_coeff": null,
+            "qy": 0.46,
+            "pka": 5.59,
+            "maturation": null,
+            "lifetime": 1.14,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

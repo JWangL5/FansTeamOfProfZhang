@@ -1,0 +1,28 @@
+{
+    "uuid": "VKDX5",
+    "name": "td8oxStayGold",
+    "slug": "td8oxstaygold",
+    "seq": "MVSTGEELFTGVVPFKFQLKGTINGKSFTVEGEGEGNSHEGSHKGKYVCTSGKLPMSWAALGTSFGYGMKYYTKYPSGLKNWFHEVMPEGFTYDRHIQYKGDGSIHAKHQHFMKNGTYHNIVEFTGQDFKENSPVLTGDMNVSLPNEVQHIPRDDGVECPVTLLYPLLSDKSKCVEAYQNTIIKPLHNQPAPDVPYHWIRKQYTQSKDDTEERDHIIQSETLEAHLYSRTKLEGHGTGSTGSGSSGTASSEDNNIDMVSTGEELFTGVVPFKFQLKGTINGKSFTVEGEGEGNSHEGSHKGKYVCTSGKLPMSWAALGTSFGYGMKYYTKYPSGLKNWFHEVMPEGFTYDRHIQYKGDGSIHAKHQHFMKNGTYHNIVEFTGQDFKENSPVLTGDMNVSLPNEVQHIPRDDGVECPVTLLYPLLSDKSKCVEAYQNTIIKPLHNQPAPDVPYHWIRKQYTQSKDDTEERDHIIQSETLEAHL",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "td",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "td8oxstaygold_default",
+            "name": "default",
+            "ex_max": 496,
+            "em_max": 506,
+            "ext_coeff": 157000,
+            "qy": 0.93,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 146.01
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41592-023-02085-6"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "6ORKJ",
+    "name": "AcGFP1",
+    "slug": "acgfp1",
+    "seq": "MVSKGAELFTGIVPILIELNGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSYGVQCFSRYPDHMKQHDFFKSAMPEGYIQERTIFFEDDGNYKSRAEVKFEGDTLVNRIELTGTDFKEDGNILGNKMEYNYNAHNVYIMTDKAKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMIYFGFVTAAAITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "acgfp1_default",
+            "name": "default",
+            "ex_max": 475,
+            "em_max": 505,
+            "ext_coeff": 50000,
+            "qy": 0.55,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 27.5
+        }
+    ],
+    "transitions": [],
+    "doi": null
+}

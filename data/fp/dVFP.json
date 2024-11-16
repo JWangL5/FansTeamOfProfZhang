@@ -1,0 +1,28 @@
+{
+    "uuid": "2DB3H",
+    "name": "dVFP",
+    "slug": "dvfp",
+    "seq": "MNVIKPDMRIKLRMEGAVNGHKFVILGDGNGKPYEGTQTIDVTVKEGGPLPFAYDILTSAFQYGNRVFTKYPDDIADYFKQSFPVGYSWERSMTYEDGGICTVSSDIKMEGNSFIYEIRFHGLNFPSDGPVMQKKTVKWEPSTEKMYVRDGVLKGDVNMALLLEGGGHYRCDFKSTYKAKRAVQLPDYHYIDHRIEILSHDKDYNKVKLCENAAARCSMLPSQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dvfp_default",
+            "name": "default",
+            "ex_max": 491,
+            "em_max": 503,
+            "ext_coeff": 107000,
+            "qy": 1.0,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 107.0
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1111/j.1742-4658.2010.07618.x"
+}

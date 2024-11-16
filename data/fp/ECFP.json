@@ -1,0 +1,31 @@
+{
+    "uuid": "27HOS",
+    "name": "ECFP",
+    "slug": "ecfp",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTWGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYISHNVYITADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "5OX8",
+        "2WSN"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ecfp_default",
+            "name": "default",
+            "ex_max": 434,
+            "em_max": 477,
+            "ext_coeff": 32500,
+            "qy": 0.4,
+            "pka": 4.7,
+            "maturation": null,
+            "lifetime": 3.0,
+            "brightness": 13.0
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/s0960-9822(02)00450-5"
+}

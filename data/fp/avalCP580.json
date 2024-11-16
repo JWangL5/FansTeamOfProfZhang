@@ -1,0 +1,28 @@
+{
+    "uuid": "8V4XV",
+    "name": "avalCP580",
+    "slug": "avalcp580",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "avalcp580_default",
+            "name": "default",
+            "ex_max": 580,
+            "em_max": null,
+            "ext_coeff": 183000,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s00338-012-0994-9"
+}

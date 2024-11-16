@@ -1,0 +1,28 @@
+{
+    "uuid": "WRGL6",
+    "name": "obeYFP",
+    "slug": "obeyfp",
+    "seq": "MSSAGALLFTNKIPYVTELEGDVNGMKFTIHGKGTGDASTGHIEAKYVCTSGEIPVPWATLVSTMCYGVQCFAKYPSHIKDFYKSAMPEGYIQERTISFEGDGVYKTRAMVTYERGSIYNRVTLTGENFKKDGHILRKNVAFQCPPSILYILPDTVNNGIRVEFNQVFDIEGETEKLVSSFSQINRPLAESAAVHIPRYHHITYHTKLSKDRDERRDHMCLVEVVKAVDLDTYQ",
+    "ipg_id": "24262674",
+    "genbank": "AEL17651",
+    "uniprot": "G1JSF4",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "obeyfp_default",
+            "name": "default",
+            "ex_max": 514,
+            "em_max": 528,
+            "ext_coeff": 77000,
+            "qy": 0.57,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 43.89
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1039/c1pp05068k"
+}

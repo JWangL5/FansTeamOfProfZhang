@@ -1,0 +1,28 @@
+{
+    "uuid": "F35B7",
+    "name": "FusionRed-MQV",
+    "slug": "fusionred-mqv",
+    "seq": "MVSELIKENMPMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTQRIKVVEGGPLPFAFDILATSFMYGSRTFIKHPPGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKVRGVNFPANGPVMQKKTLGWEASTETMYPADGGLEGAVDMALKLVGGGHLICNMETTYRSKKPATNLKMPGVYNVDHRLERIKEADDETYVEQHEVAVARYSTGGAGDGGK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "fusionred-mqv_default",
+            "name": "default",
+            "ex_max": 566,
+            "em_max": 585,
+            "ext_coeff": 144000,
+            "qy": 0.53,
+            "pka": 4.6,
+            "maturation": 195.0,
+            "lifetime": 2.77,
+            "brightness": 76.32
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/acs.biochem.0c00484"
+}

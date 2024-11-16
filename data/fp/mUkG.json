@@ -1,0 +1,28 @@
+{
+    "uuid": "BXYZE",
+    "name": "mUkG",
+    "slug": "mukg",
+    "seq": "MSVIKEEMKIKLHMEGNVNGHAFVIEGDGKGKPYDGTQTLNLTVKEGAPLPFSYDILTNAFQYGNRAFTKYPADIPDYFKQTFPEGYSWERTMSYEDNAICNVRSEISMEGDCFIYKIRFDGKNFPPNGPVMQKKTLKWEPSTEMMYVRDGFLMGDVNMALLLEGGGHHRCDFKTSYKAKKVVQLPDAHKIDHRIEILSHDRDYSKVKLYENAVARNSLLPSQA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mukg_default",
+            "name": "default",
+            "ex_max": 483,
+            "em_max": 499,
+            "ext_coeff": 60000,
+            "qy": 0.72,
+            "pka": 5.2,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 43.2
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.1235"
+}

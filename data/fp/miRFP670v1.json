@@ -1,0 +1,28 @@
+{
+    "uuid": "GCOU1",
+    "name": "miRFP670v1",
+    "slug": "mirfp670v1",
+    "seq": "MVAGHASGSPAFGTASHSNSEHEEIHLAGSIQPHGALLVVSEHDHRVIQASANAAEFLNLGSVLGVPLAEIDGDLLIKILPHLDPTAEGMPVAVRCRIGNPSTEYCGLMHRPPEGGLIIELERAGPSIDLSGTLAPALERIRTAGSLRALCDDTVLLFQQCTGYDRVMVYRFDEQGHGLVFSECHVPGLESYFGNRYPSSTVPQMARQLYVRQRVRVLVDVTYQPVPLEPRLSPLTGRDLDMSGCFLRSMSPCHLQFLKDMGVRATLAVSLVVGGKLWGLVVCHHYLPRFIRFELRAICKRLAERIATRITALES",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mirfp670v1_default",
+            "name": "default",
+            "ex_max": 644,
+            "em_max": 670,
+            "ext_coeff": 71300,
+            "qy": 0.116,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 8.27
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/ncomms12405"
+}

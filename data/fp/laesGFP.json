@@ -1,0 +1,28 @@
+{
+    "uuid": "7YHAN",
+    "name": "laesGFP",
+    "slug": "laesgfp",
+    "seq": "MPVMKIECRISGTMNGEEFELVGAGDGNTDEGRMTNKMKSTKGPLSFSPYLLSHIMGYGFYHYATFPAGYENVYLHAAKNGGYTNTRTERYEDGGIISVNFTYRYEGNKVIGDFKVVGSGFPANSVIFTDKIIKSNPTCEHIYPKGDNILVNAYTRTWMLRDGGYYSAQVNNHLHFKTAMHPTMLQNGGSMFTYRKVEELHSQSDVGIVEYQHVFKTPTAFA",
+    "ipg_id": "1715857",
+    "genbank": "AAQ01185",
+    "uniprot": "Q6WV11",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "laesgfp_default",
+            "name": "default",
+            "ex_max": 491,
+            "em_max": 506,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/molbev/msh079"
+}

@@ -1,0 +1,32 @@
+{
+    "uuid": "HXP5A",
+    "name": "NowGFP",
+    "slug": "nowgfp",
+    "seq": "MVSKGEKLFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKMSLKFICTTGKLPVPWPTLKTTLTWGMQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGVDFKEDGNILGHKLEYNAISGNANITADKQKNGIKAYFTIRHDVEDGSVLLADHYQQNTPIGDGPVLLPDNHYLSTQSKQSKDPNEKRDHMVLLEFVTAAGIPLGADELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4rtc",
+        "4rys",
+        "4ryw"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "nowgfp_default",
+            "name": "default",
+            "ex_max": 494,
+            "em_max": 502,
+            "ext_coeff": 56700,
+            "qy": 0.76,
+            "pka": 6.2,
+            "maturation": null,
+            "lifetime": 5.1,
+            "brightness": 43.09
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.bpj.2015.06.018"
+}

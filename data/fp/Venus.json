@@ -1,0 +1,30 @@
+{
+    "uuid": "YUJWJ",
+    "name": "Venus",
+    "slug": "venus",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKLICTTGKLPVPWPTLVTTLGYGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSYQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "1MYW"
+    ],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "venus_default",
+            "name": "default",
+            "ex_max": 515,
+            "em_max": 528,
+            "ext_coeff": 92200,
+            "qy": 0.57,
+            "pka": 6.0,
+            "maturation": 17.6,
+            "lifetime": 3.0,
+            "brightness": 52.55
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt0102-87"
+}

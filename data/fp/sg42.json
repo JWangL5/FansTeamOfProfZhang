@@ -1,0 +1,30 @@
+{
+    "uuid": "RFW2X",
+    "name": "sg42",
+    "slug": "sg42",
+    "seq": "MASKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSHGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2EMD"
+    ],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sg42_default",
+            "name": "default",
+            "ex_max": 384,
+            "em_max": 450,
+            "ext_coeff": 15600,
+            "qy": 0.24,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 3.74
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nsb0597-361"
+}

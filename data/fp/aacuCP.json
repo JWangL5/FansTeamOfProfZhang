@@ -1,0 +1,28 @@
+{
+    "uuid": "LZSRC",
+    "name": "aacuCP",
+    "slug": "aacucp",
+    "seq": "MSVIAKQMTYKVYMSGTVNGHYFEVEGDGKGKPYEGEQTVKLTVTKGGPLPFAWDILSPQSQYGSIPFTKYPDDIPDYVKQSFPEGYTWERIMNFEDGAVCTVSNDSSIQGNCFIYNVKFSGLNFPPNGPVMQKKTQGWEPNTERLFARDGMLIGNNFMALKLEGGGHYLCEFKSTYKAKKPVRMPGYHYVDRKLDVTNHNRDYTSVEQCEISIARKPVVA",
+    "ipg_id": "3620752",
+    "genbank": "AAU06856",
+    "uniprot": "Q66PU8",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "",
+    "states": [
+        {
+            "slug": "aacucp_default",
+            "name": "default",
+            "ex_max": 580,
+            "em_max": null,
+            "ext_coeff": 109000,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0002680"
+}

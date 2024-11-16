@@ -1,0 +1,30 @@
+{
+    "uuid": "RTMMX",
+    "name": "mCRISPRed",
+    "slug": "mcrispred",
+    "seq": "MVSKGEELIKENMRMKVVMEGSVNGHQFKCTGEGEGRPYEGVQTMRIKVIEGGPLPFAFDILATSFMYGSRTFIKYPADIPDFFKQSFPEGFTWERVTRYEDGGVVTVTQDTSLEDGELVYNVKVRGVNFPSNGPVMQKKTKGWEADTEMMYPADGGLRGYLDRALKVDGGGHLHCNFVTTYRSKKTVGDIKMPGVHAVDHRLERIEESDNETYVVQREVAVAKYSNLGGGMDELYK",
+    "ipg_id": null,
+    "genbank": "MN844880.1",
+    "uniprot": null,
+    "pdb": [
+        "6XWY"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcrispred_default",
+            "name": "default",
+            "ex_max": 460,
+            "em_max": 592,
+            "ext_coeff": 28500,
+            "qy": 0.46,
+            "pka": 2.1,
+            "maturation": 354.0,
+            "lifetime": 2.1,
+            "brightness": 13.11
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2020.02.004"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "DVMQ7",
+    "name": "EBFP2",
+    "slug": "ebfp2",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLSHGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGTYKTRAEVKFEGDTLVNRIELKGVDFKEDGNILGHKLEYNFNSHNIYIMAVKQKNGIKVNFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDSHYLSTQSVLSKDPNEKRDHMVLLEFRTAAGITLGMDELYK",
+    "ipg_id": "12966089",
+    "genbank": "ABP88743",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ebfp2_default",
+            "name": "default",
+            "ex_max": 383,
+            "em_max": 448,
+            "ext_coeff": 32000,
+            "qy": 0.56,
+            "pka": 5.3,
+            "maturation": 25.0,
+            "lifetime": 3.0,
+            "brightness": 17.92
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi700199g"
+}

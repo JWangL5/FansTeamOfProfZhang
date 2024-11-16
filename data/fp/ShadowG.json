@@ -1,0 +1,28 @@
+{
+    "uuid": "JM7JP",
+    "name": "ShadowG",
+    "slug": "shadowg",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKLICTTGKLPVPWPTLVTTFGYGLMCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNWNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "shadowg_default",
+            "name": "default",
+            "ex_max": 486,
+            "em_max": 510,
+            "ext_coeff": 89000,
+            "qy": 0.005,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 0.16,
+            "brightness": 0.45
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/srep15334"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "A7RB2",
+    "name": "htFuncLib_fast.2",
+    "slug": "htfunclib_fast2",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFVRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEIKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNMNSHNIYIMPDKQNNGIKVNFKVRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVVLEFVEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_fast2_default",
+            "name": "default",
+            "ex_max": 483,
+            "em_max": 508,
+            "ext_coeff": null,
+            "qy": 0.3,
+            "pka": 5.68,
+            "maturation": null,
+            "lifetime": 0.68,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

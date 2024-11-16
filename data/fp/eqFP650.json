@@ -1,0 +1,30 @@
+{
+    "uuid": "JS838",
+    "name": "eqFP650",
+    "slug": "eqfp650",
+    "seq": "MGEDSELISENMHMKLYMEGTVNGHHFKCTSEGEGKPYEGTQTAKIKVVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDFFKQSFPEGFTWERITTYEDGGVLTATQDTSLQNGCLIYNVKINGVNFPSNGPVMQKKTLGWEASTEMLYPADSGLRGHSQMALKLVGGGYLHCSLKTTYRSKKPAKNLKMPGFYFVDRKLERIKEADKETYVEQHEMAVARYCDLPSKLGHS",
+    "ipg_id": null,
+    "genbank": "ADR83529",
+    "uniprot": null,
+    "pdb": [
+        "4EDO"
+    ],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "eqfp650_default",
+            "name": "default",
+            "ex_max": 592,
+            "em_max": 650,
+            "ext_coeff": 65000,
+            "qy": 0.24,
+            "pka": 5.7,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 15.6
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.1501"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "TL112",
+    "name": "CyOFP1",
+    "slug": "cyofp1",
+    "seq": "MVSKGEELIKENMRSKLYLEGSVNGHQFKCTHEGEGKPYEGKQTNRIKVVEGGPLPFAFDILATHFMYGSKVFIKYPADLPDYFKQSFPEGFTWERVMVFEDGGVLTATQDTSLQDGELIYNVKVRGVNFPANGPVMQKKTLGWEPSTETMYPADGGLEGRCDKALKLVGGGHLHVNFKTTYKSKKPVKMPGVHYVDRRLERIKEADNETYVEQYEHAVARYSNLGGGMDELYK",
+    "ipg_id": null,
+    "genbank": "KU530233",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "cyofp1_default",
+            "name": "default",
+            "ex_max": 497,
+            "em_max": 589,
+            "ext_coeff": 40000,
+            "qy": 0.76,
+            "pka": 5.5,
+            "maturation": 15.0,
+            "lifetime": 3.6,
+            "brightness": 30.4
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt.3550"
+}

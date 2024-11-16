@@ -1,0 +1,28 @@
+{
+    "uuid": "9BOLR",
+    "name": "td5StayGold",
+    "slug": "td5staygold",
+    "seq": "MVSTGEELFTGVVPFKFQLKGTINGKSFTVEGEGEGNSHEGSHKGKYVCTSGKLPMSWAALGTSFGYGMKYYTKYPSGLKNWFHEVMPEGFTYDRHIQYKGDGSIHAKHQHFMKNGTYHNIVEFTGQDFKENSPVLTGDMNVSLPNEVQHIPRDDGVECPVTLLYPLLSDKSKCVEAHQNTICKPLHNQPAPDVPYHWIRKQYTQSKDDTEERDHICQSETLEAHLPWHEPSASAVGHGTGSTGSGSSGTASSEDNNIDMVSTGEELFTGVVPFKFQLKGTINGKSFTVEGEGEGNSHEGSHKGKYVCTSGKLPMSWAALGTSFGYGMKYYTKYPSGLKNWFHEVMPEGFTYDRHIQYKGDGSIHAKHQHFMKNGTYHNIVEFTGQDFKENSPVLTGDMNVSLPNEVQHIPRDDGVECPVTLLYPLLSDKSKCVEAHQNTICKPLHNQPAPDVPYHWIRKQYTQSKDDTEERDHICQSETLEAHL",
+    "ipg_id": null,
+    "genbank": "LC756335",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "td",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "td5staygold_default",
+            "name": "default",
+            "ex_max": 496,
+            "em_max": 504,
+            "ext_coeff": 155000,
+            "qy": 0.91,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 141.05
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41592-023-02085-6"
+}

@@ -1,0 +1,17 @@
+{
+    "uuid": "CFKTA",
+    "name": "sfCherry",
+    "slug": "sfcherry",
+    "seq": "MEEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGHPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFTWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLLGTNFPSDGPVMQKKTMGWEASTERMYPEDGALKGEINQRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVDIKLDITSHNEDYTIVEQYERAEGRHSTGG",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4KF4"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [],
+    "transitions": [],
+    "doi": "10.1107/s0907444913024608"
+}

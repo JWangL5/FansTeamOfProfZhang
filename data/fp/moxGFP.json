@@ -1,0 +1,28 @@
+{
+    "uuid": "H99SX",
+    "name": "moxGFP",
+    "slug": "moxgfp",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFISTTGKLPVPWPTLVTTLTYGVQSFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "moxgfp_default",
+            "name": "default",
+            "ex_max": 486,
+            "em_max": 510,
+            "ext_coeff": 87000,
+            "qy": 0.58,
+            "pka": null,
+            "maturation": 17.1,
+            "lifetime": null,
+            "brightness": 50.46
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/ncomms8670"
+}

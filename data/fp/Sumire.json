@@ -1,0 +1,28 @@
+{
+    "uuid": "EG3EK",
+    "name": "Sumire",
+    "slug": "sumire",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLGYGVACFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNGISGNVYITADKQKNGIKANYKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSVQVVLSKDPNEKRDHMVLLEFRTAAGITHGMDE",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sumire_default",
+            "name": "default",
+            "ex_max": 343,
+            "em_max": 414,
+            "ext_coeff": 20000,
+            "qy": 0.7,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 14.0
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s42003-022-04153-7"
+}

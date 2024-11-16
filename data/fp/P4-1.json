@@ -1,0 +1,28 @@
+{
+    "uuid": "9CEJ5",
+    "name": "P4-1",
+    "slug": "p4-1",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIAADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYE",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "p4-1_default",
+            "name": "default",
+            "ex_max": 504,
+            "em_max": 514,
+            "ext_coeff": 14500,
+            "qy": 0.54,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 7.83
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/s0960-9822(02)00450-5"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "Q3VS4",
+    "name": "amilFP512",
+    "slug": "amilfp512",
+    "seq": "MSYSKQGIVQEMKTKYHMEGSVNGHEFTIEGVGTGYPYEGKQMSELVIIKPAGKPLPFSFDILSSVFQYGNRCFTKYPADMPDYFKQAFPDGMSYERSFLFEDGAVATASWKIRLEGNCFIHNSIFHGVNFPADGPVMKKKTIGWDKSFEKMTVSKEVLRGDVTMFLMLEGGGSHRCQFHSTYKTEKPVTLPPNHVVEHQIVRTDLGQSAKGFTVKLEAHAAAHVNPLKVK",
+    "ipg_id": "15616242",
+    "genbank": "ACH89428",
+    "uniprot": "B5T1L4",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "amilfp512_default",
+            "name": "default",
+            "ex_max": 500,
+            "em_max": 512,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3354/meps07588"
+}

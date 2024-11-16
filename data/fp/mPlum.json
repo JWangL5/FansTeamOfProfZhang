@@ -1,0 +1,30 @@
+{
+    "uuid": "XU2WO",
+    "name": "mPlum",
+    "slug": "mplum",
+    "seq": "MVSKGEEVIKEFMRFKEHMEGSVNGHEFEIEGEGEGRPYEGTQTARLKVTKGGPLPFAWDILSPQIMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKVRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEMKMRLRLKDGGHYDAEVKTTYMAKKPVQLPGAYKTDIKLDITSHNEDYTIVEQYERAEGRHSTGA",
+    "ipg_id": "3876945",
+    "genbank": "AAV65487",
+    "uniprot": "Q5S3G7",
+    "pdb": [
+        "2QLG"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mplum_default",
+            "name": "default",
+            "ex_max": 590,
+            "em_max": 649,
+            "ext_coeff": 41000,
+            "qy": 0.1,
+            "pka": 4.5,
+            "maturation": 100.0,
+            "lifetime": null,
+            "brightness": 4.1
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.0407752101"
+}

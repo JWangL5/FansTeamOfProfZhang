@@ -1,0 +1,28 @@
+{
+    "uuid": "XOVUP",
+    "name": "RDSmCherry0.2",
+    "slug": "rdsmcherry02",
+    "seq": "MVSKGEEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEGKGRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNCNYKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "rdsmcherry02_default",
+            "name": "default",
+            "ex_max": 600,
+            "em_max": 630,
+            "ext_coeff": 34400,
+            "qy": 0.03,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 1.03
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0171257"
+}

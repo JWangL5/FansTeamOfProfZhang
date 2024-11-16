@@ -1,0 +1,28 @@
+{
+    "uuid": "OOASP",
+    "name": "LSSmScarlet2",
+    "slug": "lssmscarlet2",
+    "seq": "MVSKGEAVIKEFMRFKVHMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFSWDILSPQFMYGSRAFTKHPADIPDYHKQSFPEGFKWERVMNFEDGGAVTVTQDTSLEDGTLIYEVKLRGTNFPPDGPVMQKKTMGLEADTERLYPEDGVLKGDIKMALRLKGGGRYLAHVRTTYKAKKPVLMPGAYNVDRKLDITSHNEDYTVVEQFERSEGRHSTGDMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "lssmscarlet2_default",
+            "name": "default",
+            "ex_max": 470,
+            "em_max": 600,
+            "ext_coeff": 30000,
+            "qy": 0.29,
+            "pka": 2.19,
+            "maturation": 184.0,
+            "lifetime": null,
+            "brightness": 8.7
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3390/ijms231911051"
+}

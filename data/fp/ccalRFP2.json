@@ -1,0 +1,28 @@
+{
+    "uuid": "HU1DA",
+    "name": "ccalRFP2",
+    "slug": "ccalrfp2",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ccalrfp2_default",
+            "name": "default",
+            "ex_max": 558,
+            "em_max": 516,
+            "ext_coeff": 61000,
+            "qy": 0.05,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 3.05
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-007-9072-7"
+}

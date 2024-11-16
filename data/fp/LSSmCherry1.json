@@ -1,0 +1,28 @@
+{
+    "uuid": "EY2GX",
+    "name": "LSSmCherry1",
+    "slug": "lssmcherry1",
+    "seq": "MVSKGEEDNMTIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFNWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQCRTMGLEASTERMYPEDGALKGESKERLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVDIKLDILSHNEDYTIVEQYERSEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "lssmchery1_default",
+            "name": "default",
+            "ex_max": 450,
+            "em_max": 610,
+            "ext_coeff": 35000,
+            "qy": 0.29,
+            "pka": 6.2,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 10.15
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0171257"
+}

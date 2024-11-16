@@ -1,0 +1,28 @@
+{
+    "uuid": "W4PW7",
+    "name": "SOPP3",
+    "slug": "sopp3",
+    "seq": "MEKSFVITDPRLPDNPIIFASDGFLELTEYSREEILGRNGRFLQGPETDQATVQKIRDAIRDQREITVQLINYTKSGKKFLNLLNLQPIRDQKGELQAFIGVVLDG",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sopp3_default",
+            "name": "default",
+            "ex_max": 439,
+            "em_max": 490,
+            "ext_coeff": 15000,
+            "qy": 0.41,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 6.15
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/acs.jpcb.7b07831"
+}

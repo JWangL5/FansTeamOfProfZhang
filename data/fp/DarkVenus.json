@@ -1,0 +1,28 @@
+{
+    "uuid": "B8S8J",
+    "name": "DarkVenus",
+    "slug": "darkvenus",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKLICTTGKLPVPWPTLVTTLGYGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNWNSVNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSYQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "darkvenus_default",
+            "name": "default",
+            "ex_max": 515,
+            "em_max": 525,
+            "ext_coeff": 74400,
+            "qy": 0.05,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 3.72
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/srep01398"
+}

@@ -1,0 +1,30 @@
+{
+    "uuid": "S4HC8",
+    "name": "TagRFP",
+    "slug": "tagrfp",
+    "seq": "MSELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSRTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEANTEMLYPADGGLEGRSDMALKLVGGGHLICNFKTTYRSKKPAKNLKMPGVYYVDHRLERIKEADKETYVEQHEVAVARYCDLPSKLGHK",
+    "ipg_id": "13144495",
+    "genbank": "ABR08320",
+    "uniprot": null,
+    "pdb": [
+        "3M22"
+    ],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "tagrfp_default",
+            "name": "default",
+            "ex_max": 555,
+            "em_max": 584,
+            "ext_coeff": 100000,
+            "qy": 0.48,
+            "pka": 3.8,
+            "maturation": 100.0,
+            "lifetime": 2.3,
+            "brightness": 48.0
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth1062"
+}

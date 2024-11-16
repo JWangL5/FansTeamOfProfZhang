@@ -1,0 +1,30 @@
+{
+    "uuid": "N9NE1",
+    "name": "CagFbFP",
+    "slug": "cagfbfp",
+    "seq": "MASGMIVTDAGADQPIVFVNRAFSTITGYAPNEVLGRNARFLQGPQTDAATVARLREAIAAARPIQERILNYRKDGQPFWNQLSISPVRDETGNVVAFVGVQTDVTA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "6RHF"
+    ],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "cagfbfp_default",
+            "name": "default",
+            "ex_max": 447,
+            "em_max": 497,
+            "ext_coeff": 15317,
+            "qy": 0.36,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.51
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1039/c9pp00067d"
+}

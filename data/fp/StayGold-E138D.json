@@ -1,0 +1,28 @@
+{
+    "uuid": "Q8WTP",
+    "name": "StayGold-E138D",
+    "slug": "staygold-e138d",
+    "seq": "MASTPFKFQLKGTINGKSFTVEGEGEGNSHEGSHKGKYVCTSGKLPMSWAALGTSFGYGMKYYTKYPSGLKNWFHEVMPEGFTYDRHIQYKGDGSIHAKHQHFMKNGTYHNIVEFTGQDFKENSPVLTGDMNVSLPNDVQHIPRDDGVECPVTLLYPLLSDKSKCVEAHQNTICKPLHNQPAPDVPYHWIRKQYTQSKDDTEERDHICQSETLEAHL",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "staygold-e138d_default",
+            "name": "default",
+            "ex_max": 497,
+            "em_max": 504,
+            "ext_coeff": 145000,
+            "qy": 0.87,
+            "pka": 4.6,
+            "maturation": 14.0,
+            "lifetime": null,
+            "brightness": 126.15
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41587-023-02018-w"
+}

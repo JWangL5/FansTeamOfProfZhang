@@ -1,0 +1,28 @@
+{
+    "uuid": "UQH8C",
+    "name": "mCyRFP1",
+    "slug": "mcyrfp1",
+    "seq": "MVSKGEELIKENMRSKLYLEGSVNGHQFKCTHEGEGKPYEGKQTARIKVVEGGPLPFAFDILATMFMYGSKVFIKYPADLPDYFKQSFPEGFTWERVMVFEDGGVLTATQDTSLQDGELIYNVKLRGVNFPANGPVMQKKTLGWEPSTETMYPADGGLEGRCDKKLKLVGGGHLHVNFKTTYKSKKPVKMPGVHYVDRRLERIKEADNETYVEQYEHAVARYSNLGGGMDELYK",
+    "ipg_id": null,
+    "genbank": "AOY07765",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcyrfp1_default",
+            "name": "default",
+            "ex_max": 528,
+            "em_max": 594,
+            "ext_coeff": 27000,
+            "qy": 0.65,
+            "pka": 5.6,
+            "maturation": null,
+            "lifetime": 3.71,
+            "brightness": 17.55
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.4046"
+}

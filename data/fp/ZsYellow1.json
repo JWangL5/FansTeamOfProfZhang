@@ -1,0 +1,28 @@
+{
+    "uuid": "LTFO5",
+    "name": "ZsYellow1",
+    "slug": "zsyellow1",
+    "seq": "MAHSKHGLKEEMTMKYHMEGCVNGHKFVITGEGIGYPFKGKQTINLCVIEGGPLPFSEDILSAGFKYGDRIFTEYPQDIVDYFKNSCPAGYTWGRSFLFEDGAVCICNVDITVSVKENCIYHKSIFNGVNFPADGPVMKKMTTNWEASCEKIMPVPKQGILKGDVSMYLLLKDGGRYRCQFDTVYKAKSVPSKMPEWHFIQHKLLREDRSDAKNQKWQLTEHAIAFPSALA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "zsyellow_default",
+            "name": "default",
+            "ex_max": 529,
+            "em_max": 539,
+            "ext_coeff": 20000,
+            "qy": 0.65,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 13.0
+        }
+    ],
+    "transitions": [],
+    "doi": null
+}

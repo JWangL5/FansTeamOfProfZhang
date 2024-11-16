@@ -1,0 +1,28 @@
+{
+    "uuid": "ESQ8O",
+    "name": "plobRFP",
+    "slug": "plobrfp",
+    "seq": "MALSKQTGIQTEMKTKFHMEGIVNGHSFEVEGNGSGQPYEGVQKMKLTVTKGAPLPFSIDILLPQEMYGSKPFIKYPDNIPDYIKLSFPEGITWERTMTFEDGAVCTASNDSRLVGNCFIYEVKFQGVNFPRDGPVMQRKTKGWEPSTERLYEWDGCQRGDVDMALKLEDGGHYTVNFKTTYKSKKKDLKVPPYHFVDHKLELLSHNIVGTKEDFEQKETAHAHLSSLNSLNQ",
+    "ipg_id": null,
+    "genbank": "AKM77632",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "plobrfp_default",
+            "name": "default",
+            "ex_max": 578,
+            "em_max": 614,
+            "ext_coeff": 84000,
+            "qy": 0.74,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 62.16
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-019-09931-9"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "HGZ48",
+    "name": "zoan2RFP",
+    "slug": "zoan2rfp",
+    "seq": "MAHSKHGLTDDMTMHFRMEGCVDGHKFVIEGNGNGNPFKGKQFINLCVIEGGPLPFSEDILSAAFDYGNRLFTEYPEGIVDYFKNSCPAGYTWHRSFRFEDGAVCICSADITVNVRENCIYHESTFYGVNFPADGPVMKKMTTNWEPSCEKIIPINSQKILKGDVSMYLLLKDGGRYRCQFDTIYKAKTEPKEMPDWHFIQHKLNREDRSDAKNQKWQLIEHAIASRSALP",
+    "ipg_id": "1112201",
+    "genbank": "AAL23574",
+    "uniprot": "Q8T4U4",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "zoan2rfp_default",
+            "name": "default",
+            "ex_max": 552,
+            "em_max": 576,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.062552299"
+}

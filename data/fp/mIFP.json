@@ -1,0 +1,28 @@
+{
+    "uuid": "LDVKW",
+    "name": "mIFP",
+    "slug": "mifp",
+    "seq": "MSVPLTTSAFGHAFLANCEREQIHLAGSIQPHGILLAVKEPDNVVIQASINAAEFLNTNSVVGRPLRDLGGDLPLQILPHLNGPLHLAPMTLRCTVGSPPRRVDCTIHRPSNGGLIVELEPATKTTNIAPALDGAFHRITSSSSLMGLCDETATIIREITGYDRVMVVRFDEEGNGEILSERRRADLEAFLGNRYPASTIPQIARRLYEHNRVRLLVDVNYTPVPLQPRISPLNGRDLDMSLSCLRSMSPIHQKYMQDMGVGATLVCSLMVSGRLWGLIACHHYEPRFVPFHIRAAGEALAETCAIRIATLESFAQSQSK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mifp_default",
+            "name": "default",
+            "ex_max": 683,
+            "em_max": 704,
+            "ext_coeff": 82000,
+            "qy": 0.08,
+            "pka": 3.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 6.56
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.3447"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "C36M3",
+    "name": "mc5",
+    "slug": "mc5",
+    "seq": "MSVIKSVMKIKLHMDGIVNGHKFMITGEGEGKPFEGTHTIILKVKEGGPLPFAYDILTTAFQYGNRVFTKYPKDIPDYFKQSFPEGYSWERSMTFEDQGVCTVTSDIKLEGDCFFYEIRFYGVNFPSSGPVMQKKTLKWEPSTENMYVRDGVLLGDVSRTLLLEGDKHHRCNFRSTYRAKKGVVLPEYHFVDHRIEILSHDKDYNTVEVYENAVARPSMLPSKAK",
+    "ipg_id": "1678428",
+    "genbank": "AAO61602",
+    "uniprot": "Q7Z0W5",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mc5_default",
+            "name": "default",
+            "ex_max": 435,
+            "em_max": 495,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/molbev/msg130"
+}

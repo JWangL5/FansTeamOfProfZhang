@@ -1,0 +1,28 @@
+{
+    "uuid": "FE6UX",
+    "name": "mVenus-Q69M",
+    "slug": "mvenus-q69m",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKLICTTGKLPVPWPTLVTTLGYGLMCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSYQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mvenus-me_default",
+            "name": "default",
+            "ex_max": 515,
+            "em_max": 528,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": 9.6,
+            "lifetime": null,
+            "brightness": 96.97
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1186/1754-1611-4-10"
+}

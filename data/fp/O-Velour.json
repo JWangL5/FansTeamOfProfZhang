@@ -1,0 +1,28 @@
+{
+    "uuid": "JS116",
+    "name": "O-Velour",
+    "slug": "o-velour",
+    "seq": "MALFAKPMNHKTEITGEFNGKCFKVVGHGSAPGGGDFRMHAYCESGTLPVSWCVLSPSIQYGFSMFTKYPNGITNFFQEAFPEGYTLDRVMTRENGGSVVSHHSYDLGKDGITAKVSVKGEGFDPNGPTMTKGYLKVLPFVCHLYPHGAGVRATGSVGMVKTDGSLDIFNVDSNYQPVGSRKVSVPKFHFVQHRIILMKDKSDTRDHIVMREIAVAQDPNEAQSAFRIA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "o-velour_default",
+            "name": "default",
+            "ex_max": 506,
+            "em_max": null,
+            "ext_coeff": 20000,
+            "qy": 0.001,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.02
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/pro.4285"
+}

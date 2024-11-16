@@ -1,0 +1,28 @@
+{
+    "uuid": "T44E8",
+    "name": "ccalRFP1",
+    "slug": "ccalrfp1",
+    "seq": "MSLSKQVLPRDVKMRYHMDGCVNGHQFIIEGEGTGKPYEGKKILELRVTKGGPLPFAFDILSSVFTYGNRCFCEYPEDMPDYFKQSLPEGHSWERTLMFEDGGCGTASAHISLDKNCFVHKSTFHGVNFPANGPVMQKKTLNWEPSSELITAGDGILKGDVTMFLMLEGGHRLKCQFTTSYKAKKAVKMPPNHIIEHRLVRKEVADAVQIQEHAVAKHFIV",
+    "ipg_id": "4620339",
+    "genbank": "AAZ67342",
+    "uniprot": "Q2VTM9",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ccalrfp1_default",
+            "name": "default",
+            "ex_max": 568,
+            "em_max": 598,
+            "ext_coeff": 92000,
+            "qy": 0.59,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 54.28
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-007-9072-7"
+}

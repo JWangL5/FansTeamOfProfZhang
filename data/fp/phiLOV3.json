@@ -1,0 +1,28 @@
+{
+    "uuid": "PG1ZQ",
+    "name": "phiLOV3",
+    "slug": "philov3",
+    "seq": "MEKSFVITDPRLPDYPIIFASDGFLELTEYSREEIMGRNARFLQGPETDQATVQKIRDAIRDRRETTVQLINYTKSGKKFWNLLHLQPVRDGKGGLQYFIGVQLVGSDHV",
+    "ipg_id": null,
+    "genbank": "MZ682637",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "philov3_default",
+            "name": "default",
+            "ex_max": 452,
+            "em_max": 502,
+            "ext_coeff": 15800,
+            "qy": 0.22,
+            "pka": 3.3,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 3.48
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/pro.4261"
+}

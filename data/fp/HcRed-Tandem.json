@@ -1,0 +1,28 @@
+{
+    "uuid": "VWTNO",
+    "name": "HcRed-Tandem",
+    "slug": "hcred-tandem",
+    "seq": "RSPGMSGLLKESMRIKMYMEGTVNGHYFKCEGEGDGNPFAGTQGMRIHVTEGAPLPFAFDILAPCCAYGSRTFVHHTAEIPDFFKQSFPEGFTWERTTTYEDGGILTAHQDTSLEGNCLIYKVKVHGTNFPADGPVMKNESGGWEPSTEVVYPENGVLCGRNVMALKVGDRHLICHLYTSYKSKKAVRALTMPGFHFTDIRLQMLRKKKDEYFELYEASVARYSDLPEKAN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "td",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "hcred-tandem_default",
+            "name": "default",
+            "ex_max": 590,
+            "em_max": 637,
+            "ext_coeff": 160000,
+            "qy": 0.04,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 6.4
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20021191"
+}

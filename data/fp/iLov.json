@@ -1,0 +1,46 @@
+{
+    "uuid": "CE7VU",
+    "name": "iLov",
+    "slug": "ilov",
+    "seq": "MIEKNFVITDPRLPDNPIIFASDGFLELTEYSREEILGRNARFLQGPETDQATVQKIRDAIRDQRETTVQLINYTKSGKKFWNLLHLQPVRDQKGELQYFIGVQLDGSDHVSGGGGSDYKDDDDK",
+    "ipg_id": "61191410",
+    "genbank": "AII99665",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "o",
+    "states": [
+        {
+            "slug": "ilov_default",
+            "name": "default",
+            "ex_max": 447,
+            "em_max": 497,
+            "ext_coeff": null,
+            "qy": 0.44,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "ilov_dark",
+            "name": "Dark",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "ilov_default",
+            "to_state": "ilov_dark",
+            "trans_wave": 476
+        }
+    ],
+    "doi": "10.1073/pnas.0807551105"
+}

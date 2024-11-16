@@ -1,0 +1,28 @@
+{
+    "uuid": "FD244",
+    "name": "mRtms5",
+    "slug": "mrtms5",
+    "seq": "MSVIATQMTYKVYMSGTVNGHYFEVEGDGKGRPYEGEQTAKLTVTKGGPLPFAWDILSPQCQYGSIPFTKYPEDIPDYVKQSFPEGFTWERIMNFEDGAVCTVSNDSSIQGNCFTYHVKFRGLNFPPNGPVMQKKTQGWEPHSERLFARGGMLIGNNRMALKLEGGGHYLCEFKTTYKAKKPVKMPGYHYVDRKLDVTNHNKDYTSVEQCEISIARKPVVA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mrtms5_default",
+            "name": "default",
+            "ex_max": 588,
+            "em_max": 633,
+            "ext_coeff": 54100,
+            "qy": 0.005,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.27
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0041028"
+}

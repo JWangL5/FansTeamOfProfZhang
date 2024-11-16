@@ -1,0 +1,28 @@
+{
+    "uuid": "V25UH",
+    "name": "alajGFP3",
+    "slug": "alajgfp3",
+    "seq": "MALSKQEIKKEMTMDYVMDGCVNGHSFTVKGDGAGKPYEGHQRLSLHVTGGQPLPFAFDILSAAFAYGNRCFTKYPKEIPDMFKQAFPGGMSWERTMTFEDGGVASVSADISIEKDGCFKHRSKFVGVNFPVNGPVMQNKTRGWEPSIEKMTVRDGTLKGHVTMFLKLEGGGNYRCDFETTYKAKKAVKMLDSHFIEHRLVTTIRGNNVELQEDAEARNSGLGECK",
+    "ipg_id": "2033751",
+    "genbank": "AAS18272",
+    "uniprot": "Q6R8F3",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "alajgfp3_default",
+            "name": "default",
+            "ex_max": 494,
+            "em_max": 504,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bp034308g"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "FRM5D",
+    "name": "DsRed.T3",
+    "slug": "dsredt3",
+    "seq": "MASSEDVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFQYGSKVYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGCFIYKVKFIGVNFPSDGPVMQKKTMGWEPSTERLYPRDGVLKGEIHKALKLKDGGHYLVEFKSIYMAKKPVQLPGYYYVDSKLDITSHNEDYTIVEQYERTEGRHHLFL",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dsredt3_default",
+            "name": "default",
+            "ex_max": 560,
+            "em_max": 587,
+            "ext_coeff": 49500,
+            "qy": 0.59,
+            "pka": null,
+            "maturation": 78.0,
+            "lifetime": null,
+            "brightness": 29.2
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt0102-83"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "A6URG",
+    "name": "mARs1",
+    "slug": "mars1",
+    "seq": "MVSVIKEEMKIRLRMEGTVNGHNFVIEGEGKGNPYEGTQTLDCKVTEGGPLPFAYDILSPQFMYGSKPFIKYPADIPDYFKQSYPEGQHWERVMTYEDGGVCTATQNSSLRGDCFFYDVRFDGTNFPPNGPVMQKKTLGWVPSSEKMYVRDGVLKGDVSKALLLEGGGHYRCDFKTTYKAKKDVRLPGAHKVDHRIEILKHDKDYNNVKLYEIAVARYS",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mars1_default",
+            "name": "default",
+            "ex_max": 571,
+            "em_max": 598,
+            "ext_coeff": 27100,
+            "qy": 0.26,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 7.05
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.2307687120"
+}

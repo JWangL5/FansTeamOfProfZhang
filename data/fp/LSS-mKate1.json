@@ -1,0 +1,30 @@
+{
+    "uuid": "GLJ6S",
+    "name": "LSS-mKate1",
+    "slug": "lss-mkate1",
+    "seq": "MSELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSYTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFTSNGPVMQKKTLGWEAGTEMLYPADGGLEGRSDEALKLVGGGHLICNLKSTYRSKKPAKNLKVPGVYYVDRRLERIKEADKETYVEQHEVAVARYCDLPSKLGHKLN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3NT9"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "lss-mkate1_default",
+            "name": "default",
+            "ex_max": 463,
+            "em_max": 624,
+            "ext_coeff": 31200,
+            "qy": 0.08,
+            "pka": 3.2,
+            "maturation": 100.0,
+            "lifetime": null,
+            "brightness": 2.5
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.0914365107"
+}

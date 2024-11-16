@@ -1,0 +1,28 @@
+{
+    "uuid": "D41LA",
+    "name": "dis3GFP",
+    "slug": "dis3gfp",
+    "seq": "MSALKEEMKINLTMEGVVNGLPFKIRGDGKGKPYQGSQELTLTVVKGGPLPFSYDILTTMFQYGNRAFVNYPEDIPDIFKQTCSGPNGGYSWQRTMTYEDGGVCTATSNISVVGDTFNYDIHFMGANFPLDGPVMQKRTMKWEPSTEIMFERDGMLRGDIAMSLLLKGGGHYRCDFETIYKPNKVVKMPDYHFVDHCIEITSQQDYYNVVELTEVAEARYSSLEKIGKSKA",
+    "ipg_id": "1067021",
+    "genbank": "AAM10627",
+    "uniprot": "Q8T6T8",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dis3gfp_default",
+            "name": "default",
+            "ex_max": 503,
+            "em_max": 512,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.062552299"
+}

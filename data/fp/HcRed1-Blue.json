@@ -1,0 +1,28 @@
+{
+    "uuid": "1ZQEX",
+    "name": "HcRed1-Blue",
+    "slug": "hcred1-blue",
+    "seq": "MAGLLKESMRIKMYMEGTVNGHYFKCEGEGDGNPFAGTQSMRIHVTEGAPLPFAFDILAPCCHYGSKTFVHHTAEIPDFWKQSFPEGFTWERTTTYEDGGILTAHQDTSLEGNCLIYKVKVHGTNFPADGPVMKNKSGGWEPITEVVYPENGVLCGRAVMALKVGDRHLICHAYTSYRSKKAVRALTMPGFHFTDYRLQMLRKKKDEYFELYEASVARYSDLPEKAN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "hcred1-blue_default",
+            "name": "default",
+            "ex_max": 408,
+            "em_max": 455,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2008.08.006"
+}

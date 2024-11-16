@@ -1,0 +1,28 @@
+{
+    "uuid": "2BJM7",
+    "name": "dTFP0.1",
+    "slug": "dtfp01",
+    "seq": "MVSKGEETTMGVIKPDMKIKLKMEGNVNGHAFVIEGEGEGKPYDGTNTVNLEVKEGAPLPFSYDILSNAFQYGNRAFTKYPDDIADYFKQSFPEGYSWERTMTFEDKGIVKVKSDISMEEDSFIYEIRLKGKNFPPNGPVMQKKTLKWEPSTEILYVRDGVLVGDISHSLLLEGGGHYRCDFKTIYKAKKVVKLPDYHFVDHRIEILNHDKDYNKVTLYENAVARYSLLPSQAGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "dtfp01_default",
+            "name": "default",
+            "ex_max": 456,
+            "em_max": 485,
+            "ext_coeff": 42000,
+            "qy": 0.63,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 26.46
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20060874"
+}

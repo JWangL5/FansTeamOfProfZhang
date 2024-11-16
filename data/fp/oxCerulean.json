@@ -1,0 +1,28 @@
+{
+    "uuid": "ZWK6V",
+    "name": "oxCerulean",
+    "slug": "oxcerulean",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "oxcerulean_default",
+            "name": "default",
+            "ex_max": 435,
+            "em_max": 477,
+            "ext_coeff": 56000,
+            "qy": 0.41,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 22.96
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/ncomms8670"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "QJSF2",
+    "name": "EaGFP",
+    "slug": "eagfp",
+    "seq": "MSVVKPDMKIKLRMRGTVNGHNFVIEGEGNGKPYEGTQTIDLKVIEGAPLPFAYDILTPAFQYGNRAFTNYPADIPDYFKQTFPEGYSWERIMIYEDQGMCMATSHISLEGNCFFYDIRFHGVNFPPNGPVMQKKIQKSEPSTEKMYERDGMLKGDVNMALLLKGGGHYRCDFRSSYKAKKRVILPDYHYVDHRIEILSHEKDYSKVALHAIAKARYSLMPIAKTE",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "eagfp_default",
+            "name": "default",
+            "ex_max": 506,
+            "em_max": 514,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/mrd.23157"
+}

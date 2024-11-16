@@ -1,0 +1,30 @@
+{
+    "uuid": "JXVU8",
+    "name": "mRouge",
+    "slug": "mrouge",
+    "seq": "MVSKGEEDNMAIIKEFMRFKTHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEACSERMYPEDGALKGEMKMRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNTNTKLDITSHNEDYTIVEQYERNEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3NED"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mrouge_default",
+            "name": "default",
+            "ex_max": 600,
+            "em_max": 637,
+            "ext_coeff": 43000,
+            "qy": 0.02,
+            "pka": 6.1,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.86
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.1013910107"
+}

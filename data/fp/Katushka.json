@@ -1,0 +1,31 @@
+{
+    "uuid": "Q2ZO7",
+    "name": "Katushka",
+    "slug": "katushka",
+    "seq": "MSVLITENMHMKLYMEGTVNDHHFKCTSEGEGKPYEGTQTMKIKVVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDFFKQSFPEGFTWERITTYEDGGVLTATQDTSLQNGCLIYNVKINGVNFPSNGPVMQKKTLGWEASTEMLYPADSGLRGHSQMALKLVGGGYLHCSLKTTYRSKKPAKNLKMPGFYFVDRRLERIKEADKETYVEQHEMAVARYCDLPSKLGHS",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3PJ5",
+        "3PJ7"
+    ],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "katushka_default",
+            "name": "default",
+            "ex_max": 588,
+            "em_max": 635,
+            "ext_coeff": 65000,
+            "qy": 0.34,
+            "pka": null,
+            "maturation": 34.0,
+            "lifetime": 2.1,
+            "brightness": 22.1
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth1083"
+}

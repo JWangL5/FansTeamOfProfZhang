@@ -1,0 +1,30 @@
+{
+    "uuid": "RR1M4",
+    "name": "mKO",
+    "slug": "mko",
+    "seq": "MVSVIKPEMKMRYYMDGSVNGHEFTIEGEGTGRPYEGHQEMTLRVTMAKGGPMPFAFDLVSHVFCYGHRPFTKYPEEIPDYFKQAFPEGLSWERSLEFEDGGSASVSAHISLRGNTFYHKSKFTGVNFPADGPIMQNQSVDWEPSTEKITASDGVLKGDVTMYLKLEGGGNHKCQFKTTYKAAKKILKMPGSHYISHRLVRKTEGNITELVEDAVAHS",
+    "ipg_id": "3504947",
+    "genbank": "BAD24722",
+    "uniprot": "Q6I7B2",
+    "pdb": [
+        "3MGF"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mko_default",
+            "name": "default",
+            "ex_max": 548,
+            "em_max": 559,
+            "ext_coeff": 51600,
+            "qy": 0.6,
+            "pka": 5.0,
+            "maturation": null,
+            "lifetime": 4.1,
+            "brightness": 30.96
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20040321"
+}

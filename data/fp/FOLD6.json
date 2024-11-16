@@ -1,0 +1,30 @@
+{
+    "uuid": "C5EUY",
+    "name": "FOLD6",
+    "slug": "fold6",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFISTTGKLPVPWPTLVTTLGYGLAVFARYPDHMKQHDFFKSAMPEGYVQERTISFEDDGYYKTRAEVKFEGDTLVNRIVLKGIDFKEDGNILGHKLEYNFNPHNVYITADKQKNGIKANFKTRHNVEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSHQSVLSKDPNEKRDHMVLLEFVTAAGITHDMNELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "7UGT"
+    ],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "fold6_default",
+            "name": "default",
+            "ex_max": 505,
+            "em_max": 515,
+            "ext_coeff": 118200,
+            "qy": 0.73,
+            "pka": 5.9,
+            "maturation": 25.0,
+            "lifetime": null,
+            "brightness": 86.29
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41592-022-01660-7"
+}

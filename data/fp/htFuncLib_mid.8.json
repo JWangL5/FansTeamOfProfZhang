@@ -1,0 +1,28 @@
+{
+    "uuid": "79SEY",
+    "name": "htFuncLib_mid.8",
+    "slug": "htfunclib_mid8",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLATTLTYGVQCFTRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNMNSHNVYIMPDKQNNGIKVNFKTRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVVLEFVEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_mid8_default",
+            "name": "default",
+            "ex_max": 484,
+            "em_max": 508,
+            "ext_coeff": null,
+            "qy": 0.37,
+            "pka": 5.01,
+            "maturation": null,
+            "lifetime": 0.8,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

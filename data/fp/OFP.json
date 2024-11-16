@@ -1,0 +1,28 @@
+{
+    "uuid": "KETFB",
+    "name": "OFP",
+    "slug": "ofp",
+    "seq": "MNLSKNVSVSVYMKGNVNNHEFEYDGEGGGDPYTGKYSMKMTLRGQNCLPFSYDIITTAFQYGFRVFTKYPEGIVDYFKDSLPDAFQWNRRIVFEDGGVLNMSSDITYKDNVLHGDVWAVGVNFPPNGPVMKNEIVMEEPTEETFTPKNGVLVGFCPKAYLLKDGSYYYGNMTTFYRSKKSGQAPPGYHFVKHRLVKTNVGHGFKTVEQTEYATAHVSDLPK",
+    "ipg_id": "1658661",
+    "genbank": "AAP55761",
+    "uniprot": "Q7Z168",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ofp_default",
+            "name": "default",
+            "ex_max": 548,
+            "em_max": 573,
+            "ext_coeff": 60000,
+            "qy": 0.64,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 38.4
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1007/s10126-007-9005-5"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "XBGJO",
+    "name": "EBFP1.5",
+    "slug": "ebfp15",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLSHGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNHNSNNVYIAADKQKNGIKVNFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDSHYLSTQSVLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ebfp15_default",
+            "name": "default",
+            "ex_max": 381,
+            "em_max": 449,
+            "ext_coeff": 43000,
+            "qy": 0.53,
+            "pka": 4.8,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 22.79
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi700199g"
+}

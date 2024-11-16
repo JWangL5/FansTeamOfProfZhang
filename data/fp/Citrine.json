@@ -1,0 +1,31 @@
+{
+    "uuid": "VR7EN",
+    "name": "Citrine",
+    "slug": "citrine",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFGYGLMCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "1HUY",
+        "3DPW"
+    ],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "citrine_default",
+            "name": "default",
+            "ex_max": 516,
+            "em_max": 529,
+            "ext_coeff": 77000,
+            "qy": 0.76,
+            "pka": 5.7,
+            "maturation": null,
+            "lifetime": 3.6,
+            "brightness": 58.52
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1074/jbc.m102815200"
+}

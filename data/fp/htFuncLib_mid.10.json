@@ -1,0 +1,28 @@
+{
+    "uuid": "LMXFP",
+    "name": "htFuncLib_mid.10",
+    "slug": "htfunclib_mid10",
+    "seq": "MGSSHHHHHHVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATYGKVTLKFICTTGKLPVPWPTLVTTLTYGVLCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGCYKTRAEVKFEGDTLVNRIELHGIDFKEDGNILGHKLEYNFNSHNVYIMPDKQNNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDYHYLHTWSELSKDPNEKRDHMVVLEFIEAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "htfunclib_mid10_default",
+            "name": "default",
+            "ex_max": 489,
+            "em_max": 508,
+            "ext_coeff": null,
+            "qy": 0.45,
+            "pka": 5.31,
+            "maturation": null,
+            "lifetime": 0.85,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2022.10.11.511732"
+}

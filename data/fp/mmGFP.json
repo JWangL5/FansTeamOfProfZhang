@@ -1,0 +1,28 @@
+{
+    "uuid": "U5ALR",
+    "name": "mmGFP",
+    "slug": "mmgfp",
+    "seq": "MAVPTQVKMKYSMDGNFNGQSFTVVGEGTGNPYEGHQSLKLTVKGEPLPFAFDILSATFTYGNRVFTKYPEGKTDYFKEAFPGGLTWERTMTFEDGGICTVAAEISLTGSVFEHKSKFVGVNFPANGPVIQKKTLGWETSTEKMAANDGSVQGYDTMFLKLEGGGRHKCYFVTNHKAKRAVKVPDNHFVWHRLVRNGDGNTVELEETAEARYDS",
+    "ipg_id": "938781",
+    "genbank": "AAO00732",
+    "uniprot": "Q86LV8",
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mmgfp_default",
+            "name": "default",
+            "ex_max": 398,
+            "em_max": 505,
+            "ext_coeff": null,
+            "qy": 0.645,
+            "pka": null,
+            "maturation": 1440.0,
+            "lifetime": 3.1,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.febslet.2004.06.043"
+}

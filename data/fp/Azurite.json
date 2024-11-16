@@ -1,0 +1,28 @@
+{
+    "uuid": "ZMWEJ",
+    "name": "Azurite",
+    "slug": "azurite",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSHGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNIYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFRTAAGITHGMDELYK",
+    "ipg_id": "6379415",
+    "genbank": "ABK79091",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "azurite_default",
+            "name": "default",
+            "ex_max": 383,
+            "em_max": 447,
+            "ext_coeff": 26200,
+            "qy": 0.55,
+            "pka": 5.0,
+            "maturation": 18.0,
+            "lifetime": 3.65,
+            "brightness": 14.41
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1264"
+}

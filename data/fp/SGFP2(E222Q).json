@@ -1,0 +1,28 @@
+{
+    "uuid": "49YLM",
+    "name": "SGFP2(E222Q)",
+    "slug": "sgfp2e222q",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLQFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sgfp2e222q_default",
+            "name": "default",
+            "ex_max": 496,
+            "em_max": 512,
+            "ext_coeff": 67000,
+            "qy": 0.52,
+            "pka": 6.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 34.84
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi0622874"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "BLKRN",
+    "name": "stylCP",
+    "slug": "stylcp",
+    "seq": "MSVIAKQMTYKVYMSGTVNGHYFEVQGDGKGKPYEGEQTVRLTVTKGGPLPFAWDILSPLSQYGSIPFTKYPEDIPDYVKQSFPEGYTWERIMNFEDGAVCTVSNDSSIQGNCFIYNVKISGLNFPPNGPVMQKKTQGWEPNTERLFARDGMLIGNNFMALKLEGGGHYLCEFKSTYKAKKPVRMPGYHYVDRKLDVTSHNRDYTSVEQCEISIARHSLLG",
+    "ipg_id": "4901513",
+    "genbank": "ABB17951",
+    "uniprot": "A8CLM7",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "",
+    "states": [
+        {
+            "slug": "stylcp_default",
+            "name": "default",
+            "ex_max": 574,
+            "em_max": null,
+            "ext_coeff": 96600,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0002680"
+}

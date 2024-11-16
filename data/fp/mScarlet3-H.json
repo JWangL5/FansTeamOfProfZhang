@@ -1,0 +1,28 @@
+{
+    "uuid": "444PN",
+    "name": "mScarlet3-H",
+    "slug": "mscarlet3-h",
+    "seq": "MDSTEAVIKEFMRFKVHMEGSMNGHEFEIEGEGEGRPYEGTQTAKLRVTKGGPLPFSWDILSPQFMYGSRAFTKHPADIPDYWKQSFPEGFKWERVMNFEDGGAVSVAQDTSLEDGTLIYKVKLRGTNFPPDGPVMQKKTMGWEASTERLYPEDVVLKGDIKHALRLKDGGRYLADFKTTYRAKKPVQMPGAFNIDRKLDITSHNEDYTVVEQYERSVARHSTGGSGGS",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mscarlet3-h_default",
+            "name": "default",
+            "ex_max": 551,
+            "em_max": 592,
+            "ext_coeff": 102685,
+            "qy": 0.18,
+            "pka": 3.45,
+            "maturation": 36.0,
+            "lifetime": null,
+            "brightness": 18.48
+        }
+    ],
+    "transitions": [],
+    "doi": "10.21203/rs.3.rs-4718585/v1"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "YVJ5E",
+    "name": "SCFP3B",
+    "slug": "scfp3b",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNAISDNVYITADKQKNGIKANFKIRHNIEDGGVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": "4596888",
+    "genbank": "AAZ65849",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "scfp3b_default",
+            "name": "default",
+            "ex_max": 433,
+            "em_max": 474,
+            "ext_coeff": 30000,
+            "qy": 0.5,
+            "pka": 4.5,
+            "maturation": null,
+            "lifetime": 2.3,
+            "brightness": 15.0
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi0516273"
+}

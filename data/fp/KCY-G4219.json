@@ -1,0 +1,28 @@
+{
+    "uuid": "3KHK4",
+    "name": "KCY-G4219",
+    "slug": "kcy-g4219",
+    "seq": "MSVIKPEMKMRYRMDGSVNGHEFTVEGEGTGRPYEGKHKITLDVTKGGPLPFAFDLLSTVFSYGNRALTKYPDDIPDYFKQCFPGGYSWERKFEFEDGGLAIAKAEISLKGNCFEHKSTIEGTFPDSSPIMQNKTLGWEPSTEKMTVRDGSMKGDDAAYLKLVGGGNHKCYFTTTYTAKKKIPNLPKSHFIGHRISSVVEGTKIKVMEDAIAHLYPFNGSPCQ",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "kcy-g4219_default",
+            "name": "default",
+            "ex_max": 453,
+            "em_max": 486,
+            "ext_coeff": 21100,
+            "qy": 0.8,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 16.88
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/bi801658p"
+}

@@ -1,0 +1,31 @@
+{
+    "uuid": "P9LBW",
+    "name": "Sandercyanin",
+    "slug": "sandercyanin",
+    "seq": "MFIKPGRCPKPAVQEDFDAARYLGVWYDIQRLPNKFQKGECATATYSLSPGVGFSVFNRERLANGTIKSVIGSAIAEDPCEPAKLQFFHENAAPVPYWVLSTDYDNYALVYSCINLGASHAAYASIVSRQPTLPEETIKKLQGTMSSFGVGVDTLLTTNQDAAYCSAMNQ",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "5F6Z",
+        "5EZ2"
+    ],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sandercyanin_default",
+            "name": "default",
+            "ex_max": 375,
+            "em_max": 675,
+            "ext_coeff": 21000,
+            "qy": 0.016,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.34
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1073/pnas.1525622113"
+}

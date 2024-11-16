@@ -1,0 +1,28 @@
+{
+    "uuid": "FWVH2",
+    "name": "stylGFP",
+    "slug": "stylgfp",
+    "seq": "MALTKQCIANEMTMTFHMDGCVNGHYFTIEGEGSGRPYEGKQMSKFKVTKGGPLPFSFDILSSAFKYGNRCFTAYPAGMHDYFKQAFPEGMSYERTFTFEDGGVATASGDISLKGNCFVHKSMFHGVNFPADGPVMKKKTTGWDPSFEKMTVCNGILKGDVTMFLMLEDGKNYKCQFHTSYKTKKPVTLPSNHVVEHRIVRTNLDKAGNHVQLDEHAVAHVNPL",
+    "ipg_id": "4901524",
+    "genbank": "ABB17963",
+    "uniprot": "A8CLT7",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "stylgfp_default",
+            "name": "default",
+            "ex_max": 485,
+            "em_max": 500,
+            "ext_coeff": 86700,
+            "qy": 0.7,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 60.69
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0002680"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "T7XX8",
+    "name": "MiCy",
+    "slug": "micy",
+    "seq": "MVSYSKQGIAQEMRTKYRMEGSVNGHEFTIEGVGTGNPYEGKQMSELVIIKSKGKPLPFSFDILSTAFQYGNRCFTKYPADMPDYFKQAFPDGMSYERSFLFEDGGVATASWSIRLEGNCFIHNSIYHGVNFPADGPVMKKQTIGWDKSFEKMSVAKEVLRGDVTQFLLLEGGGYQRCRFHSTYKTEKPVAMPPSHVVEHQIVRTDLGQTAKGFKVKLEEHAEAHVNPLKVK",
+    "ipg_id": "3504960",
+    "genbank": "BAD24723",
+    "uniprot": "Q6I7B1",
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "micy_default",
+            "name": "default",
+            "ex_max": 472,
+            "em_max": 495,
+            "ext_coeff": 27250,
+            "qy": 0.9,
+            "pka": 6.6,
+            "maturation": null,
+            "lifetime": 3.4,
+            "brightness": 24.52
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1042/bj20040321"
+}

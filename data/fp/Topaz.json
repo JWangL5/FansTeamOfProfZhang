@@ -1,0 +1,28 @@
+{
+    "uuid": "SY6TH",
+    "name": "Topaz",
+    "slug": "topaz",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFGYGVQCFARYPDHMRRHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "topaz_default",
+            "name": "default",
+            "ex_max": 514,
+            "em_max": 527,
+            "ext_coeff": 94500,
+            "qy": 0.6,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 56.7
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/s0091-679x(08)61946-9"
+}

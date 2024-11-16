@@ -1,0 +1,28 @@
+{
+    "uuid": "QS3XQ",
+    "name": "GFPmut2",
+    "slug": "gfpmut2",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFAYGLQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "gfpmut2_default",
+            "name": "default",
+            "ex_max": 485,
+            "em_max": 508,
+            "ext_coeff": 53900,
+            "qy": 0.73,
+            "pka": null,
+            "maturation": 5.6,
+            "lifetime": null,
+            "brightness": 39.35
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/0378-1119(95)00685-0"
+}

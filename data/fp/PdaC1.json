@@ -1,0 +1,28 @@
+{
+    "uuid": "8HBTK",
+    "name": "PdaC1",
+    "slug": "pdac1",
+    "seq": "MSLSKQVILKDMNLKFEMKGSVNGHYFEIEGEGRGKPYEGVQKSTFWVTKGGPLPFSFDILSSAFKYGNRCFTKYPADMPDYFKEAFPAGMSFERTFTFEDGGVATASGHICLEGNWFKHTSMFHGVNFPANGPIMQKRTIGWDPSFEKMTVSNNILRGDVTMFLQLKGGGYHSCQFHTSYKTKEPVTLPQNHVVEHRITRTDIEDKKVLLEETAVAHVNPL",
+    "ipg_id": "4912128",
+    "genbank": "AAU04450",
+    "uniprot": "Q66ND1",
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "pdac1_default",
+            "name": "default",
+            "ex_max": 480,
+            "em_max": 492,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.cca.2004.07.002"
+}

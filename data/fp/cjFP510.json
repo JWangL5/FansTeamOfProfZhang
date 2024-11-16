@@ -1,0 +1,28 @@
+{
+    "uuid": "R6P2K",
+    "name": "cjFP510",
+    "slug": "cjfp510",
+    "seq": "MFPSIKESMRVKLNMEGSVNCRAFKCTGEGEGKPYEGTRSMNIEVTEGGPLPFAFDIISHCFAYGQKMFIKHPKDIPDFFKQSFPEGYTWEREVTFEDGGVLAINQDTSLQNDCFICNIKVIGTNFPPNGPVMQKKTCGWEPSAEVVIPRDGGLMLRNSMTLKLIGGGHLACLFKTTFRSKTRKDVKLPEFHFQDIRLERKGNDNGKTFELFEASVARYSPLPPKHR",
+    "ipg_id": null,
+    "genbank": "LC123595",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "cjfp510_default",
+            "name": "default",
+            "ex_max": 500,
+            "em_max": 510,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/srep23493"
+}
