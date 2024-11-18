@@ -29,10 +29,38 @@ def get_protein(fpname, download=True, log='./log/fp_download.txt'):
 def generate_fasta(json, filepath='./data/fpseq.fasta'):
     with open(filepath, 'a+') as f:
         names = [i[1:] for i in f.readlines() if i.startswith('>')]
-        if json['name'] not in names:
+        if json['name'] not in names and json['seq']!='None':
             f.write(f">{json['name']}\n")
             f.write(f"{json['seq']}\n\n")
             
+def clear_fasta(fasta_file_path, log=None, out=None):
+    with open(fasta_file_path, 'r') as f:
+        flines = [i for i in f.readlines()]
+        names = [j[1:] for i,j in enumerate(flines) if j.startswith('>') and flines[i+1]=='None\n']
+    
+    if log != None:    
+        with open(log, 'w') as f:
+            for i in set(names):
+                f.writelines(i)
+            
+    if out != None:
+        with open(out, 'w') as f:
+            # for index in range(len(flines)):
+            index = 0
+            while index < len(flines):
+                if flines[index].startswith('>') and flines[index][1:] in names:
+                    print(index, flines[index])
+                    index +=3
+                else:
+                    f.write(flines[index])
+                    index +=1
+    return names
+
+def load_fasta(fasta_file_path):
+    with open(fasta_file_path, 'r') as f:
+        lines = [i.strip() for i in f.readlines()]
+        res = {item[1:]:lines[index+1] for index, item in enumerate(lines) if item.startswith('>')}
+    return res
 
 if __name__=="__main__":
     # 从大表格中逐一下载蛋白质序列
@@ -43,9 +71,12 @@ if __name__=="__main__":
     #         generate_fasta(fp)
     
     # 从第一次的结果中补漏
-    with open("./log/fp_download.txt", "r") as f:
-        for i in f.readlines():
-            fp = get_protein(i.split(' ')[0], log='./log/fp_download_2.txt')
-            if fp is not None:
-                generate_fasta(fp)
+    # with open("./log/fp_download.txt", "r") as f:
+    #     for i in f.readlines():
+    #         fp = get_protein(i.split(' ')[0], out='./log/fp_without_seq.txt', log='./log/fp_download_2.txt')
+    #         if fp is not None:
+    #             generate_fasta(fp)
+    
+    # 获取序列结果为None的数据
+    print(clear_fasta('./data/fpseq.fasta', out='./data/fpseq_filtered.fasta'))
     
