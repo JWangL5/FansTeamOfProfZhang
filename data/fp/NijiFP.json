@@ -1,0 +1,90 @@
+{
+    "uuid": "87UEF",
+    "name": "NijiFP",
+    "slug": "nijifp",
+    "seq": "MNTPGINLIKEDMRVKVHMEGNVNGHAFVIEGEGKGKPYEGTQTANLTVKEGAPLPFSYDILTTAVHYGNRVFTKYPEDIPDYFKQSFPEGYSWERTMTFEDKGICTIRSDISLEGDCFFQNVRFKGTNFPPNGPVMQKKTLKWEPSTEKLHVRDGLLVGNINMALLLEGGGHYLCDSKTTYKAKKVVQLPDAHFVDHRIEILGNDSDYNKVKLYEHAVARYSPLPSQVW",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "mp",
+    "states": [
+        {
+            "slug": "nijifp_green-off",
+            "name": "Green (off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "nijifp_orange-off",
+            "name": "Orange (off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "nijifp_green",
+            "name": "Green",
+            "ex_max": 469,
+            "em_max": 507,
+            "ext_coeff": 41100,
+            "qy": 0.64,
+            "pka": 7.0,
+            "maturation": null,
+            "lifetime": 3.4,
+            "brightness": 26.3
+        },
+        {
+            "slug": "nijifp_orange",
+            "name": "Orange",
+            "ex_max": 526,
+            "em_max": 569,
+            "ext_coeff": 42000,
+            "qy": 0.65,
+            "pka": 7.3,
+            "maturation": null,
+            "lifetime": 4.2,
+            "brightness": 27.3
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "nijifp_orange-off",
+            "to_state": "nijifp_orange",
+            "trans_wave": 440
+        },
+        {
+            "from_state": "nijifp_orange",
+            "to_state": "nijifp_orange-off",
+            "trans_wave": 561
+        },
+        {
+            "from_state": "nijifp_green-off",
+            "to_state": "nijifp_green",
+            "trans_wave": 405
+        },
+        {
+            "from_state": "nijifp_green",
+            "to_state": "nijifp_green-off",
+            "trans_wave": 488
+        },
+        {
+            "from_state": "nijifp_green",
+            "to_state": "nijifp_orange",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1016/j.chembiol.2011.08.007"
+}

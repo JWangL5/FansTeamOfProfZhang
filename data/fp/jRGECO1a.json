@@ -1,0 +1,46 @@
+{
+    "uuid": "TUAGZ",
+    "name": "jRGECO1a",
+    "slug": "jrgeco1a",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "o",
+    "states": [
+        {
+            "slug": "jrgeco1a_calcium-saturated",
+            "name": "calcium saturated",
+            "ex_max": 562,
+            "em_max": 588,
+            "ext_coeff": 63554,
+            "qy": 0.22,
+            "pka": 6.4,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 13.98
+        },
+        {
+            "slug": "jrgeco1a_calcium-free",
+            "name": "calcium free",
+            "ex_max": 450,
+            "em_max": 595,
+            "ext_coeff": 4741,
+            "qy": 0.12,
+            "pka": 8.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.57
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "jrgeco1a_calcium-saturated",
+            "to_state": "jrgeco1a_calcium-saturated",
+            "trans_wave": null
+        }
+    ],
+    "doi": "10.7554/elife.12727"
+}

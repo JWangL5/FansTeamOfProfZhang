@@ -1,0 +1,81 @@
+{
+    "uuid": "SXBT1",
+    "name": "mKeima",
+    "slug": "mkeima",
+    "seq": "MVSVIAKQMTYKVYMSGTVNGHYFEVEGDGKGKPYEGEQTVKLTVTKGGPLPFAWDILSPQLQYGSIPFTKYPEDIPDYFKQSFPEGYTWERSMNFEDGAVCTVSNDSSIQGNCFIYNVKISGENFPPNGPVMQKKTQGWEPSTERLFARDGMLIGNDYMALKLEGGGHYLCEFKSTYKAKKPVRMPGRHEIDRKLDVTSHNRDYTSVEQCEIAIARHSLLG",
+    "ipg_id": "5593672",
+    "genbank": "BAE93226",
+    "uniprot": "Q1JV70",
+    "pdb": [
+        "2WHS",
+        "2WHU",
+        "2WHT",
+        "3IR8"
+    ],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mkeima_ph5",
+            "name": "pH5",
+            "ex_max": 586,
+            "em_max": 620,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": 6.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "mkeima_ph6",
+            "name": "pH6",
+            "ex_max": 440,
+            "em_max": 620,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": 6.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "mkeima_ph8",
+            "name": "pH8",
+            "ex_max": 440,
+            "em_max": 620,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": 6.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "mkeima_ph4",
+            "name": "pH4",
+            "ex_max": 586,
+            "em_max": 620,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": 6.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "mkeima_ph74",
+            "name": "pH7.4",
+            "ex_max": 440,
+            "em_max": 620,
+            "ext_coeff": 14400,
+            "qy": 0.24,
+            "pka": 6.5,
+            "maturation": 180.0,
+            "lifetime": 2.93,
+            "brightness": 3.46
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt1207"
+}

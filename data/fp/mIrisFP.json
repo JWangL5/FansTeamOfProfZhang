@@ -1,0 +1,90 @@
+{
+    "uuid": "KDHFJ",
+    "name": "mIrisFP",
+    "slug": "mirisfp",
+    "seq": "MSAIKPDMKINLRMEGNVNGHHFVIDGDGTGKPFEGKQSMDLEVKEGGPLPFAFDILTTAFHYGNRVFVEYPDHIQDYFKQSFPKGYSWERSLTFEDGGICIARNDITMEGDTFYNKVRFHGTNFPANGPVMQKKTLKWEPSTEIMYVRDGVLTGDIHMALLLEGNAHYRCDSRTTYKAKEKGVKLPGAHFVDHCIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "mp",
+    "states": [
+        {
+            "slug": "mirisfp_green",
+            "name": "Green",
+            "ex_max": 486,
+            "em_max": 516,
+            "ext_coeff": 47000,
+            "qy": 0.54,
+            "pka": 5.4,
+            "maturation": 14.0,
+            "lifetime": null,
+            "brightness": 25.38
+        },
+        {
+            "slug": "mirisfp_red",
+            "name": "Red",
+            "ex_max": 546,
+            "em_max": 578,
+            "ext_coeff": 33000,
+            "qy": 0.59,
+            "pka": 7.6,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 19.47
+        },
+        {
+            "slug": "mirisfp_green-off",
+            "name": "Green (Off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "mirisfp_red-off",
+            "name": "Red (Off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "mirisfp_green",
+            "to_state": "mirisfp_red",
+            "trans_wave": 405
+        },
+        {
+            "from_state": "mirisfp_green-off",
+            "to_state": "mirisfp_green",
+            "trans_wave": 386
+        },
+        {
+            "from_state": "mirisfp_green",
+            "to_state": "mirisfp_green-off",
+            "trans_wave": 486
+        },
+        {
+            "from_state": "mirisfp_red",
+            "to_state": "mirisfp_red-off",
+            "trans_wave": 546
+        },
+        {
+            "from_state": "mirisfp_red-off",
+            "to_state": "mirisfp_red",
+            "trans_wave": 446
+        }
+    ],
+    "doi": "10.1038/nmeth.1477"
+}

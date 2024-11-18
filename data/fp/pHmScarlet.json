@@ -1,0 +1,112 @@
+{
+    "uuid": "RSRP9",
+    "name": "pHmScarlet",
+    "slug": "phmscarlet",
+    "seq": "MVSKGEAVIKEFMRFKVHMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFSWDILSPQFMYGSRAFIKHPADIPDYYKQSFPEGFKWERVMNFEDGGAVTVTQDTSLEDGTLIYKVKLRGTNFPPDGPVMQKKTMGWEASCERLYPEDGVLKGDILKVLRLKDGGRYLADFKTTYKAKKPVQMPGAYNVDRQLTITSHNEDYTVVEQYERSEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "phmscarlet_ph-75",
+            "name": "pH 7.5",
+            "ex_max": 562,
+            "em_max": 585,
+            "ext_coeff": 85000,
+            "qy": 0.47,
+            "pka": 7.4,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 39.95
+        },
+        {
+            "slug": "phmscarlet_ph-5",
+            "name": "pH 5",
+            "ex_max": 513,
+            "em_max": 513,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "phmscarlet_ph-6",
+            "name": "pH 6",
+            "ex_max": 517,
+            "em_max": 517,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "phmscarlet_ph-7",
+            "name": "pH 7",
+            "ex_max": 520,
+            "em_max": 520,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "phmscarlet_ph-8",
+            "name": "pH 8",
+            "ex_max": 562,
+            "em_max": 562,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "phmscarlet_ph-9",
+            "name": "pH 9",
+            "ex_max": 562,
+            "em_max": 562,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "phmscarlet_ph-10",
+            "name": "pH 10",
+            "ex_max": 562,
+            "em_max": 562,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "phmscarlet_ph-74",
+            "name": "pH 7.4",
+            "ex_max": 564,
+            "em_max": 585,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41467-021-21666-7"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "PV8DK",
+    "name": "mRhubarb720",
+    "slug": "mrhubarb720",
+    "seq": "MAEGSVARQPDLLTCDDEPIHIPGAIQPHGLLLALAADMTIVAGSDNLPELTGLAIGALIGRSAADVFDSETHNRLTIALAEPGAAVGAPITVGFTMRKDAGFIGSWHRHDQLIFLELEPPQRDVAEPQAFFRHTNSAIRRLQAAETLESACAAAAQEVRKITGFDRVMIYRFASDFSGEVIAEDRCAEVESKLGQHYPASDIPAQARRLYTINPVRIIPDINYRPVPVTPDLNPVTGRPIDLSFAILRSVSPVHLEFMRNIGMHGTMSISILRGERLWGLIVCHHRTPYYVDLDGRQACELVAQVLARAIGVMEE",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mrhubarb720_pr",
+            "name": "Pr",
+            "ex_max": 701,
+            "em_max": 720,
+            "ext_coeff": 94941,
+            "qy": 0.0646,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 6.13
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41598-019-52123-7"
+}

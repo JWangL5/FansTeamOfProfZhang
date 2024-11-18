@@ -1,0 +1,46 @@
+{
+    "uuid": "SXSQ9",
+    "name": "mMaple",
+    "slug": "mmaple",
+    "seq": "MVSKGEETIMSVIKPDMKIKLRMEGNVNGHAFVIEGEGSGKPFEGIQTIDLEVKEGAPLPFAYDILTTAFHYGNRVFTKYPEDIPDYFKQSFPEGYSWERSMTYEDGGICIATNDITMEEDSFINKIHFKGTNFPPNGPVMQKRTVGWEVSTEKMYVRDGVLKGDVKMKLLLKGGSHYRCDFRTTYKVKQKAVKLPDYHFVDHRIEILSHDKDYNKVKLYEHAVARNSTDSMDELYK",
+    "ipg_id": "152367004",
+    "genbank": "ASA47684",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "mmaple_green",
+            "name": "Green",
+            "ex_max": 489,
+            "em_max": 505,
+            "ext_coeff": 15000,
+            "qy": 0.74,
+            "pka": 8.2,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 11.1
+        },
+        {
+            "slug": "mmaple_red",
+            "name": "Red",
+            "ex_max": 566,
+            "em_max": 583,
+            "ext_coeff": 30000,
+            "qy": 0.56,
+            "pka": 7.3,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 16.8
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "mmaple_green",
+            "to_state": "mmaple_red",
+            "trans_wave": 380
+        }
+    ],
+    "doi": "10.1371/journal.pone.0051314"
+}

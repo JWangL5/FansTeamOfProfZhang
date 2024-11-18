@@ -1,0 +1,40 @@
+{
+    "uuid": "ZJWZK",
+    "name": "AvicFP3",
+    "slug": "avicfp3",
+    "seq": "MNCGALLFKQKIPFIVELDGDVNGQVFSVRGNGFGDGSTGKIEIKFVCTTGEIPVAWESLVCSLAYGALVFTKYPSNINDFFKSTMPKGYIQERKITFENDGQYETRAEVTYENGALYNRVKLNGSGFRKDGNILGKKLDATSLGTCIYIMSNDQGNGLKGVYNKAYKVIGGNRQLASHQQTHTPIGDGLVSIPDYHVMHNHTSCSKDPTEPRDHLILKESVTAVDCQTAYM",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "avicfp3_pre-conversion",
+            "name": "pre-conversion",
+            "ex_max": 480,
+            "em_max": 520,
+            "ext_coeff": null,
+            "qy": 0.001,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "avicfp3_post-conversion",
+            "name": "post-conversion",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/677344"
+}

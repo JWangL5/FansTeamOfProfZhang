@@ -1,0 +1,40 @@
+{
+    "uuid": "YPB84",
+    "name": "jREX-GECO1",
+    "slug": "jrex-geco1",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "jrex-geco1_calcium-free",
+            "name": "calcium free",
+            "ex_max": 577,
+            "em_max": 599,
+            "ext_coeff": 31746,
+            "qy": 0.061,
+            "pka": 4.6,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 1.94
+        },
+        {
+            "slug": "jrex-geco1_calcium-saturated",
+            "name": "calcium saturated",
+            "ex_max": 474,
+            "em_max": 585,
+            "ext_coeff": 34000,
+            "qy": 0.2,
+            "pka": 11.63,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 6.8
+        }
+    ],
+    "transitions": [],
+    "doi": null
+}

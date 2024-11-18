@@ -1,0 +1,46 @@
+{
+    "uuid": "JTXCJ",
+    "name": "dendFP",
+    "slug": "dendfp",
+    "seq": "MNLIKEDMRVKVHMEGNVNGHAFVIEGEGKGKPYEGTQTLNLTVKEGAPLPFSYDILTTALHYGNRVFTKYPEDIPDYFKQSFPEGYSWERTMTYEDKGICTIRSDISLEGDCFFQNVRFNGMNFPPNGPVMQKKTLKWEPSTEKLHVRDGLLVGNINMALLLEGGGHYLCDFKTTYKAKKVVQLPDYHFVDHRIEILSNDSDYNKVKLYEHGVARYSPLPSQAW",
+    "ipg_id": "4560782",
+    "genbank": "AAM10625",
+    "uniprot": "Q8T6U0",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "dendfp_green",
+            "name": "Green",
+            "ex_max": 492,
+            "em_max": 508,
+            "ext_coeff": 90000,
+            "qy": 0.65,
+            "pka": 6.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 58.5
+        },
+        {
+            "slug": "dendfp_red",
+            "name": "Red",
+            "ex_max": 557,
+            "em_max": 575,
+            "ext_coeff": 35000,
+            "qy": 0.68,
+            "pka": 5.2,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 23.8
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "dendfp_green",
+            "to_state": "dendfp_red",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1073/pnas.062552299"
+}

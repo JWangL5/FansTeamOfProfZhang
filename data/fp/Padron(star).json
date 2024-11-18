@@ -1,0 +1,40 @@
+{
+    "uuid": "31OK2",
+    "name": "Padron(star)",
+    "slug": "padronstar",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHPFAIEGVGLGKPFEGKQSMDLKVKEGGPLPFAYDILTMAFCYGNRVFAKYPENIVDYFKQSFPEGYSWERSMHYEDGGSCNATNDITLDGDCYIYEIRFDGVNFPANGPVMQKRTVKWERSTEKLYVRDGVLKSDGNYALSLEGGGHYRCDFKTTYKAKKVVQLPDYHSVDHHIEIKSHDKDYSNVNLHEHAEAHSELPRNAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "o",
+    "states": [
+        {
+            "slug": "padronstar_on",
+            "name": "On",
+            "ex_max": 503,
+            "em_max": 522,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "padronstar_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nbt.1493"
+}

@@ -1,0 +1,46 @@
+{
+    "uuid": "3SXVB",
+    "name": "pcStar",
+    "slug": "pcstar",
+    "seq": "MSAIKPDMKIKLRMEGNVNGHHFVIDGEGTGKPFEGKQSMDLEVKEGGPLPFAFDILTTAFHYGNRVFAKYPDNIQDYFKQSFPKGYSWERSMTFEDGGICNARNDITMEGDTFYNKVRFYGTNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDIEMALLLEGGAHYRCDFRTTYKAKEKGVKLPGAHFVDHCIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "pcstar_green",
+            "name": "Green",
+            "ex_max": 505,
+            "em_max": 515,
+            "ext_coeff": 74376,
+            "qy": 0.89,
+            "pka": 5.49,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 66.19
+        },
+        {
+            "slug": "pcstar_red",
+            "name": "Red",
+            "ex_max": 567,
+            "em_max": 579,
+            "ext_coeff": 48403,
+            "qy": 0.44,
+            "pka": 6.14,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 21.3
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "pcstar_green",
+            "to_state": "pcstar_red",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1021/acs.nanolett.9b02855"
+}

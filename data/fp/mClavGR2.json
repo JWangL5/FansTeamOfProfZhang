@@ -1,0 +1,46 @@
+{
+    "uuid": "6LRFZ",
+    "name": "mClavGR2",
+    "slug": "mclavgr2",
+    "seq": "MVSKGEETIMSVIKPDMKIKLRMEGNVNGHAFVIEGEGSGKPFEGIQTIDLEVKEGAPLPFAYDILTTAFHYGNRVFTKYPEDIPDYFKQSFPEGYSWERSMTYEDGGICIATNDITMEEDSFINKIHFKGTNFPPNGPVMQKRTVGWEASTEKMYVRDGVLKGDVKMKLLLKGGGHYRCDFRTTYKVKQKAVKLPDYHFVDHRIEILSHDKDYNKVKLYEHAVAHSGLPGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "mclavgr2_green",
+            "name": "Green",
+            "ex_max": 488,
+            "em_max": 504,
+            "ext_coeff": 19000,
+            "qy": 0.77,
+            "pka": 8.0,
+            "maturation": 27.0,
+            "lifetime": null,
+            "brightness": 14.63
+        },
+        {
+            "slug": "mclavgr2_red",
+            "name": "Red",
+            "ex_max": 566,
+            "em_max": 583,
+            "ext_coeff": 32000,
+            "qy": 0.53,
+            "pka": 7.3,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 16.96
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "mclavgr2_green",
+            "to_state": "mclavgr2_red",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1016/j.jmb.2010.06.056"
+}

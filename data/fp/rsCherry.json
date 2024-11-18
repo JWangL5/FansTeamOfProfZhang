@@ -1,0 +1,51 @@
+{
+    "uuid": "Q8AAM",
+    "name": "rsCherry",
+    "slug": "rscherry",
+    "seq": "MVSKGEEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWVASSERMYPEDGALKGESKQRLKLKDGGHYDAEFWTTYKAKKPVQLPGAYNVNIKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": "16113845",
+    "genbank": "ACK57568",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "rscherry_on",
+            "name": "On",
+            "ex_max": 572,
+            "em_max": 610,
+            "ext_coeff": 80000,
+            "qy": 0.02,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 1.6
+        },
+        {
+            "slug": "rscherry_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "rscherry_off",
+            "to_state": "rscherry_on",
+            "trans_wave": 550
+        },
+        {
+            "from_state": "rscherry_on",
+            "to_state": "rscherry_off",
+            "trans_wave": 450
+        }
+    ],
+    "doi": "10.1529/biophysj.108.130146"
+}

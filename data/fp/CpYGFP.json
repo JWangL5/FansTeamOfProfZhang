@@ -1,0 +1,30 @@
+{
+    "uuid": "RK5BV",
+    "name": "CpYGFP",
+    "slug": "cpygfp",
+    "seq": "MTTFKIESRIHGNLNGEKFELVGGGVGEEGRLEIEMKTKDKPLAFSPFLLSHCMGYGFYHFASFPKGTKNIYLHAATNGGYTNTRKEIYEDGGILEVNFRYTYEFNKIIGDVECIGHGFPSQSPIFKDTIVKSCPTVDLMLPMSGNIIASSYARAFQLKDGSFYTAEVKNNIDFKNPIHESFSKSGPMFTHRRVEETHTKENLAMVEYQQVFNSAPRDM",
+    "ipg_id": "BAE78442",
+    "genbank": "AB185173",
+    "uniprot": "Q2MHN7",
+    "pdb": [
+        "2DD7"
+    ],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "cpygfp_default",
+            "name": "Default",
+            "ex_max": 508,
+            "em_max": 518,
+            "ext_coeff": 101000,
+            "qy": 0.53,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 53.53
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.gene.2005.11.031"
+}

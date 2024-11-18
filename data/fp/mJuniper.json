@@ -1,0 +1,28 @@
+{
+    "uuid": "6KPKA",
+    "name": "mJuniper",
+    "slug": "mjuniper",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGSGFKEDGNILGHKLEYNYFSDKVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mjuniper_basic",
+            "name": "basic",
+            "ex_max": 434,
+            "em_max": 475,
+            "ext_coeff": 32000,
+            "qy": 0.43,
+            "pka": 4.7,
+            "maturation": 1.7,
+            "lifetime": null,
+            "brightness": 13.76
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2024.03.28.587235"
+}

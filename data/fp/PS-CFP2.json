@@ -1,0 +1,46 @@
+{
+    "uuid": "RDRFL",
+    "name": "PS-CFP2",
+    "slug": "ps-cfp2",
+    "seq": "MSKGAELFTGIVPILIELNGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVATLSYGVQCFSRYPDHMKQHDFFKSAMPEGYIQERTIFFEDDGNYKTRAEVKFEGDTLVSRIELTGTDFKEDGNILGNKMEYNYNATNVYIVADKARNGIKVNFKVRHNIKDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMIYLEFVTAAAITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "ps-cfp2_cyan",
+            "name": "Cyan",
+            "ex_max": 400,
+            "em_max": 468,
+            "ext_coeff": 43000,
+            "qy": 0.2,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 8.6
+        },
+        {
+            "slug": "ps-cfp2_green",
+            "name": "Green",
+            "ex_max": 490,
+            "em_max": 511,
+            "ext_coeff": 47000,
+            "qy": 0.23,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 10.81
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "ps-cfp2_cyan",
+            "to_state": "ps-cfp2_green",
+            "trans_wave": 405
+        }
+    ],
+    "doi": null
+}

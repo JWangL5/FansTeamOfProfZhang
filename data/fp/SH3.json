@@ -1,0 +1,28 @@
+{
+    "uuid": "PFYNU",
+    "name": "SH3",
+    "slug": "sh3",
+    "seq": "MIEKNYVITDPRLPDNPIIFASDGFLELTEYSREEILGRNARFLQGPETDQATVQKIRDAIRDQRETTVQLINYTKSGKEFWNLFHLQPVRNQKGELQYFIGVQQDGSDHV",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sh3_sh3",
+            "name": "SH3",
+            "ex_max": 450,
+            "em_max": 495,
+            "ext_coeff": null,
+            "qy": 0.4,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/acs.jafc.9b05473"
+}

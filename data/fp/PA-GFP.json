@@ -1,0 +1,46 @@
+{
+    "uuid": "7QYHY",
+    "name": "PA-GFP",
+    "slug": "pa-gfp",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSHQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pa",
+    "states": [
+        {
+            "slug": "pa-gfp_on",
+            "name": "On",
+            "ex_max": 504,
+            "em_max": 517,
+            "ext_coeff": 17400,
+            "qy": 0.79,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 13.75
+        },
+        {
+            "slug": "pa-gfp_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "pa-gfp_off",
+            "to_state": "pa-gfp_on",
+            "trans_wave": 400
+        }
+    ],
+    "doi": "10.1126/science.1074952"
+}

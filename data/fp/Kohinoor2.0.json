@@ -1,0 +1,40 @@
+{
+    "uuid": "L1ZEW",
+    "name": "Kohinoor2.0",
+    "slug": "kohinoor20",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHPFAIEGVGLGKPFEGKQSVDLKVKEGGPLPFAYDILTMAFCYGNRVFAKYPENIVDYFKQSFPEGYSWERSMIYEDGGICIATNDITLDGDCYIYEIRFDGVNFPANGPVMQKRTVKWEPSTEKLYVRDGVVKSDGNYALLLEGGGHYLCDSKTTYKAKKVVQMPDNHDVVHHIEIKSHDRDYSNVNLHEHAVAHSGLPRQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "kohinoor20_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "kohinoor20_on",
+            "name": "On",
+            "ex_max": 500,
+            "em_max": 516,
+            "ext_coeff": 31200,
+            "qy": 0.607,
+            "pka": null,
+            "maturation": 14.7,
+            "lifetime": null,
+            "brightness": 18.94
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1093/jmicro/dfab001"
+}

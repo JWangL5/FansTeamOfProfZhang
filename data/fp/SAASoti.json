@@ -1,0 +1,40 @@
+{
+    "uuid": "O72EP",
+    "name": "SAASoti",
+    "slug": "saasoti",
+    "seq": "MALSKQYIPDDMELIFHMDGCVNGHYFTIVATGKAKPYEGKQNLKATVTKGAPLPFSTDILSTVMHYGNRCIVHYPPGILDYFKQSFPEGYSWERTFAFEDGGFCTASADIKLKDNCFIHTSMFHGVNFPADGPVMQRKTIQWEKSIEKMTVSDGIVKGDITMFLLLEGGGKYRCQFHTSYKAKKVVEMPQSHYVEHSIERTNDDGTQFELNEHAVARLNEI",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "saasoti_green",
+            "name": "Green",
+            "ex_max": 510,
+            "em_max": 519,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "saasoti_red",
+            "name": "Red",
+            "ex_max": 510,
+            "em_max": 589,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1142/s1793545815500285"
+}

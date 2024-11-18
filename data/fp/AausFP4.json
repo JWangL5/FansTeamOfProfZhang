@@ -1,0 +1,51 @@
+{
+    "uuid": "F5F6H",
+    "name": "AausFP4",
+    "slug": "aausfp4",
+    "seq": "MNCGALLFQQKVPFIVEMEGDVNGEIFSVRGNGFGNATTGKLDILFVCTTGEIPVAWESLISSLAYGAFVFAKYPSNIADFFKSTMPEGYIQERKVTFENDGTYETHATVTYENGAIFERVKLTGTGFREDGNILGKKLEITSLGTPLSIMADDEGKGLRSVFNQAIKVVGGNRQIAIHEQRNRPIGDGLISVPDYHTLHNHLKCSKVSTEKRDHMMVNETLKAIDCQTAYL",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "aausfp4_on",
+            "name": "On",
+            "ex_max": 477,
+            "em_max": 513,
+            "ext_coeff": 69000,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "aausfp4_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": 0.001,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "aausfp4_off",
+            "to_state": "aausfp4_on",
+            "trans_wave": 340
+        },
+        {
+            "from_state": "aausfp4_on",
+            "to_state": "aausfp4_off",
+            "trans_wave": 480
+        }
+    ],
+    "doi": "10.1101/677344"
+}

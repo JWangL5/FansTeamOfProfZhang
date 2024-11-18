@@ -1,0 +1,51 @@
+{
+    "uuid": "MRKZY",
+    "name": "SPOON",
+    "slug": "spoon",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFVCTTGKLPVPWPSLLTTIGYGLMCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNHDSHNVYITADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSALGKDPNEKRDHMVLLEFVTAAGITLGTDELYK",
+    "ipg_id": null,
+    "genbank": "LC320161",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "spoon_on",
+            "name": "on",
+            "ex_max": 510,
+            "em_max": 527,
+            "ext_coeff": 54000,
+            "qy": 0.5,
+            "pka": 7.2,
+            "maturation": 112.0,
+            "lifetime": null,
+            "brightness": 27.0
+        },
+        {
+            "slug": "spoon_off",
+            "name": "off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "spoon_off",
+            "to_state": "spoon_on",
+            "trans_wave": 339
+        },
+        {
+            "from_state": "spoon_on",
+            "to_state": "spoon_off",
+            "trans_wave": 411
+        }
+    ],
+    "doi": "10.1021/acschembio.8b00200"
+}

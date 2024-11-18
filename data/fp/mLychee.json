@@ -1,0 +1,28 @@
+{
+    "uuid": "893F3",
+    "name": "mLychee",
+    "slug": "mlychee",
+    "seq": "MDSTEAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEAFQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYIKHPADIPDYFKQSFPEGFRWERVMNFEDGGIIHVNQDSSLQDGVFIYKVKLRGTNFPPDGPVMQKRTMGWEPSEERMYPEDGALKSEIKKRLKLKDGGHYAAEVKTTYKAKKPVQLPGAYIVDIKLDIVSHNEDYTVVEQYERAEGRHSGSQGGSGGSLYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mlychee_basic",
+            "name": "basic",
+            "ex_max": 568,
+            "em_max": 596,
+            "ext_coeff": 80000,
+            "qy": 0.5,
+            "pka": 6.3,
+            "maturation": 36.4,
+            "lifetime": null,
+            "brightness": 40.0
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2024.03.28.587235"
+}

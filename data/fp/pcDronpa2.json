@@ -1,0 +1,68 @@
+{
+    "uuid": "GGUJF",
+    "name": "pcDronpa2",
+    "slug": "pcdronpa2",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHPFAIEGVGLGKPFEGKQSMDLKVKEGGPLPFAYDILTTAFHYGNRVFAKYPENIVDYFKQSFPEGYSWERSMSYEDGGICIATNDITLDGDCYINEIRFDGVNFPANGPVMQKRTVKWEPSTEKLYVRDGVLKGDVNMALSLEGGGHYRCDFKTTYKAKKVVQLPDYHFVDHHIEIKSHDKDYSNVNLHEHAEAHSGLPRQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "mp",
+    "states": [
+        {
+            "slug": "pcdronpa2_red",
+            "name": "Red",
+            "ex_max": 569,
+            "em_max": 583,
+            "ext_coeff": 105000,
+            "qy": 0.68,
+            "pka": 6.1,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 71.4
+        },
+        {
+            "slug": "pcdronpa2_green",
+            "name": "Green",
+            "ex_max": 504,
+            "em_max": 515,
+            "ext_coeff": 100000,
+            "qy": 0.83,
+            "pka": 5.8,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 83.0
+        },
+        {
+            "slug": "pcdronpa2_green-off",
+            "name": "Green (Off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "pcdronpa2_green",
+            "to_state": "pcdronpa2_red",
+            "trans_wave": 405
+        },
+        {
+            "from_state": "pcdronpa2_green",
+            "to_state": "pcdronpa2_green-off",
+            "trans_wave": 488
+        },
+        {
+            "from_state": "pcdronpa2_green-off",
+            "to_state": "pcdronpa2_green",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1021/nn4060144"
+}

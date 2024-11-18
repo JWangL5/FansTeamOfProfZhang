@@ -1,0 +1,46 @@
+{
+    "uuid": "1M59L",
+    "name": "ShyRFP",
+    "slug": "shyrfp",
+    "seq": "MVSKGEENNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEAFQTAKLKVTKGGPLPFAWDILSPQFMYGSKVYIKHPADIPDYFKLSFPEGFRWERVMNFEDGGIIHVNQDSSLQDGVFIYKVKLRGTNFPSDGPVMQKKTMGLEATEERMYPEDGALKSESKEWLKLKDGGHYAAEVKTTYKAKKPVQLPGAYIVDIKLDIVSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "mp",
+    "states": [
+        {
+            "slug": "shyrfp_yellow-state",
+            "name": "Yellow state",
+            "ex_max": 450,
+            "em_max": 596,
+            "ext_coeff": 30000,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "shyrfp_red-state",
+            "name": "Red state",
+            "ex_max": 545,
+            "em_max": null,
+            "ext_coeff": 142000,
+            "qy": 0.0,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "shyrfp_yellow-state",
+            "to_state": "shyrfp_red-state",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1039/c4ra10107c"
+}

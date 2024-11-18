@@ -1,0 +1,40 @@
+{
+    "uuid": "9JNRR",
+    "name": "mRubyFT",
+    "slug": "mrubyft",
+    "seq": "MVSKGEELIKENMRMKVVMEGSVNGHQFKCTGEGEGNPYMGTQTMRIKVIEGGPLPFAFDILATSFLYGSRTFIKYPKGIPDFFKQSFPEGFTWERVTRYEDGGVVTVMQDTSLEDGCLVYHVQVRGVDFPSNGPVMQKKTKGWEPSTEMMYPADGGLRGYTHMALKVDGGGHLSCSFVTTYRSKKTVGNIKMPGIHAVDHRLERLEESDNEMFVVLREHSVAKFAGRGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "t",
+    "states": [
+        {
+            "slug": "mrubyft_blue-form",
+            "name": "Blue-form",
+            "ex_max": 408,
+            "em_max": 457,
+            "ext_coeff": 26000,
+            "qy": 0.63,
+            "pka": 3.9,
+            "maturation": 342.0,
+            "lifetime": null,
+            "brightness": 16.38
+        },
+        {
+            "slug": "mrubyft_red-form",
+            "name": "Red-form",
+            "ex_max": 582,
+            "em_max": 624,
+            "ext_coeff": 29600,
+            "qy": 0.086,
+            "pka": 4.5,
+            "maturation": 900.0,
+            "lifetime": null,
+            "brightness": 2.55
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3390/ijms23063208"
+}

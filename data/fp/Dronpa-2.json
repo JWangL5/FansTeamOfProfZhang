@@ -1,0 +1,51 @@
+{
+    "uuid": "52ADP",
+    "name": "Dronpa-2",
+    "slug": "dronpa-2",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHPFAIEGVGLGKPFEGKQSMDLKVKEGGPLPFAYDILTTVFCYGNRVFAKYPENIVDYFKQSFPEGYSWERSMNYEDGGICNATNDITLDGDCYIYEIRFDGVNFPANGPVMQKRTVKWEPSTEKLYVRDGVLKGDVNTALSLEGGGHYRCDFKTTYKAKKVVQLPDYHFVDHHIEIKSHDKDYSNVNLHEHAEAHSELPRQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "dronpa-2_on",
+            "name": "On",
+            "ex_max": 490,
+            "em_max": 515,
+            "ext_coeff": 61732,
+            "qy": 0.33,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 20.37
+        },
+        {
+            "slug": "dronpa-2_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "dronpa-2_on",
+            "to_state": "dronpa-2_off",
+            "trans_wave": 490
+        },
+        {
+            "from_state": "dronpa-2_off",
+            "to_state": "dronpa-2_on",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1529/biophysj.107.105882"
+}

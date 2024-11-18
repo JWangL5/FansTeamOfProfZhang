@@ -1,0 +1,28 @@
+{
+    "uuid": "OZEBT",
+    "name": "mRhubarb713",
+    "slug": "mrhubarb713",
+    "seq": "MAEGSVARQPDLLTCDDEPIHIPGAIQPHGLLLALAADMTIVAGSDNLPELTGLAIGALIGRSAADVFDSETHNRLTIALAEPGAAVGAPITVGFTMRKDAGFIGSWHRHDQLIFLELEPPQRDVAEPQAFFRHTNSAIRRLQAAETLESACAAAAQEVRKITGFDRVMIYRFASDFSGEVIAEDRCAEVESKLGLHYPASTVPAQARRLYTINPVRIIPDINYRPVPVTPDLNPVTGRPIDLSFAILRSVSPVHLEFMRNIGMHGTMSISILRGERLWGLIVCHHRTPYYVDLDGRQACELVAQVLARAIGVMEE",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mrhubarb713_pr",
+            "name": "Pr",
+            "ex_max": 690,
+            "em_max": 713,
+            "ext_coeff": 113457,
+            "qy": 0.0763,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 8.66
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41598-019-52123-7"
+}

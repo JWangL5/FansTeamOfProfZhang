@@ -1,0 +1,46 @@
+{
+    "uuid": "SEJ6N",
+    "name": "mMaple2",
+    "slug": "mmaple2",
+    "seq": "MVSKGEETIMSVIKPDMKIKLRMEGNVNGHAFVIEGEGSGKPFEGIQTIDLEVKEGAPLPFAYDILTTAFHYGNRVFTKYPEDIPDYFKQSFPEGYSWERSMTYEDGGICNATNDITMEEDSFINKIHFKGTNFPPNGPVMQKRTVGWEVSTEKMYVRDGVLKGDVKMKLLLKGGSHYRCDFRTTYKVKQKAVKLPDAHFVDHRIEILSHDKDYNKVKLYEHAVARNSTDSMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "mmaple2_green",
+            "name": "Green",
+            "ex_max": 492,
+            "em_max": 506,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "mmaple2_red",
+            "name": "Red",
+            "ex_max": 570,
+            "em_max": 582,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "mmaple2_green",
+            "to_state": "mmaple2_red",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1073/pnas.1406593111"
+}

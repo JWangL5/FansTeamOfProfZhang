@@ -1,0 +1,46 @@
+{
+    "uuid": "DTAXR",
+    "name": "PAmKate",
+    "slug": "pamkate",
+    "seq": "MSELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDFWKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMQKKTLGWEANTEMLYPADGGLEGRGDMALKLVGGGHLICNLKTTYRSKKPAKNLKMPGVYYVDRRLERIKEADKETYVEQHEVAVARYCDLPSKLGHKLN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pa",
+    "states": [
+        {
+            "slug": "pamkate_on",
+            "name": "On",
+            "ex_max": 586,
+            "em_max": 628,
+            "ext_coeff": 25000,
+            "qy": 0.18,
+            "pka": 5.6,
+            "maturation": 19.0,
+            "lifetime": null,
+            "brightness": 4.5
+        },
+        {
+            "slug": "pamkate_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "pamkate_off",
+            "to_state": "pamkate_on",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1016/j.bpj.2011.07.049"
+}

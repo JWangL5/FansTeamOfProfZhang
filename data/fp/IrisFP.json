@@ -1,0 +1,102 @@
+{
+    "uuid": "PA6OT",
+    "name": "IrisFP",
+    "slug": "irisfp",
+    "seq": "MSAIKPDMKINLRMEGNVNGHHFVIDGDGTGKPFEGKQSMDLEVKEGGPLPFAFDILTTAFHYGNRVFAEYPDHIQDYFKQSFPKGYSWERSLTFEDGGICIARNDITMEGDTFYNKVRFHGVNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDITMALLLEGNAHYRCDSRTTYKAKEKGVKLPGYHLVDHCIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2VVI",
+        "4LJD",
+        "5FVG",
+        "5FVI",
+        "3TMT",
+        "3TMR",
+        "2VVJ",
+        "4LJC",
+        "5FVF",
+        "2VVH",
+        "4LJB"
+    ],
+    "agg": "t",
+    "switch_type": "mp",
+    "states": [
+        {
+            "slug": "irisfp_green",
+            "name": "Green",
+            "ex_max": 488,
+            "em_max": 516,
+            "ext_coeff": 52200,
+            "qy": 0.43,
+            "pka": 5.7,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 22.45
+        },
+        {
+            "slug": "irisfp_orange",
+            "name": "Orange",
+            "ex_max": 551,
+            "em_max": 580,
+            "ext_coeff": 35400,
+            "qy": 0.47,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 16.64
+        },
+        {
+            "slug": "irisfp_green-off",
+            "name": "Green (off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "irisfp_orange-off",
+            "name": "Orange (off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "irisfp_green",
+            "to_state": "irisfp_green-off",
+            "trans_wave": 488
+        },
+        {
+            "from_state": "irisfp_green-off",
+            "to_state": "irisfp_green",
+            "trans_wave": 405
+        },
+        {
+            "from_state": "irisfp_green",
+            "to_state": "irisfp_orange",
+            "trans_wave": 405
+        },
+        {
+            "from_state": "irisfp_orange",
+            "to_state": "irisfp_orange-off",
+            "trans_wave": 561
+        },
+        {
+            "from_state": "irisfp_orange-off",
+            "to_state": "irisfp_orange",
+            "trans_wave": 440
+        }
+    ],
+    "doi": "10.1073/pnas.0805949105"
+}

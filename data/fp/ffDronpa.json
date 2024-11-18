@@ -1,0 +1,51 @@
+{
+    "uuid": "9U6KU",
+    "name": "ffDronpa",
+    "slug": "ffdronpa",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHPFAIEGVGLGKPFEGKQSMDLKVKEGGPLPFAYDILTTAFCYGNRVFAKYPENIVDYFKQSFPEGYSWERSMNYEDGGICNATNDITLDGDCYIYEIRFDGVNFPANGPVMQKRTVKWEPSTEKLYVRDGVLKGDVNMALSLEGGGHYRCDFKTTYKAKKVVQLPDYHFVDHHIEIKSHDKDYSNVNLHEHAEAHSELPRQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "ffdronpa_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "ffdronpa_on",
+            "name": "On",
+            "ex_max": 503,
+            "em_max": 517,
+            "ext_coeff": 105000,
+            "qy": 0.75,
+            "pka": 5.0,
+            "maturation": 15.0,
+            "lifetime": null,
+            "brightness": 78.75
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "ffdronpa_on",
+            "to_state": "ffdronpa_off",
+            "trans_wave": 488
+        },
+        {
+            "from_state": "ffdronpa_off",
+            "to_state": "ffdronpa_on",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1021/nn4060144"
+}

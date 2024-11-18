@@ -1,0 +1,28 @@
+{
+    "uuid": "P38Q4",
+    "name": "mTurquoise2-1710",
+    "slug": "mturquoise2-1710",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDVTYGKLTLKFICTTGKLPVPWPTLVTTLSWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNSSSDNVYITADKQKNGIKAHFKIRHNIEGGGVQLADHYQQNTPIGDGPVLLPDNHYLSYQSKLSKDPNEKRDHMVLLEFVTAAGITLGMGELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mturquoise2-1710_natural",
+            "name": "Natural",
+            "ex_max": 482,
+            "em_max": 519,
+            "ext_coeff": 30000,
+            "qy": 0.51,
+            "pka": 4.9,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 15.3
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1134/s1068162017010034"
+}

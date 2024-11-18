@@ -1,0 +1,51 @@
+{
+    "uuid": "DOGBN",
+    "name": "bsDronpa",
+    "slug": "bsdronpa",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHPFAIEGVGLGKPFEGKQSMDLKVKEGGPLPFAYDILTTAFCYGNRVFTKYPENIVDYFKQSFPEGYSWERSMNYEDGGICNATNDITLDGNCYIYEIRFDGVNFPANGPVMQKRTVKWEQSTEKLYVRDGVLKSDGNCALSLEGGGHYRCDCKTTYKAKKVVQLPDYHFVDHHIEIKSHDKDYSNVNLHEHAEAHSELPRQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "bsdronpa_on",
+            "name": "On",
+            "ex_max": 460,
+            "em_max": 504,
+            "ext_coeff": 45000,
+            "qy": 0.5,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 22.5
+        },
+        {
+            "slug": "bsdronpa_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "bsdronpa_off",
+            "to_state": "bsdronpa_on",
+            "trans_wave": 405
+        },
+        {
+            "from_state": "bsdronpa_on",
+            "to_state": "bsdronpa_off",
+            "trans_wave": 488
+        }
+    ],
+    "doi": "10.1038/nbt.1493"
+}

@@ -1,0 +1,58 @@
+{
+    "uuid": "4Z6XY",
+    "name": "rsEGFP2",
+    "slug": "rsegfp2",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLAYGVLCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKSNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "5DTX",
+        "5O8A",
+        "5O8C",
+        "5O89",
+        "5DTY",
+        "5O8B"
+    ],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "rsegfp2_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "rsegfp2_on",
+            "name": "On",
+            "ex_max": 478,
+            "em_max": 503,
+            "ext_coeff": 61300,
+            "qy": 0.3,
+            "pka": 5.8,
+            "maturation": 20.0,
+            "lifetime": null,
+            "brightness": 18.39
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "rsegfp2_off",
+            "to_state": "rsegfp2_on",
+            "trans_wave": 408
+        },
+        {
+            "from_state": "rsegfp2_on",
+            "to_state": "rsegfp2_off",
+            "trans_wave": 503
+        }
+    ],
+    "doi": "10.7554/elife.00248"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "VAQHD",
+    "name": "YGFPuv",
+    "slug": "ygfpuv",
+    "seq": "MTTFKIESRIHGNLNGEKFELVGGGVGEEGRLEIEMKTKDKPLAFSPFLLSTCMGYGFYHFASFPKGTKNIYLHAATNGGYTNTRKEIYEDGGILEVNFRYTYEFNKIIGDVECIGHGFPSQSPIFKDTIVKSCPTVDLMLPMSGNIIASSYAYAFQLKDGSFYTAEVKNNIDFKNPIHESFSKSGPMFTHRRVEETHTKENLAMVEYQQVFNSAPRDM",
+    "ipg_id": "BBA07590.1",
+    "genbank": "BBA07590",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "ygfpuv_default",
+            "name": "Default",
+            "ex_max": 398,
+            "em_max": 512,
+            "ext_coeff": 8800,
+            "qy": 0.81,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 7.13
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1371/journal.pone.0181186"
+}

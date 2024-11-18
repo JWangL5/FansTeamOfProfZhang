@@ -1,0 +1,46 @@
+{
+    "uuid": "5N1DD",
+    "name": "KFP1",
+    "slug": "kfp1",
+    "seq": "MASLLTETMPFKTTIEGTVNGHCFKCIGKGEGNPFEGTQEMKIEVIEGGPLPFAFHILSTSCMYGSKTFIKYVSGIPDYFKQSFPEGFTWERTTTYEDGGFLTAHQDTSLDGDCLVYKVKILGNNFPADGPVMQNKVGRWEPGTEIVYEVDGVLRGQSLMALKCPGGRHLTCHLHTTYRSKKPASALKMPGFHFEDHRIEIMEEVEKGKCYKQYEAAVGRYCDAAPSKLGHN",
+    "ipg_id": "605230",
+    "genbank": "AAO43187",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "pa",
+    "states": [
+        {
+            "slug": "kfp1_off",
+            "name": "Off",
+            "ex_max": 580,
+            "em_max": 600,
+            "ext_coeff": 123000,
+            "qy": 0.0001,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.01
+        },
+        {
+            "slug": "kfp1_on",
+            "name": "On",
+            "ex_max": 580,
+            "em_max": 600,
+            "ext_coeff": 59000,
+            "qy": 0.07,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 4.13
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "kfp1_off",
+            "to_state": "kfp1_on",
+            "trans_wave": 560
+        }
+    ],
+    "doi": "10.1038/nbt778"
+}

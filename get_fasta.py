@@ -10,14 +10,14 @@ import pandas as pd
 from tqdm import tqdm
 
 # 从FPbase的API中查询荧光蛋白信息，并保存json格式的数据
-def get_protein(fpname, download=True):
+def get_protein(fpname, download=True, log='./log/fp_download.txt'):
     fpname_ = fpname.replace('/', '-')
     try:
         url = f"https://www.fpbase.org/api/proteins/?name__iexact={fpname}&format=json"
         response = requests.get(url).content
         fp = json.loads(response)[0]
     except:
-        with open('./log/fp_download.txt', 'a') as f:
+        with open(log, 'a') as f:
             f.write(f'{fpname_} errored\n')
         return None
     if download:
@@ -35,8 +35,17 @@ def generate_fasta(json, filepath='./data/fpseq.fasta'):
             
 
 if __name__=="__main__":
-    data = pd.read_csv("./data/FPsProperty.csv")
-    for i in tqdm(data.iterrows()):
-        fp = get_protein(i[1]['Name'])
-        if fp is not None:
-            generate_fasta(fp)
+    # 从大表格中逐一下载蛋白质序列
+    # data = pd.read_csv("./data/FPsProperty.csv")
+    # for i in tqdm(data.iterrows()):
+    #     fp = get_protein(i[1]['Name'])
+    #     if fp is not None:
+    #         generate_fasta(fp)
+    
+    # 从第一次的结果中补漏
+    with open("./log/fp_download.txt", "r") as f:
+        for i in f.readlines():
+            fp = get_protein(i.split(' ')[0], log='./log/fp_download_2.txt')
+            if fp is not None:
+                generate_fasta(fp)
+    

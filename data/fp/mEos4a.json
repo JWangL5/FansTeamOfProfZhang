@@ -1,0 +1,46 @@
+{
+    "uuid": "EC56T",
+    "name": "mEos4a",
+    "slug": "meos4a",
+    "seq": "MVSAIKPDMRIKLRMEGNVNGHHFVIDGDGTGKPYEGKQTMDLEVKEGGPLPFAFDILTTAFHYGNRVFVKYPDNIQDYFKQSFPKGYSWERSLTFEDGGICYARNDITMEGDTFYNKVRFYGTNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDIHMALLLEGNAHYRCDFRTTYKAKEKGVKLPGYHFVDHAIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "meos4a_green",
+            "name": "Green",
+            "ex_max": 505,
+            "em_max": 515,
+            "ext_coeff": 83530,
+            "qy": 0.86,
+            "pka": 5.25,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 71.84
+        },
+        {
+            "slug": "meos4a_red",
+            "name": "Red",
+            "ex_max": 571,
+            "em_max": 580,
+            "ext_coeff": 61000,
+            "qy": 0.71,
+            "pka": 5.7,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 43.31
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "meos4a_green",
+            "to_state": "meos4a_red",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1038/nmeth.3225"
+}

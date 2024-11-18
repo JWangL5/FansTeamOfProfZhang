@@ -1,0 +1,51 @@
+{
+    "uuid": "VVNZ5",
+    "name": "mGeos-C",
+    "slug": "mgeos-c",
+    "seq": "MSAIKPDMKIKLRMEGNVNGHHFVIDGDGTGKPFEGKQSMDLEVKEGGPLPFAFDILTTAFCYGNRVFAKYPDNIQDYFKQSFPKGYSWERSLTFEDGGICIARNDITMEGDTFYNKVRFYGTNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDIHMALLLEGNAHYRCDFRTTYKAKEKGVKLPGYHFVDHCIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "mgeos-c_on",
+            "name": "On",
+            "ex_max": 505,
+            "em_max": 516,
+            "ext_coeff": 76967,
+            "qy": 0.81,
+            "pka": 6.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 62.34
+        },
+        {
+            "slug": "mgeos-c_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "mgeos-c_off",
+            "to_state": "mgeos-c_on",
+            "trans_wave": 405
+        },
+        {
+            "from_state": "mgeos-c_on",
+            "to_state": "mgeos-c_off",
+            "trans_wave": 488
+        }
+    ],
+    "doi": "10.1073/pnas.1113770109"
+}

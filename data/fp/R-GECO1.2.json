@@ -1,0 +1,40 @@
+{
+    "uuid": "NFDXY",
+    "name": "R-GECO1.2",
+    "slug": "r-geco12",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "r-geco12_calcium-free",
+            "name": "calcium free",
+            "ex_max": 573,
+            "em_max": 597,
+            "ext_coeff": 2333,
+            "qy": 0.21,
+            "pka": 8.98,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.49
+        },
+        {
+            "slug": "r-geco12_calcium-saturated",
+            "name": "calcium saturated",
+            "ex_max": 558,
+            "em_max": 585,
+            "ext_coeff": 45040,
+            "qy": 0.31,
+            "pka": 5.42,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 13.96
+        }
+    ],
+    "transitions": [],
+    "doi": null
+}

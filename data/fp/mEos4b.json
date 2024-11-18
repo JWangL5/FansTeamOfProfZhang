@@ -1,0 +1,46 @@
+{
+    "uuid": "V2GB1",
+    "name": "mEos4b",
+    "slug": "meos4b",
+    "seq": "MVSAIKPDMRIKLRMEGNVNGHHFVIDGDGTGKPYEGKQTMDLEVKEGGPLPFAFDILTTAFHYGNRVFVKYPDNIQDYFKQSFPKGYSWERSLTFEDGGICNARNDITMEGDTFYNKVRFYGTNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDIEMALLLEGNAHYRCDFRTTYKAKEKGVKLPGAHFVDHAIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "meos4b_green",
+            "name": "Green",
+            "ex_max": 505,
+            "em_max": 516,
+            "ext_coeff": 78170,
+            "qy": 0.84,
+            "pka": 5.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 65.66
+        },
+        {
+            "slug": "meos4b_red",
+            "name": "Red",
+            "ex_max": 570,
+            "em_max": 580,
+            "ext_coeff": 55500,
+            "qy": 0.71,
+            "pka": 5.8,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 39.41
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "meos4b_green",
+            "to_state": "meos4b_red",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1038/nmeth.3225"
+}

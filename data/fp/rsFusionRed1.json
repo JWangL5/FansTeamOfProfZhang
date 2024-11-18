@@ -1,0 +1,51 @@
+{
+    "uuid": "77HQK",
+    "name": "rsFusionRed1",
+    "slug": "rsfusionred1",
+    "seq": "MVSELIKENMPMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSRTFIKHPPGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKVRGVNFPANGPVMQKKTLGWEATTETMYPADGGLEGACDMALKLVGGGHLICNLETTYRSKKPATNLKMPGVYNVDHRLERIKEADDETYVEQHEVAVARYSTGGAGDGGK",
+    "ipg_id": null,
+    "genbank": "MH337842",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "rsfusionred1_on",
+            "name": "On",
+            "ex_max": 577,
+            "em_max": 605,
+            "ext_coeff": 82400,
+            "qy": 0.1,
+            "pka": 4.6,
+            "maturation": 65.0,
+            "lifetime": null,
+            "brightness": 8.24
+        },
+        {
+            "slug": "rsfusionred1_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "rsfusionred1_off",
+            "to_state": "rsfusionred1_on",
+            "trans_wave": 405
+        },
+        {
+            "from_state": "rsfusionred1_on",
+            "to_state": "rsfusionred1_off",
+            "trans_wave": 592
+        }
+    ],
+    "doi": "10.1038/s41592-018-0052-9"
+}

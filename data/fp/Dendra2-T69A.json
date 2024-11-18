@@ -1,0 +1,46 @@
+{
+    "uuid": "XKDOQ",
+    "name": "Dendra2-T69A",
+    "slug": "dendra2-t69a",
+    "seq": "MNTPGINLIKEDMRVKVHMEGNVNGHAFVIEGEGKGKPYEGTQTANLTVKEGAPLPFSYDILTTAVHYGNRVFAKYPEDIPDYFKQSFPEGYSWERTMTFEDKGICTIRSDISLEGDCFFQNVRFKGTNFPPNGPVMQKKTLKWEPSTEKLHVRDGLLVGNINMALLLEGGGHYLCDFKTTYKAKKVVQLPDAHFVDHRIEILGNDSDYNKVKLYEHAVARYSPLPSQVW",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "dendra2-t69a_green",
+            "name": "Green",
+            "ex_max": 502,
+            "em_max": 518,
+            "ext_coeff": 42500,
+            "qy": 0.56,
+            "pka": 6.0,
+            "maturation": null,
+            "lifetime": 3.0,
+            "brightness": 23.8
+        },
+        {
+            "slug": "dendra2-t69a_orange",
+            "name": "Orange",
+            "ex_max": 563,
+            "em_max": 578,
+            "ext_coeff": 35400,
+            "qy": 0.64,
+            "pka": 7.0,
+            "maturation": null,
+            "lifetime": 4.2,
+            "brightness": 22.66
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "dendra2-t69a_green",
+            "to_state": "dendra2-t69a_orange",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1021/jacs.5b09923"
+}

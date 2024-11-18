@@ -1,0 +1,28 @@
+{
+    "uuid": "25HRD",
+    "name": "KOFP-7",
+    "slug": "kofp-7",
+    "seq": "MSPMINAKLLQLMVEYSNDGIVVAEPEGNESILIYVNPAFERLTGYCADDILYQDGRFLQGEDHDQPGIAIIREAIREGRPCCQVLRNYRKDGSLFWNELSITPVHNEADRLTYFIGTQRDVTAQVFAEERMRELEAEVAELRRQ",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "sang-taek-jung_kofp-7",
+            "name": "KOFP-7",
+            "ex_max": 450,
+            "em_max": 496,
+            "ext_coeff": null,
+            "qy": 0.61,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/acs.jafc.0c00121"
+}

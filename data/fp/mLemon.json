@@ -1,0 +1,28 @@
+{
+    "uuid": "Q7WVB",
+    "name": "mLemon",
+    "slug": "mlemon",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTSLGYGVQCFARYPDHMKQHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGSGFKEDGNILGHKLEYNYNSHKVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSKLSKDPNEKRDHMVLLEFLTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mlemon_basic",
+            "name": "basic",
+            "ex_max": 514,
+            "em_max": 526,
+            "ext_coeff": 125000,
+            "qy": 0.74,
+            "pka": 4.8,
+            "maturation": 12.0,
+            "lifetime": null,
+            "brightness": 92.5
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2024.03.28.587235"
+}

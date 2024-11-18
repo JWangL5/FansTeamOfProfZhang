@@ -1,0 +1,40 @@
+{
+    "uuid": "H93B4",
+    "name": "GRvT",
+    "slug": "grvt",
+    "seq": "MVSKGEEVIKEFMRFKVRMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPLLMYGSKMYVKHPADIPDYKKLSFPEGFKWVRVMNFEDGGLVTATQDSSLQDGTLIYEVKMRGTNFPPDGPVMQKKTMGWEASTERLYPRDGVLKGEIHQALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDTKLDITSHNEDYTRVEQYERSEGRHHLFLYDGSTGSGSSGTMVSKGEEVIKEFMRFKVRMEGSMNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGLVTVTQDSSIQDGTLIYKVKMRGTNFPPDGPVMQKKTMGWEASTERLYPRDGVLKGEIHQALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDTKLDITSHNEDYTIVEQYERSEGRHHLFLYGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "td",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "grvt_red-excitation",
+            "name": "Red excitation",
+            "ex_max": 557,
+            "em_max": 583,
+            "ext_coeff": 71000,
+            "qy": 0.97,
+            "pka": 2.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 68.87
+        },
+        {
+            "slug": "grvt_fret-excitation",
+            "name": "FRET excitation",
+            "ex_max": 477,
+            "em_max": 583,
+            "ext_coeff": 89000,
+            "qy": 0.41,
+            "pka": 3.3,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 36.49
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/cbic.201600492"
+}

@@ -1,0 +1,48 @@
+{
+    "uuid": "YJY7C",
+    "name": "mEos2-A69T",
+    "slug": "meos2-a69t",
+    "seq": "MSAIKPDMKIKLRMEGNVNGHHFVIDGDGTGKPFEGKQSMDLEVKEGGPLPFAFDILTTAFHYGNRVFTKYPDNIQDYFKQSFPKGYSWERSLTFEDGGICIARNDITMEGDTFYNKVRFYGTNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDIHMALLLEGNAHYRCDFRTTYKAKEKGVKLPGYHFVDHCIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "5DTL"
+    ],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "meos2-a69t_green",
+            "name": "Green",
+            "ex_max": 495,
+            "em_max": 509,
+            "ext_coeff": 24300,
+            "qy": 0.63,
+            "pka": 8.2,
+            "maturation": null,
+            "lifetime": 3.4,
+            "brightness": 15.31
+        },
+        {
+            "slug": "meos2-a69t_orange",
+            "name": "Orange",
+            "ex_max": 565,
+            "em_max": 580,
+            "ext_coeff": 11500,
+            "qy": 0.66,
+            "pka": 7.4,
+            "maturation": null,
+            "lifetime": 4.2,
+            "brightness": 7.59
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "meos2-a69t_green",
+            "to_state": "meos2-a69t_orange",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1021/jacs.5b09923"
+}

@@ -1,0 +1,46 @@
+{
+    "uuid": "XQCPX",
+    "name": "PATagRFP1297",
+    "slug": "patagrfp1297",
+    "seq": "MSELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSSTFINHTQGIPDFFKQSWPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMKKKTLGWEPSTEMLYPADGGLGGVVDMALKLVGGGHLICNFKTTYRSKKPAKNLKMPGVYYVDRRLEIIKEADKETYWEQHEVAVARYCDLPSKLGHK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "pa",
+    "states": [
+        {
+            "slug": "patagrfp1297_on",
+            "name": "On",
+            "ex_max": 563,
+            "em_max": 595,
+            "ext_coeff": 63000,
+            "qy": 0.42,
+            "pka": null,
+            "maturation": 25.0,
+            "lifetime": null,
+            "brightness": 26.46
+        },
+        {
+            "slug": "patagrfp1297_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "patagrfp1297_off",
+            "to_state": "patagrfp1297_on",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1021/ja100906g"
+}

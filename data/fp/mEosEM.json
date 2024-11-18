@@ -1,0 +1,46 @@
+{
+    "uuid": "DKEXK",
+    "name": "mEosEM",
+    "slug": "meosem",
+    "seq": "MVSAIKPDMRIKLRMEGNVNGHHFVIDGEGTGKPYEGKQTMDLEVKEGGPLPFAFDILTTAFHYGNRVFVKYPDNIQDYFKQSFPKGYSWERSMTFEDGGICNARNDITMEGDTFYNKVRFYGTNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDIEMALLLEGGAHYRCDFRTTYKAKEKGVKLPGAHFVDHAIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "meosem_green",
+            "name": "Green",
+            "ex_max": 503,
+            "em_max": 511,
+            "ext_coeff": 155650,
+            "qy": 0.79,
+            "pka": 6.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 122.96
+        },
+        {
+            "slug": "meosem_red",
+            "name": "Red",
+            "ex_max": 569,
+            "em_max": 579,
+            "ext_coeff": 170128,
+            "qy": 0.66,
+            "pka": 6.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 112.28
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "meosem_green",
+            "to_state": "meosem_red",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1038/s41592-019-0613-6"
+}

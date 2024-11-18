@@ -1,0 +1,40 @@
+{
+    "uuid": "7VM5E",
+    "name": "jRCaMP1a",
+    "slug": "jrcamp1a",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "jrcamp1a_calcium-free",
+            "name": "calcium free",
+            "ex_max": 573,
+            "em_max": 595,
+            "ext_coeff": 42735,
+            "qy": 0.29,
+            "pka": 6.48,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 12.39
+        },
+        {
+            "slug": "jrcamp1a_calcium-saturated",
+            "name": "calcium saturated",
+            "ex_max": 572,
+            "em_max": 594,
+            "ext_coeff": 61920,
+            "qy": 0.54,
+            "pka": 6.2,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 33.44
+        }
+    ],
+    "transitions": [],
+    "doi": null
+}

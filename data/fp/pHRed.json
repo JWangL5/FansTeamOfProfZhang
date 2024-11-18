@@ -1,0 +1,40 @@
+{
+    "uuid": "T9MOZ",
+    "name": "pHRed",
+    "slug": "phred",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "phred_ph-90",
+            "name": "pH 9.0",
+            "ex_max": 440,
+            "em_max": 620,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "phred_ph-55",
+            "name": "pH 5.5",
+            "ex_max": 585,
+            "em_max": 620,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/ja202902d"
+}

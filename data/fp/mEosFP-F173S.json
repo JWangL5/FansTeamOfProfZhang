@@ -1,0 +1,90 @@
+{
+    "uuid": "81ENW",
+    "name": "mEosFP-F173S",
+    "slug": "meosfp-f173s",
+    "seq": "MSAIKPDMKINLRMEGNVNGHHFVIDGDGTGKPFEGKQSMDLEVKEGGPLPFAFDILTTAFHYGNRVFVEYPDHIQDYFKQSFPKGYSWERSLTFEDGGICIARNDITMEGDTFYNKVRFHGTNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDIHMALLLEGNAHYRCDSRTTYKAKEKGVKLPGYHLVDHCIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "mp",
+    "states": [
+        {
+            "slug": "meosfp-f173s_green",
+            "name": "Green",
+            "ex_max": 486,
+            "em_max": 514,
+            "ext_coeff": 53200,
+            "qy": 0.43,
+            "pka": 5.8,
+            "maturation": null,
+            "lifetime": 3.3,
+            "brightness": 22.88
+        },
+        {
+            "slug": "meosfp-f173s_green-off",
+            "name": "Green (off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "meosfp-f173s_red-off",
+            "name": "Red (off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "meosfp-f173s_red",
+            "name": "Red",
+            "ex_max": 550,
+            "em_max": 581,
+            "ext_coeff": 25000,
+            "qy": 0.41,
+            "pka": 6.2,
+            "maturation": null,
+            "lifetime": 3.7,
+            "brightness": 10.25
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "meosfp-f173s_green",
+            "to_state": "meosfp-f173s_green-off",
+            "trans_wave": 488
+        },
+        {
+            "from_state": "meosfp-f173s_green",
+            "to_state": "meosfp-f173s_red",
+            "trans_wave": 405
+        },
+        {
+            "from_state": "meosfp-f173s_green-off",
+            "to_state": "meosfp-f173s_green",
+            "trans_wave": 405
+        },
+        {
+            "from_state": "meosfp-f173s_red",
+            "to_state": "meosfp-f173s_red-off",
+            "trans_wave": 561
+        },
+        {
+            "from_state": "meosfp-f173s_red-off",
+            "to_state": "meosfp-f173s_red",
+            "trans_wave": 440
+        }
+    ],
+    "doi": "10.1016/j.chembiol.2011.08.007"
+}

@@ -1,0 +1,53 @@
+{
+    "uuid": "GE6KO",
+    "name": "Dendra2",
+    "slug": "dendra2",
+    "seq": "MNTPGINLIKEDMRVKVHMEGNVNGHAFVIEGEGKGKPYEGTQTANLTVKEGAPLPFSYDILTTAVHYGNRVFTKYPEDIPDYFKQSFPEGYSWERTMTFEDKGICTIRSDISLEGDCFFQNVRFKGTNFPPNGPVMQKKTLKWEPSTEKLHVRDGLLVGNINMALLLEGGGHYLCDFKTTYKAKKVVQLPDAHFVDHRIEILGNDSDYNKVKLYEHAVARYSPLPSQVW",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "2VZX"
+    ],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "dendra2_green",
+            "name": "Green",
+            "ex_max": 490,
+            "em_max": 507,
+            "ext_coeff": 45000,
+            "qy": 0.5,
+            "pka": 6.6,
+            "maturation": null,
+            "lifetime": 3.3,
+            "brightness": 22.5
+        },
+        {
+            "slug": "dendra2_red",
+            "name": "Red",
+            "ex_max": 553,
+            "em_max": 573,
+            "ext_coeff": 35000,
+            "qy": 0.55,
+            "pka": 6.9,
+            "maturation": null,
+            "lifetime": 4.4,
+            "brightness": 19.25
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "dendra2_green",
+            "to_state": "dendra2_red",
+            "trans_wave": 480
+        },
+        {
+            "from_state": "dendra2_green",
+            "to_state": "dendra2_red",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1038/nbt1191"
+}

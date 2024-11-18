@@ -1,0 +1,42 @@
+{
+    "uuid": "9S2ZE",
+    "name": "PSLSSmKate",
+    "slug": "pslssmkate",
+    "seq": "MSELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSKTFINHTQGIPDFFKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFTSNGPVMQKKTLGWEASTEMLYPADGGLEGRSDEALKLVGGGHLICNLKSTYRSKKPAKNLKVPGVYYVDRRLERIKEADKETYVEQHEVAVARYCDLPSKLGHKLN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4NWS"
+    ],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "pslssmkate_lss",
+            "name": "LSS",
+            "ex_max": 445,
+            "em_max": 622,
+            "ext_coeff": 26500,
+            "qy": 0.21,
+            "pka": 6.5,
+            "maturation": 90.0,
+            "lifetime": null,
+            "brightness": 5.57
+        },
+        {
+            "slug": "pslssmkate_red",
+            "name": "Red",
+            "ex_max": 573,
+            "em_max": 621,
+            "ext_coeff": 8500,
+            "qy": 0.16,
+            "pka": 8.2,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 1.36
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2014.08.010"
+}

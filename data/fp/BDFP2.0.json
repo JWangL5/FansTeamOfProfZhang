@@ -1,0 +1,28 @@
+{
+    "uuid": "P9XBV",
+    "name": "BDFP2.0",
+    "slug": "bdfp20",
+    "seq": "MVSKGEEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEIKQRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVNIKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYKGHGTGSGSTGSGGMANREVVETLKELLADGEKRVQVAGVIGTNAAEVVKTAVSLLFQEYPELVSPGGCAYTTRRYNMCVRDMNYFLRMCSYAIVAGGASVLDGRMLAGFRDTFNSLGIPLCPAARGIQLMKKIVKEKLATAGMTNIAFVDEPFDYIARVISETEI",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "bdfp20_fret",
+            "name": "Fret",
+            "ex_max": 587,
+            "em_max": 666,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1002/cbic.201800695"
+}

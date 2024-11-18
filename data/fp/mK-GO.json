@@ -1,0 +1,40 @@
+{
+    "uuid": "SBO48",
+    "name": "mK-GO",
+    "slug": "mk-go",
+    "seq": "MVSVIKPEMKMRYYMDGSVNGHEFTIEGEGTGRPYEGHQEMTLRVTMAEGGPMPFAFDLVSHVFCYGHRVFTKYPEEIPDYFKQAFPEGLSWERSLEFEDGGSASVSAHISLRGNTFYHKSKFTGVNFPADGPIMQNQSVDWEPSTEKITASDGVLKGDVTMYLKLEGGGNHKCQFKTTYKAAKEILEMPGDHYIGHRLVRKTEGNITELVEDAVAHS",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "o",
+    "states": [
+        {
+            "slug": "mk-go_late",
+            "name": "Late",
+            "ex_max": 548,
+            "em_max": 561,
+            "ext_coeff": 42000,
+            "qy": null,
+            "pka": 4.8,
+            "maturation": 360.0,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "mk-go_early",
+            "name": "Early",
+            "ex_max": 500,
+            "em_max": 509,
+            "ext_coeff": 35900,
+            "qy": null,
+            "pka": 6.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1091/mbc.e09-08-0722"
+}

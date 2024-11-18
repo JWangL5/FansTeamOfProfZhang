@@ -1,0 +1,28 @@
+{
+    "uuid": "OS9DX",
+    "name": "mSandy2",
+    "slug": "msandy2",
+    "seq": "MAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSLQFMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLHGTNFPSDGPVMQKKTMGSEASSERMYPEDGALKGEVKVRFKLKDGGHYVAEVKTTYKAKKPVQLPGAYYANIKMDITSHNEDYTIVEQYERCEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "msandy2_basic",
+            "name": "Basic",
+            "ex_max": 581,
+            "em_max": 606,
+            "ext_coeff": 79000,
+            "qy": 0.35,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 27.65
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1039/d1sc05088e"
+}

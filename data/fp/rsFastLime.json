@@ -1,0 +1,51 @@
+{
+    "uuid": "XJO9Z",
+    "name": "rsFastLime",
+    "slug": "rsfastlime",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHPFAIEGVGLGKPFEGKQSMDLKVKEGGPLPFAYDILTTVFCYGNRVFAKYPENIVDYFKQSFPEGYSWERSMNYEDGGICNATNDITLDGDCYIYEIRFDGVNFPANGPVMQKRTVKWEPSTEKLYVRDGVLKGDGNMALSLEGGGHYRCDFKTTYKAKKVVQLPDYHFVDHHIEIKSHDKDYSNVNLHEHAEAHSELPRQAK",
+    "ipg_id": "13822637",
+    "genbank": "ABV80244",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "rsfastlime_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "rsfastlime_on",
+            "name": "On",
+            "ex_max": 496,
+            "em_max": 518,
+            "ext_coeff": 39094,
+            "qy": 0.77,
+            "pka": null,
+            "maturation": null,
+            "lifetime": 2.9,
+            "brightness": 30.1
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "rsfastlime_off",
+            "to_state": "rsfastlime_on",
+            "trans_wave": 405
+        },
+        {
+            "from_state": "rsfastlime_on",
+            "to_state": "rsfastlime_off",
+            "trans_wave": 488
+        }
+    ],
+    "doi": "10.1042/bj20061401"
+}

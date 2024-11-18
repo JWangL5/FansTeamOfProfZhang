@@ -1,0 +1,46 @@
+{
+    "uuid": "Y46HX",
+    "name": "moxDendra2",
+    "slug": "moxdendra2",
+    "seq": "MNTPGINLIKEDMRVKVHMEGNVNGHAFVIEGEGKGKPYEGTQTAQLTVKEGAPLPFSYDILTTAVHYGNRVFTKYPEDIPDYFKQSFPEGYSWERTMTFEDKGIATIRSDISLEGDTFFQNVRFKGTNFPPNGPVMQKKTLKWEPSTEKLHVRDGLLVGNINMALLLEGGGHYLADFKTTYKAKKVVQLPDAHFVDHRIEILGQDSDYNKVKLYEHAVARYSPLPSQVW",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "moxdendra2_red",
+            "name": "Red",
+            "ex_max": 551,
+            "em_max": 571,
+            "ext_coeff": 31200,
+            "qy": 0.55,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 17.16
+        },
+        {
+            "slug": "moxdendra2_green",
+            "name": "Green",
+            "ex_max": 490,
+            "em_max": 504,
+            "ext_coeff": 50300,
+            "qy": 0.5,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 25.15
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "moxdendra2_green",
+            "to_state": "moxdendra2_red",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1039/c6cc09997a"
+}

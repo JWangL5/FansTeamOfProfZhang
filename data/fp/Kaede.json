@@ -1,0 +1,46 @@
+{
+    "uuid": "Q31FH",
+    "name": "Kaede",
+    "slug": "kaede",
+    "seq": "MSLIKPEMKIKLLMEGNVNGHQFVIEGDGKGHPFEGKQSMDLVVKEGAPLPFAYDILTTAFHYGNRVFAKYPDHIPDYFKQSFPKGFSWERSLMFEDGGVCIATNDITLKGDTFFNKVRFDGVNFPPNGPVMQKKTLKWEASTEKMYLRDGVLTGDITMALLLKGDVHYRCDFRTTYKSRQEGVKLPGYHFVDHCISILRHDKDYNEVKLYEHAVAHSGLPDNVK",
+    "ipg_id": null,
+    "genbank": "BAC20344",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "kaede_red",
+            "name": "Red",
+            "ex_max": 572,
+            "em_max": 580,
+            "ext_coeff": 60400,
+            "qy": 0.33,
+            "pka": 5.6,
+            "maturation": null,
+            "lifetime": 4.2,
+            "brightness": 19.93
+        },
+        {
+            "slug": "kaede_green",
+            "name": "Green",
+            "ex_max": 508,
+            "em_max": 518,
+            "ext_coeff": 98800,
+            "qy": 0.88,
+            "pka": 5.6,
+            "maturation": null,
+            "lifetime": 3.4,
+            "brightness": 86.94
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "kaede_green",
+            "to_state": "kaede_red",
+            "trans_wave": 380
+        }
+    ],
+    "doi": "10.1073/pnas.202320599"
+}

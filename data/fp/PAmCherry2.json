@@ -1,0 +1,46 @@
+{
+    "uuid": "SV3XM",
+    "name": "PAmCherry2",
+    "slug": "pamcherry2",
+    "seq": "MVSKGEEDNMAIIKEFMRFKVHLEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSNAYVKHPADIPDYFKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWETLSERMYPEDGALKGELKARTKLKDGGHYDTEVKTTYKAKKPVQLPGAYNVNRKLDITSHNEDYTIVEQYERAEGLHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pa",
+    "states": [
+        {
+            "slug": "pamcherry2_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": 1900,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "pamcherry2_on",
+            "name": "On",
+            "ex_max": 570,
+            "em_max": 596,
+            "ext_coeff": 24000,
+            "qy": 0.53,
+            "pka": 6.2,
+            "maturation": 18.0,
+            "lifetime": null,
+            "brightness": 12.72
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "pamcherry2_off",
+            "to_state": "pamcherry2_on",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1038/nmeth.1298"
+}

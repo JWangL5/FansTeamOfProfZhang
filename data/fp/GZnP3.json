@@ -1,0 +1,40 @@
+{
+    "uuid": "1E8G7",
+    "name": "GZnP3",
+    "slug": "gznp3",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "gznp3_gznp3-apo-state",
+            "name": "GZnP3 (apo state)",
+            "ex_max": 488,
+            "em_max": 512,
+            "ext_coeff": 4000,
+            "qy": 0.112,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.45
+        },
+        {
+            "slug": "gznp3_gznp3-zn2-bound",
+            "name": "GZnP3 (Zn\u00b2\u207a-bound)",
+            "ex_max": 488,
+            "em_max": 512,
+            "ext_coeff": 23400,
+            "qy": 0.462,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 10.81
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41467-019-12761-x"
+}

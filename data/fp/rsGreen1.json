@@ -1,0 +1,40 @@
+{
+    "uuid": "D9JZ4",
+    "name": "rsGreen1",
+    "slug": "rsgreen1",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTMKFICTTGKLPVPWPTLVTTLTYGVLCFARYPDHMKQHDFFKSAMPEGYVQERTISFEDDGYYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHDAYITADKQKNGIRSNFKIRLNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQNKLSKDPNEKRDHMVLLEFVTASGITLGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "rsgreen1_dark",
+            "name": "Dark",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "rsgreen1_bright",
+            "name": "Bright",
+            "ex_max": 486,
+            "em_max": 509,
+            "ext_coeff": 61000,
+            "qy": 0.42,
+            "pka": 5.9,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 25.62
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/acsnano.5b04129"
+}

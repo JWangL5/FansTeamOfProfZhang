@@ -1,0 +1,90 @@
+{
+    "uuid": "CQ4QL",
+    "name": "Dendra2-M159A",
+    "slug": "dendra2-m159a",
+    "seq": "MNTPGINLIKEDMRVKVHMEGNVNGHAFVIEGEGKGKPYEGTQTANLTVKEGAPLPFSYDILTTAVHYGNRVFTKYPEDIPDYFKQSFPEGYSWERTMTFEDKGICTIRSDISLEGDCFFQNVRFKGTNFPPNGPVMQKKTLKWEPSTEKLHVRDGLLVGNINAALLLEGGGHYLCDFKTTYKAKKVVQLPDAHFVDHRIEILGNDSDYNKVKLYEHAVARYSPLPSQVW",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "mp",
+    "states": [
+        {
+            "slug": "dendra2-m159a_green-off",
+            "name": "Green (off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "dendra2-m159a_orange-off",
+            "name": "Orange (off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "dendra2-m159a_green",
+            "name": "Green",
+            "ex_max": 471,
+            "em_max": 504,
+            "ext_coeff": 51100,
+            "qy": 0.55,
+            "pka": 6.5,
+            "maturation": null,
+            "lifetime": 2.8,
+            "brightness": 28.11
+        },
+        {
+            "slug": "dendra2-m159a_orange",
+            "name": "Orange",
+            "ex_max": 528,
+            "em_max": 562,
+            "ext_coeff": 45000,
+            "qy": 0.75,
+            "pka": 6.8,
+            "maturation": null,
+            "lifetime": 4.0,
+            "brightness": 33.75
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "dendra2-m159a_orange-off",
+            "to_state": "dendra2-m159a_orange",
+            "trans_wave": 440
+        },
+        {
+            "from_state": "dendra2-m159a_orange",
+            "to_state": "dendra2-m159a_orange-off",
+            "trans_wave": 561
+        },
+        {
+            "from_state": "dendra2-m159a_green-off",
+            "to_state": "dendra2-m159a_green",
+            "trans_wave": 405
+        },
+        {
+            "from_state": "dendra2-m159a_green",
+            "to_state": "dendra2-m159a_green-off",
+            "trans_wave": 488
+        },
+        {
+            "from_state": "dendra2-m159a_green",
+            "to_state": "dendra2-m159a_orange",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1016/j.chembiol.2011.08.007"
+}

@@ -1,0 +1,46 @@
+{
+    "uuid": "GJDTN",
+    "name": "Dendra",
+    "slug": "dendra",
+    "seq": "MNLIKEDMRVKVHMEGNVNGHAFVIEGEGKGKPYEGTQTANLTVKEGAPLPFSYDILTTAVHYGNRVFTKYPEDIPDYFKQSFPEGYSWERTMTFEDKGICTIRSDISLEGDCFFQNVRFKGTNFPPNGPVMQKKTLKWEPSTEKLHVRDGLLVGNINMALLLEGGGHYLCDFKTTYKAKKVVQLPDAHFVDHRIEILGNDSDYNKVKLYEHAVARYSPLPSQAW",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "dendra_green",
+            "name": "Green",
+            "ex_max": 488,
+            "em_max": 505,
+            "ext_coeff": 21000,
+            "qy": 0.7,
+            "pka": 6.6,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 14.7
+        },
+        {
+            "slug": "dendra_red",
+            "name": "Red",
+            "ex_max": 556,
+            "em_max": 575,
+            "ext_coeff": 20000,
+            "qy": 0.72,
+            "pka": 6.9,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 14.4
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "dendra_green",
+            "to_state": "dendra_red",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1038/nbt1191"
+}

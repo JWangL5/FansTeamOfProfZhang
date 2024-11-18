@@ -1,0 +1,48 @@
+{
+    "uuid": "OB7P5",
+    "name": "KikGR1",
+    "slug": "kikgr1",
+    "seq": "MSVITSEMKIELRMEGAVNGHKFVITGKGSGQPFEGIQNVDLTVIEGGPLPFAFDILTTAFHYGNRVFVEYPEEIVDYFKQSFPEGYSWERSMSYEDGGICLATNNITMKKDGSNCFVNEIRFDGVNFPANGPVMQRKTVKWEPSTEKMYVRDGVLKGDVNMALLLQGGGHYRCDFRTTYKAKKVVQLPDYHFVDHQMEITSHDKDYNKVKLYEHAKAHSGLPRLAK",
+    "ipg_id": "4211010",
+    "genbank": "BAD95669",
+    "uniprot": null,
+    "pdb": [
+        "4P76"
+    ],
+    "agg": "t",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "kikgr1_green",
+            "name": "Green",
+            "ex_max": 507,
+            "em_max": 517,
+            "ext_coeff": 53700,
+            "qy": 0.7,
+            "pka": 7.8,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 37.59
+        },
+        {
+            "slug": "kikgr1_red",
+            "name": "Red",
+            "ex_max": 583,
+            "em_max": 593,
+            "ext_coeff": 35100,
+            "qy": 0.65,
+            "pka": 5.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 22.82
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "kikgr1_green",
+            "to_state": "kikgr1_red",
+            "trans_wave": 365
+        }
+    ],
+    "doi": "10.1038/sj.embor.7400361"
+}

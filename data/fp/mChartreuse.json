@@ -1,0 +1,28 @@
+{
+    "uuid": "J59TV",
+    "name": "mChartreuse",
+    "slug": "mchartreuse",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGSGFKEDGNILGHKLEYNYNSHKVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mchartreuse_basic",
+            "name": "basic",
+            "ex_max": 487,
+            "em_max": 510,
+            "ext_coeff": 71000,
+            "qy": 0.75,
+            "pka": 4.9,
+            "maturation": 4.9,
+            "lifetime": null,
+            "brightness": 53.25
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1101/2024.03.28.587235"
+}

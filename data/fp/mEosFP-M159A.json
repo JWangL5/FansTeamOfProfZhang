@@ -1,0 +1,28 @@
+{
+    "uuid": "WBU2Y",
+    "name": "mEosFP-M159A",
+    "slug": "meosfp-m159a",
+    "seq": "MSAIKPDMKINLRMEGNVNGHHFVIDGDGTGKPFEGKQSMDLEVKEGGPLPFAFDILTTAFHYGNRVFVEYPDHIQDYFKQSFPKGYSWERSLTFEDGGICIARNDITMEGDTFYNKVRFHGTNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDIHAALLLEGNAHYRCDFRTTYKAKEKGVKLPGYHLVDHCIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "meosfp-m159a_green",
+            "name": "Green",
+            "ex_max": 487,
+            "em_max": 514,
+            "ext_coeff": 98600,
+            "qy": 0.52,
+            "pka": 4.3,
+            "maturation": null,
+            "lifetime": 3.2,
+            "brightness": 51.27
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1016/j.chembiol.2011.08.007"
+}

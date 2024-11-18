@@ -1,0 +1,53 @@
+{
+    "uuid": "FM4GO",
+    "name": "Padron0.9",
+    "slug": "padron09",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHPFAIEGVGLGKPFEGKQSMDLKVKEGGPLPFAYDILTMAFCYGNRVFAKYPENIVDYFKQSFPEGYSWERSMIYEDGGICNATNDITLDGDCYICEIRFDGVNFPANGPVMQKRTVKWELSTEKLYVRDGVLKSDGNYALSLEGGGHYRCDFKTTYKAKKVVQLPDYHSVDHHIEIISHDKDYSNVNLHEHAEAHSELPRQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3ZUL"
+    ],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "padron09_on",
+            "name": "On",
+            "ex_max": 505,
+            "em_max": 522,
+            "ext_coeff": 36000,
+            "qy": 0.61,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 21.96
+        },
+        {
+            "slug": "padron09_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "padron09_off",
+            "to_state": "padron09_on",
+            "trans_wave": 488
+        },
+        {
+            "from_state": "padron09_on",
+            "to_state": "padron09_off",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1074/jbc.m109.086314"
+}

@@ -1,0 +1,51 @@
+{
+    "uuid": "VPDTG",
+    "name": "Skylan-NS",
+    "slug": "skylan-ns",
+    "seq": "MSAIKPDMKIKLRMEGNVNGHHFVIDGDGTGKPFEGKQSMDLEVKEGGPLPFAFDILTTAFLYGNRVFAKYPDNIQDYFKQSFPKGYSWERSLTFEDGGICNARNDITMEGDTFYNKVRFYGTNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDVEMALLLEGNAHYRCDFRTTYKAKEKGVKLPGAHFVDHCIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "skylan-ns_on",
+            "name": "On",
+            "ex_max": 499,
+            "em_max": 511,
+            "ext_coeff": 133770,
+            "qy": 0.59,
+            "pka": 5.7,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 78.92
+        },
+        {
+            "slug": "skylan-ns_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "skylan-ns_on",
+            "to_state": "skylan-ns_off",
+            "trans_wave": 488
+        },
+        {
+            "from_state": "skylan-ns_off",
+            "to_state": "skylan-ns_on",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1073/pnas.1611038113"
+}

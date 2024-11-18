@@ -1,0 +1,46 @@
+{
+    "uuid": "7UFQR",
+    "name": "PATagRFP1314",
+    "slug": "patagrfp1314",
+    "seq": "MSELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSSTFINHTQGIPDFWKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKIRGVNFPSNGPVMKKKTLGWEPSTEMLYPADGGLEGVVNMALKLVGGGHLICNFKTTYRSKKPAKNLKMPGVYYVDRRLEQIKEADKETYWEQHEVAVARYCDLPSKLGHK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "d",
+    "switch_type": "pa",
+    "states": [
+        {
+            "slug": "patagrfp1314_on",
+            "name": "On",
+            "ex_max": 562,
+            "em_max": 596,
+            "ext_coeff": 61000,
+            "qy": 0.46,
+            "pka": null,
+            "maturation": 25.0,
+            "lifetime": null,
+            "brightness": 28.06
+        },
+        {
+            "slug": "patagrfp1314_off",
+            "name": "Off",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "patagrfp1314_off",
+            "to_state": "patagrfp1314_on",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1021/ja100906g"
+}

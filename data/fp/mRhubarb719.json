@@ -1,0 +1,28 @@
+{
+    "uuid": "TUP2T",
+    "name": "mRhubarb719",
+    "slug": "mrhubarb719",
+    "seq": "MAEGSVARQPDLLTCDDEPIHIPGAIQPHGLLLALAADMTIVAGSDNLPELTGLAIGALIGRSAADVFDSETHNRLTIALAEPGAAVGAPITVGFTMRKDAGFIGSWHRHDQLIFLELEPPQRDVAEPQAFFRHTNSAIRRLQAAETLESACAAAAQEVRKITGFDRVMIYRFASDFSGEVIAEDRCAEVESKLGLHSPASYIPAQARRLYTINPVRIIPDINYRPVPVTPDLNPVTGRPIDLSFAILRSVSPVHLEFMRNIGMHGTMSISILRGERLWGLIVCHHRTPYYVDLDGRQACELVAQVLARAIGVMEE",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mrhubarb719_pr",
+            "name": "Pr",
+            "ex_max": 700,
+            "em_max": 719,
+            "ext_coeff": 83768,
+            "qy": 0.068,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.7
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/s41598-019-52123-7"
+}

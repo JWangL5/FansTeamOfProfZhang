@@ -1,0 +1,46 @@
+{
+    "uuid": "16WGJ",
+    "name": "EosFP",
+    "slug": "eosfp",
+    "seq": "MSAIKPDMKINLRMEGNVNGHHFVIDGDGTGKPFEGKQSMDLEVKEGGPLPFAFDILTTAFHYGNRVFAEYPDHIQDYFKQSFPKGYSWERSLTFEDGGICIARNDITMEGDTFYNKVRFHGVNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDITMALLLEGNAHYRCDFRTTYKAKEKGVKLPGYHFVDHCIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": "3862138",
+    "genbank": "AAV54099",
+    "uniprot": "Q5S6Z9",
+    "pdb": [],
+    "agg": "t",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "eosfp_green",
+            "name": "Green",
+            "ex_max": 506,
+            "em_max": 516,
+            "ext_coeff": 72000,
+            "qy": 0.7,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 50.4
+        },
+        {
+            "slug": "eosfp_red",
+            "name": "Red",
+            "ex_max": 571,
+            "em_max": 581,
+            "ext_coeff": 41000,
+            "qy": 0.55,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 22.55
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "eosfp_green",
+            "to_state": "eosfp_red",
+            "trans_wave": 390
+        }
+    ],
+    "doi": "10.1073/pnas.0403668101"
+}

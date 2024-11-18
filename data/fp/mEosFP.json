@@ -1,0 +1,48 @@
+{
+    "uuid": "N8HMF",
+    "name": "mEosFP",
+    "slug": "meosfp",
+    "seq": "MSAIKPDMKINLRMEGNVNGHHFVIDGDGTGKPFEGKQSMDLEVKEGGPLPFAFDILTTAFHYGNRVFAEYPDHIQDYFKQSFPKGYSWERSLTFEDGGICIARNDITMEGDTFYNKVRFHGTNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDIHMALLLEGNAHYRCDFRTTYKAKEKGVKLPGYHFVDHCIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3P8U"
+    ],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "meosfp_green",
+            "name": "Green",
+            "ex_max": 505,
+            "em_max": 516,
+            "ext_coeff": 67200,
+            "qy": 0.64,
+            "pka": 5.3,
+            "maturation": null,
+            "lifetime": 3.5,
+            "brightness": 43.01
+        },
+        {
+            "slug": "meosfp_red",
+            "name": "Red",
+            "ex_max": 569,
+            "em_max": 581,
+            "ext_coeff": 37000,
+            "qy": 0.62,
+            "pka": 6.5,
+            "maturation": null,
+            "lifetime": 4.1,
+            "brightness": 22.94
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "meosfp_green",
+            "to_state": "meosfp_red",
+            "trans_wave": 400
+        }
+    ],
+    "doi": "10.1073/pnas.0403668101"
+}

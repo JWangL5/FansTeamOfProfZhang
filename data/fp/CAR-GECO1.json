@@ -1,0 +1,40 @@
+{
+    "uuid": "WZXU4",
+    "name": "CAR-GECO1",
+    "slug": "car-geco1",
+    "seq": "MVDSSRRKWNKAGHAVRAIGRLSSPVVSERMYPEDGALKSEIKKGLRLKDGGHYAAEVKTTYKAKKPVQLPGAYIVDIKLDIVSHNEDYTIVEQCERAEGRHSTGGMDELYKGGTGGSLVSKGVEDNMAIVKEFMRFKTHIEGSVNGHEFEIEGEGEGRPYEAFQTAKLKVTKGGPLPFAWDILSPQIMYGSKAYIKHPADIPDYFKLSFPEGFRWERVMNFEDGGIIHVNQDSSLQDGVFIYKVKLRGTNFPPDGPVMQKKTMGWEPTRDQLTEEQIAEFKEAFSLFDKDGDGTITTKELGTVMRSLGQNPTEAELQDMINEVDADGDGTFDFPEFLTMMARKMNDTDSEEEIREAFRVFDKDGNGYIGAAELRHVMTDLGEKLTDEEVDEMIRVADIDGDGQVNYEEFVQMMTAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "car-geco1_calcium-free",
+            "name": "calcium free",
+            "ex_max": 576,
+            "em_max": 629,
+            "ext_coeff": 3580,
+            "qy": 0.17,
+            "pka": 8.96,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.61
+        },
+        {
+            "slug": "car-geco1_calcium-saturated",
+            "name": "calcium saturated",
+            "ex_max": 562,
+            "em_max": 609,
+            "ext_coeff": 63900,
+            "qy": 0.26,
+            "pka": 5.29,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 16.61
+        }
+    ],
+    "transitions": [],
+    "doi": null
+}

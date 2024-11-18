@@ -1,0 +1,53 @@
+{
+    "uuid": "3FC3D",
+    "name": "rsTagRFP",
+    "slug": "rstagrfp",
+    "seq": "MVSKGEELIKENMHMKLYMEGTVNNHHFKCTSEGEGKPYEGTQTMRIKVVEGGPLPFAFDILATSFMYGSRTFINHTQGIPDFWKQSFPEGFTWERVTTYEDGGVLTATQDTSLQDGCLIYNVKLRGVNFPSNGPVMQKKTLGWEAATEMLYPADGGLEGRGDMALKLVGGGHLICNLKTTYRSKNPAKNLKMPGVYFVDHRLERIKEADKETYVEQHEVAVARYCDLPSKLGHKLN",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3U8C"
+    ],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "rstagrfp_off",
+            "name": "OFF",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": 15300,
+            "qy": 0.0013,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 0.02
+        },
+        {
+            "slug": "rstagrfp_on",
+            "name": "ON",
+            "ex_max": 567,
+            "em_max": 585,
+            "ext_coeff": 36800,
+            "qy": 0.11,
+            "pka": 6.6,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 4.05
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "rstagrfp_off",
+            "to_state": "rstagrfp_on",
+            "trans_wave": 440
+        },
+        {
+            "from_state": "rstagrfp_on",
+            "to_state": "rstagrfp_off",
+            "trans_wave": 567
+        }
+    ],
+    "doi": "10.1016/j.chembiol.2010.05.022"
+}

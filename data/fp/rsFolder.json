@@ -1,0 +1,54 @@
+{
+    "uuid": "BKD94",
+    "name": "rsFolder",
+    "slug": "rsfolder",
+    "seq": "MVSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLAYGVLCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKSNFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "5DTZ",
+        "5DU0"
+    ],
+    "agg": "m",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "rsfolder_green",
+            "name": "Green",
+            "ex_max": 477,
+            "em_max": 503,
+            "ext_coeff": 51600,
+            "qy": 0.25,
+            "pka": 5.5,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 12.9
+        },
+        {
+            "slug": "rsfolder_green-off",
+            "name": "Green (off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "rsfolder_green",
+            "to_state": "rsfolder_green-off",
+            "trans_wave": 488
+        },
+        {
+            "from_state": "rsfolder_green-off",
+            "to_state": "rsfolder_green",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1038/srep18459"
+}

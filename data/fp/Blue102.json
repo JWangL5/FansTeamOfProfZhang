@@ -1,0 +1,30 @@
+{
+    "uuid": "N8PD5",
+    "name": "Blue102",
+    "slug": "blue102",
+    "seq": "EEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFLYGSRAYVKHPADIPDYWKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEAISERMYPEDGALKGEIKQRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVNIKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3LF4"
+    ],
+    "agg": "",
+    "switch_type": "t",
+    "states": [
+        {
+            "slug": "blue102_blue-form",
+            "name": "Blue form",
+            "ex_max": 403,
+            "em_max": 454,
+            "ext_coeff": 11400,
+            "qy": 0.9,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 10.26
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/ja908418r"
+}

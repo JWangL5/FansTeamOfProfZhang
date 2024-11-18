@@ -1,0 +1,46 @@
+{
+    "uuid": "FHG23",
+    "name": "AvicFP2",
+    "slug": "avicfp2",
+    "seq": "MNCGALLFKQKIPFIVELDGDVNGQVFSVRGNGFGDGSIGKIEIKFVCTTGEIPVAWESLVCSLAYGALVFTKYPSNINDFFKSTMPKGYIQERKITFENDGQYETRAEVTYENGALYNRVKLNGSGFRKDGNILGKKLDATSLGTCIYILSNDEGNGLKGVYNMAYKVIDGNRQIVSHQQTNTPIGDGLVSIPDYHVMHNHISCSKDPTEPRDHLILKESVTAVDCQTAYM",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "avicfp2_pre-conversion",
+            "name": "pre-conversion",
+            "ex_max": 480,
+            "em_max": 515,
+            "ext_coeff": 59000,
+            "qy": 0.04,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 2.36
+        },
+        {
+            "slug": "avicfp2_post-conversion",
+            "name": "post-conversion",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": 41000,
+            "qy": 0.0,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "avicfp2_pre-conversion",
+            "to_state": "avicfp2_post-conversion",
+            "trans_wave": 480
+        }
+    ],
+    "doi": "10.1101/677344"
+}

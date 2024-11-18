@@ -1,0 +1,48 @@
+{
+    "uuid": "AQ8G3",
+    "name": "PSmOrange",
+    "slug": "psmorange",
+    "seq": "MVSKGEENNMAIIKEFMRFKVRMEGTVNGHEFEIEGEGEGRPYEGFQTAKLKVTKGGPLPFAWDILSPLFTYGSKAYVKHPADIPDYFKLSFPEGFKWERVMNYEDGGVVTVTQDSSLQDGEFIYKVKMRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEIRMRLKLKDGGHYTSEVKTTYKAKKSVQLPGAYIVGIKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": "JN376081",
+    "uniprot": null,
+    "pdb": [
+        "4Q7T"
+    ],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "psmorange_far-red",
+            "name": "Far-red",
+            "ex_max": 634,
+            "em_max": 662,
+            "ext_coeff": 32700,
+            "qy": 0.28,
+            "pka": 5.6,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 9.16
+        },
+        {
+            "slug": "psmorange_orange",
+            "name": "Orange",
+            "ex_max": 548,
+            "em_max": 565,
+            "ext_coeff": 113300,
+            "qy": 0.51,
+            "pka": 6.2,
+            "maturation": 96.0,
+            "lifetime": null,
+            "brightness": 57.78
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "psmorange_orange",
+            "to_state": "psmorange_far-red",
+            "trans_wave": 480
+        }
+    ],
+    "doi": "10.1038/nmeth.1664"
+}

@@ -1,0 +1,28 @@
+{
+    "uuid": "WH633",
+    "name": "BR1",
+    "slug": "br1",
+    "seq": "MIEKNYVITDPRLPDNPIIFASDGFLELTGYSREEILGRNARFLQGPETDQATVQKIRDAIRDQRETTVQLINYTKSGRKFWNLLHLQPVRDQKGELQYFIGVQLDGSDRV",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "br1_br1",
+            "name": "BR1",
+            "ex_max": 450,
+            "em_max": 495,
+            "ext_coeff": 12500,
+            "qy": 0.45,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.62
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1021/acs.jafc.9b05473"
+}

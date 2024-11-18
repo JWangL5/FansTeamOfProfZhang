@@ -1,0 +1,28 @@
+{
+    "uuid": "HZMZV",
+    "name": "mCherry-XL",
+    "slug": "mcherry-xl",
+    "seq": "MVSKGEEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGSEASSERMYPEDGALKGEVKYRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVNRKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "mcherry-xl_fluorescent",
+            "name": "Fluorescent",
+            "ex_max": 558,
+            "em_max": 589,
+            "ext_coeff": 72000,
+            "qy": 0.7,
+            "pka": 4.6,
+            "maturation": null,
+            "lifetime": 3.9,
+            "brightness": 50.4
+        }
+    ],
+    "transitions": [],
+    "doi": "10.26434/chemrxiv-2022-v3t03"
+}

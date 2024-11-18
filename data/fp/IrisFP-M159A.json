@@ -1,0 +1,53 @@
+{
+    "uuid": "T44HU",
+    "name": "IrisFP-M159A",
+    "slug": "irisfp-m159a",
+    "seq": "MSAIKPDMKINLRMEGNVNGHHFVIDGDGTGKPFEGKQSMDLEVKEGGPLPFAFDILTTAFHYGNRVFAEYPDHIQDYFKQSFPKGYSWERSLTFEDGGICIARNDITMEGDTFYNKVRFHGVNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDITAALLLEGNAHYRCDSRTTYKAKEKGVKLPGYHLVDHCIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4R6B"
+    ],
+    "agg": "t",
+    "switch_type": "ps",
+    "states": [
+        {
+            "slug": "irisfp-m159a_green",
+            "name": "Green",
+            "ex_max": 484,
+            "em_max": 513,
+            "ext_coeff": 62800,
+            "qy": 0.18,
+            "pka": 4.7,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 11.3
+        },
+        {
+            "slug": "irisfp-m159a_green-off",
+            "name": "Green (off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "irisfp-m159a_green",
+            "to_state": "irisfp-m159a_green-off",
+            "trans_wave": 488
+        },
+        {
+            "from_state": "irisfp-m159a_green-off",
+            "to_state": "irisfp-m159a_green",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1088/2050-6120/3/1/014004"
+}

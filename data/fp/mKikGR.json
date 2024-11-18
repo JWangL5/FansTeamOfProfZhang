@@ -1,0 +1,46 @@
+{
+    "uuid": "RHTPG",
+    "name": "mKikGR",
+    "slug": "mkikgr",
+    "seq": "MSVITSEMKIELRMEGSVNGHKFVITGKGSGRPYEGTQTVDLTVIEGGPLPFAFDILTTAFHYGNRVFVEYPEEIVDYFKQSFPEGYSWERSMSYEDGGICLATNNITMKKDGSNTFVNEIRFDGTNFPANGPVMQRKTVKWEPSTEKMYVRDGVLKGDVEMALLLEGGGHYRCDFRTTYKAKKVVQLPDYHYVDHQMEITSHDKDYNKVKAYEHAKAYSGTYRGAKYEFEA",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "mkikgr_red",
+            "name": "Red",
+            "ex_max": 580,
+            "em_max": 591,
+            "ext_coeff": 28000,
+            "qy": 0.63,
+            "pka": 5.2,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 17.64
+        },
+        {
+            "slug": "mkikgr_green",
+            "name": "Green",
+            "ex_max": 505,
+            "em_max": 515,
+            "ext_coeff": 49000,
+            "qy": 0.69,
+            "pka": 6.6,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 33.81
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "mkikgr_green",
+            "to_state": "mkikgr_red",
+            "trans_wave": 390
+        }
+    ],
+    "doi": "10.1371/journal.pone.0003944"
+}

@@ -1,0 +1,40 @@
+{
+    "uuid": "SJT6S",
+    "name": "pHluorin2",
+    "slug": "phluorin2",
+    "seq": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKDDGNILGHKLEYNYNEHLVYIMADKQKNGIKVIFQVHHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLHTQSALSKDPNEKRDHMVFLEFVTAAGITHGMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "",
+    "switch_type": "o",
+    "states": [
+        {
+            "slug": "phluorin2_acidic",
+            "name": "acidic",
+            "ex_max": 475,
+            "em_max": 509,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "phluorin2_alkaline",
+            "name": "alkaline",
+            "ex_max": 395,
+            "em_max": 509,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.4236/abb.2011.23021"
+}

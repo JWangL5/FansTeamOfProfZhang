@@ -1,0 +1,48 @@
+{
+    "uuid": "OTXRQ",
+    "name": "mEos2",
+    "slug": "meos2",
+    "seq": "MSAIKPDMKIKLRMEGNVNGHHFVIDGDGTGKPFEGKQSMDLEVKEGGPLPFAFDILTTAFHYGNRVFAKYPDNIQDYFKQSFPKGYSWERSLTFEDGGICIARNDITMEGDTFYNKVRFYGTNFPANGPVMQKKTLKWEPSTEKMYVRDGVLTGDIHMALLLEGNAHYRCDFRTTYKAKEKGVKLPGYHFVDHCIEILSHDKDYNKVKLYEHAVAHSGLPDNARR",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "3S05"
+    ],
+    "agg": "wd",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "meos2_red",
+            "name": "Red",
+            "ex_max": 573,
+            "em_max": 584,
+            "ext_coeff": 46000,
+            "qy": 0.66,
+            "pka": 6.4,
+            "maturation": null,
+            "lifetime": 4.1,
+            "brightness": 30.36
+        },
+        {
+            "slug": "meos2_green",
+            "name": "Green",
+            "ex_max": 506,
+            "em_max": 519,
+            "ext_coeff": 56000,
+            "qy": 0.84,
+            "pka": 5.6,
+            "maturation": null,
+            "lifetime": 3.5,
+            "brightness": 47.04
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "meos2_green",
+            "to_state": "meos2_red",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1038/nmeth.1296"
+}

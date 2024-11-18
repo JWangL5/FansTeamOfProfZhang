@@ -1,0 +1,46 @@
+{
+    "uuid": "LY1S9",
+    "name": "moxMaple3",
+    "slug": "moxmaple3",
+    "seq": "MVSKGEETIMSVIKPDMKIKLRMEGNVNGHAFVIEGEGSGKPFEGIQTIDLEVKEGAPLPFAYDILTTAFHYGNRVFTKYPRKIPDYFKQSFPEGYSWERSMTYEDGGIVQATNDITMEEDSFINKIHFKGTNFPPNGPVMQKRTVGWEVSTEKMYVRDGVLKGDVKMKLLLKGGSHYRADFRTTYKVKQKAVKLPKAHFVDHRIEILSHDKDYNKVKLYEHAVARDSTDSMDELYK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "moxmaple3_green",
+            "name": "Green",
+            "ex_max": 490,
+            "em_max": 506,
+            "ext_coeff": 14800,
+            "qy": 0.37,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.48
+        },
+        {
+            "slug": "moxmaple3_red",
+            "name": "Red",
+            "ex_max": 569,
+            "em_max": 584,
+            "ext_coeff": 24230,
+            "qy": 0.52,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 12.6
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "moxmaple3_green",
+            "to_state": "moxmaple3_red",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1038/s41598-018-32955-5"
+}

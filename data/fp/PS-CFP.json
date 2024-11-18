@@ -1,0 +1,46 @@
+{
+    "uuid": "6O8HW",
+    "name": "PS-CFP",
+    "slug": "ps-cfp",
+    "seq": "MSKGAELFTGIVPILIELNGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVATLSYGVQCFSRYPDHMKQHDFFKSAMPEGYIQERTIFFEDDGNYKSRAEVKFEGDTLVSRIELTGTDFKEDGNILGNKMEYNYNATNVYIMTDKARNGIKVNFKVRHNIKDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMIYLEFVTAAAITHGMDELYKWKLN",
+    "ipg_id": null,
+    "genbank": "AAT01543",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "pc",
+    "states": [
+        {
+            "slug": "ps-cfp_cyan",
+            "name": "Cyan",
+            "ex_max": 402,
+            "em_max": 468,
+            "ext_coeff": 34000,
+            "qy": 0.16,
+            "pka": 4.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.44
+        },
+        {
+            "slug": "ps-cfp_green",
+            "name": "Green",
+            "ex_max": 490,
+            "em_max": 511,
+            "ext_coeff": 27000,
+            "qy": 0.19,
+            "pka": 6.0,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 5.13
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "ps-cfp_cyan",
+            "to_state": "ps-cfp_green",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1038/nbt1025"
+}

@@ -1,0 +1,40 @@
+{
+    "uuid": "5ELUZ",
+    "name": "K-GECO1",
+    "slug": "k-geco1",
+    "seq": null,
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": null,
+    "agg": "",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "k-geco1_calcium-free",
+            "name": "calcium free",
+            "ex_max": 572,
+            "em_max": 597,
+            "ext_coeff": 18750,
+            "qy": 0.19,
+            "pka": 6.71,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 3.56
+        },
+        {
+            "slug": "k-geco1_calcium-saturated",
+            "name": "calcium saturated",
+            "ex_max": 569,
+            "em_max": 593,
+            "ext_coeff": 62700,
+            "qy": 0.48,
+            "pka": 6.34,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": 30.1
+        }
+    ],
+    "transitions": [],
+    "doi": null
+}

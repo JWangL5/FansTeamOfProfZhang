@@ -1,0 +1,28 @@
+{
+    "uuid": "A8RF9",
+    "name": "CyRFP1",
+    "slug": "cyrfp1",
+    "seq": "MVSKGEELIKENMRSKLYLEGSVNGHQFKCTHEGEGKPYEGKQTNRIKVVEGGPLPFAFDILATMFMYGSKVFIKYPADLPDYFKQSFPEGFTWERVMVFEDGGVLTATQDTSLQDGELIYNVKLRGVNFPANGPVMQKKTLGWEPSTETMYPADGGLEGRCDKALKLVGGGHLHVNFKTTYKSKKPVKMPGVHYVDRRLERIKEADNETYVEQYEHAVARYSNLGGGMDELYK",
+    "ipg_id": null,
+    "genbank": "AOY07766",
+    "uniprot": null,
+    "pdb": [],
+    "agg": "wd",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "cyrfp1_cyrfp1",
+            "name": "CyRFP1",
+            "ex_max": 529,
+            "em_max": 588,
+            "ext_coeff": 48000,
+            "qy": 0.76,
+            "pka": null,
+            "maturation": 12.0,
+            "lifetime": null,
+            "brightness": 36.48
+        }
+    ],
+    "transitions": [],
+    "doi": "10.1038/nmeth.4046"
+}

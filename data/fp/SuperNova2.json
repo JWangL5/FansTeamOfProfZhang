@@ -1,0 +1,28 @@
+{
+    "uuid": "NRHQ2",
+    "name": "SuperNova2",
+    "slug": "supernova2",
+    "seq": "MGSEVGPALFQRDMTFKIFIDGEVNGQKFTIVADGSSKFPHGDFNVHAVCETGKLPMSWKPICHLIQYGEPFFARYPDGISHFAQECFPEGLSIDRTVRFENDGTMTSHHTYELDDTCVVSRITVNCDGFQPDGPIMRDQLVDILPSETHMFPHGPNAVRQTATIGFTTADGGKMMGHFDSKMTFNGSRAIEIPGPHFVTIITKQTRDTSDKRDHVCQREVAYAHSVPRITSAIGSDED",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [],
+    "agg": "m",
+    "switch_type": "b",
+    "states": [
+        {
+            "slug": "supernova2_supernova2",
+            "name": "SuperNova2",
+            "ex_max": 579,
+            "em_max": 610,
+            "ext_coeff": 45,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        }
+    ],
+    "transitions": [],
+    "doi": "10.3390/ijms21228800"
+}

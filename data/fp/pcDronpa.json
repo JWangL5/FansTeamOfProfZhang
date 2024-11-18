@@ -1,0 +1,72 @@
+{
+    "uuid": "WV3Q7",
+    "name": "pcDronpa",
+    "slug": "pcdronpa",
+    "seq": "MSVIKPDMKIKLRMEGAVNGHPFAIEGVGLGKPFEGKQSMDLKVKEGGPLPFAYDILTTAFHYGNRVFAKYPENIVDYFKQSFPEGYSWERSMSYEDGGICIATNDITLDGDCYIYEIRFDGVNFPANGPVMQKRTVKWEPSTEKLYVRDGVLKGDVNMALSLEGGGHYRCDFKTTYKAKKVVQLPDYHFVDHHIEIKSHDKDYSNVNLHEHAEAHSGLPRQAK",
+    "ipg_id": null,
+    "genbank": null,
+    "uniprot": null,
+    "pdb": [
+        "4HQ8",
+        "4HQ9",
+        "4HQC"
+    ],
+    "agg": "t",
+    "switch_type": "mp",
+    "states": [
+        {
+            "slug": "pcdronpa_green-off",
+            "name": "Green (Off)",
+            "ex_max": null,
+            "em_max": null,
+            "ext_coeff": null,
+            "qy": null,
+            "pka": null,
+            "maturation": null,
+            "lifetime": null,
+            "brightness": null
+        },
+        {
+            "slug": "pcdronpa_red",
+            "name": "Red",
+            "ex_max": 569,
+            "em_max": 581,
+            "ext_coeff": 75000,
+            "qy": 0.68,
+            "pka": 6.3,
+            "maturation": null,
+            "lifetime": 3.9,
+            "brightness": 51.0
+        },
+        {
+            "slug": "pcdronpa_green",
+            "name": "Green",
+            "ex_max": 505,
+            "em_max": 517,
+            "ext_coeff": 115000,
+            "qy": 0.85,
+            "pka": 5.5,
+            "maturation": null,
+            "lifetime": 3.2,
+            "brightness": 97.75
+        }
+    ],
+    "transitions": [
+        {
+            "from_state": "pcdronpa_green-off",
+            "to_state": "pcdronpa_green",
+            "trans_wave": 405
+        },
+        {
+            "from_state": "pcdronpa_green",
+            "to_state": "pcdronpa_green-off",
+            "trans_wave": 488
+        },
+        {
+            "from_state": "pcdronpa_green",
+            "to_state": "pcdronpa_red",
+            "trans_wave": 405
+        }
+    ],
+    "doi": "10.1021/nn4060144"
+}
