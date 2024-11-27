@@ -17,7 +17,7 @@ def get_spectra(fpname, download=True, log='./log/spectra_download.txt'):
         return None
     if download:
         with open(f"./data/spectrum/{fpname_}.json", "w") as f:
-            json.dumps(fp, f, indent=2)
+            json.dump(fp, f, indent=4)
     return fp
 
 
@@ -29,6 +29,5 @@ def generate_matrix_from_spectra(spfile):
 
 if __name__=="__main__":
     fasta = load_fasta('./data/fpseq.fasta')
-    name = list(fasta.keys())
-    for i in tqdm(name[45:]):
-        get_spectra(i)
+    for name, seq in tqdm(fasta.items()):
+        get_spectra(name)
