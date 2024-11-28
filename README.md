@@ -77,8 +77,10 @@ SuperfolderGFP
 
 目前整合得到的数据如下：
 
-｜ FileName ｜ Content ｜
-｜./data/combined_data.json ｜ 包含单状态光谱信息的全部蛋白 ｜
+| FileName | Content |
+| --- | --- |
+| `./data/combined_basic.json` | 包含802个有序列信息的荧光蛋白基本性质 |
+| `./data/combined_data.json` | 包含343个单状态荧光蛋白的光谱信息 |
 
 使用如下命令载入数据
 
