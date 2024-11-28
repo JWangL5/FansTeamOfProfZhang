@@ -72,3 +72,17 @@ SuperfolderGFP
 ## download spectrum
 
 在数据库中，共包含436个荧光蛋白含有光谱信息，其中有361个蛋白是单独状态的稳定蛋白，其数据已经整理到`./data/spectrum_extracred.json`文件中，其可以使用`pandas`读取
+
+## 数据整合
+
+目前整合得到的数据如下：
+
+｜ FileName ｜ Content ｜
+｜./data/combined_data.json ｜ 包含单状态光谱信息的全部蛋白 ｜
+
+使用如下命令载入数据
+
+```python
+import pandas as pd
+data = pd.read_json("./data/combined_data.json", orient="records", lines=True)
+```
