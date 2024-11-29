@@ -88,7 +88,7 @@ SuperfolderGFP
 import pandas as pd
 data = pd.read_json("./data/combined_data.json", orient="records", lines=True)
 
-**code_explaination**
+```**code_explaination**
 1.data_loader.py: Converts the JSON file to CSV, filling missing data with median values.
 Output: (1) protein_features_filled.csv (2) protein_sequences.csv
 2.sequence_embedding.py: Embeds protein sequences using the lightweight ESM2 model into 1280-dimensional tensors. However, the dimensions were too large, so I applied average pooling to reduce them to 33 dimensions. (This results in 802 proteins with 33 features each.)
